@@ -8,7 +8,7 @@ Two of the thirteen categories into which Scrum Certification exam questions are
 - Scrum Teams
 - Self-Managing Teams
 
-Pay close attention to how Scrum Teams are structured, the role self-management and self-organization have, and avoid clouding the simple approach Scrum takes to team dynamics with what you may have learned in environments where Scrum may not have been applied properly.
+Pay close attention to how Scrum Teams are structured, the role self-management and self-organization has, and avoid clouding the simple approach Scrum takes to team dynamics with what you may have learned in environments where Scrum may not have been applied properly.
 
 === Composition of a Scrum Team
 
