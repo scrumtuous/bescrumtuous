@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "874 - What is the timebox for the Sprint Plann"
+title: "874 - What is the time-box for the Sprint Plann"
 id: 874-63effd949ebbe935e4c16b07.
 ---
 
@@ -12,9 +12,9 @@ id: 874-63effd949ebbe935e4c16b07.
 
 [#query]
 --
-The Sprint Planning meeting is one of Scrum's timeboxed events.
+The Sprint Planning meeting is one of Scrum's time-boxed events.
 
-What is the timebox for the Sprint Planning meeting?
+What is the time-box for the Sprint Planning meeting?
 --
 
 [#list]
@@ -32,7 +32,7 @@ D
 
 [#explanation]
 --
-According to the Scrum Guide, "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+According to the Scrum Guide, "Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 --
 
 [#ka]
