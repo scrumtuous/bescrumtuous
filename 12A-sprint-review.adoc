@@ -28,7 +28,7 @@ The purpose of the Sprint Review is pretty self-explanatory. It's for everyone t
 
 Everyone gets to speak at the Sprint Review. Developers can speak to stakeholders, stakeholders can speak to the Scrum Master, and the Product Owner can speak to developers.
 
-There are no restrictions in the Scrum Guide about developers ever talking to stakeholders, the Scrum Master talking to stakeholders, or the Product Owner talking to stakehoders.
+There are no restrictions in the Scrum Guide about developers ever talking to stakeholders, the Scrum Master talking to stakeholders, or the Product Owner talking to stakeholders.
 
 The Sprint Review intentionally and concertedly brings everyone together once per Sprint, but there's no rule that says developers can't talk to stakeholders about development when they pass each other in the hallways at work.
  
