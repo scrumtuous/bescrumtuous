@@ -27,15 +27,15 @@ According to the Scrum Guide, which of the following is true about the Increment
 ****
 
 [#answer]
-ADE
+A,D,E
 
 [#explanation]
 --
-An increment must be usable and and multiple increments can be created per Sprint, which makes those two options wrong.
+An increment must be usable and multiple increments can be created per Sprint, which makes those two options wrong.
 
 The correct options come directly out of the Scrum Guide's definition of a Sprint:
 
-"An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable."
+"An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. To provide value, the Increment must be usable."
 --
 
 [#ka]
