@@ -18,6 +18,7 @@ The Sprint Review exists to make sure stakeholders get at least one chance to in
 [quote, 2020 Scrum Guide page 9]
 ____
 The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. 
+
 The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
 ____
 
@@ -29,7 +30,7 @@ Everyone gets to speak at the Sprint Review. Developers can speak to stakeholder
 
 There are no restrictions in the Scrum Guide about developers ever talking to stakeholders, the Scrum Master talking to stakeholders, or the Product Owner talking to stakehoders.
 
-The Spring Review intentionally and concertedly brings everyone together once per Sprint, but there's no rule that says developers can't talk to stakeholders about development when they pass each other in the hallways at work.
+The Sprint Review intentionally and concertedly brings everyone together once per Sprint, but there's no rule that says developers can't talk to stakeholders about development when they pass each other in the hallways at work.
  
 The more openness and transparency the better, as far as Scrum is concerned.
 
@@ -67,7 +68,7 @@ ____
 
 The term *what was accomplished* is somewhat vague.
 
-We discover in the Scrum Guide's section on artifacts that only completed Increments, that is work items that have met the Definition of Done, are to be presented at the Spring Review.
+We discover in the Scrum Guide's section on artifacts that only completed Increments, that is work items that have met the Definition of Done, are to be presented at the Sprint Review.
 
 [quote, 2020 Scrum Guide page 12]
 ____
@@ -76,7 +77,7 @@ Multiple Increments may be created within a Sprint. The sum of the Increments is
 Work cannot be considered part of an Increment unless it meets the Definition of Done.
 ____
 
-Any work that is partially done is not to be presented at the Sprint Review. Only Increments, or the sum of all the Increments created during the Sprint, are to be discussed at the Sprint Review.
+Any work that is partially done is not to be presented. Only Increments, or the sum of all the Increments created during the Sprint, are to be discussed at the Sprint Review.
 
 === A Discussion on What to do Next
 
@@ -90,7 +91,7 @@ ____
 
 The Sprint Review gives everyone on the team and the stakeholders a chance to talk about what they like, what they don't like, and what they think should change in terms of how the product is being developed.
 
-If the stakeholders think some features don't work and should be removed, the Product Owner may remove those features from the Product Backlog. If there are features the stakeholders decide they want, then the Product Owner can either add them to the Product Backlog or prioritize them if they already exist.
+If the stakeholders don't like the direction development is taking and want some proposed features removed, the Product Owner may remove those features from the Product Backlog. If there are features the stakeholders decide they want, then the Product Owner can either add them to the Product Backlog or prioritize them if they already exist.
 
 The Sprint Review helps create transparency, is an opportunity for inspection, and allows for adaptation.
 
@@ -101,9 +102,9 @@ ____
 The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
 ____
 
-The Scrum Master Certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a demo or deliver a presentation. Don't fall for that.
+The Scrum Master Certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a _demo_ or deliver a _presentation._ Don't fall for that bait. The Sprint Review is much more than just a presentation to stakeholders.
 
-The purpose of the Sprint Review is to inspect the work that was performed during the Sprint and adapt according to feedback received from the stakeholders. At the end of a Sprint Review, the stakeholders should know what was done during the previous Sprint, and the Scrum Team should have a better idea of what they should be working on next.
+The purpose of the Sprint Review is to inspect the work that was performed during the Sprint and adapt according to feedback received from the stakeholders. At the end of a Sprint Review, the stakeholders should know what was done during the Sprint, and the Scrum Team should have a better idea of what they should be working on next.
 
 [quote, 2020 Scrum Guide page 9]
 ____
@@ -115,6 +116,7 @@ ____
 
 You are guaranteed to get questions about the timebox length of every event. Remember that the Sprint Review is time-boxed to a maximum of 4 hours.
 
+==== Test Yourself
 
 ****
 Which of the following Scrum events are time-boxed to 4 hours?
@@ -127,7 +129,7 @@ Which of the following Scrum events are time-boxed to 4 hours?
 
 ****
 
-Both the Sprint Review is time-boxed to 4 hours. 
+The Sprint Review is time-boxed to 4 hours. 
 
 The Sprint Retrospective is 3 hours. 
 
