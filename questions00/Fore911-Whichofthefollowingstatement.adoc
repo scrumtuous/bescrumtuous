@@ -32,9 +32,9 @@ B
 --
 Only the Product Owner can cancel a Sprint. 
 
-Neither the Scrum Master or Product Owner has the authority to cancel a project.
+Neither the Scrum Master nor Product Owner has the authority to cancel a project.
 
-"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint."
+"A Sprint could be canceled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint."
 --
 
 [#ka]
