@@ -30,21 +30,21 @@ A
 
 [#explanation]
 --
-The original Scrum Team might experience a period of reduced productivity as the teams become accustom to working together, but over the medium term the collective productivity of all the teams should increase.
+The original Scrum Team might experience a period of reduced productivity as the teams become accustomed to working together, but over the medium term, the collective productivity of all the teams should increase.
 
 There are several potential reasons why the productivity of a Scrum team might decrease when new members are added:
 
-Forming and Storming: When new members are added to a Scrum team, the team must go through the "forming" and "storming" stages of group development, where they are getting to know each other and figuring out how to work together effectively. This process can take time and can be disruptive to the team's productivity.
+Forming and Storming: When new members are added to a Scrum team, the team must go through the "forming" and "storming" stages of group development, where they get to know each other and figure out how to work together effectively. This process can take time and can be disruptive to the team's productivity.
 
 Communication: Effective communication is essential for a successful Scrum team. When new members are added, the team's communication channels can become disrupted, leading to misunderstandings, delays, and other issues that can impact productivity.
 
-Skill levels: New team members may not have the same level of skill and experience as existing team members, which can lead to imbalances in workload and delays as new members get up to speed. In some cases, existing team members may need to spend time coaching and training new members, taking away from their own productivity.
+Skill levels: New team members may not have the same level of skill and experience as existing team members, which can lead to imbalances in workload and delays as new members get up to speed. In some cases, existing team members may need to spend time coaching and training new members, taking away from their productivity.
 
 Disruption to processes: Introducing new team members can also disrupt established processes and ways of working, which can lead to confusion and delays.
 
 Team dynamics: Finally, adding new members can disrupt team dynamics and the relationships between team members, leading to potential conflicts and interpersonal issues that can negatively impact productivity.
 
-To mitigate these issues, it's important to onboard new team members effectively, including providing adequate training and support, and to communicate clearly with the team about the changes and the expectations for the team going forward. It's also important to ensure that new team members are a good fit for the team culture and to actively work to manage team dynamics during the transition period.
+To mitigate these issues, it's important to onboard new team members effectively, including providing adequate training and support and communicating clearly with the team about the changes and the expectations for the team going forward. It's also important to ensure that new team members are a good fit for the team culture and to actively work to manage team dynamics during the transition period.
 --
 
 [#ka]
