@@ -27,7 +27,7 @@ According to the Scrum Guide, which of the following is true about the Increment
 ****
 
 [#answer]
-ADE
+A,D,E
 
 [#explanation]
 --
