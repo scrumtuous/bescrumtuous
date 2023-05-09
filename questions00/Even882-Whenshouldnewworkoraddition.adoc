@@ -20,7 +20,7 @@ When should new work or additional information about work be added to the Sprint
 * [*] A. New insight about the Sprint Plan should be added to the Sprint Backlog immediately.
 * [ ] B. When the Product Owner agrees that the information should be added to the Sprint Backlog
 * [ ] C. Sprint Backlog items can only be added during Sprint Planning.
-* [ ] D. During the Daily Scrum upon approval from the team lead
+* [ ] D. During the Daily Scrum on approval from the team lead
 
 --
 ****
