@@ -18,14 +18,14 @@ What should the Scrum Team do with a Product Backlog item that was added to the 
 --
 * [ ] A. The Product Owner can release it with the permission of the stakeholders.
 * [*] B. Return it to the Product Backlog and let the Product Owner reprioritize it.
-* [ ] C. Award partial points for the work done so velocity is recorded and return it what remains to the Product Backlog.
+* [ ] C. Award partial points for the work done so velocity is recorded and return what remains to the Product Backlog.
 * [*] D. Do not present the progress made on the incomplete item to the Stakeholders or customers
 
 --
 ****
 
 [#answer]
-BD
+B,D
 
 [#explanation]
 --
