@@ -30,13 +30,13 @@ A
 
 [#explanation]
 --
-The increments from multiple Scrum Teams working on the same product should be integrated together continuously. If they are not integrated continuously, at the very least, they need to be integrated together before the Sprint Review. 
+The increments from multiple Scrum Teams working on the same product should be integrated continuously. If they are not integrated continuously, at the very least, they need to be integrated before the Sprint Review. 
 
 If code changes are not integrated, how does anyone know that the changes and updates they made even work?
 
-Multiple Scrum teams working on the same project should continuously integrate their increments of work together for several reasons:
+Multiple Scrum teams working on the same project should continuously integrate their increments of work for several reasons:
 
-Ensure overall project coherence: By integrating their work regularly, the teams can ensure that their individual contributions are compatible and consistent with the larger project goals. This helps to avoid potential conflicts, misalignments or integration issues that might arise when each team works in isolation.
+Ensure overall project coherence: By integrating their work regularly, the teams can ensure that their contributions are compatible and consistent with the larger project goals. This helps to avoid potential conflicts, misalignments, or integration issues that might arise when each team works in isolation.
 
 Early detection of integration issues: Continuous integration enables early detection and resolution of integration issues. This approach promotes collaboration and feedback among the teams, allowing them to identify and address integration issues quickly before they become larger problems.
 
