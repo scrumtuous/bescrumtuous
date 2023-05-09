@@ -183,7 +183,7 @@ The Scrum Guide states quite emphatically that product-based decisions are not t
 
 The job of the product owner cannot be shared amongst multiple individuals. There can't be two co-Product Owners on a team.
 
-As the Scrum Guide stated earlier, the Product Owner can delegate some of the Product Backlog management work to a cohort, but in the end, all of the accountabilities associated with being a Product Owner will fall on the shoulders of only one person: The Product Owner.
+As the Scrum Guide stated earlier, the Product Owner can delegate some of the Product Backlog management work to a cohort, but in the end, all of the accountabilities associated with being a Product Owner fall on the shoulders of only one person: The Product Owner.
 
 [quote, 2020 Scrum Guide page 6]
 ____
