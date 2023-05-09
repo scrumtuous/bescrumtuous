@@ -263,7 +263,6 @@ Cumulative flow charts are useful because they help teams identify bottlenecks i
 
 === Scrum Can't Predict the Future
 
-
 Managers and team leaders always want metrics that will help predict when a given project will be finished, or when a product will hit a given milestone. Scrum is quick to downplay the various charting techniques Agile teams frequently use to predict the future.
 
 The Scrum Guide emphasizes that there are limits to the accuracy of charts and metrics, and there is no replacement for empiricism.
@@ -281,7 +280,7 @@ ____
 
 === The Importance of Empiricism
 
-Empiricism insists that experience and evidence should form the basis for belief and knowledge, not just graphs and metrics.
+Empiricism insists that experience and evidence should form the basis of belief and knowledge, not just graphs and metrics.
 
 For example, a chart might say a team is completing 20 backlog items a week. Does that mean you'll complete 20 backlog items next week?
 
@@ -289,9 +288,11 @@ You might _empirically_ know that two developers will be on vacation next week, 
 
 Maybe World Cup starts next week and your entire offshore team is in Brazil?
 
-The trend on the chart may indicate that the team will complete 20 backlog items next week, by you empirically know that sickness or vacation or the start of the World Cup will likely cut that productivity number in half.
+The trend on the chart may indicate that the team will complete 20 backlog items next week, by you empirically know that sickness or vacation or the start of the World Cup will likely decimate that number.
 
 That's an example of empirical knowledge being a much better and a much more informed indicator of future performance than a burn-down chart.
+
+NOTE: The term 'decimate' means to 'reduce by 10%'. People that use the term to indicate complete annhilation are using it wrong.
 
 
 === Who Can Cancel a Sprint?
@@ -306,7 +307,7 @@ A Sprint could be canceled if the Sprint Goal becomes obsolete.
 Only the Product Owner has the authority to cancel the Sprint.
 ____
 
-These two points surprise people for the following three reasons.
+These two points surprise people for the following three reasons:
 
 1. It is indeed possible for an active Sprint to be canceled
 2. The only reason to cancel a Sprint is if the Sprint Goal becomes obsolete
@@ -314,7 +315,7 @@ These two points surprise people for the following three reasons.
 
 Just by the authoritative nature of the name, people think a Scrum Master would have the authority to cancel a Sprint. 
 
-Scrum Masters don't. 
+Scrum Masters don't. Scrum Masters don't really have much authority in Scrum.
 
 A Scrum Master can't cancel a Sprint. Only the Product Owner can.
 
@@ -322,12 +323,13 @@ And there is only one reason why a Sprint can be canceled: the Sprint Goal has b
 
 That means none of the following reasons are justifications to cancel the Sprint:
 
-- The lead developer quit
+- The development team needs more time to finish their work
+- The lead developer quit and change the GitHub password
 - The building flooded and there's no power
 - The Scrum Master has gone on vacation
 - The CEO wants a different feature developed
 
-There are plenty of reasons why someone in the organization might want to cancel the Sprint, but the only reason a Sprint can be canceled is if the Sprint Goal has become obsolete, and the only person allowed to make that call is the Product Owner.
+There are plenty of reasons why someone in the organization might want to cancel a Sprint, but the only reason a Sprint can be canceled is if the Sprint Goal has become obsolete, and the only person allowed to make that call is the Product Owner.
 
 
 === What isn't said about the Sprint
@@ -336,7 +338,7 @@ People want the Scrum Guide to answer all of their questions about how to run a 
 
 Scrum provides a set of basic rules written out in a guide that's less than 4000 words long. I wrote college papers longer than that.
 
-If Scrum doesn't provide a rule or guideline around something, then it's up to the group of self-managing, self-organized, highly motivated professionals on that team to figure it out on their own. 
+If Scrum doesn't provide a rule or guideline around something, then it's up to the group of self-managing, self-organized, highly motivated professionals on the Scrum Team to figure it out on their own. 
 
 
 === When to Start the Sprint?
@@ -350,13 +352,13 @@ For example, say a product has two Scrum Teams working on it, which happens quit
 - Should those two teams have Sprints of equal length?
 - Should those two teams have the same Scrum Master?
 
-On the surface, all three of those assertions seem reasonable. It seems like a nice way to keep the two Scrum Teams in sync.
+On the surface, all of those assertions seem reasonable. It seems like a nice way to keep the two Scrum Teams in sync.
 
 At the same time, that approach might create chaos. Imagine stakeholders having to go to two Sprint Reviews on the same day. That might be too much for them. 
 
 Or maybe two teams who finish their Sprints on the same day would end up pushing their releases into production on the same day, which might cause panic for system administrators?
 
-So maybe it'd be better to stagger the Sprints? Have one team start a 4 weeks Sprint on the first of the month, and have the other start the Sprint in the middle of the month?
+So maybe it'd be better to stagger the Sprints? Have one team start a 4 week Sprint on the first of the month, and have the other start the Sprint in the middle of the month?
 
 === No Rule Means No Rule
 
