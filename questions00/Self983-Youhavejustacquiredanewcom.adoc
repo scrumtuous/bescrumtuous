@@ -17,7 +17,7 @@ You have just acquired a new company, and two of their Scrum teams will be added
 
 [#list]
 --
-* [ ] A. Have the Scrum Master create three new teams with an equal combination of experience, seniority and technical skill.
+* [ ] A. Have the Scrum Master create three new teams with an equal combination of experience, seniority, and technical skill.
 * [ ] B. Keep the teams in their initial state and allow them to self-organize when the project is complete.
 * [ ] C. Introduce the teams to each other and have them self-organize into teams of equal size.
 * [*] D. Keep the initial structure and layout of the teams, and allow them to self-organize over time.
