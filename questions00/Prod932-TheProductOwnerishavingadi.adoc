@@ -12,7 +12,7 @@ id: 932-63effd9b9ebbe935e4c16b08.
 
 [#query]
 --
-The Product Owner is having a difficult time estimating how long it will take to implement various Product Backlog items, and comes to the the Scrum Master for some guidelines on how best to do estimates.
+The Product Owner is having a difficult time estimating how long it will take to implement various Product Backlog items and comes to the Scrum Master for some guidelines on how best to do estimates.
 
 What advice or guidance would you, as a Scrum Master, provide?
 --
@@ -23,7 +23,7 @@ What advice or guidance would you, as a Scrum Master, provide?
 * [ ] B. Scrum frowns upon giving hard estimates for completing Product Backlog Items.
 * [ ] C. Estimates are allowed to have a large margin of error.
 * [*] D. Estimates should be done by the Development Team, not the Product Owner.
-* [ ] E. The Product Owner has to make estimated independently from the developers or Scrum Master.
+* [ ] E. The Product Owner has to make estimates independently from the developers or Scrum Master.
 
 --
 ****
@@ -35,7 +35,7 @@ D
 --
 Option D is correct.
 
-In Scrum, the people who do the work do the estimates of how long it will take to complete the work.
+In Scrum, the people who do the work estimate how long it will take to complete the work.
 
 The developers estimate the work, not the Product Owner.
 --
