@@ -24,7 +24,7 @@ ____
 
 Sometimes the Scrum Certification exam will ask you when it's possible to change the length of a Sprint.
 
-The temptation is to say 'during Sprint planning,' but Sprint planning happens during the Sprint, so if you were to change the duration of the Sprint during Sprint Planning, it would be the length of the next Sprint you'd be changing, not the current one.
+The temptation is to say 'during Sprint planning,' but Sprint planning happens during the Sprint, so if you were to change the duration of the Sprint during Sprint Planning, it would be the length of the _next_ Sprint you'd be changing, not the current one.
 
 Discussions about the length of the Sprint and whether the Sprint should be shortened or extended are best to take place during the Sprint Retrospective. That way if you do decide to change the Sprint length, the change can apply to the Sprint that starts after the current Retrospective finishes.
 
@@ -56,6 +56,18 @@ We've already discussed how the next Sprint starts immediately after the current
 
 The Scrum Guide re-states this point again here, which is a good clue for you to pay attention to it. You'll be tested on this fact several times on the exam.
 
+On page 10 of the Scrum Guide, more clarification is given about exactly when the Sprint ends:
+
+[quote, 2020 Scrum Guide page 10]
+____
+
+The Sprint Retrospective concludes the Sprint.
+____
+
+This means there are technically two correct answers when asked when a new Sprint begins:
+
+1. A new Sprint begins as soon as the previous Sprint finises.
+2. A new Sprint begins when the Sprint Retrospective ends, since the Sprint Retrospective concludes the Sprint.
 
 
 ==== Test Yourself
@@ -123,12 +135,12 @@ The Scrum Guide doesn't have many hard and fast rules, but those are two of them
 
 During development, the Scrum Team has found a selected Product Backlog item is much more complex than initially anticipated.
 
-The developers believe this PBI should be broken into multiple Product Backlog Items that should be scheduled across multiple Sprints.
+The developers believe this PBI should be broken into multiple Product Backlog items that should be scheduled across multiple Sprints.
 What should you as the Scrum Master do?
+(Choose 1)
 
 * [ ] Have the Scrum Developers clarify the requirements and renegotiate the scope of the Product Backlog items with the PO
 * [ ] Expand the length of the Sprint so the Development team can complete the complex Product Backlog items
-* [ ] Break the Product Backlog item into multiple PBIs and add them to the Product Backlog
 * [ ] Rewrite the user story so the work related to the Product Backlog Item can be completed within the current Sprint
 
 ****
@@ -138,8 +150,6 @@ A is correct.
 If the developers have issues with the size, scope, complexity, and clarity of the work they are doing, they simply contact the Product Owner so requirements can be clarified and scope can be renegotiated.
 
 Sprints are a fixed length, so they can't ever be extended, which makes B incorrect.
-
-The Scrum Master can never add items to the Sprint Backlog or the Product Backlog, so C is incorrect.
 
 And the Scrum Guide makes zero references to user stories, so any talk of user stories on the Scrum Master certification exam will likely be a red herring.
 
@@ -171,9 +181,9 @@ The Scrum Guide places a great deal of emphasis on short Sprints, and there are 
 
 Remember, a Sprint Review happens at the end of a Sprint. With a 2 week Sprint, the stakeholders get to review the product twice in a month. With a 4 week Sprint, they only get to see it once.
 
-A short Sprint makes it easier to manage risk. If the team is doing something wrong, they'll find out sooner from the stakeholders in a 2-week Sprint than in a month long one.
+A short Sprint makes it easier to manage risk. If the team is doing something wrong, they'll find out sooner from the stakeholders in a 2-week Sprint than one that lasts a month.
 
-It's arguably easier to estimate work for two weeks, as opposed to three or four, and the project is less likely to go completely sideways in two weeks as opposed to two months.
+It's also arguably easier to estimate work for two weeks, as opposed to three or four, and the project is less likely to go completely sideways in two weeks as opposed to two months.
 
 ==== Test Yourself
 
