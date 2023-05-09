@@ -202,12 +202,12 @@ When it comes to competing interests, the Product Owner is responsible for manag
 There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. How does Scrum ensure the interests of each of these groups are recognized and respected?
 
 * [ ] Have the Scrum Master represent the interests of each of these groups
-* [ ] Have multiple Scrum Masters, with each Product Owner assigned to each stakeholder group
+* [ ] Have multiple Scrum Masters, with a different Scrum Master assigned to each stakeholder group
 * [ ] Have one Product Owner represent the interests of each of these groups
-* [ ] Have multiple Product Owners, with each Product Owner assigned to each stakeholder group
+* [ ] Have multiple Product Owners, with a different Product Owner assigned to each stakeholder group
 ****
 
-There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all of the stakeholders.
+There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all the stakeholders.
 
 '''
 
@@ -216,9 +216,9 @@ There is only one Product Owner on a Scrum Team, and that one Product Owner repr
 
 === Keeping Tabs on the Product Owner
 
-Stakeholders will always be interested in how the product is progressing. They will constantly want to know what's been created, and what the team will be working on next. 
+Stakeholders will always be interested in how the product is progressing. They will constantly want to know what's been created and what the team will be working on next. 
 
-The Product Backlog and inspectable Increments are how stakeholders get the answers to their questions about how the project is progressing.
+The three Scrum artifacts, namely the Product Backlog, Sprint Backlog and inspectable Increments are how stakeholders get the answers to their questions about how the project is progressing.
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -234,7 +234,7 @@ ____
 
 === Trust, Transparency, and the Prouduct Backlog
 
-The PO will have the complete and total trust of the organization concerning product ownership. But trust is a two-way street. 
+The PO must have the complete and total trust of the organization concerning product ownership. But trust is a two-way street. 
 
 If the Product Owner is to be trusted, the Product Owner must also be transparent about what they're doing.
 
@@ -250,7 +250,7 @@ They do so by making the product backlog visible and available to all stakeholde
 
 === Inspection of the Increment
 
-Furthermore, at the end of every Sprint, a Sprint Review takes place where stakeholders inspect what's been done. That's known as the Increment, which represents a valuable and usable piece of the product puzzle.
+Furthermore, at the end of every Sprint, a Sprint Review takes place where stakeholders inspect what's been done.
 
 If a stakeholder wants to know what's being done, they look at the Product Backlog. 
 
@@ -281,14 +281,14 @@ How does the Product Owner ensure their decisions are transparent and open?
 * [ ] By making their decisions visible in the Product Backlog
 * [ ] By allowing stakeholders to see how the Product Backlog has been ordered and prioritized
 * [ ] By sending regular status updates to stakeholders.
-* [ ] By scheduling weekly meetings between the Scrum Developers and Stakeholders
-* [ ] By having the stakeholders inspect a usable Increment of work at the Sprint Review
+* [ ] By scheduling weekly meetings between the Scrum Developers and stakeholders
+* [ ] By having the stakeholders inspect usable Increments of work at the Sprint Review
 
 ****
 
-In this case, options A, B, and E are correct.
+Options A, B, and E are correct.
 
-Remember that in Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum, is to remove the need to schedule other, time-wasting meetings.
+In Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum, is to remove the need to schedule other, time-wasting meetings.
 
 
 '''
@@ -297,7 +297,9 @@ Remember that in Scrum we always shun 'more meetings.' The whole point of the va
 
 ****
 
-The CEO has told you, the Scrum Master, that if a key feature isn't added to the product within the next three week, the project will be cancelled. What action should the Scrum Master take?
+The CEO has told you, the Scrum Master, that if a key feature isn't added to the product within the next three week, the project will be cancelled. 
+
+What action should you, the Scrum Master, take?
 
 * [ ] Add the feature as a Sprint Backlog item so developers can start working on it immediately
 * [ ] Add a new item to the Product Backlog to represent the feature
@@ -306,6 +308,10 @@ The CEO has told you, the Scrum Master, that if a key feature isn't added to the
 
 ****
 
-If a change needs to be made to the backlog, it's the Product Owner who does it. If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. Nobody else has the right to do it.
+Option D is correct.
+
+If a change needs to be made to the Product Backlog, it's the Product Owner who does it. 
+
+If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. Nobody else has the right to do it.
 
 '''
