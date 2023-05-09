@@ -31,7 +31,7 @@ Harking back to a theme we've crowed about before: Sprint Planning happens withi
 
 Many questions on the Scrum Master certification exam will suggest that Sprint Planning happens before the Sprint, but that's always a red herring.
 
-None of the Scrum events happen before or after a Sprint - they all take place within the Sprint.
+None of the Scrum events happen _before_ or _after_ a Sprint. Every Scrum event place _within_ the Sprint.
 
 === Product Backlog items and the Product Goal
 
@@ -54,7 +54,7 @@ ____
 
 Notice how anyone can be invited to participate in the Sprint Planning meeting. That's a significant point and a concept you'll be tested on often.
 
-There are often multiple Scrum teams working on a single project.
+There are often multiple Scrum teams working on a single product.
 
 Remember, the maximum size of a Scrum team is 10 people, but it's not unusual for an enterprise software development project to have thirty or forty developers working on it. That means there will be at least four or five Scrum teams all working on the same product at the same time.
 
