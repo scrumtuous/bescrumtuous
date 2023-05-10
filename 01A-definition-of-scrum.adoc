@@ -59,9 +59,8 @@ ____
 
 Given what you know about Scrum, and taking into account any experiences you've had with Scrum, how would you rate this definition?
 
- 
-
-[quote, 2020 Scrum Guide page 3]
+.Scrum is a lightweight, incomplete framework that helps teams solve complex problems as they work towards a Product Goal.
+image::images/lightweight-framework3.jpg["Credit MidJourneyAI"]
 
 === The Definition of Scrum
 
@@ -230,8 +229,7 @@ Scrum is built upon the collective intelligence of the people using it.
 Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
 ____
 
-.Scrum is a lightweight, incomplete framework that helps teams generate value as they work towards a Product Goal.
-image::images/lightweight-framework2.jpg["Credit MidJourneyAI"][Sunset,600,600] 
+
 
 <<<
 
