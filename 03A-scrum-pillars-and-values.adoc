@@ -5,7 +5,7 @@
 
 'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded.
 
-The 'Scrum Pillars' don't constitute a specific category, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifacts is important.
+The 'Scrum Pillars' don't constitute a specific category, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifact is important.
 
 Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Certification exam.
 
@@ -18,7 +18,7 @@ We've already seen references to two of the Scrum Pillars in our discussion of t
 
 [quote, 2020 Scrum Guide page 3]
 ____
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
+Scrum combines four formal events for inspection and adaptation within a contained event, the Sprint.
 ____
 
 Here's the Scrum Guide's formal declaration of the three of them:
@@ -34,7 +34,7 @@ It can't be emphasized enough. The three pillars of Scrum are:
 - Inspection
 - Adaptation
 
-Everything that happens in Scrum harks back to these values and pillars. The question as to why a particular event happens or artifact is required typically harks back to the Scrum Pillars, with the Scrum values providing further support.
+Everything that happens in Scrum harks back to these values and pillars. The question as to why a particular event happens or artifact is required typically refers back to the Scrum Pillars, with the Scrum values providing further support.
 
 <<<
 
@@ -42,18 +42,18 @@ Everything that happens in Scrum harks back to these values and pillars. The que
 
 The five Scrum values that support the Scrum Pillars are:
 
-- *Commitment:* The idea that a Scrum Team is made up of conscientious  and motivated developers who are dedicated to achieving the Product Goal
-- *Focus:* The idea that the Scrum Team concentrates at the work at hand and doesn't plan too far into the future 
-- *Openness:* The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal
-- *Respect:* The idea you will treat people with dignity and compassion, while do the same in turn
-- *Courage:* The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk
+- *Commitment:* The idea that a Scrum Team is made up of conscientious and motivated developers who are dedicated to achieving the Product Goal.
+- *Focus:* The idea that the Scrum Team concentrates on the work at hand and doesn't plan too far into the future.
+- *Openness:* The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal.
+- *Respect:* The idea that you will treat people with dignity and compassion, while doing the same in turn.
+- *Courage:* The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk.
 
 Memorize the Scrum pillars and values, and don't confuse them with each other.
 
 ==== Test Yourself
 
 ****
-What of the following are Scrum pillars?
+Which of the following are Scrum pillars?
 
 * [ ] Commitment
 * [ ] Inspection
@@ -77,7 +77,7 @@ Transparency allows all participants to honestly inspect progress.
 
 Inspection can reveal flaws in the plan. This leads to adaptation.
 
-As teams adapt, they must be open about how well the adaptation has worked, which requires the team to be transparent, which then leads to inspection and adaptation. It's a constant loop.
+As teams adapt, they must be open about how well the adaptation has worked. This requires the team to be transparent, which then leads to inspection and adaptation. It's a constant loop.
 
 <<<
 
@@ -128,7 +128,7 @@ Options a) and c) are correct.
 
 Inspection is done frequently to detect potential problems and to identify any undesirable variances so that the team can address them.
 
-The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt to them.
+The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt.
 
 '''
 
@@ -175,6 +175,8 @@ Scrum allows important decisions to be made empirically by basing those decision
 
 ****
 
+Option e) is correct.
+
 Empiricism requires decisions to be made on facts and evidence. In Scrum, evidence comes from the state of Scrum's three formal artifacts, namely the Product Backlog, the Sprint Backlog, and the Increment.
 
 The state of these artifacts must be transparent to all, otherwise the team and the stakeholders don't have all of the facts they need to make the right decisions for the future of the product.
@@ -199,7 +201,7 @@ The adjustment must be made as soon as possible to minimize further deviation.
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. 
 
-A Scrum Team is expected to adopt the moment it learns anything new through inspection.
+A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 ____
 
 It's understood that in the world of software development, things change quickly.
@@ -213,7 +215,7 @@ image::images/scrum-pillars.png["Three pillars of Scrum "]
 
 ==== Always Adapt
 
-The Scrum Guide describes several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak and adapt.
+The Scrum Guide describes several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak, and adapt.
 
 If a problem comes up during the day, a developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
 
@@ -234,6 +236,8 @@ If the process used to track development throughout the Sprint deviates outside 
 * [ ] Adapt during the Sprint and continue to push towards the Sprint goal.
 ****
 
+Option () is correct.
+
 Scrum is all about adaptation. If things don't go according to plan, the team should adapt. They certainly shouldn't end the Sprint. For the most part, Scrum doesn't allow them to.
 
 - The developers cannot end a Sprint early in Scrum.
@@ -250,7 +254,7 @@ Sprints are short, typically between 2 to 4 weeks. Even if things go completely 
 ==== Test Yourself 
 
 ****
-A serious security-related bug has appeared in the code written by a fellow developer and you need more details about it to fix it. When should this issue be discussed with the developer?
+A serious security-related bug has appeared in the code written by a fellow developer and you need more details about the problem to fix it. When should this issue be discussed with the developer?
 
 * [ ] When the Scrum Master can coordinate a meeting between the two of you
 * [ ] After the Quality Assurance (QA) team has time to investigate
@@ -286,9 +290,9 @@ Their primary focus is on the work of Sprint to make the best possible progress 
 
 The Scrum Team and its stakeholders are open about the work and the challenges. 
 
-Scrum Team members respect each other to be capable, independent people and are respected as such by the people with whom they work. 
+Scrum Team members respect each other to be capable, and independent people are respected as such by the people with whom they work. 
 
-The Scrum Team members dare to do the right thing, to work on tough problems.
+The Scrum Team members dare to do the right thing to work on tough problems.
 
 These values give direction to the Scrum Team about their work, actions, and behavior. 
 
@@ -322,13 +326,15 @@ According to the Scrum Guide, which of the following is not a Scrum Value?
 * [ ] Honesty
 ****
 
+Options a), c), f), h), and j) are correct.
+
 The five Scrum values are Commitment, Focus, Openness, Respect, and Courage.
 
-Honestly is not one of them, but that's not to say you shouldn't be honest. Always be honest!
+Honesty is not one of them, but that's not to say you shouldn't be honest. Always be honest!
 
 The other traits, extraversion (also often spelled extroversion), agreeableness, openness, emotional stability (neuroticism), and conscientiousness are together known as the Big 5 personality traits. 
 
-Big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
+The big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
 
 '''
 
