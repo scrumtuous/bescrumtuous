@@ -16,6 +16,10 @@ ____
 
 This definition makes it clear that the Product Backlog is the list of the features that need to be built to complete the project. The Developers on a Scrum Team should never be working on anything that isn't part of the Product Backlog.
 
+
+.The Product Owner is accountable for the Product Backlog. (Image from Freepik.com)
+image::images/emergent-list.png["The Product Owner manages the Product Backlog."]
+
 This definition also demands that the list be ordered, in a priority  sequence. The most important items are at the top.
 
 There is also only one Product Backlog. Any product feature that's needed is listed in the one, true Product Backlog. 
@@ -210,7 +214,7 @@ Every arrow needs a target.
 As the Scrum Team works to build the product, they need to know what the product is that they're building. The Product Goal serves this purpose.
 
 
-CAUTION: Need an arrow hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
+CAUTION: Need an arrowu7yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
 
 ==== Test Yourself
 

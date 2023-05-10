@@ -18,3 +18,6 @@ Option B is correct.
 The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller, more precise items.
 
 '''
+
+
+What are the commitments?

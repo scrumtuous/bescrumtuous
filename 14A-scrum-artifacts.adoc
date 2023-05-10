@@ -24,6 +24,11 @@ The existence of these artifacts helps provide transparency by answering the thr
 
 Stakeholders get angry and upset when they don't have answers to these questions. The existence of transparent and inspectable Scrum Artifacts tends to calm the nerves of nervous stakeholders.
 
+
+.The three Scrum artifacts are the Product Backlog, Sprint Backlog and the Increment. (Image from Freepik.com)
+image::images/scrum-artifacts.png["There are 3 artifacts in Scrum."]
+
+
 ==== Test Yourself
 
 ****
@@ -61,6 +66,11 @@ ____
 Every arrow needs a target. Each Scrum commitment act as a target for their corresponding artifact.
 
 A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance an Agile Scrum developer’s focus as the project progresses.
+
+
+.Scrum commitments are the targets for the Scrum artifacts to aim at. (Image from Freepik.com)
+image::images/darts.png["Scrum commitments are targets for artifacts."]
+
 
 ==== Test Yourself
 

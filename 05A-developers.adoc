@@ -251,7 +251,7 @@ For the short term, the productivity of individual members on the team will dip.
 
 Just be aware of that fact on the Scrum Certification exam.
 
-.A new log thrown on a hot campfire will temporarily lower the fire's temperature. The same holds true for a new developer added to a running project.
+.A new log thrown on a hot campfire will temporarily lower the fire's temperature. The same holds true for a new developer added to a hot project.
 image::images/wet-log.jpg["A new developer can temporarily slow down a development team."]
 
 

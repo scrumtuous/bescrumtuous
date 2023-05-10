@@ -38,7 +38,7 @@ A new Sprint starts immediately after the conclusion of the previous Sprint.
 All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
 ____
 
-<<<
+
 
 ==== Test Yourself
 
