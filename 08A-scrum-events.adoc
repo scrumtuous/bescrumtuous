@@ -15,6 +15,10 @@ ____
 
 The fact that the four events mentioned above all happen within a fifth event known as the Sprint, will likely show up in five or six questions on the Scrum Master Certification exam.
 
+
+.Each Scrum event has a timebox that should not be exceeded.
+image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
+
 === The Sprint Container
 
 The Scrum Guide says Sprint is a container for all other events.

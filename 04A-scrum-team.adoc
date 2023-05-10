@@ -285,6 +285,9 @@ It's nice to think of the Scrum Master and Product Owner as a dedicated roles. B
 
 There's absolutely nothing in the Scrum Guide that says a Scrum Master can't also do development, and pragmatically speaking, for many small companies, it's a reality. But regardless of how many people are wearing multiple hats, the total number of people on a Scrum Team should be 10 or less.
 
+
+CAUTION: I would like a three frame image here, maybe a cartoon like before, where the same  person wears a different hat in each picture and the caption says something about how a person can wear different hats on the scrum team.
+
 <<<
 
 ==== Test Yourself
