@@ -105,7 +105,7 @@ You'll get beaten with a stick if any of the Scrum gatekeepers ever hear you cal
 
 '''
 
-image::images/scrum-incomplete.png["Scrum is an incomplete framework."]
+
 
 === Scrum is a Framework
 
@@ -154,6 +154,8 @@ The Guide very vaguely describes Scrum as a "lightweight framework that helps pe
 Any references to Scrum being a methodology, a process, or a framework that targets software development will always be a wrong answer on the Scrum Certification exam.
 
 '''
+
+image::images/scrum-incomplete.png["Scrum is an incomplete framework."]
 
 <<<
 
@@ -229,7 +231,7 @@ Rather than provide people with detailed instructions, the rules of Scrum guide 
 ____
 
 .Scrum is a lightweight, incomplete framework that helps teams generate value as they work towards a Product Goal.
-image::images/lightweight-framework2.jpg["Mesa Verde Sunset, by JAVH"][Sunset,600,600] 
+image::images/lightweight-framework2.jpg["Credit MidJourneyAI"][Sunset,600,600] 
 
 <<<
 

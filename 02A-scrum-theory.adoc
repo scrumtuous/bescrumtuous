@@ -232,8 +232,7 @@ ____
 
 '''
 
-.The three pillars of Scrum are transparency, inspection and adaptation.
-image::images/scrum-pillars.png["Three pillars of Scrum "]
+
 
 ==== Inspection and Adaption
 
