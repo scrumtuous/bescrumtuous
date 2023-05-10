@@ -12,17 +12,17 @@ id: 958-63effb3c9ebbe935e4c16ab0.
 
 [#query]
 --
-Sometimes a team has too many developers. Other times a developer just might not be the right fit on a development team.
+Sometimes a team has too many developers. Other times a developer just might not be the right fit for a development team.
 
 Who has the power to remove an underperforming developer from a Scrum team?
 --
 
 [#list]
 --
-* [ ] A. Only someone in management or Human Resources has the ability to remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
+* [ ] A. Only someone in management or Human Resources can remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
 * [ ] B. The Scrum Master can remove underperforming developers from a Scrum team.
 * [ ] C. The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
-* [*] D. The Development Team has final say over who is allowed to be a member of the development team.
+* [*] D. The Development Team has the final say over who is allowed to be a member of the development team.
 
 --
 ****
