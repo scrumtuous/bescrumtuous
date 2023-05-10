@@ -135,8 +135,8 @@ Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls 
 '''
 
 
-.The only time you have a sub-team in Scrum is if there is literally a team of developers working on a sub.
-image::images/sub-team.jpg["The only time you have a sub-team in Scrum is if there is literally a team of developers working on a sub."]
+.The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub.
+image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub."]
 
 
 <<<
@@ -391,7 +391,7 @@ Furthermore, there is no rule in the Scrum Guide that says a Scrum Master must b
 
 You will often see questions on the Scrum Certification exam about who should be responsible for maintenance or research or user acceptance testing (UAT) or quality assurance (QA). 
 
-An 'incorrect answer' will suggest a sub-team or external resource should do UAT or QA. That's wrong.
+An 'incorrect answer' will suggest a subteam or external resource should do UAT or QA. That's wrong.
 
 If QA or UAT is part of a Product Backlog Item or it's part of the Definition of Done, then the Scrum Team is responsible for it. 
 
