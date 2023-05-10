@@ -4,7 +4,7 @@
 === Sprint Retrospective
 
 
-When the work is done, and the Sprint Review is complete, it's time for the Scrum Team to circle the wagons and chat a bit about what went right, what went wrong, and what they want to change when the next Spring begins.
+When the work is done, and the Sprint Review is complete, it's time for the Scrum Team to circle the wagons and chat a bit about what went right, what went wrong, and what they want to change when the next Sprint begins.
 
 [quote, 2020 Scrum Guide page 10]
 ____
@@ -107,7 +107,7 @@ This is the only instance I can think of where a Sprint Backlog item can be carr
 Focus is an important part of the Scrum framework. 
 
 Scrum Teams are expected to stay focused on the current Sprint.
-When during the Sprint are developers expected to be thinking about the next Spring?
+When during the Sprint are developers expected to be thinking about the next Sprint?
 
 * [ ] During Sprint planning before the Sprint begins
 * [ ] During the Sprint Review as they collaborate on what to do next
