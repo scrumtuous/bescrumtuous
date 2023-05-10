@@ -173,6 +173,9 @@ Just think about a Scrum Team constructing a house.
 
 The Product Owner would likely want the kitchens and the bathrooms done first, but the foundation of the house may not be laid. In that case, the developers would need to explain how the kitchen and the bathrooms will need to wait for a future Sprint as the home's foundation has to be poured first.
 
+.The Developers will negotiate with the Product Owner over which PBIs can be selected for the Sprint.
+image::images/negotiate-backlog.jpg["The PO and developers negotiate over the Sprint Backlog."]
+
 ==== Test Yourself
 
 ****

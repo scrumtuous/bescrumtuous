@@ -20,6 +20,11 @@ The Daily Scrum is a 15-minute event for the Developers of the Scrum Team.
 The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 ____
 
+
+.The purpose of the Daily Scrum is for the Developers to metaphorically get the ball moving again.
+image::images/daily-scrum-ball-moving.jpg["The Daily Scrum gets the ball moving again."]
+
+
 === Adapting to Change
 
 Things change from day to day, and changes can mess up your plans.
