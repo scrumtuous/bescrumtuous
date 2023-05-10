@@ -87,7 +87,7 @@ Options on the Scrum Certification Exam where they start talking about specific 
 
 '''
 
-=== Sub-teams are Radioactive in Scrum
+=== Subteams are Radioactive in Scrum
 
 In Scrum, the development team is a collection of 'equals', regardless of their skills or experience.
 
@@ -97,12 +97,12 @@ Everyone pitches in to do the required work, and with the team's cross-functiona
 
 [quote, 2020 Scrum Guide page 5]
 ____
-Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+Within a Scrum Team, there are no subteams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
 ____
 
-The topic of sub-teams and hierarchies will be at the heart of seven or eight questions on the 80 question Scrum Master certification exam. They're easy to get right if you just remember that ther are no sub-teams and there are no hierarchies in Scrum.
+The topic of subteams and hierarchies will be at the heart of seven or eight questions on the 80 question Scrum Master certification exam. They're easy to get right if you just remember that ther are no sub-teams and there are no hierarchies in Scrum.
 
-What does it mean to say there are no sub-teams in Scrum?
+What does it mean to say there are no subteams in Scrum?
 
 - It means there is no QA team to check for quality issues. The development team does that.
 
@@ -116,7 +116,7 @@ To be without hierarchies means developers aren't given titles like 'Team Lead' 
 
 ==== Test Yourself
 
-Here's the structure of a prototypical Scrum Master Certification exam question that tests you on this hierarcies and sub-teams:
+Here's the structure of a prototypical Scrum Master Certification exam question that tests you on this hierarcies and subteams:
 
 ****
 There is an issue. What should you do?
