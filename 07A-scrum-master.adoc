@@ -1,4 +1,3 @@
-:pdf-theme: some-theme.yml
 
 == Chapter 7
 === The Scrum Master
@@ -19,6 +18,9 @@ Most of what a Scrum Master does revolves around coaching and educating people a
 - The Scrum Master can't hire or fire people
 
 Even when the Scrum Master does do something of substance, such as helping to remove impediments or acting as a _leader who serves,_ they typically achieve this by educating others about how Scrum is supposed to work and coaching people about how to properly embrace the ideas expressed in the Scrum Guide.
+
+.The Scrum Master facilitates, coaches and removes Scrum related impediments.
+image::images/scrum-master-job.png["The Scrum Master facilitates, coaches and removes Scrum related impediments."]
 
 
 ==== Scrum Requires a Scrum Master
