@@ -26,7 +26,7 @@ ____
 
 One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time to do so.
 
-It's not stated explicility, but the Sprint Retrospective is also the right time to discuss changing the Sprint length if that's desired. That way if a change is agreed upon, the change can be applied to the next Sprint that starts when the retrospective ends.
+It's not stated explicitly, but the Sprint Retrospective is also the right time to discuss changing the Sprint length if that's desired. That way if a change is agreed upon, the change can be applied to the next Sprint that starts when the retrospective ends.
 
 The Scrum Guide also indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum Framework are best discussed during the Sprint Retrospective.
 
@@ -155,7 +155,7 @@ The Sprint Retrospective is the last timeboxed event mentioned in the Scrum Guid
 
 While a Sprint is given a fixed time that cannot be extended while a Sprint is in progress, the Scrum Guide never actually refers to a Sprint as a 'timeboxed' event.
 
-And yes, I do realize this is probably the fourth or fifth time I've mentioned the duration of each of the Scrum Events in this book. That's because you're likely going to get five or six questions on the topic, so it's not a topic to treat trivally.
+And yes, I do realize this is probably the fourth or fifth time I've mentioned the duration of each of the Scrum Events in this book. That's because you're likely going to get five or six questions on the topic, so it's not a topic to treat trivially.
 
 === After the Sprint
 

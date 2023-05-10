@@ -38,7 +38,7 @@ Contrast that against the Product Backlog which is entirely controlled by the Pr
 
 What does that leave the Scrum Master to control? Very little. 
 
-Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artificats.
+Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artifacts.
 
 CAUTION: Want maybe a cartoon image of a canoe where devs and a product owner have an ore but the Scrum Master just sits there.
 
@@ -206,7 +206,7 @@ If developers need to decompose backlog items or even remove items from the Spri
 ****
 If Developers find the scope of work scheduled for a Sprint is too much, with whom should they negotiate the Sprint Backlog's scope?
 
-* [ ] The Product Onwer
+* [ ] The Product Owner
 * [ ] The Scrum Master
 * [ ] Their fellow developers
 * [ ] The stakeholders.

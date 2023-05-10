@@ -48,7 +48,7 @@ All Scrum events are supposed to be held at the same time and in the same locati
 
 Let's get real about the Daily Scrum for a minute.
 
-People always complain that Scrum has too many time wasting meetings. When they say that, they're usually talking about the Dailiy Scrum.
+People always complain that Scrum has too many time wasting meetings. When they say that, they're usually talking about the Daily Scrum.
 
 If your Daily Scrum feels like a waste of time, you're doing the Daily Scrum wrong.
 
@@ -60,7 +60,7 @@ Scrum doesn't try to put an overwhelming amount of structure and ceremony around
 - Regularly review your work with stakeholders. That's why we have the Sprint Review.
 - Regularly talk about how you can improve things. That's why we have the Sprint Retrospective.
 
-It's hard to think someone could argue that any of these meeting reccomendations are bad. These activities just naturally elute from any team that's serious about software development.
+It's hard to think someone could argue that any of these meeting recommendations  are bad. These activities just naturally elute from any team that's serious about software development.
 
 Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable.
 

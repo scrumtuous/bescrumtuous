@@ -274,7 +274,7 @@ Sometimes Scrum Teams will find themselves in a situation where they are dealing
 
 For example, if the Definition of Done says every piece of code has to be tested on a quantum computer with 100,000 qubits, despite the fact that no computer in the world has more than 1000 quibits, then the Definition of Done is too rigorous.
 
-The Definition of Done should not be changed too often, and it's not a good idea to make a Definition of Done less rigorous over time, but if the Definition of Done includes an requirement that is impossible to achieve due to missing hardware, software or infrustructure, then it is permissible to change the Definition of Done to make it possible to deliver a usable Increment.
+The Definition of Done should not be changed too often, and it's not a good idea to make a Definition of Done less rigorous over time, but if the Definition of Done includes an requirement that is impossible to achieve due to missing hardware, software or infrastructure, then it is permissible to change the Definition of Done to make it possible to deliver a usable Increment.
 
 If the Definition of Done does need to change, such a discussion is best to take place during the Sprint Retrospective.
 
@@ -326,7 +326,7 @@ Options A and D are correct.
 
 Each Scrum team has its own Sprint Backlog.
 
-A Scrum Master can be shared between multiple teams, or a Scrum master can dedicate 100% of their time to one team. The Scrum Guide guide doesn't advise for or against either scenario.
+A Scrum Master can be shared between multiple teams, or a Scrum master can dedicate 100% of their time to one team. The Scrum Guide doesn't advise for or against either scenario.
 
 When multiple teams work on the same project together:
 

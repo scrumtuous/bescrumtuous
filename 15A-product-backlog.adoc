@@ -1,5 +1,3 @@
-:pdf-theme: some-theme.yml
-
 == Chapter 15
 === The Product Backlog
 
@@ -18,7 +16,7 @@ ____
 
 This definition makes it clear that the Product Backlog is the list of the features that need to be built to complete the project. The Developers on a Scrum Team should never be working on anything that isn't part of the Product Backlog.
 
-This definition also demands that the list be ordered, in a prioprity sequence. The most important items are at the top.
+This definition also demands that the list be ordered, in a priority  sequence. The most important items are at the top.
 
 There is also only one Product Backlog. Any product feature that's needed is listed in the one, true Product Backlog. 
 
@@ -118,7 +116,7 @@ A Product Backlog item has remained untouched for over a year, and there are no 
 * [ ] Remove the Product Backlog item
 * [ ] Create a separate, low-priority Product Backlog to track items like this
 * [ ] Assign a high-priority status to the item so it gets completed in an upcoming Sprint
-* [ ] Leave the item in the Product Backlog with alow priority
+* [ ] Leave the item in the Product Backlog with a low priority
 
 ****
 
@@ -212,7 +210,7 @@ Every arrow needs a target.
 As the Scrum Team works to build the product, they need to know what the product is that they're building. The Product Goal serves this purpose.
 
 
-CAUTION: Need an arror hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
+CAUTION: Need an arrow hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
 
 ==== Test Yourself
 

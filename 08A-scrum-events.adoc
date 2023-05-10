@@ -1,5 +1,3 @@
-:pdf-theme: some-theme.yml
-
 == Chapter 8
 === Scrum Events
 
@@ -21,7 +19,7 @@ The fact that the four events mentioned above all happen within a fifth event kn
 
 The Scrum Guide says Sprint is a container for all other events.
 
-That means the Sprint Review, Spring Planning, the Sprint Retrospective, and the Daily Scrum all happen within the Sprint.
+That means the Sprint Review, Sprint Planning, the Sprint Retrospective, and the Daily Scrum all happen within the Sprint.
 
 - None of the Scrum events happen before the Sprint.
 - None of the Scrum events happen after the Sprint
@@ -65,7 +63,7 @@ The pillars of Scrum are transparency, inspection and adaptation.
 
 The Scrum events are like feedback loops that happen at regular intervals which allow inspection and adaptation to happen. 
 
-For the inspection that happens and the adaptations that result to be beneficial, full transparency with regards to the teams progress, which is shown through Scrum artifacts like the Increment and the Product Backlog, is requred.
+For the inspection that happens and the adaptations that result to be beneficial, full transparency with regards to the teams progress, which is shown through Scrum artifacts like the Increment and the Product Backlog, is required.
 
 [quote, 2020 Scrum Guide page 7]
 ____

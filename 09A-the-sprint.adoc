@@ -66,7 +66,7 @@ ____
 
 This means there are technically two correct answers when asked when a new Sprint begins:
 
-1. A new Sprint begins as soon as the previous Sprint finises.
+1. A new Sprint begins as soon as the previous Sprint finishes.
 2. A new Sprint begins when the Sprint Retrospective ends, since the Sprint Retrospective concludes the Sprint.
 
 
@@ -292,7 +292,7 @@ The trend on the chart may indicate that the team will complete 20 backlog items
 
 That's an example of empirical knowledge being a much better and a much more informed indicator of future performance than a burn-down chart.
 
-NOTE: The term 'decimate' means to 'reduce by 10%'. People that use the term to indicate complete annhilation are using it wrong.
+NOTE: The term 'decimate' means to 'reduce by 10%'. People that use the term to indicate complete annihilation  are using it wrong.
 
 
 === Who Can Cancel a Sprint?

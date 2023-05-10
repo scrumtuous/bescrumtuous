@@ -15,7 +15,7 @@ Seriously, the whole idea of Scrum is for a team to work toward the creation of 
 
 The answer to all of those questions is 'The Product Owner.'
 
-Who is completley useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily managable chunks? That's probably the Product Owner too.
+Who is completely  useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily manageable  chunks? That's probably the Product Owner too.
 
 The Product Owner knows the product. Just be careful never to ascribe more competency to the PO than they deserve. Assume they know nothing about actually building a product, because that's not what they're accountable for according to Scrum.
 
@@ -194,7 +194,7 @@ ____
 
 Notice how the Scrum Guide states that the Product Owner may represent the needs of many stakeholders. Implied in that statement is that different stakeholders might have different interests about which features or enhancements should be prioritized.
 
-When it comes to competing interests, the Product Owner is responsible for managing expectations and building concensus amongst the stakeholders.
+When it comes to competing interests, the Product Owner is responsible for managing expectations and building consensus amongst the stakeholders.
 
 ==== Test Yourself
 
@@ -232,7 +232,7 @@ ____
 
 
 
-=== Trust, Transparency, and the Prouduct Backlog
+=== Trust, Transparency, and the Product Backlog
 
 The PO must have the complete and total trust of the organization concerning product ownership. But trust is a two-way street. 
 

@@ -161,7 +161,7 @@ ____
 
 It is the Product Owner who is responsible for ensuring the work of the Scrum Team produces the greatest amount of value.
 
-The Product Owner knows what needs to be built to make the product better. However, the Product Owner has no innate knoweldge of _how_ to build it. That's the job of the developers.
+The Product Owner knows what needs to be built to make the product better. However, the Product Owner has no innate knowledge  of _how_ to build it. That's the job of the developers.
 
 ==== Negotiating Product Backlog Item Selection
 
@@ -238,7 +238,7 @@ The Sprint Plan can change, and the items in the Sprint Backlog can change. It's
 What happens if it becomes clear towards the end of the Sprint that the team will not achieve the Sprint Goal?
 
 * [ ] The Sprint is canceled and a new Sprint Planning meeting takes place
-* [ ] The next Sprint adopts the current Sprint's Goal continuosly until the goal is achieved
+* [ ] The next Sprint adopts the current Sprint's Goal continuously  until the goal is achieved
 * [ ] The developers update the Sprint Goal so that it is achievable by the end of the Sprint
 * [ ] The developers talk about the Sprint Goal during the Sprint Retrospective
 
