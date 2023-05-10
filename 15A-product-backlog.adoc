@@ -7,7 +7,7 @@ The way the Product Owner does that is by keeping a prioritized list of all the 
  
 This list is known as the Product Backlog.
 
-
+ 
 [quote, 2020 Scrum Guide page 10]
 ____
 The Product Backlog is an emergent, ordered list of what is needed to improve the product. 
