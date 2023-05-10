@@ -4,7 +4,7 @@
 The Product Owner is the one member of the Scrum Team who is tasked solely with the job of 'optimizing the value of the work done by the Scrum Team.'
 
 The way the Product Owner does that is by keeping a prioritized list of all the features and improvement the product under development requires.
-
+ 
 This list is known as the Product Backlog.
 
 
