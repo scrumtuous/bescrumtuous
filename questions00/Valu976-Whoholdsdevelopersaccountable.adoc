@@ -11,7 +11,7 @@ title: "976 - Who is responsible for managing the prog"
 
 [#query]
 --
-Who holds developers accountable for creating a plan, instilling quality and adhering to the Definition of Done?
+Who holds developers accountable for creating a plan, instilling quality, and adhering to the Definition of Done?
 --
 
 [#list]
