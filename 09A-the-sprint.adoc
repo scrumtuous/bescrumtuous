@@ -70,7 +70,7 @@ This means there are technically two correct answers when asked when a new Sprin
 2. A new Sprint begins when the Sprint Retrospective ends, since the Sprint Retrospective concludes the Sprint.
 
 
-.All of the Scrum events happen within the scope of a Sprint.
+.All of the Scrum events happen within the scope of a Sprint. When one Sprint ends, a new immediately begins.
 image::images/sprint-container.jpg["The Sprint contains all the Scrum events."]
 
 
