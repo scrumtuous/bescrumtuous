@@ -106,6 +106,9 @@ The Scrum Master Certification exam will likely include a question or two where 
 
 The purpose of the Sprint Review is to inspect the work that was performed during the Sprint and adapt according to feedback received from the stakeholders. At the end of a Sprint Review, the stakeholders should know what was done during the Sprint, and the Scrum Team should have a better idea of what they should be working on next.
 
+.Death by Powerpoint is not a great way to run a Sprint Review. (Image from Freepik.com)
+image::images/death-by-ppt.png["Death by Powerpoint."]
+
 [quote, 2020 Scrum Guide page 9]
 ____
 The Sprint Review is the second to last event of the Sprint and is time-boxed to a maximum of four hours for a one-month Sprint. 

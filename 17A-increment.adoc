@@ -66,7 +66,7 @@ By putting the door on the house, you have integrated your work into the product
 
 CAUTION: Comic of a car with a door on the roof with a house in the background that is missing its front door.
 
-.If a house needs a door, and you have a door, you don't wait a week to integrate it.
+.If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
 image::images/house-door.png["Integrate immediately into the product."]
 
 === A Poorly Integrated Increment
