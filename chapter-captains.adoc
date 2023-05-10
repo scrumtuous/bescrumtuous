@@ -1,0 +1,96 @@
+
+= O Captain! My Captain!
+
+You have been selected the honor of being a Chapter Captain!
+
+== What does it mean to be a Chapter Captain?
+
+Each chapter needs to be reviewed, proofread and formatted.
+
+It's too much for one person to do the whole book. We need to crowd source!
+
+As a 'Chapter Captain', you are responsible for your assigned chapters.
+
+== Formatting 
+
+One of the biggest challenges now is formatting.
+
+- We don't want big spots of whitespace.
+
+- We don't want options for a question to span two pages
+
+- We don't want a heading at the bottom of a page
+
+- We don't want pages with only one line of text on them
+
+As a chapter captain, you'll need to move text and images around so that the pages are formatted nicely.
+
+You can add a page break with three less-than signs together.
+
+'<<<'
+
+If the is whitespace you need to fill, think up, or even ask someone else, for an 'admonition' to add such as this:
+
+
+TIP: Don't eat yellow snow.
+
+This will help fill in the whitespace.
+
+We'd like to keep the big updates to a minimum, so hopefully when the chapter is formatted properly once, upkeeping it won't be hard.
+
+== Doneness Checks
+
+We will regularly check the chapters for 'doneness', especially as edits are made. Here's a quick checklist.
+
+If there's something you think should be added, add it here!
+
+=== Definition of Done for Chapters
+
+Do spelling checks, but more importantly watch for:
+
+- Places I wrote Spring instead of Sprint
+- your and you're used correctly
+- there, their and they're used correctly
+
+=== Formatting
+
+The book needs to be formatted nicely.
+
+To format the book, add page breaks, move text before or after images, move images around or even add images if there's a lot of whitespace!
+
+Look for orphans. That's where a new page starts and there is one line of text, or even a few words before a new heading or an image. Those have to be fixed somehow!
+
+- Look for spots where there is a heading too close to the end of the page
+- Look for pots where there is only one or two lines of text on the second page
+
+Always look for image ideas too. We need great images!
+
+
+==== Capitaliation Rules
+
+The Scrum Guide has weird capitalizations. 
+
+Here are some capitalizations for consistency to check on:
+
+- Definition of Done
+- Increment
+- Scrum Guide
+- Scrum Master
+- Scrum framework (lowercase on framework)
+- Scrum Team(s)
+- Scrum pillars (lowercase on pillars)
+- Scrum values (lowercase on values)
+- Product Owner
+- Developers (The 'Developers' one bugs me)
+- Sprint
+- Product Goal
+- Sprint Goal
+- Sprint Planning
+- Daily ScrumSprint Review
+- Sprint Retrospective
+- Product Backlog
+- Product Backlog item (Lower case on item)
+- Scrum Master certification guide
+
+
+
