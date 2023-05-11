@@ -296,7 +296,7 @@ The trend on the chart may indicate that the team will complete 20 backlog items
 
 That's an example of empirical knowledge being a much better and a much more informed indicator of future performance than a burn-down chart.
 
-NOTE: The term 'decimate' means to 'reduce by 10%'. People that use the term to indicate complete annihilation  are using it wrong.
+NOTE: The term 'decimate' means to 'reduce by 10%'. It doesn't mean _complete annihilation._
 
 
 === Who Can Cancel a Sprint?
