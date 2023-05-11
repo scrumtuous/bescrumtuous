@@ -145,7 +145,3 @@ The Sprint Planning event is capped at 8 hours, and the Daily Scrum is 15 minute
 '''
 
 When the Sprint Review is complete, it's time for the team to do a Sprint Retrospective, after which the Sprint comes to an end.
-
-CAUTION: I would like an image that shows the four Scrum events where each event is in a box, and each box is sized based on how long the event is: Planning 8 hours, Review 4 hours, Retrospective 3 and Daily Scrum 15 minutes.
-
-CAUTION: I would like an image with a rectangle containing four rectangles, one for each Scrum events, in the order they occur.
