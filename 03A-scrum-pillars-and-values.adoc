@@ -210,8 +210,7 @@ Things also change quickly in the field of construction, manufacturing, banking,
 
 The ability for teams to quickly adjust and change their plan when things go sideways is a core tenant of Scrum. It's one of the reasons we have the Daily Scrum - it allows developers to collectively discuss problems and adapt as needed.
 
-.The three pillars of Scrum are transparency, inspection and adaptation.
-image::images/scrum-pillars.png["Three pillars of Scrum "]
+
 
 ==== Always Adapt
 
@@ -223,7 +222,6 @@ If a problem arises, teams are encouraged to inspect and adapt immediately.
 
 If the team's war room catches fire, don't wait until tomorrow's Daily Scrum to leave the building. Ongoing inspection and adaption are requirements in Scrum. 
 
-<<<
 
 ==== Test Yourself 
 

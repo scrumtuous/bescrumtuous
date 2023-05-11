@@ -85,7 +85,7 @@ Given that definition of Scrum, how would you answer the following question?
 ==== Test Yourself
 
 ****
-True or False: Scrum is a proven software development process.
+Scrum is a proven software development process.
 
 * [ ] True
 * [ ] False
@@ -102,10 +102,12 @@ You'll get beaten with a stick if any of the Scrum gatekeepers ever hear you cal
 - Scrum is not a methodology.
 - Scrum is purposefully incomplete.
 
+Scrum doesn't try to solve all of your project management problems. It just helps you to get started, to keep going and to minimize risks along the way.
+
 '''
 
 
-TIP: It often helps to think about certification exam questions outside of the software development domain. Think of a question in terms of building a house or building a shelter on a deserted island and answers may become more clear.
+TIP: It often helps to think about certification exam questions outside of the domain of software development. Reframe an exam question in terms of an isolated team building a shelter on a deserted island and answers may become more clear.
 
 <<<
 
@@ -140,7 +142,7 @@ There is a big push in the Scrum community to gain acceptance outside of softwar
 
 ****
 
-Which of the following statements most accurately reflects the definition of Scrum?
+Which one of the following statements most accurately reflects the definition of Scrum?
 
 * [ ] Scrum is a software development methodology
 * [ ] Scrum is an Agile process for teams and organizations to following
@@ -180,33 +182,7 @@ People think that since the term 'master' is in the name, the Scrum Master contr
 
 The Scrum Master controls very little. Their only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
 
-
-==== Test Yourself
-
-****
-Which of the following descriptions is true?
-(Choose 2)
-
-* [ ] Scrum describes an iterative process
-* [ ] Scrum is an iterative framework
-* [ ] Scrum generates value by repeatedly delivering usable increments to the stakeholders
-* [ ] Scrum only allows stakeholders to inspect progress when the final product is delivered
-****
-Options C and D are correct.
-
-Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
-
-Scrum is also an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum team can then adapt.
-
-That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
-
-'''
-
 <<<
-
-
-
-
 
 === Scrum is Simple
 
@@ -232,10 +208,39 @@ Rather than provide people with detailed instructions, the rules of Scrum guide 
 ____
 
 
+==== Test Yourself
+
+****
+Which of the following descriptions is true? +
+(Choose 2)
+
+* [ ] Scrum describes an iterative process
+* [ ] Scrum is an iterative framework
+* [ ] Scrum generates value by repeatedly delivering usable increments to the stakeholders
+* [ ] Scrum only allows stakeholders to inspect progress when the final product is delivered
+****
+Options C and D are correct.
+
+Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
+
+Scrum is also an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum team can then adapt.
+
+That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
+
+'''
+
+
+
+
+
+
+
+
+
 
 <<<
 
-=== It's a Guide, not an Instruction Manual
+=== It's a Guide. It's not an Instruction Manual
 
 People often look to the Scrum Guide for definitive answers to things. The Scrum Guide doesn't contain many definitive answers.
 
@@ -301,6 +306,8 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 
 '''
 
+==== Test Yourself
+
 ****
 True or False: When implemented properly, Scrum will expose ineffective management techniques that may not have anything to do with software development.
 
@@ -310,13 +317,15 @@ First of all, Scrum is not just about software development.
 
 The people who oversee the Scrum framework are pushing hard to have Scrum used in all areas of industry and manufacturing. To be successful on the Scrum certification exam, get the idea out of your head that Scrum is just about software development. It's not.
 
-And secondly, the iterative and incremental nature of Scrum, where there is constant inspection and adaptation is supposed to shine a light on practices external to Scrum that may be ineffective. That's what the Scrum Guide means when it says "Scrum makes visible the relative efficacy of current management, environment, and work techniques so that improvements can be made."
+And secondly, the iterative and incremental nature of Scrum, where there is constant inspection and adaptation is supposed to shine a light on practices external to Scrum that may be ineffective. 
 
-We're done with the definition of Scrum. Now on for a little overview of what Scrum Theory is and what it's based on.
+That's what the Scrum Guide means when it says "Scrum makes visible the relative efficacy of current management, environment, and work techniques so that improvements can be made."
+
+We're done with the definition of Scrum. 
+
+Now on to a little overview of what Scrum theory is and what it's based on.
 
 '''
 
-
-TIP: Scrum is not just for software development. It can be used in industry, manufacturing, construction, and even beekeeping. Sometimes, to understand Scrum, frame it as an industry other than software development.
 
 
