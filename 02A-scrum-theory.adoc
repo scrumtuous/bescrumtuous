@@ -179,7 +179,6 @@ According to Scrum, all of the skills required to build a project under developm
 
 That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
 
-'''
 
 ==== The All-Encompassing Sprint
 

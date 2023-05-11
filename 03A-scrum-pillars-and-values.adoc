@@ -312,16 +312,16 @@ For the exam, know the Scrum values and how each of them is defined. There is us
 ****
 According to the Scrum Guide, which of the following is not a Scrum Value?
 
-* [ ] Agreeableness
-* [ ] Commitment
-* [ ] Conscientiousness
-* [ ] Openness
-* [ ] Respect
-* [ ] Extroversion
-* [ ] Focus
-* [ ] Emotional stability
-* [ ] Courage
-* [ ] Honesty
+* [ ] a) Agreeableness
+* [ ] b) Commitment
+* [ ] c) Conscientiousness
+* [ ] d) Openness
+* [ ] e) Respect
+* [ ] f) Extroversion
+* [ ] g) Focus
+* [ ] h) Emotional stability
+* [ ] i) Courage
+* [ ] j) Honesty
 ****
 
 Options a), c), f), h), and j) are correct.
