@@ -12,6 +12,10 @@ Regular updates allow stakeholders to inspect what has been completed and provid
 
 The Sprint Review exists to make sure stakeholders get at least one chance to inspect the work completed during every Sprint.
 
+
+.The Sprint Review is the second-last Scrum event to take place within the Sprint.
+image::images/chart-sprint-review.jpg["The Sprint Review is the second-last Scrum event to take place within the Sprint."]
+
 === Review, Inspect and Adapt
 
 

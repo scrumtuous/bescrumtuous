@@ -20,6 +20,10 @@ I honestly don't know how anyone could say a strategy like that is a bad thing. 
 
 And it all starts with Sprint Planning.
 
+
+.Sprint Planning is the first of the four Scrum events that take place within a Sprint.
+image::images/chart-sprint-planning.jpg["Sprint Planning is the first of the four Scrum events that take place within a Sprint."]
+
 [quote, 2020 Scrum Guide page 8]
 ____
 Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. 

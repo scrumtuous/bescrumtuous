@@ -22,6 +22,11 @@ Inspected elements often vary with the domain of work.
 
 ____
 
+
+.The Sprint Retrospective is the last Scrum event to take place within the Sprint.
+image::images/chart-sprint-retrospective.jpg["The Sprint Retrospective is the last Scrum event to take place within the Sprint."]
+
+
 === Updating the Sprint Length and the DoD
 
 One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time to do so.

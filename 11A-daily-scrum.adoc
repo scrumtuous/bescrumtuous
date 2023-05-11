@@ -37,6 +37,11 @@ The goal of the Daily Scrum is for developers to talk, discuss progress, and qui
 
 The Daily Scrum is time-boxed to 15 minutes. 
 
+
+.The Daily Scrum takes place on every workday during the Sprint.
+image::images/chart-daily-scrum.jpg["The Daily Scrum takes place on every workday during the Sprint."]
+
+
 === Keep the Time and Location Consistent
 
 [quote, 2020 Scrum Guide page 9]
