@@ -1,6 +1,5 @@
 
-== Chapter Zero
-=== Getting Started
+== Chapter 0: Getting Started
 I’m going to get you Scrum Certified. I hope you’re ready.
 
 The process is going to go something like this:
@@ -43,8 +42,7 @@ With that foundation, we'll be able to dig much deeper into the significance of 
 image::images/read-guide.png["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
 
-== Chapter 1
-=== What is Scrum?
+== Chapter 1: What is Scrum?
 
 How would you define Scrum?
 

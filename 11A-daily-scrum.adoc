@@ -1,7 +1,6 @@
 
 
-== Chapter 11
-=== The Daily Scrum
+== Chapter 11: The Daily Scrum
 
 Some frameworks and methodologies have a _Daily Standup_.
 

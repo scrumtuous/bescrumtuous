@@ -1,7 +1,4 @@
-:pdf-theme: some-theme.yml
-
-== Chapter 17
-=== The Increment
+== Chapter 17: The Increment
 
 Scrum is an iterative and incremental framework.
 
@@ -22,9 +19,6 @@ In Scrum, every Sprint has to create something of value that adds to the existin
 That's how Scrum is incremental. Every Sprint adds to what was created in the Sprints prior. That's the objective of every Sprint.
 
 
-CAUTION: Can we have a three frame image showing a statue being built from clay. In the first image it is just being started, in the next it is half way there and in the third it is completed?
-
-
 [quote, 2020 Scrum Guide page 11]
 ____ 
 
@@ -35,6 +29,11 @@ Each Increment is additive to all prior Increments and thoroughly verified, ensu
 To provide value, the Increment must be usable.
 
 ____
+
+.Like steps in a staircase, each increment builds on top of previous increments. In Scrum, we move forward by iteratively creating valuable and usable increments that take us progressively closer to achieving the Product Goal.
+image::images/increment-steps.jpg["Increments of value in Scrum.."]
+
+<<<
 
 === Integrated Increments
 
@@ -50,11 +49,13 @@ On the certification exam, there will be many questions about _integration,_ whi
 
 The words 'integrate' and 'integration' never appear once in the 2020 Scrum Guide.
 
-However, integration is important when it comes to the creation of an Increment. Whatever you create today must be able to 'integrate with' or 'work with' whatever you created yesterday for it to be a valid Increment.
-
 === Understanding Integration
 
-Some questions on the Scrum Master certification exam will ask you about integration. Software developers get tripped up on the word 'integration' because they get visions of merging code or fixing Git conflicts or doing GitHub pull requests. Don't confuse yourself with those things. The idea of 'integration' is much simpler.
+However, integration is important when it comes to the creation of an Increment. Whatever you create today must 'integrate with' what you created yesterday for it to be a valid Increment.
+
+Some questions on the Scrum Master certification exam will ask you about integration. 
+
+Software developers get tripped up on the word 'integration' because they get visions of merging code or fixing Git conflicts or doing GitHub pull requests. Don't confuse yourself with those things. The idea of 'integration' is much simpler than that.
 
 Just imagine you're a carpenter and you built a door for the house your team is building. The door is currently tied to the roof of your car. Is it integrated with the house?
 
@@ -64,10 +65,6 @@ When the door is put on its hinges, attached to the house, and it can swing open
 
 By putting the door on the house, you have integrated your work into the product you are building, and you have added a valuable Increment of work that stakeholders can see, touch, feel, and even criticize.
 
-CAUTION: Comic of a car with a door on the roof with a house in the background that is missing its front door.
-
-.If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
-image::images/house-door.png["Integrate immediately into the product."]
 
 === A Poorly Integrated Increment
 
@@ -83,9 +80,21 @@ Did you just create a usable Increment of work that adds to the existing project
 
 === When to Integrate
 
-Let's go back to the super, amazing door you created. When should you attach it to the house?
+Let's go back to the super, amazing door you created. When should you attach your door to the house?
 
 The Scrum Master exam will often ask you when you should integrate your work into the existing project. People get all flustered with these questions, wondering when the best time is to integrate your work.
+
+Don't get flustered. Get pragmatic. 
+
+When you think about integration pragmatically, the questions answer themselves.
+
+
+.If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
+image::images/house-door.png["Integrate immediately into the product."]
+
+<<<
+
+=== The Right Time to Integrate
 
 So, when should you integrate your work into the existing product?
 
@@ -96,7 +105,9 @@ So, when should you integrate your work into the existing product?
 
 'Right now' is the correct answer. 
 
-If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
+If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. 
+
+It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
 
 As soon as your work is done you integrate your work. Then you move on to the next piece of work that needs to be done. You keep doing that over and over and over again until it's time for the Sprint Review.
 
@@ -104,7 +115,7 @@ As soon as your work is done you integrate your work. Then you move on to the ne
 ==== Test Yourself
 
 ****
-Which of the following is correct
+Which one of the following is correct? 
 
 * [ ] Scrum is incremental but not iterative.
 * [ ] Scrum is iterative but not incremental.
@@ -117,6 +128,9 @@ Option C is correct.
 Scrum is iterative in that a set of steps get repeated each Sprint, and it is incremental in that each Sprint produces an Increment of work that gets added to all past increments.
 
 '''
+
+<<<
+
 === Multiple Increments
 
 The goal of each Sprint is to get at least one valuable and usable Increment added to the project. But that shouldn't stop you from integrating as many Increments as you can.
@@ -175,7 +189,9 @@ The Definition of Done is a _formal description,_ not an informal understanding.
 ==== Test Yourself
 
 ****
-The application has failed to scale beyond a single processing core, and this has caused various production issues. What is the best way for the Scrum Team to proceed with this issue?
+The application has failed to scale beyond a single processing core, and this has caused various production issues. 
+
+What is the best way for the Scrum Team to proceed with this issue? (Choose 1)
 
 * [ ] Assign multi-core processing support to the DevOps team
 * [ ] Create a testing team to implement multi-processor support
@@ -190,6 +206,9 @@ If there is a quality metric that the product must support, it is the developmen
 Remember that there are no sub-teams in Scrum, and there is no talk anywhere about DevOps, UAT, or QA teams in the Scrum Guide.
 
 '''
+
+<<<
+
 === Scrum Pillars, Transparency, and 'Done'
 
 [quote, 2020 Scrum Guide page 12]
@@ -214,9 +233,12 @@ When a Product Backlog item is not completed during a Sprint, it is put back int
 
 If a Product Backlog item selected for the Sprint does not meet the Definition of Done by the end of the Sprint, it is thrown back into the Product Backlog as though nobody had ever even been working on it. Even if it's 90% complete, it's thrown back into the Product Backlog for the Product Owner to reprioritize.
 
+==== Test Yourself
 
 ****
-An important, critical feature is 99% done at the time of the Sprint Review. What should the team do?
+An important, critical feature is 99% done but it won't be ready for the Sprint Review tomorrow. 
+
+What should the team do? (Choose 1)
 
 * [ ] Present the work that was completed for stakeholders to see at the Sprint Review
 * [ ] Assign 99% of the points to the current Sprint and assign 1% of the points to the next Sprint
@@ -256,7 +278,7 @@ One of the interesting things that happens with Scrum Teams as they become more 
 Over time, the Definition will likely become more rigorous, with more quality gates to pass than when the team first adopted Scrum.
 
 ****
-Who creates the Definition of Done?
+Who creates the Definition of Done? (Choose 1)
 
 * [ ] The Product Owner if there is no organizational standard
 * [ ] The Scrum Master if there is no organizational standard
@@ -292,15 +314,14 @@ ____
 
 There are only a few instances in the Scrum Guide where it discusses multiple teams working on the same project.
 
-The rules the Scrum Guide requires for multiple teams working on the same project are few, but they are important and you will be tested on them. The Scrum Guide demands that multiple teams that work on the same project must:
+The rules the Scrum Guide requires for multiple teams working on the same project are few, but they are important and you will be tested on them. 
+
+The Scrum Guide demands that multiple teams that work on the same project must:
 
 - Each share the same Product Owner
 - Each share the same Product Backlog
 - Each share the same Product Goal
 - Each share the same Definition of Done
-
-
-CAUTION: Is there a venn diagram or something we can put here to express this idea?
 
 === What Scrum Doesn't Say About Multiple Teams
 
@@ -313,10 +334,14 @@ There is nothing in the Scrum Guide that asserts multiple teams working on the s
 
 There will be several questions about multiple teams working on the same project on the certification exam, and those questions will provide options that seem reasonable but are incorrect.
 
-When answering questions in the certification exam, focus on answers that map as closely as possible to what is explicitly stated in the Scrum Guide. Don't hunt for pragmatic answers. Hunt for correct answers.
+When answering questions in the certification exam, focus on answers that map as closely as possible to what is explicitly stated in the Scrum Guide.
+
+<<<
+
+==== Test Yourself
 
 ****
-What must be shared between multiple teams working on the same product?
+What must be shared between multiple teams working on the same product? (Choose 2)
 
 * [ ] The Product Owner
 * [ ] The Scrum Master

@@ -1,7 +1,6 @@
 
 
-== Chapter 4
-=== Scrum Teams
+== Chapter 4: Scrum Teams
 
 Two of the thirteen categories into which Scrum Certification exam questions are grouped include:
 

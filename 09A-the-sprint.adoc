@@ -1,7 +1,4 @@
-:pdf-theme: some-theme.yml
-
-== Chapter 9
-=== The Sprint
+== Chapter 9: The Sprint
 
 All of the development, planning, retrospectives, and reviews that happen in Scrum happen within the scope of a Sprint. It's the most important part of Scrum.
 
@@ -295,8 +292,6 @@ Maybe World Cup starts next week and your entire offshore team is in Brazil?
 The trend on the chart may indicate that the team will complete 20 backlog items next week, by you empirically know that sickness or vacation or the start of the World Cup will likely decimate that number.
 
 That's an example of empirical knowledge being a much better and a much more informed indicator of future performance than a burn-down chart.
-
-NOTE: The term 'decimate' means to 'reduce by 10%'. It doesn't mean _complete annihilation._
 
 
 === Who Can Cancel a Sprint?

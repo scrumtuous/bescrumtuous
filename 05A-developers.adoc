@@ -1,7 +1,4 @@
-
-
-== Chapter 5
-=== The Developers
+== Chapter 5: The Developers
 
 Scrum has its roots in software development, but the stewards of the framework have worked hard to push Scrum into other domains including:
 

@@ -1,6 +1,4 @@
-
-== Chapter 6
-=== The Product Owner
+== Chapter 6: The Product Owner
 
 It all starts with the Product Owner (PO).
 

@@ -1,5 +1,4 @@
-== Chapter 8
-=== Scrum Events
+== Chapter 8: Scrum Events
 
 The are four events in Scrum that occur within the confines of a Sprint:
 
@@ -32,6 +31,8 @@ ____
 
 .The four Scrum events all take placed within a fifth event known as the Sprint. Each event is timeboxed, which means it cannot exceed the maximum amount of time alloted to it.
 image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
+
+<<<
 
 ==== Test Yourself
 

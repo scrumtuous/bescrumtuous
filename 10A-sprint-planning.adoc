@@ -1,7 +1,5 @@
-:pdf-theme: some-theme.yml
 
-== Chapter 10
-=== Sprint Planning
+== Chapter 10: Sprint Planning
 
 Scrum is simple. It really is.
 
@@ -70,8 +68,11 @@ How do teams avoid being blocked by a dependency their chosen work has on someth
 
 One way to manage these issues is to have representatives from other Scrum Teams attend your team's Sprint Planning meeting. Representatives from other teams can share their progress, insights, and even deliverable dates for dependencies your project might have on their work.
 
-Or better yet, if you know that certain Product Backlog items have dependencies on work that might not get completed by another team by the time you need them, then you can just pick different backlog items to work on. The fewer the dependencies your work has on other teams, the better.
+Or better yet, if you know that certain Product Backlog items have dependencies on work that might not get completed by another team by the time you need them, then you can just pick different backlog items to work on. 
 
+The fewer the dependencies your work has on other teams, the better.
+
+<<<
 ==== Test Yourself
 
 ****

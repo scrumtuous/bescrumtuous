@@ -129,7 +129,6 @@ Option D is correct.
 
 Every product feature that is required remains in the Product Backlog, even if other items consistently have a higher priority.
 
-'''
 
 ==== Test Yourself
 
@@ -173,7 +172,7 @@ Developers do the estimating in Scrum.
 ==== Test Yourself
 
 ****
-Who is responsible for estimating how many Product Backlog Items can be completed in a Sprint?
+Who is responsible for estimating how many Product Backlog Items can be completed in a Sprint? (Choose 1)
 
 * [ ] The Product Owner
 * [ ] The Scrum Master
@@ -212,10 +211,14 @@ ____
 
 Every arrow needs a target.
 
-As the Scrum Team works to build the product, they need to know what the product is that they're building. The Product Goal serves this purpose.
+As the Scrum Team works to build the product, they need to know what the product is that they're building. 
+
+The Product Goal serves this purpose.
 
 
-CAUTION: Need an arrowu7yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
+.The Product Goal is the target to which the Product Backlog aims at.
+image::images/product-goal-backlog.jpg["The Product Goal is the target to which the Product Backlog aims at."]
+
 
 ==== Test Yourself
 
@@ -255,7 +258,7 @@ The Product Goal should represent a relatively stable vision of what the Product
 
 ****
 The Product Backlog has many items that have never been assessed and likely won't be worked on within the next year.
-What should the Product Owner do to clean up the Product Backlog?
+What should the Product Owner do to clean up the Product Backlog? (Choose 1)
 
 * [ ] Create a second Product Backlog and moved these items there
 * [ ] Delete the old items from the Product Backlog
@@ -295,7 +298,7 @@ This section further emphasizes the point that Scrum can be used to develop more
 ==== Test Yourself
 
 ****
-During the Sprint, the product being built has:
+During the Sprint, the product being built will have: (Choose 2)
 
 * [ ] An approved budget
 * [ ] Known stakeholders
@@ -312,6 +315,9 @@ Option D is incorrect because the Scrum Guide insists that the product being bui
 
 '''
 
+TIP: The certification exam will create scenarios that make it sound like it's okay for a Scrum Master or CEO to add items to the Product Backlog. That can never happen. Only the PO can add items to the Product Backlog.
+
+<<<
 
 === A Single, Shared Objective
 
@@ -335,7 +341,7 @@ There is no rule against an individual being on multiple teams with separate obj
 ==== Test Yourself!
 
 ****
-The Product Owner believes the Scrum Team has enough capacity to work on two separate projects concurrently. How do you, as the Scrum Master, advise the Product Owner to go forward with this plan?
+The Product Owner believes the Scrum Team has enough capacity to work on two separate projects concurrently. How do you, as the Scrum Master, advise the Product Owner to go forward with this plan? (Choose 1)
 
 * [ ] Double the timebox for all Scrum events
 * [ ] Create a second Product Backlog for the new project

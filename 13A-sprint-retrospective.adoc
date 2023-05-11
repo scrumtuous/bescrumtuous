@@ -1,7 +1,5 @@
-:pdf-theme: some-theme.yml
 
-== Chapter 13
-=== Sprint Retrospective
+== Chapter 13: Sprint Retrospective
 
 
 When the work is done, and the Sprint Review is complete, it's time for the Scrum Team to circle the wagons and chat a bit about what went right, what went wrong, and what they want to change when the next Sprint begins.

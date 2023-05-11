@@ -1,5 +1,3 @@
-:pdf-theme: some-theme.yml
-
 == Chapter 14: The Scrum Artifacts
 
 There are three Scrum artifacts:

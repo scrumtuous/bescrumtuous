@@ -1,6 +1,4 @@
-
-== Chapter 7
-=== The Scrum Master
+== Chapter 7: The Scrum Master
 
 
 People new to Scrum often assume that the Scrum Master has a great deal of power over other members of the Scrum Team.
@@ -23,17 +21,13 @@ Even when the Scrum Master does do something of substance, such as helping to re
 image::images/scrum-master-guide2.jpg["The Scrum Master coaches others on how to implement Scrum in accordance with the ideas outlined in the Scrum Guide."]
 
 
-==== Scrum Requires a Scrum Master
+=== Scrum Requires a Scrum Master
 
 Every Scrum Team needs a Scrum Master. Scrum Teams have one Scrum Master, one Product Owner and one or more developers.
 
-
-
 [quote, 2020 Scrum Guide page 6]
 ____
-The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. 
-
-They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
 
 The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
 ____

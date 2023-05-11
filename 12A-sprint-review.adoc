@@ -1,6 +1,5 @@
 
-== Chapter 12
-=== Sprint Review
+== Chapter 12: Sprint Review
 
 On any project, not just in the domain of Scrum, stakeholders should continually get updates on the state of the product they've invested in.
 
@@ -67,12 +66,14 @@ There's a small detail left out of this discussion of the Sprint Review which is
 
 [quote, 2020 Scrum Guide page 9]
 ____
-During the event, the Scrum Team and stakeholders review *what was accomplished* in the Sprint and what has changed in their environment. 
+During the event, the Scrum Team and stakeholders review _what was accomplished_ in the Sprint and what has changed in their environment. 
 ____
 
 The term *what was accomplished* is somewhat vague.
 
 We discover in the Scrum Guide's section on artifacts that only completed Increments, that is work items that have met the Definition of Done, are to be presented at the Sprint Review.
+
+<<<
 
 [quote, 2020 Scrum Guide page 12]
 ____

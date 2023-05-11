@@ -1,7 +1,6 @@
 
 
-== Chapter 3 
-=== Scrum Pillars and Values
+== Chapter 3: Scrum Pillars and Values
 
 'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded.
 
