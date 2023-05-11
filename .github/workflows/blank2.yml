@@ -4,6 +4,9 @@ name: Create _thebook.pdf and all other asciidoctor files in the root folder
 on:
   push:
     branches: [ main ]
+    
+    
+    workflow_dispatch:
 
 jobs:
        
