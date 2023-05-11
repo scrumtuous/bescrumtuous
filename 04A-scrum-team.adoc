@@ -17,13 +17,13 @@ ____
 The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of one Scrum Master, one Product Owner, and Developers.
 ____
 
-This is another politically charged couple of lines that need unpacking. 
-
 Take note of the fact that a Scrum team is made up of three things: one Scrum Master, one Product Owner, and multiple Developers.
 
-Notice that I called them 'things.' People like to call them 'roles.' The Scrum Guide never uses the term 'role' once. Technically, these are not roles. The Scrum Guide later refers to them as 'accountabilities.' But they are technically not 'roles.'
+Notice that I called them 'things.' People like to call them 'roles.' The Scrum Guide never uses the term 'role' once. Technically, these are not roles. 
 
-.A Scrum Teams has one Product Owner, one Scrum Master and developers.
+The Scrum Guide later refers to them as 'accountabilities.' They are technically not 'roles.'
+
+.A Scrum Teams has one Product Owner, one Scrum Master and developers. What does your Scrum Team look like?
 image::images/scrum-team.jpg["A Scrum Teams has one Product Owner, one Scrum Master and developers."]
 
 ==== Test Yourself
@@ -31,7 +31,7 @@ image::images/scrum-team.jpg["A Scrum Teams has one Product Owner, one Scrum Mas
 Here's a typical Scrum Certification Exam question that tests your knowledge of the proper structure of a Scrum Team. 
 
 ****
-What is the typical composition of a Scrum Team?
+Which one of the following best describes the typical composition of a Scrum Team?
 
 * [ ] A Scrum team is made up of one Scrum Master, many Product Owners, and many Developers
 * [ ] A Scrum team is made up of one Scrum Master, one Product Owner, and many Developers
@@ -61,7 +61,7 @@ If your project needs testers, blacksmiths, or QA people, then they are consider
 
 If you ever see references to _Quality Assurance Teams_ or _Project Managers_ or _Tester_ roles as options on the Scrum Master certification exam, those options are typically incorrect.
 
-'''
+
 
 <<<
 
@@ -71,13 +71,15 @@ If you ever see references to _Quality Assurance Teams_ or _Project Managers_ or
 
 The software developers on the Scrum Team are frustrated that their time is being consumed by tasks like user documentation and user acceptance testing. They would prefer to concentrate on core development activities.
 
-Which of the following options best describes how a team of software developers should operate under the Scrum framework?
+Which one of the following options best describes how a team of software developers should operate under the Scrum framework?
 
 * [ ] Software developers should do as much development as they can and then pass quality control work off to QA people.
 * [ ] Software developers should only build core features and then allow other to take care of non-functional aspects.
 * [ ] Software developers should outsource work they are not skilled to perform to third parties or external teams.
-* [ ] All work will should completed by developers on a Scrum Team, always ensuring the Definition of Done is met.
+* [ ] All work should be completed by the developers on a Scrum Team, including testing and documentation.
 ****
+
+Option D is correct.
 
 This question is a typical example of a Scrum Master ceritifcation question describing how many software devleopment teams who say they are doing Scrum behave in an attempt to get you to incorrectly answer the question.
 
@@ -110,9 +112,7 @@ What does it mean to say there are no subteams in Scrum?
 
 - It means here is no performance team to do load testing. The development team does that.
 
-If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team.
-
-To be without hierarchies means developers aren't given titles like 'Team Lead' or 'Senior Developer.' Everyone one the team is equal. 
+If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team. To be without hierarchies means developers aren't given titles like 'Team Lead' or 'Sr. Developer.' Everyone on the team is equal. 
 
 ==== Test Yourself
 
@@ -127,6 +127,8 @@ There is an issue. What should you do?
 * [ ] Coach the developers around strategies of how to fix it
 
 ****
+
+Option D is correct.
 
 You should immediately identify the first three options as being wrong because they talk about a senior developer (hierarchy), a QA team (subteam) and a testing team (subteam). 
 
@@ -177,11 +179,8 @@ This may sound like a silly question, but what would happen if you were on a tea
 
 You'd have to research how to do it and figure it out. And if you were hired to build a Mars Orbiter, the assumption is that you are indeed someone smart enough to figure out how to solve that impossible problem.
 
-'''
 
 === Cross-Functional and Self-managed
-
-Here's the official, Scrum Guide definition of what it means to be a cross-functional team:
 
 [quote, 2020 Scrum Guide page 5]
 ____
@@ -194,8 +193,8 @@ Scrum self-describes as an 'incomplete framework.' That means it doesn't have a 
 
 Scrum practitioners are encouraged to 'find their path' and do what works for them. The developers should be allowed to manage themselves as much as possible.
 
-.A cross-functional team has all the skills needed to complete a Product Backlog item from beginning to end.
-image::images/cross-functional-teams.jpg["A cross-functional team has all the skills needed to complete a Product Backlog item from beginning to end."]
+.A cross-functional Scrum Team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)
+image::images/cross-functional-teams.jpg["A cross-functional team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)"]
 
 ==== Test Yourself
 
@@ -210,12 +209,6 @@ Your company just hired 50 new developers. How should they be put into teams?
 
 In this case, option D would be the correct answer. If the teams are truly self-managed, they should be allowed to group in whichever way they see fit. Scrum does limit the size of a team to 10 individuals, so that is the only hard constraint that would be put on the grouping.
 
-'''
-
-
-
-
-
 <<< 
 
 ==== Test Yourself
@@ -224,13 +217,15 @@ In this case, option D would be the correct answer. If the teams are truly self-
 ****
 You, the Scrum Master, come to work on the first day of the new Sprint, and you find out from the Product Owner that the 8-member development team has split up into one group of 3, and another group of 5. The Product Owner is worried about how this will impact the project. 
 
-What would you, as the Scrum Master, do?
+What one option would you, as the Scrum Master, choose?
 
-* [ ] Coach the development team on the importance of staying together as a single, cohesive team.
+* [ ] Coach the developers on the importance of staying together as a single, cohesive team.
 * [ ] Explain that groups can't be broken up midway through the development of a product.
 * [ ] Have Human Resources talk to the developers about making rash, surprise decisions
 * [ ] Allow the team to split up in whatever way they see fit, and coach the Product Owner on the importance of self-managed teams.
 ****
+
+Option D is correct.
 
 In this case, the development team wants to split up into two groups. If that's what they want, then let them do it.
 
@@ -250,12 +245,12 @@ Who has the right to remove a developer from a Scrum Team?
 * [ ] The Scrum Master
 * [ ] The Development Team
 ****
+Option D is correct.
 
 Again, the development team is self-managing. If there is a developer that they believe is best removed from the team, then the developer should be removed from the team. 
 
 That doesn't mean the developer should be fired. Maybe they were under-utilized. Or maybe they somehow impeded progress. But if the development team believes that removing an individual from the team would better serve the Product Goal, then that's a decision the team should be allowed to make.
 
-'''
 
 === Why only 10 to a Scrum team?
 
@@ -263,7 +258,9 @@ The maximum size of a Scrum Team, including the Scrum Master and Product Owner, 
 
 [quote, 2020 Scrum Guide page 5]
 ____
-The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive.
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. 
+
+In general, we have found that smaller teams communicate better and are more productive.
 ____
 
 You'll be tested on the maximum size of a Scrum Team: it's 10 or fewer.
@@ -286,7 +283,8 @@ It's nice to think of the Scrum Master and Product Owner as a dedicated roles. B
 There's absolutely nothing in the Scrum Guide that says a Scrum Master can't also do development, and pragmatically speaking, for many small companies, it's a reality. But regardless of how many people are wearing multiple hats, the total number of people on a Scrum Team should be 10 or less.
 
 
-CAUTION: I would like a three frame image here, maybe a cartoon like before, where the same  person wears a different hat in each picture and the caption says something about how a person can wear different hats on the scrum team.
+.One person may wear different hats and assume multiple roles on a Scrum Team.
+image::images/different-hats.jpg["A single person may wear different hats and assume multiple roles or accountabilities on a Scrum Team."]
 
 <<<
 
@@ -348,7 +346,8 @@ Also notice that when multiple teams work on the same product, they share the sa
 ==== Test Yourself
 
 ****
-Five Scrum Teams are working on the same product. Which of the following statements is not true?
+Five Scrum Teams are working on the same product. Which of the following statements is not true? +
+(Choose 3)
 
 * [ ] Each team must share the same Product Owner
 * [ ] Each team must share the same Scrum Master
@@ -415,13 +414,15 @@ Every skill required to build your product, at least within the scope of your Sc
 
 There are no separate research or development or quality assurance teams in Scrum. The Scrum team is responsible for all of the work on its plate.
 
+
+TIP: Daily reports, status meetings, and allowing managers to attend the Daily Scrum are all practices that run counter to the principles of Scrum. If you ever see options on the exam that suggest such practices, immediately discount them because they are wrong.
+
 <<<
 
 ==== Test Yourself 
-Take this question for example:
 
 ****
-In Scrum, who is responsible for quality control and testing before an Increment is released into production?
+In Scrum, who is responsible for quality control and testing before an Increment is released into production? (Choose 1)
 
 * [ ] The Quality Assurance Team
 * [ ] And external user acceptance testing (UAT) team
@@ -430,7 +431,9 @@ In Scrum, who is responsible for quality control and testing before an Increment
 
 ****
 
-There are no external teams when it comes to Scrum and the product your team is building. All of the skills required to incrementally build the product the Scrum Team is working towards must exist amongst the Scrum Team's developers.
+Option D is correct.
+
+There are no external teams in Scrum. All of the skills required to incrementally build the product must exist amongst the Scrum Team's developers.
 
 '''
 
@@ -459,9 +462,9 @@ How does the organization help to manage the work of the development team?
 * [ ] The organization allows Scrum teams to manage themselves
 ****
 
-The last answer is correct. The best thing an organzation can do to help manage a Scrum Team is to not manage a Scrum Team. 
+Option D is correct. 
 
-By the way, the other three options are all Scrum anti-patterns. Daily reports, status meetings, and sending managers to the Daily Scrum are practices that should not happen.
+The best thing an organzation can do to help manage a Scrum Team is to not manage a Scrum Team. The other three options are all Scrum anti-patterns. 
 
 '''
 
@@ -552,5 +555,5 @@ The answer to this question is C.
 
 Scrum defines 3 accountabilities, not roles.
 
-'''
+
 

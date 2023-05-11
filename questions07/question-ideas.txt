@@ -21,3 +21,7 @@ The Scrum Guide defines Product Backlog refinement as the act of breaking down a
 
 
 What are the commitments?
+
+
+
+The Goal of a Scrum Master is to teach themself out of a job.
