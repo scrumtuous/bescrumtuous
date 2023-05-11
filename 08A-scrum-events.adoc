@@ -15,20 +15,13 @@ ____
 
 The fact that the four events mentioned above all happen within a fifth event known as the Sprint, will likely show up in five or six questions on the Scrum Master Certification exam.
 
-
-.Each Scrum event has a timebox that should not be exceeded.
-image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
-
 === The Sprint Container
 
-The Scrum Guide says Sprint is a container for all other events.
-
-That means the Sprint Review, Sprint Planning, the Sprint Retrospective, and the Daily Scrum all happen within the Sprint.
+The Scrum Guide says Sprint is a container for all other events. That means the Sprint Review, Sprint Planning, the Sprint Retrospective, and the Daily Scrum all happen within the Sprint.
 
 - None of the Scrum events happen before the Sprint.
 - None of the Scrum events happen after the Sprint
 - Nothing in Scrum happens at the moment where one Sprint ends and the next Sprint begins
-
 
 
 [quote, 2020 Scrum Guide page 7]
@@ -39,25 +32,30 @@ All the work necessary to achieve the Product Goal, including Sprint Planning, D
 ____
 
 
+.The four Scrum events all take placed within a fifth event known as the Sprint. Each event is timeboxed, which means it cannot exceed the maximum amount of time alloted to it.
+image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
 
 ==== Test Yourself
 
 ****
-The team wants to update their Definition of Done. When is the right time to make this change?
+The team wants to update their Definition of Done. When is the right time to make this change? +
 (Choose 1)
 
 
 * [ ] Any time after the current Sprint ends so long as it happens before the next Sprint starts.
 * [ ] During the current Sprint's Sprint Retrospective.
 * [ ] Immediately after the current Sprint ends, and before the next Sprint begins.
+* [ ] Any time between Sprints.
 
 ****
 
-Since nothing happens before or after a Sprint, the first three options are incorrect.
-
 The correct answer is B. 
 
+Since nothing happens before or after a Sprint, the first three options are incorrect.
+
 The Sprint Retrospective is the right time to update the team's Definition of Done.
+
+Don't be caught off guard by the fact that this question is talking about the Definition of Done (DoD), something we don't cover until much later. The question isn't testing you on your knowledge of the Definition of Done. It's testing you on your understanding of how the Sprint works.
 
 '''
 
@@ -87,7 +85,11 @@ Any time a Scrum Team recognizes a change that demands a response, the team shou
 ==== Test Yourself
 
 ****
-True or False: Only the Sprint Review provides the opportunity for the team to inspect and adapt.
+Only the Sprint Review provides the opportunity for the team to inspect and adapt.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false. 
@@ -121,6 +123,8 @@ That doesn't sound like too many meetings to me. In fact, it sounds like it's ex
 The meetings that Scrum does have are intended to have maximum effectiveness on transparency, while at the same time eliminating the need for other meetings.
 
 Teams that complain about Scrum having too many meetings probably aren't doing Scrum properly.
+
+<<<
 
 ==== Test Yourself
 

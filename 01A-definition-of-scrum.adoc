@@ -211,7 +211,7 @@ ____
 ==== Test Yourself
 
 ****
-Which of the following descriptions is true? +
+Which of the following statements are true about the Scrum framework? +
 (Choose 2)
 
 * [ ] Scrum describes an iterative process
