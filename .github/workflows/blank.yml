@@ -1,5 +1,5 @@
 # Publish GitHub workflow artifacts tutorial example
-name: Publish GitHub Actions Artifacts Example
+name: Use acsciidoctor-pdf to create the _ebook.pdf file. 
 
 on:
   push:

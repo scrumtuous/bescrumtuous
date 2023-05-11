@@ -1,5 +1,5 @@
 # Publish GitHub workflow artifacts tutorial example
-name: Publish GitHub Actions Artifacts Example
+name: Create _thebook.pdf and all other asciidoctor files in the root folder
 
 on:
   push:
