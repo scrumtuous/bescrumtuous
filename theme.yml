@@ -45,7 +45,6 @@ header:
     left:
       content: 'Be @Scrumtuous.'
 footer:
-  background-image: image:running-content-bg-{page-layout}.svg[]
   height: 0.55in
   line-height: 1
   recto:
