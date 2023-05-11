@@ -13,8 +13,6 @@ ____
 The Sprint is a container for all other events.
 ____
 
-The fact that the four events mentioned above all happen within a fifth event known as the Sprint, will likely show up in five or six questions on the Scrum Master Certification exam.
-
 === The Sprint Container
 
 The Scrum Guide says Sprint is a container for all other events. That means the Sprint Review, Sprint Planning, the Sprint Retrospective, and the Daily Scrum all happen within the Sprint.
@@ -38,7 +36,7 @@ image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
 ==== Test Yourself
 
 ****
-The team wants to update their Definition of Done. When is the right time to make this change? +
+The team wants to update their Definition of Done. When is the right time to make this change? 
 (Choose 1)
 
 
@@ -124,12 +122,15 @@ The meetings that Scrum does have are intended to have maximum effectiveness on 
 
 Teams that complain about Scrum having too many meetings probably aren't doing Scrum properly.
 
+
+WARNING: Every event in Scrum is required. You can never allow any Scrum event to be skipped. Doing so is ScrumBut. You know, 'We do Scrum, BUT we don't to retrospectives.' Avoid ScrumBut at all costs.  
+
 <<<
 
 ==== Test Yourself
 
 ****
-The CTO wants to schedule afternoon status meetings with the dev team to monitor the progress of an important feature. What should the Scrum Master do?
+The CTO wants to schedule afternoon status meetings with the dev team to monitor the progress of an important feature. What should you, the Scrum Master, do? (Choose 1)
 
 * [ ] Allow the afternoon meetings to take place until the feature is complete
 * [ ] Invite the CTO to participate in the Daily Scrum in place of the afternoon meetings
@@ -141,9 +142,7 @@ Option C is correct.
 
 When stakeholders attempt to manage the Scrum Developers, it is often because they want more transparency into what is happening in terms of product development.
 
-Scrum already provides enough meetings, in the form of events, to allow for transparent inspection of progress. Scrum artifacts like the Product Backlog and the Increment also provide transparency and openness.
-
-If a stakeholder is concerned about transparency, a Scrum Master should coach the individual on how existing events and artifacts should provide all the transparency they need.
+Scrum already provides enough meetings, in the form of events, to allow for transparent inspection of progress. Scrum artifacts like the Product Backlog and the Increment also provide transparency and openness. If a stakeholder is concerned about transparency, a Scrum Master should coach the individual on how existing events and artifacts should provide all the transparency they need.
 
 '''
 
@@ -172,7 +171,7 @@ I mean, if the place you typically hold the Daily Scrum is being fumigated, it's
 ****
 The development team wants to move Friday's Daily Scrum, which normally takes place at 1pm, to 8 am so developers can leave work early for the weekend.
 
-How do you respond as the Scrum Master?
+How do you respond as the Scrum Master? (Choose 1)
 
 * [ ] Respect the self-managing Scrum Team and reschedule Friday's Daily Scrum
 * [ ] Change the time of the Daily Scrum to 8am for every day of the week
