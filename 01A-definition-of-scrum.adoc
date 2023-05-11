@@ -105,6 +105,9 @@ You'll get beaten with a stick if any of the Scrum gatekeepers ever hear you cal
 '''
 
 
+TIP: It often helps to think about certification exam questions outside of the software development domain. Think of a question in terms of building a house or building a shelter on a deserted island and answers may become more clear.
+
+<<<
 
 === Scrum is a Framework
 
@@ -156,7 +159,6 @@ Any references to Scrum being a methodology, a process, or a framework that targ
 
 image::images/scrum-incomplete.png["Scrum is an incomplete framework."]
 
-<<<
 
 === Iterative and Incremental
 
