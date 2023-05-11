@@ -38,7 +38,7 @@ So please, read the Scrum Guide a few times before jumping deep into this book. 
 
 With that foundation, we'll be able to dig much deeper into the significance of these terms. Now let's get started with the Scrum Guide!
 
-.Try to hit as many learning modalities as you can.
+.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
 image::images/read-guide.png["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
 
