@@ -45,7 +45,7 @@ If a given tool is causing an immediate problem and creating a blocker or impedi
 ==== Test Yourself
 
 ****
-The developers are not happy with how the Sprint framework has been implemented. When is the best time to discuss this?
+The developers are not happy with how the Sprint framework has been implemented. When is the best time to discuss this? (Choose 1)
 
 * [ ] During the Sprint Review
 * [ ] During the Daily Scrum
@@ -112,7 +112,7 @@ This is the only instance I can think of where a Sprint Backlog item can be carr
 Focus is an important part of the Scrum framework. 
 
 Scrum Teams are expected to stay focused on the current Sprint.
-When during the Sprint are developers expected to be thinking about the next Sprint?
+When during the Sprint are developers expected to be thinking about the next Sprint? (Choose 2)
 
 * [ ] During Sprint planning before the Sprint begins
 * [ ] During the Sprint Review as they collaborate on what to do next
@@ -125,12 +125,12 @@ Options B and C are correct.
 
 During the Sprint Review, the Scrum Team collaborates with stakeholders and discusses what to do next, and in the Sprint Retrospective, the Scrum Team may add strategies for improvement to the next Sprint's backlog.
 
-'''
+<<<
 
 ==== Test Yourself
 
 ****
-The Scrum Team has come up with two great ideas on how to improve their processes during the Sprint Retrospective. What should they do with these ideas?
+The Scrum Team has come up with two great ideas on how to improve their processes during the Sprint Retrospective. What should they do with these ideas? (Choose 1)
 
 * [ ] Add them to the current Sprint Backlog
 * [ ] Add them to the current Product Backlog
@@ -138,6 +138,8 @@ The Scrum Team has come up with two great ideas on how to improve their processe
 * [ ] Add them to the next Sprint's Backlog
 
 ****
+
+Option D is correct.
 
 According to the Scrum Guide, great ideas that come out in the Sprint Retrospective can be placed in the Sprint Backlog of the next Sprint.
 
@@ -148,7 +150,11 @@ According to the Scrum Guide, great ideas that come out in the Sprint Retrospect
 
 [quote, 2020 Scrum Guide page 10]
 ____
-The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+The Sprint Retrospective concludes the Sprint. 
+
+It is timeboxed to a maximum of three hours for a one-month Sprint. 
+
+For shorter Sprints, the event is usually shorter.
 ____
 
 The Sprint Retrospective is the last timeboxed event mentioned in the Scrum Guide. If you're keeping track, the length of the events in Scrum are:
@@ -168,11 +174,12 @@ Once the Sprint Retrospective ends, the Sprint is over and the next Sprint begin
 
 Every event happens within the scope of a Sprint in Scrum. When one Sprint ends, the next one starts immediately.
 
+<<<
 
 ==== Test Yourself
 
 ****
-Which Scrum event marks the end of the Sprint?
+Which Scrum event marks the end of the Sprint? 
 
 * [ ] Sprint Planning
 * [ ] Sprint Review
@@ -180,6 +187,8 @@ Which Scrum event marks the end of the Sprint?
 * [ ] Sprint Deployment
 
 ****
+
+Option C is correct.
 
 The final event in the Sprint is the Sprint Retrospective.
 
@@ -207,7 +216,7 @@ A new Sprint begins immediately after the Sprint Retrospective is over.
 
 
 ****
-What is the order, from longest to shortest?
+What is the correct order, from longest to shortest?
 
 * [ ] Sprint, Review, Retrospective, Planning
 * [ ] Sprint, Planning, Review, Retrospective
@@ -219,12 +228,7 @@ What is the order, from longest to shortest?
 
 Option B is correct.
 
-- Sprint - up to 1 month
-- Planning - up to 8 hours
-- Review - up to 4 hours
-- Retrospective - up to 3 hours
-
-'''
+<<<
 
 ==== Test Yourself
 

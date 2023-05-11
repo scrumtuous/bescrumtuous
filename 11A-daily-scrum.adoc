@@ -24,6 +24,7 @@ ____
 .The purpose of the Daily Scrum is for the Developers to metaphorically get the ball moving again.
 image::images/daily-scrum-ball-moving.jpg["The Daily Scrum gets the ball moving again."]
 
+<<<
 
 === Adapting to Change
 
@@ -52,7 +53,6 @@ ____
 
 All Scrum events are supposed to be held at the same time and in the same location. This applies to the Daily Scrum as well.
 
-<<<
 
 === Demystifying the Daily Scrum
 
@@ -60,9 +60,7 @@ Let's get real about the Daily Scrum for a minute.
 
 People always complain that Scrum has too many time wasting meetings. When they say that, they're usually talking about the Daily Scrum.
 
-If your Daily Scrum feels like a waste of time, you're doing the Daily Scrum wrong.
-
-The Daily Scrum shouldn't feel like a formal, highly structured meeting. The Daily Scrum should feel casual and natural.
+If your Daily Scrum feels like a waste of time, you're doing the Daily Scrum wrong. The Daily Scrum shouldn't feel like a formal, highly structured meeting. The Daily Scrum should feel casual and natural.
 
 Scrum doesn't try to put an overwhelming amount of structure and ceremony around the development process. At it's heart, Scrum just says:
 
@@ -126,7 +124,7 @@ Scrum doesn't have too many meetings. Scrum gets it just about right.
 ==== Test Yourself
 
 ****
-Which of the following is the responsibility of the Scrum Master with regards to the Daily Scrum?
+Which one of the following is the responsibility of the Scrum Master with regards to the Daily Scrum?
 
 * [ ] The Scrum Master should coach the developers about keeping the Daily Scrum timeboxed to 15 minutes
 * [ ] The Scrum Master should ensure each developer gets a chance to speak
@@ -153,19 +151,24 @@ They can be asked if the developers find them helpful, but they are certainly no
 
 '''
 
-
+.The Daily Scrum is for the developers and managed by the developers. If the Scrum Master or the Product Owner attends, they do so at the behest of the Developers.
+image::images/developers-in-scrum.jpg["The Daily Scrum is for the developers. Neither the Scrum Master nor the Product Owner is required to attend."]
 
 ==== Test Yourself
 
 ****
-The development team has decided to only work one day a week and will only hold the Daily Scrum on Mondays. How do you react as a Scrum Master?
+The development team has decided to only work one day a week and will only hold the Daily Scrum on Mondays. 
+
+How do you react as a Scrum Master? (Choose 1)
 
 * [ ] Inform the team Scrum development cannot happen only one day a week
 * [ ] Have Human Resources talk to the development lead about their proposed work schedule
 * [ ] Cancel the Sprint and consult the Product Owner
-* [ ] Inform the team this is fine so long as the work takes place on Monday
+* [ ] Inform the team this is fine so long as the only workday is Monday
 
 ****
+
+Option D is correct.
 
 There's nothing in the Scrum Guide that forbids a team from working only one day a week.
 
@@ -178,10 +181,11 @@ ____
 
 '''
 
+
 ==== Test Yourself
 
 ****
-The Scrum team wants to move the Daily Scrum to the atrium on Fridays to help them wind down after a busy workweek. How do you, as a Scrum Master, respond?
+The Scrum team wants to move the Daily Scrum to the atrium on Fridays to help them wind down after a busy workweek. How do you, as a Scrum Master, respond? (Choose 1)
 
 * [ ] Explain to them that the Daily Scrum should always take place at the same time and place
 * [ ] Allow the developers to be self-managed and hold their Daily Scrum in the Atrium on Fridays
@@ -284,4 +288,3 @@ If a critical bug appears in your code, and you think it will impact the Sprint 
 
 Don't ever let the Scrum Guide and the various Scrum events and artifacts impede pragmatic thinking. If a problem arises that needs to be taken care of immediately, take care of it immediately. Don't wait for the next Scrum event to adapt.
 
-'''

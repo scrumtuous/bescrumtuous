@@ -1,5 +1,4 @@
-== Chapter 15
-=== The Product Backlog
+== Chapter 15: The Product Backlog
 
 The Product Owner is the one member of the Scrum Team who is tasked solely with the job of 'optimizing the value of the work done by the Scrum Team.'
 
@@ -19,6 +18,8 @@ This definition makes it clear that the Product Backlog is the list of the featu
 
 .The Product Owner is accountable for the Product Backlog. (Image from Freepik.com)
 image::images/emergent-list.png["The Product Owner manages the Product Backlog."]
+
+=== Ordered, Prioritized List of Features
 
 This definition also demands that the list be ordered, in a priority  sequence. The most important items are at the top.
 
@@ -97,7 +98,7 @@ ____
 ==== Test Yourself
 
 ****
-Breaking Product Backlog items selected for the Sprint down into smaller work items of one day or less is called:
+Breaking Product Backlog items selected for the Sprint down into smaller work items of one day or less is called: (Choose 1)
 
 * [ ] Grooming
 * [ ] Refinement
@@ -115,7 +116,7 @@ The Scrum Guide describes decomposition as breaking "Product Backlog items into 
 ==== Test Yourself
 
 ****
-A Product Backlog item has remained untouched for over a year, and there are no plans for the developers to work on this item within the next 12 months. What should the Product Owner do with this Product Backlog item?
+A Product Backlog item has remained untouched for over a year, and there are no plans for the developers to work on this item within the next 12 months. What should the Product Owner do with this Product Backlog item? (Choose 1)
 
 * [ ] Remove the Product Backlog item
 * [ ] Create a separate, low-priority Product Backlog to track items like this

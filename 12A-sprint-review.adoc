@@ -6,15 +6,15 @@ On any project, not just in the domain of Scrum, stakeholders should continually
 
 That's one of the ideas behind the continuous delivery of software - to constantly deliver software to your clients and stakeholders every time a new feature or Increment of value has been completed.
 
+.The Sprint Review is the second-last Scrum event to take place within the Sprint.
+image::images/chart-sprint-review.jpg["The Sprint Review is the second-last Scrum event to take place within the Sprint."]
+
 The more often the stakeholders see new features added to the product, the more in tune they will be with the pace at which the project is progressing.
 
 Regular updates allow stakeholders to inspect what has been completed and provide feedback so the team can adapt accordingly.
 
 The Sprint Review exists to make sure stakeholders get at least one chance to inspect the work completed during every Sprint.
 
-
-.The Sprint Review is the second-last Scrum event to take place within the Sprint.
-image::images/chart-sprint-review.jpg["The Sprint Review is the second-last Scrum event to take place within the Sprint."]
 
 === Review, Inspect and Adapt
 
@@ -38,7 +38,7 @@ The Sprint Review intentionally and concertedly brings everyone together once pe
  
 The more openness and transparency the better, as far as Scrum is concerned.
 
-<<<
+
 
 ==== Test Yourself
 
@@ -99,20 +99,6 @@ If the stakeholders don't like the direction development is taking and want some
 
 The Sprint Review helps create transparency, is an opportunity for inspection, and allows for adaptation.
 
-=== Sprint Review != a Presentation
-
-[quote, 2020 Scrum Guide page 9]
-____
-The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
-____
-
-The Scrum Master Certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a _demo_ or deliver a _presentation._ Don't fall for that bait. The Sprint Review is much more than just a presentation to stakeholders.
-
-The purpose of the Sprint Review is to inspect the work that was performed during the Sprint and adapt according to feedback received from the stakeholders. At the end of a Sprint Review, the stakeholders should know what was done during the Sprint, and the Scrum Team should have a better idea of what they should be working on next.
-
-.Death by Powerpoint is not a great way to run a Sprint Review. (Image from Freepik.com)
-image::images/death-by-ppt.png["Death by Powerpoint."]
-
 [quote, 2020 Scrum Guide page 9]
 ____
 The Sprint Review is the second to last event of the Sprint and is time-boxed to a maximum of four hours for a one-month Sprint. 
@@ -136,12 +122,32 @@ Which of the following Scrum events are time-boxed to 4 hours?
 
 ****
 
-The Sprint Review is time-boxed to 4 hours. 
+Option A is correct. Only the Sprint Review is time-boxed to 4 hours. 
 
 The Sprint Retrospective is 3 hours. 
 
 The Sprint Planning event is capped at 8 hours, and the Daily Scrum is 15 minutes.
 
 '''
+
+=== The Sprint Review is not Simply a Presentation
+
+[quote, 2020 Scrum Guide page 9]
+____
+The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
+____
+
+The Scrum Master Certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a _demo_ or deliver a _presentation._ Don't fall for that bait. 
+
+The Sprint Review is much more than just a presentation to stakeholders.
+
+.Death by Powerpoint is not a great way to run a Sprint Review.
+image::images/death-by-ppt.png["Death by Powerpoint."]
+
+The purpose of the Sprint Review is to inspect the work that was performed during the Sprint and adapt according to feedback received from the stakeholders. At the end of a Sprint Review, the stakeholders should know what was done during the Sprint, and the Scrum Team should have a better idea of what they should be working on next.
+
+
+
+
 
 When the Sprint Review is complete, it's time for the team to do a Sprint Retrospective, after which the Sprint comes to an end.
