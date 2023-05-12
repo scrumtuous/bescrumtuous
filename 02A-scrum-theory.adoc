@@ -9,6 +9,7 @@ ____
 Scrum is founded on empiricism and lean thinking. 
 
 Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. 
+
 Lean thinking reduces waste and focuses on the essentials.
 ____
 
@@ -18,7 +19,7 @@ Fundamentally, empiricism means using your six senses to understand the situatio
 
 In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience, and verifiable facts.
 
-Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection, and adaptations. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. 
+Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection, and adaptation. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. 
 
 Empirical analysis of your current situation is a more effective way to make decisions than following a plan written up six months ago, or making decisions based on trendlines on a historical chart.
 
@@ -27,7 +28,7 @@ Empirical analysis of your current situation is a more effective way to make dec
 
 Here's an example of the application of empiricism.
 
-Imagine you have a burndown chart that says you are completing 10 stories a Sprint. How many stories do you think you'll complete in the next Sprint?
+Imagine you have a burndown chart that says you are completing 10 items Sprint. How many items do you think you'll complete in the next Sprint?
 
 You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses. Charts may be predictive, but they're not empirical.
 
@@ -60,7 +61,7 @@ Scrum theory emphasizes empiricism. That means a decision made by Scrum teams: +
 
 ****
 
-Options a, c, and e are correct.
+Options A, C, and E are correct.
 
 Empiricism is all about using your experience, your gained knowledge, and verifiable observations (which is sorta the same as 'experience') to make decisions.
 
@@ -96,16 +97,16 @@ In this case, A and C are correct.
 
 Efficiency, waste reduction, and the elimination of unnecessary steps within a process are all hallmarks of lean thinking.
 
-By the way, the old Scrum Guide use to talk about the importance of servant leadership. That's still important, but it's just not part of the Guide anymore. 
+The old Scrum Guide use to talk about the importance of _servant leadership._ That's still important, but it's been rephrased in the 2020 Scrum Guide. Now we talk about 'leaders who serve.'
 
-The 'Command and Control' approach that perhaps the military takes is the opposite of 'servant leadership.'
+The 'Command and Control' approach that the military takes is the opposite of 'servant leadership,' so option B is incorrect.
 
 The last option describes the Waterfall methodology, which is the antithesis of the Scrum framework.
 
-Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comfortable with these two terms and understand their basic meaning to score a few easy marks on the Scrum Certification Exam.
+Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comfortable with these two terms and understand their basic meaning to score a few easy marks on the Scrum Master certification exam.
 
 
-'''
+
 
 === Predictability and Risk
 

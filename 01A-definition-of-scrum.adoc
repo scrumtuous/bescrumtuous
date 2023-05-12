@@ -46,7 +46,7 @@ image::images/read-guide.png["Please read the Scrum Guide a few times. It's only
 
 How would you define Scrum?
 
-To be successful on the Scrum Master Certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning many biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
+To be successful on the Scrum Master Certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning the biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
 
 Here's the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must 100% commit to right now if you want to pass the Scrum Master certification exam.)
 
@@ -70,13 +70,14 @@ Whoever crafted that definition tried to make it as general and all-encompassing
 
 But this is the definition we have, and this is the definition you will be tested on.
 
-A couple of things to notice about the official definition of Scrum:
+==== The Words Not Spoken
 
-- The definition never mentions software development
-- The definition calls Scrum a framework, not a process or methodology
+The Scrum Guide say a lot in its brief 13 pages, but sometimes it's more interesting to focus on what the Scrum Guide _doesn't_ say. Notice how:
 
+- The official definition of Scrum never mentions software development
+- The official definition calls Scrum a _framework,_ not a process or methodology
 
-Given that definition of Scrum, how would you answer the following question?
+Given the official definition of Scrum, how would you answer the following question?
 
 '''
 
@@ -90,9 +91,7 @@ Scrum is a proven software development process.
 
 ****
 
-The answer is false.
-
-Scrum is not a process, nor does it specifically target software development.
+The answer is false. Scrum is not a process, nor does it specifically target software development.
 
 You'll get beaten with a stick if any of the Scrum gatekeepers ever hear you call Scrum a process or a methodology. Scrum is a lightweight, incomplete framework. 
 
@@ -151,18 +150,18 @@ Which one of the following statements most accurately reflects the definition of
 
 Option C is correct. 
 
-The Guide very vaguely describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." 
+The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." 
 
-Any references to Scrum being a methodology, a process, or a framework that targets software development will always be a wrong answer on the Scrum Certification exam.
+Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
 
-'''
+<<<
 
 image::images/scrum-incomplete.png["Scrum is an incomplete framework."]
 
 
 === Iterative and Incremental
 
-According to the Guide, here's a high-level overview of how Scrum is supposed to work.
+According to the Scrum Guide, here's a high-level overview of how Scrum is supposed to work.
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -178,17 +177,17 @@ The name 'Scrum Master' sounds intimidating.
 
 People think that since the term 'master' is in the name, the Scrum Master controls everything.
 
-The Scrum Master controls very little. Their only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
+The Scrum Master controls very little. 
+
+The Scrum Master's only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
 
 <<<
 
 === Scrum is Simple
 
-Many people overthink things in Scrum. 
+People tend to overthink Scrum. 
 
-People think there are a bunch of rules they have to follow if they want to use Scrum.
-
-The fact is, there are very few rules in Scrum. The brevity of the Scrum Guide is proof of that.
+People think there are a bunch of rules they have to follow if they want to use Scrum. The fact is, there are very few rules in Scrum. The brevity of the Scrum Guide is proof of that.
 
 Scrum is pretty simple, and when problems arise, it's pretty pragmatic too.
 
@@ -217,16 +216,15 @@ Which of the following statements are true about the Scrum framework? +
 * [ ] C) Scrum generates value by repeatedly delivering usable increments to the stakeholders
 * [ ] D) Scrum only allows stakeholders to inspect progress when the final product is delivered
 ****
-Options C and D are correct.
+Options B and C are correct.
 
-Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
+Scrum describes a set of steps that are to be repeated again and again. That makes Scrum _iterative._ But Scrum's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
 
-Scrum is also an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum team can then adapt.
+Scrum is also an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum Team can then adapt.
 
 That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
 
-
-TIP: Waterfall gets its name from the fact that isolated development stages like planning and design flow down, into each other, in only one direction, just like water in a waterfall.
+TIP: Waterfall gets its name from the fact that isolated development phases like planning and design flow into each other, in only one direction, just like water in a waterfall.
 
 <<<
 
@@ -236,7 +234,7 @@ People often look to the Scrum Guide for definitive answers to things. The Scrum
 
 It's a guide, not a rulebook.
 
-The Scrum Guide even promises __not__ to be heavy on rules in this paragraph, saying that it promises not to 'provide people with detailed instructions.'
+The Scrum Guide even promises __not__ to be heavy on rules, saying that it promises _not_ to 'provide people with detailed instructions.'
 
 There are very few actual rules in the 13-page Scrum Guide.
 
@@ -250,7 +248,7 @@ True or False: Scrum is a complete and proven framework that helps teams achieve
 
 This is false. 
 
-Scrum self-identifies as an incomplete framework.
+Scrum self-identifies as a _purposefully incomplete_ framework.
 
 This fact seems counter-intuitive to many. After all, 
 
@@ -280,7 +278,7 @@ Since Scrum is a framework, not a process, other processes can be used within it
 
 For example, people often think Kanban is a competitor to Scrum, but there is nothing that says Scrum and Kanban can't be used together.
 
-If you're not familiar with Kanban, don't worry. Kanban is never mentioned in the Scrum Guide and it will never be a 'correct answer' on the Scrum certification exam.
+If you're not familiar with Kanban, don't worry. Kanban is never mentioned in the Scrum Guide, and for the Scrum Master certification exam, all you need to know is that it's an alternate development strategy.
 
 ==== Test Yourself
 
@@ -299,19 +297,17 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 ==== Test Yourself
 
 ****
-True or False: When implemented properly, Scrum will expose ineffective management techniques that may not have anything to do with software development.
+True or False: When implemented properly, Scrum has the capaticy to expose ineffective management.
 
 ****
 
-First of all, Scrum is not just about software development.
+This is true. 
 
-The people who oversee the Scrum framework are pushing hard to have Scrum used in all areas of industry and manufacturing. To be successful on the Scrum certification exam, get the idea out of your head that Scrum is just about software development. It's not.
-
-And secondly, the iterative and incremental nature of Scrum, where there is constant inspection and adaptation is supposed to shine a light on practices external to Scrum that may be ineffective. 
+The iterative and incremental nature of Scrum, where constant inspection and adaptation is encouraged, will shine a light on ineffective practices that happen external to the Scrum Team. 
 
 That's what the Scrum Guide means when it says "Scrum makes visible the relative efficacy of current management, environment, and work techniques so that improvements can be made."
 
-We're done with the definition of Scrum. 
+And with that question answered, we're done with the definition of Scrum. 
 
 Now on to a little overview of what Scrum theory is and what it's based on.
 
