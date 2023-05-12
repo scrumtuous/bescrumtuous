@@ -60,7 +60,7 @@ However, the Product Owner wants to get the first Sprint, and the first incremen
 
 Option D is correct.
 
-The job of the Scrum Master is large to coach, facilitate and help both the Scrum Team and the organization understand how Scrum works.
+The job of the Scrum Master is to coach, facilitate, and help both the Scrum Team and the organization understand how Scrum works.
 
 A Scrum Master does not:
 
@@ -119,7 +119,7 @@ The Scrum Master serves the Scrum Team in several ways, including:
 
 - Coaching the team members in self-management and cross-functionality;
 - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
-- Causing the removal of impediments to the Scrum Team’s progress; and,
+- Causing the removal of impediments to the Scrum Team’s progress;
 - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 
 ____
@@ -195,7 +195,7 @@ Impediments that fall outside the context of Scrum are not typically things the 
 
 The Scrum Master works to cause the removal of blockers that slow the team down, but only within the context of the Scrum Guide and the Scrum framework. 
 
-Removing blockers typically involves coaching, helping and educating others about Scrum. It doesn't involve doing people's jobs for them. That's enablement, not impediment removal.
+Removing blockers typically involves coaching, helping, and educating others about Scrum. It doesn't involve doing people's jobs for them. That's enablement, not impediment removal.
 
 ==== Test Yourself
 
