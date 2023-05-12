@@ -140,12 +140,12 @@ Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls 
 '''
 
 
-.The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub.
+.The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
 image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)"]
 
 
 <<<
-
+ 
 === Cross-functional Scrum Teams
 
 The importance of the concept of cross-functional teams that can accomplish everything required of them without resorting to third parties our outsourced help can't be emphasized enough for people who wish to pass the Scrum Certification exam.
@@ -469,7 +469,7 @@ Option D is correct.
 
 The best thing an organzation can do to help manage a Scrum Team is to not manage a Scrum Team. The other three options are all Scrum anti-patterns. 
 
-'''
+<<<
 
 ==== Test Yourself
 

@@ -12,3 +12,4 @@ include::03A-scrum-pillars-and-values.adoc[]
 include::04A-scrum-team.adoc[]
 
 
+ 
