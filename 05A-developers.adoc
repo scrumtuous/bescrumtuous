@@ -177,7 +177,7 @@ In Scrum, the Sprint Backlog is the developer's plan. The developers can update 
 === Interpersonal Accountability
 [quote, 2020 Scrum Guide page 5]
 ____
-Developers are always responsible for holding each other accountable as professionals.
+Developers are always accountable for holding each other accountable as professionals.
 ____
 
 You are guaranteed to get a question on the Scrum Certification exam about who holds the developers accountable for monitoring or tracking their progress. 
