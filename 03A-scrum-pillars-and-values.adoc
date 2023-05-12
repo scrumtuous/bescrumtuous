@@ -182,7 +182,7 @@ Which of the following problems will occur if product development lacks transpar
 
 Option E) is correct.
 
-Without transparency, it is impossible to know exactly what is happening throughout the development process. This destroys trust, makes honest inspection impossible and prompts management to want to micro-mange developers.
+Without transparency, it is impossible to know exactly what is happening throughout the development process. This destroys trust, makes honest inspection impossible and prompts management to want to micro-manage developers.
 
 The state of progress of the Scrum Team must be transparent to all, otherwise the team and the stakeholders don't have the facts they need to make the right decisions for the future of the product.
 
@@ -313,11 +313,11 @@ For the exam, know the Scrum values and how each of them is defined. There is us
 ==== Test Yourself
 
 ****
-According to the Scrum Guide, which of the following is not a Scrum Value? (Choose 5)
+According to the Scrum Guide, which of the following is *not* a Scrum Value? (Choose 5)
 
 * [ ] A) Agreeableness
 * [ ] B) Commitment
-* [ ] D) Conscientiousness
+* [ ] C) Conscientiousness
 * [ ] E) Openness
 * [ ] E) Respect
 * [ ] F) Extroversion
