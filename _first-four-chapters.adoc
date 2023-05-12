@@ -1,4 +1,4 @@
-= Scrum Certification Guide
+= Scrum Master Certification Guide
 :doctype: book
 
 image::_ebook.pdf[pages=5..9]

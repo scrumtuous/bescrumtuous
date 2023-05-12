@@ -8,8 +8,8 @@ The 'Scrum Pillars' don't constitute a specific category, but they frequently we
 
 Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Master certification exam.
 
-.The five Scrum values are: commitment, focus, openness, respect and courage. The Scrum pillars are transparency, inspection and adaptation.
-image::images/scrum-values-medall.jpg["The five Scrum values are: commitment, focus, openness, respect and courage."]
+.The Scrum pillars and values justify the need for the various Scrum events.
+image::images/scrum-values-medall.jpg["The five Scrum values are: commitment, focus, openness, courage and respect."]
 
 === The Scrum Pillars
 

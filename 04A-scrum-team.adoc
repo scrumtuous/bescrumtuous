@@ -55,7 +55,7 @@ There are also no:
 - Engineers
 - Plumbers
 - Carpenters
-- Rocket scientists or
+- Rocket Scientists or
 - Hairdressers referenced in the Scrum Guide. 
 
 If people with those skills are required to build the product you're working on, then they all fall under the term 'Developer.' There are no separate _Quality Assurance (QA)_ people or _Business Analysts_ in Scrum. There are no separate testing teams. 
@@ -68,7 +68,7 @@ If you ever see references to _Quality Assurance Teams_ or _Project Managers_ or
 
 <<<
 
-==== Test Yourself
+==== Test Yourself 
 
 ****
 
@@ -561,9 +561,9 @@ Be as exact as possible when you answer this question. The Scrum Guide defines:
 * [ ] D) 4 Accountabilities
 ****
 
-The answer to this question is C. 
+The answer to this question is C. Scrum defines 3 accountabilities, not roles. 
 
-Scrum defines 3 accountabilities, not roles.
+Throughout this book I hope you'll allow me to use the terms 'roles' and 'accountabilities' interchangeably. 'Roles' just sounds more natural. Just be aware of the distinction on the exam.
 
 
 
