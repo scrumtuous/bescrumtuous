@@ -28,15 +28,15 @@ Along with downloading it, you should also _read_ the Scrum Guide before you dig
 
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
-For example, the first paragraph in the Scrum talks about the Product Owner and Product Backlog items. Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
+For example, the first paragraph in the Scrum talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
 
-I don't like that. If you're going to bring up a topic, you should address it and describe it the first time it's mentioned. I don't like saying 'this is really, really important, but we'll cover that later.' If it's important, cover it now.
+I don't like that. If you're going to bring up a topic, you should address it and explain it the first time it's mentioned. I don't like saying 'this is really, really important, but we'll cover that later.' If it's important, cover it now.
 
 Having said that, this certification guide dissects the Scrum Guide, one line at a time, from the beginning to the end. That forces me to follow the layout of the guide, despite the fact that if it was up to me, I would have written it a bit differently.
 
-So please, read the Scrum Guide a few times before jumping deep into this book. That way you'll have a better idea of what phrases like 'the Sprint Goal' and 'a usable Increment' mean.
+So please, read the Scrum Guide a few times before jumping deep into this book. That way you'll have a better idea of what phrases like _the Sprint Goal_ and _a usable Increment_ mean.
 
-With that foundation, we'll be able to dig much deeper into the significance of these terms. Now let's get started with the Scrum Guide!
+With that foundation, we'll be able to dig much deeper into the significance of these interesting and important terms. Now let's get started with the Scrum Guide!
 
 .Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
 image::images/read-guide.png["Please read the Scrum Guide a few times. It's only 13 pages long. "]
