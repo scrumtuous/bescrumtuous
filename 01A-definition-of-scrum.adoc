@@ -297,7 +297,7 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 ==== Test Yourself
 
 ****
-True or False: When implemented properly, Scrum has the capaticy to expose ineffective management.
+True or False: When implemented properly, Scrum has the capacity to expose ineffective management.
 
 ****
 
