@@ -50,7 +50,7 @@ The team wants to update their Definition of Done. When is the right time to mak
 
 The correct answer is B. 
 
-Since nothing happens before or after a Sprint, the first three options are incorrect.
+Since nothing happens before or after a Sprint, the first and last two options are incorrect.
 
 The Sprint Retrospective is the right time to update the team's Definition of Done.
 
