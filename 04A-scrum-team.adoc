@@ -335,9 +335,9 @@ ____
 If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
 ____
 
-You can expect 5 or 6 questions about this one paragraph on the Scrum Certification exam. It's significant.
+You can expect 5 or 6 questions about this one paragraph on the Scrum Master certification exam. It's significant.
 
-The first takeaway from this paragraph is that you can have multiple Scrum teams working on the same product. 
+The first takeaway from this paragraph is that you can have multiple Scrum Teams working on the same product. 
 
 Scrum advises you to break up your teams if they become too big, and that doesn't even mean if they are over 10 people. 
 
@@ -385,17 +385,17 @@ Both of those statements are false.
 
 We know the first statement is false because the Scrum Guide insists that if five teams are working on a single product, the Product Owner must be split across all five teams, which makes it impossible to be dedicated 100% to just one.
 
-Furthermore, there is no rule in the Scrum Guide that says a Scrum Master must be 100% dedicated to a single Scrum team. It's quite common for one Scrum Master to work on multiple Scrum teams within an organization.
+Furthermore, there is no rule in the Scrum Guide that says a Scrum Master must be 100% dedicated to a single Scrum team. It's quite common for one Scrum Master to work on multiple Scrum Teams within an organization.
 
 '''
 
 === Scrum Team Responsibilities
 
-You will often see questions on the Scrum Certification exam about who should be responsible for maintenance or research or user acceptance testing (UAT) or quality assurance (QA). 
+You will often see questions on the Scrum Master certification exam about who should be responsible for maintenance or research or user acceptance testing (UAT) or quality assurance (QA). 
 
 An 'incorrect answer' will suggest a subteam or external resource should do UAT or QA. That's wrong.
 
-If QA or UAT is part of a Product Backlog Item or it's part of the Definition of Done, then the Scrum Team is responsible for it. 
+If QA or UAT is part of a Product Backlog item or it's part of the Definition of Done, then the Scrum Team is responsible for it. 
 
 [quote, 2020 Scrum Guide page 5]
 ____
@@ -411,7 +411,7 @@ The Scrum Team is responsible for all product-related activities including:
 ____
 
 
-This statement reinforces the idea that a Scrum team is cross-functional. 
+This statement reinforces the idea that a Scrum Team is cross-functional. 
 
 Every skill required to build your product, at least within the scope of your Scrum project, must exist on your team, or at least, your team should be able to acquire those skills. 
 
@@ -429,8 +429,8 @@ In Scrum, who is responsible for quality control and testing before an Increment
 
 * [ ] A) The Quality Assurance Team
 * [ ] B) And external user acceptance testing (UAT) team
-* [ ] C) The Product owner
-* [ ] D) The Development team
+* [ ] C) The DevOps team
+* [ ] D) The Scrum Developers
 
 ****
 
@@ -447,12 +447,12 @@ ____
 They are structured and empowered by the organization to manage their work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
 ____
 
-This section is interesting because it speaks to the responsibilities an organization has to the Scrum team:
+This section is interesting because it speaks to the responsibilities an organization has to the Scrum Team:
 
 - The organization allows the Scrum Team to manage their work
 - The Scrum team is allowed to work at a sustainable pace
 
-These points will arise on the Scrum Master Certification exam in questions like these:
+These points will arise on the Scrum Master certification exam in questions like these:
 
 === Test Yourself
 
@@ -486,13 +486,18 @@ Option D is correct.
 
 Motivated developers will work hard to achieve the Sprint Goal and the Product Goal. If developers are getting overworked and are no longer working at a sustainable pace, it is the organization's responsibility to hire new developers to help the team.
 
+[quote, 2020 Scrum Guide page 5]
+____
+Working in Sprints at a _sustainable pace_ improves the Scrum Team’s focus and consistency.
+____
+
 '''
 
 === Increments Must Be Valuable and Useful
 
-In every Sprint, the Scrum Team must create an increment that is valuable and useful. Well, they must try to. That is always the goal.
+In every Sprint, the Scrum Team must create an Increment that is valuable and useful. Well, they must try to. That is always the goal.
 
-The implication of needing to create a valuable incrment during every single sprint is that you can't have an 'infrastructure sprint' that just gets things organized. There is no such thing as a 'Sprint Zero' in Scrum.
+The implication of needing to create a valuable Increment during every single sprint is that you can't have an 'infrastructure sprint' that just gets things organized. There is no such thing as a 'Sprint Zero' in Scrum.
 
 Even if the increment is small and minor, each Sprint should try to create something that is valuable and will be used in the final product.
 
@@ -504,9 +509,9 @@ ____
 
 Every Sprint must create at least one valuable, useful Increment. 
 
-An increment must be something 'useful.' The means simply setting up infrastructure doesn't count as a 'useful' Increment. The Increment must be useful in terms of the usability of the end product.
+An Increment must be something 'useful.' The means simply setting up infrastructure doesn't count as a 'useful' Increment. The Increment must be useful in terms of the usability and integration with the end product.
 
-Furthermore, the Scrum Guide says the entire team is responsible for the creation of at least one, valuable, useful increment each Sprint - not the Scrum Master, not the Product Owner, and not the developers alone, but the whole team is responsible for the creation of a useful increment.
+Furthermore, the Scrum Guide says the entire team is responsible for the creation of at least one, valuable, useful Increment each Sprint - not the Scrum Master, not the Product Owner, and not the developers alone, but the whole Scrum Team is responsible for the creation of a useful increment.
 
 <<<
 
@@ -515,7 +520,7 @@ Furthermore, the Scrum Guide says the entire team is responsible for the creatio
 You're guaranteed to get a question like this on the exam:
 
 ****
-Who is accountable for the creation of a useful Increment eash Sprint? (Choose 1)
+Who is accountable for the creation of a useful Increment each Sprint? (Choose 1)
 
 * [ ] A) The stakeholders
 * [ ] B) The Product Owner
@@ -524,7 +529,9 @@ Who is accountable for the creation of a useful Increment eash Sprint? (Choose 1
 * [ ] E) The Scrum Team as a whole
 ****
 
-In this case, it's the last option: the Scrum Team as a whole.
+In this case, E is the correct option.
+
+The Scrum Team as a whole is responsible for the creation of a valuable and useful Increment.
 
 '''
 
