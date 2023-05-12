@@ -2,13 +2,13 @@
 
 == Chapter 3: Scrum Pillars and Values
 
-'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded.
+'Scrum values' is one of the 13 categories upon which the Scrum Master certification exam is graded.
 
 The 'Scrum Pillars' don't constitute a specific category, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifact is important.
 
-Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Certification exam.
+Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Master certification exam.
 
-.The five Scrum values are: commitment, focus, openness, respect and courage.
+.The five Scrum values are: commitment, focus, openness, respect and courage. The Scrum pillars are transparency, inspection and adaptation.
 image::images/scrum-values-medall.jpg["The five Scrum values are: commitment, focus, openness, respect and courage."]
 
 === The Scrum Pillars
@@ -33,9 +33,9 @@ It can't be emphasized enough. The three pillars of Scrum are:
 - Inspection
 - Adaptation
 
-Everything that happens in Scrum harks back to these values and pillars. 
+Everything that happens in Scrum harks back to the values and pillars. 
 
-The question as to why a particular event happens or artifact is required typically refers back to the Scrum Pillars, with the Scrum values providing further support.
+The question as to why a particular event happens or why a particular artifact is required typically refers back to the Scrum pillars, with the Scrum values providing further support.
 
 <<<
 
@@ -126,13 +126,15 @@ Inspection in Scrum is:
 
 ****
 
-Options a) and c) are correct.
+Options A) and C) are correct.
 
 Inspection is done frequently to detect potential problems and to identify any undesirable variances so that the team can address them.
 
-The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt.
+The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. 
 
-'''
+In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt.
+
+
 
 <<<
 
@@ -167,33 +169,32 @@ Like inspection, the Scrum pillar of transparency is woven into all of the Scrum
 ==== Test Yourself 
 
 ****
-Scrum allows important decisions to be made empirically by basing those decisions on:
+Which of the following problems will occur if product development lacks transparency?
 (Choose 1)
 
-* [ ] A) The Scrum values of Commitment, Focus, Openness, Respect, and Courage
-* [ ] B) Lean thinking
-* [ ] C) The Scrum pillars of transparency, inspection, and adaptation
-* [ ] D) The perceived state of the three formal artifacts.
+* [ ] A) Technical debt will embed itself in deliverables
+* [ ] B) Product delivery dates will be difficult to estimate
+* [ ] C) Stakeholders will begin asking for status updates
+* [ ] D) Honest inspection of the Scrum Team's progress becomes impossible.
+* [ ] E) All of the above
 
 ****
 
-Option e) is correct.
+Option E) is correct.
 
-Empiricism requires decisions to be made on facts and evidence. In Scrum, evidence comes from the state of Scrum's three formal artifacts, namely the Product Backlog, the Sprint Backlog, and the Increment.
+Without transparency, it is impossible to know exactly what is happening throughout the development process. This destroys trust, makes honest inspection impossible and prompts management to want to micro-mange developers.
 
-The state of these artifacts must be transparent to all, otherwise the team and the stakeholders don't have all of the facts they need to make the right decisions for the future of the product.
+The state of progress of the Scrum Team must be transparent to all, otherwise the team and the stakeholders don't have the facts they need to make the right decisions for the future of the product.
 
 '''
 
 === Adaptation
 
-Things never go according to plan. 
-
-That's one of the reasons we don't spend months planning things in Scrum. 
+Things never go according to plan. That's one of the reasons we don't spend months planning things in Scrum. 
 
 It's more important to produce something of value than it is to waste time planning because nothing ever goes according to plan.
 
-And when plans do go awry, Scrum developers adapt. That's how they achieve their goals.
+When plans do go awry, Scrum developers adapt. That's how they achieve their goals.
 
 [quote, 2020 Scrum Guide page 4]
 ____
@@ -240,7 +241,7 @@ Option D is correct.
 
 Scrum is all about adaptation. If things don't go according to plan, the team should adapt. They certainly shouldn't end the Sprint. For the most part, Scrum doesn't allow them to.
 
-- The developers cannot end a Sprint early in Scrum.
+- The Scrum Developers cannot end a Sprint early in Scrum.
 - The Scrum Master cannot end a Sprint early in Scrum.
 
 Only the Product Owner can do that, and only under the very special condition in which the Sprint Goal has become obsolete. 
@@ -303,7 +304,7 @@ The Scrum Team members learn and explore the values as they work with the Scrum 
 When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 ____
 
-Like the Scrum pillars, the Scrum help to justify why we perform the Scrum events and why we create the Scrum artifacts.
+Like the Scrum pillars, the Scrum values help to justify why we perform the Scrum events and why we create the Scrum artifacts.
 
 Quite often when a Scrum Master, Product Owner, or Scrum Developer is faced with a difficult challenge, the answer to the problem lies in how to conjure up a solution that is in line with these Scrum values.
 
@@ -326,7 +327,7 @@ According to the Scrum Guide, which of the following is not a Scrum Value? (Choo
 * [ ] J) Honesty
 ****
 
-Options a), c), f), h), and j) are correct.
+Options A), C), F), H), and J) are correct.
 
 The five Scrum values are Commitment, Focus, Openness, Respect, and Courage.
 
@@ -334,7 +335,7 @@ Honesty is not one of them, but that's not to say you shouldn't be honest. Alway
 
 The other traits, extraversion (also often spelled extroversion), agreeableness, openness, emotional stability (neuroticism), and conscientiousness are together known as the Big 5 personality traits. 
 
-The big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
+The big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them when you take the Scrum Master certification exam.
 
 
 
