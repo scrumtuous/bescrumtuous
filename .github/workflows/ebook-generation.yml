@@ -1,5 +1,5 @@
 # Publish GitHub workflow artifacts tutorial example
-name: Use acsciidoctor-pdf to create the _ebook.pdf file. 
+name: Create PDF files with asciidoctor-pdf
 
 on:
   # Runs on pushes targeting the default branch

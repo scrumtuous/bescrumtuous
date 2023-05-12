@@ -141,7 +141,7 @@ Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls 
 
 
 .The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
-image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)"]
+image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (USS Albacore, credit: US Navy)"]
 
 
 <<<
