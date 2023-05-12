@@ -31,7 +31,7 @@ They're not. And quite often, framing a scenario or exam question outside the wo
 
 === Aspects vs. Accountability
 
-The Scrum Certification exam will likely ask you one of these two questions:
+The Scrum Certification exam will likely ask you one of these two questions: 
 
 - Who is accountable for creating a useful Increment?
 - Who is committed to creating aspects of a usable Increment?
