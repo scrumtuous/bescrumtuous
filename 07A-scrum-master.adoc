@@ -376,7 +376,7 @@ ____
 The Scrum Master serves the organization in several ways, including:
 
 - Leading, training, and coaching the organization in its Scrum adoption;
-- Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+- Helping employees and stakeholders understand, and enact an empirical approach for complex work;
 ____
 
 The job of the Scrum Master is to teach people how to do Scrum, how to implement Scrum, and how to improve on Scrum-based practices.
