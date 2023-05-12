@@ -13,9 +13,9 @@ Seriously, the whole idea of Scrum is for a team to work toward the creation of 
 
 The answer to all of those questions is 'The Product Owner.'
 
-Who is completely  useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily manageable  chunks? That's probably the Product Owner too.
+Who is completely useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily manageable chunks? That's probably the Product Owner too.
 
-The Product Owner knows the product. Just be careful never to ascribe more competency to the PO than they deserve. Assume they know nothing about actually building a product, because that's not what they're accountable for according to Scrum.
+The Product Owner (PO) knows the product. Just be careful never to ascribe more competency to the PO than they deserve. Assume they know nothing about actually building a product, because that's not what they're accountable for according to Scrum.
 
 
 === Product Owners Maximize Value
@@ -65,7 +65,7 @@ Take these four bullet points seriously, because Product Backlog Management is o
 
 There is a great deal of nuance to the responsibilities, or _accountabilities,_ of the Product Owner. The exam will test your understanding of Product Backlog management by offering false statements or providing incorrect options that make plausible sense.
 
-For example, the exam will assert in a True or False question that the _stakeholders_ or _customers_ are responsible for communicating the Product Goal to the team. On the surface that almost sounds like it makes sense. 
+For example, the exam will assert in a True or False question that the _stakeholders_ or _customers_ are responsible for communicating the Product Goal to the team. On the surface, that almost sounds like it makes sense. 
 
 After all, the product is for the customers, right? So shouldn't they communicate the Product Goal? 
 
@@ -116,7 +116,7 @@ The Product Owner has full control over the *Product* Backlog and only the PO ca
 
 Notice in the question above the term 'accountable' was used.
 
-The Product Owner can delegate any of the work they are accountable to anyone they deem fit. However, the Product Owner remains fully accountable for the results, regardless of who does the work.
+The Product Owner can delegate any of the work they are accountable for to anyone they deem fit. However, the Product Owner remains fully accountable for the results, regardless of who does the work.
 
 '''
 
@@ -192,7 +192,7 @@ ____
 
 Notice how the Scrum Guide states that the Product Owner may represent the needs of many stakeholders. Implied in that statement is that different stakeholders might have different interests about which features or enhancements should be prioritized.
 
-When it comes to competing interests, the Product Owner is responsible for managing expectations and building consensus amongst the stakeholders.
+When it comes to competing interests, the Product Owner is responsible for managing expectations and building a consensus amongst the stakeholders.
 
 ==== Test Yourself
 
@@ -216,7 +216,7 @@ There is only one Product Owner on a Scrum Team, and that one Product Owner repr
 
 Stakeholders will always be interested in how the product is progressing. They will constantly want to know what's been created and what the team will be working on next. 
 
-The three Scrum artifacts, namely the Product Backlog, Sprint Backlog and inspectable Increments are how stakeholders get the answers to their questions about how the project is progressing.
+The three Scrum artifacts, namely the Product Backlog, Sprint Backlog, and inspectable Increments are how stakeholders get the answers to their questions about how the project is progressing.
 
 [quote, 2020 Scrum Guide page 6]
 ____
