@@ -1,0 +1,14 @@
+= Scrum Certification Guide
+:doctype: book
+
+image::_ebook.pdf[pages=5..9]
+
+include::01A-definition-of-scrum.adoc[]
+
+include::02A-scrum-theory.adoc[]
+
+include::03A-scrum-pillars-and-values.adoc[]
+
+include::04A-scrum-team.adoc[]
+
+

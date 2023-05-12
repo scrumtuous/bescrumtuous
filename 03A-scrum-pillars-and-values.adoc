@@ -33,7 +33,9 @@ It can't be emphasized enough. The three pillars of Scrum are:
 - Inspection
 - Adaptation
 
-Everything that happens in Scrum harks back to these values and pillars. The question as to why a particular event happens or artifact is required typically refers back to the Scrum Pillars, with the Scrum values providing further support.
+Everything that happens in Scrum harks back to these values and pillars. 
+
+The question as to why a particular event happens or artifact is required typically refers back to the Scrum Pillars, with the Scrum values providing further support.
 
 <<<
 
@@ -52,17 +54,18 @@ Memorize the Scrum pillars and values, and don't confuse them with each other.
 ==== Test Yourself
 
 ****
-Which of the following are Scrum pillars?
+Which three of the following are Scrum pillars?
 
-* [ ] Commitment
-* [ ] Inspection
-* [ ] Openness
-* [ ] Focus
-* [ ] Adaptation
-* [ ] Respect
+* [ ] A) Commitment
+* [ ] B) Inspection
+* [ ] C) Openness
+* [ ] D) Focus
+* [ ] E) Adaptation
+* [ ] F) Respect
+* [ ] G) Transparency
 ****
 
-Options B and E are correct.
+Options B, E and G are correct.
 
 The Scrum pillars are transparency, inspection, and adaptation.
 
@@ -113,13 +116,13 @@ The need for inspection throughout a Sprint is a common justification for Scrum 
 
 ****
 Inspection in Scrum is:
-(choose 2)
+(Choose 2)
 
 
-* [ ] Done frequently to detect potential problems
-* [ ] Done infrequently to allow teams to concentrate on development
-* [ ] Done to identify undesirable variances
-* [ ] Done to ensure undesirable variances do not occur
+* [ ] A) Done frequently to detect potential problems
+* [ ] B) Done infrequently to allow teams to concentrate on development
+* [ ] C) Done to identify undesirable variances
+* [ ] D) Done to ensure undesirable variances do not occur
 
 ****
 
@@ -165,12 +168,12 @@ Like inspection, the Scrum pillar of transparency is woven into all of the Scrum
 
 ****
 Scrum allows important decisions to be made empirically by basing those decisions on:
-(Choose one)
+(Choose 1)
 
-* [ ] The Scrum values of Commitment, Focus, Openness, Respect, and Courage
-* [ ] Lean thinking
-* [ ] The Scrum pillars of transparency, inspection, and adaptation
-* [ ] The perceived state of the three formal artifacts.
+* [ ] A) The Scrum values of Commitment, Focus, Openness, Respect, and Courage
+* [ ] B) Lean thinking
+* [ ] C) The Scrum pillars of transparency, inspection, and adaptation
+* [ ] D) The perceived state of the three formal artifacts.
 
 ****
 
@@ -215,7 +218,7 @@ The ability for teams to quickly adjust and change their plan when things go sid
 
 The Scrum Guide describes several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak, and adapt.
 
-If a problem comes up during the day, a developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
+If a problem comes up during the day, a Developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a Developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
 
 If a problem arises, teams are encouraged to inspect and adapt immediately.
 
@@ -227,13 +230,13 @@ If the team's war room catches fire, don't wait until tomorrow's Daily Scrum to 
 ****
 If the process used to track development throughout the Sprint deviates outside of an acceptable limit, the Scrum development team should:
 
-* [ ] End the Sprint early and begin a new round of Sprint Planning
-* [ ] End the Sprint early and do a Sprint Review with all stakeholders
-* [ ] End the Sprint early and do an internal Sprint Retrospective to see what went wrong
-* [ ] Adapt during the Sprint and continue to push towards the Sprint goal.
+* [ ] A) End the Sprint early and begin a new round of Sprint Planning
+* [ ] B) End the Sprint early and do a Sprint Review with all stakeholders
+* [ ] C) End the Sprint early and do an internal Sprint Retrospective to see what went wrong
+* [ ] D) Adapt during the Sprint and continue to push towards the Sprint goal.
 ****
 
-Option () is correct.
+Option D is correct.
 
 Scrum is all about adaptation. If things don't go according to plan, the team should adapt. They certainly shouldn't end the Sprint. For the most part, Scrum doesn't allow them to.
 
@@ -251,12 +254,12 @@ Sprints are short, typically between 2 to 4 weeks. Even if things go completely 
 ==== Test Yourself 
 
 ****
-A serious security-related bug has appeared in the code written by a fellow developer and you need more details about the problem to fix it. When should this issue be discussed with the developer?
+A serious security-related bug has appeared in the code written by a fellow Developer and you need more details about the problem to fix it. When should this issue be discussed with the Developer?
 
-* [ ] When the Scrum Master can coordinate a meeting between the two of you
-* [ ] After the Quality Assurance (QA) team has time to investigate
-* [ ] During the next scheduled Daily Scrum
-* [ ] You should go over to the developer's desk and discuss it now
+* [ ] A) When the Scrum Master can coordinate a meeting between the two of you
+* [ ] B) After the Quality Assurance (QA) team has time to investigate
+* [ ] C) During the next scheduled Daily Scrum
+* [ ] D) You should go over to the Developer's desk and discuss it now
 ****
 
 Option D is correct.
@@ -309,18 +312,18 @@ For the exam, know the Scrum values and how each of them is defined. There is us
 ==== Test Yourself
 
 ****
-According to the Scrum Guide, which of the following is not a Scrum Value?
+According to the Scrum Guide, which of the following is not a Scrum Value? (Choose 5)
 
-* [ ] a) Agreeableness
-* [ ] b) Commitment
-* [ ] c) Conscientiousness
-* [ ] d) Openness
-* [ ] e) Respect
-* [ ] f) Extroversion
-* [ ] g) Focus
-* [ ] h) Emotional stability
-* [ ] i) Courage
-* [ ] j) Honesty
+* [ ] A) Agreeableness
+* [ ] B) Commitment
+* [ ] D) Conscientiousness
+* [ ] E) Openness
+* [ ] E) Respect
+* [ ] F) Extroversion
+* [ ] G) Focus
+* [ ] H) Emotional stability
+* [ ] I) Courage
+* [ ] J) Honesty
 ****
 
 Options a), c), f), h), and j) are correct.
@@ -333,5 +336,5 @@ The other traits, extraversion (also often spelled extroversion), agreeableness,
 
 The big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
 
-'''
+
 

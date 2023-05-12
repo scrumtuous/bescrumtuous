@@ -37,7 +37,7 @@ You'll probably reduce your projection by 50 percent. That decision is based on 
 
 Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's _lean thinking._
 
-.Scrum development is iterative and each Sprint brings incremental progress.
+.Charts and trends are no replacement for first-hand knowledge and empiricism.
 image::images/bet-the-habs.png["There are many learning modalities. "]
 
 
@@ -52,11 +52,11 @@ You are guaranteed to get two questions from this section on the Scrum Master ce
 Scrum theory emphasizes empiricism. That means a decision made by Scrum teams: +
 (Choose 3)
 
-* [ ] Should be based on factual evidence
-* [ ] Should be based on intelligent assumptions
-* [ ] Should be based on verifiable observations
-* [ ] Should be driven by pragmatic speculation
-* [ ] Should be based on experience
+* [ ] A) Should be based on factual evidence
+* [ ] B) Should be based on intelligent assumptions
+* [ ] C) Should be based on verifiable observations
+* [ ] D) Should be driven by pragmatic speculation
+* [ ] E) Should be based on experience
 
 ****
 
@@ -85,10 +85,10 @@ ____
 Which of the following are characteristics of lean thinking? +
 (Choose 2)
 
-* [ ] A focus on waste reduction and efficiency
-* [ ] A command and control approach to problem-solving
-* [ ] A minimalist approach that removes unnecessary steps
-* [ ] A methodology that is made up of individualized, compartmental steps that flow into each other.
+* [ ] A) A focus on waste reduction and efficiency
+* [ ] B) A command and control approach to problem-solving
+* [ ] C) A minimalist approach that removes unnecessary steps
+* [ ] D) A methodology that is made up of individualized, compartmental steps that flow into each other.
 
 ****
 
@@ -146,9 +146,7 @@ Scrum engages groups of people who collectively have all the skills and expertis
 ____
 
 
-This is another extremely loaded statement. 
-
-Understanding this paragraph will go a long way toward properly answering some of the most challenging questions on the Scrum Master Certification exam.
+This is another extremely loaded statement. Understanding this paragraph will go a long way toward properly answering some of the most challenging questions on the Scrum Master Certification exam.
 
 Scrum assumes that the Scrum Team has all the skills required to build the product being developed.
 
@@ -165,10 +163,10 @@ One of the items under development as part of your project is a spaceship to Mar
 
 Which one of the following options is the best choice?
 
-* [ ] Outsource the development of a spaceship to a third party
-* [ ] Remove the development of a spaceship from the project requirements
-* [ ] Explain to the Product Owner that you do not have the skills to build a spaceship to Mars
-* [ ] Get the team to start learning about how to build a spaceship for Mars
+* [ ] A) Outsource the development of a spaceship to a third party
+* [ ] B) Remove the development of a spaceship from the project requirements
+* [ ] C) Explain to the Product Owner that you do not have the skills to build a spaceship to Mars
+* [ ] D) Get the team to start learning about how to build a spaceship for Mars
 ****
 Option D is correct.
 
@@ -227,16 +225,18 @@ You will often get questions on the Scrum Certification exam about what the purp
 ****
 Which one of the following options best describes when a new Sprint begins?
 
-* [ ] A new Sprint begins when Sprint Planning is completed
-* [ ] A new Sprint begins when the Sprint Review is completed
-* [ ] A new Sprint begins when the Product Owner begins the Sprint in JIRA
-* [ ] A new Sprint begins after Sprint Planning when the Scrum Master declares the start of the Sprint
-* [ ] A new Sprint begins as soon as the previous Sprint ends
+* [ ] A) A new Sprint begins when Sprint Planning is completed
+* [ ] B) A new Sprint begins when the Sprint Review is completed
+* [ ] C) A new Sprint begins when the Product Owner begins the Sprint in JIRA
+* [ ] D) A new Sprint begins after Sprint Planning when the Scrum Master declares the start of the Sprint
+* [ ] E) A new Sprint begins as soon as the previous Sprint ends
 ****
 
 Option E is correct. A new Sprint begins as soon as the previous Sprint ends.
 
-Technically speaking, the last event in the Sprint is the Sprint Retrospective, and it is the end of this event marks the end of the Sprint. If we were to temporarily jump ahead 7 pages in the Scrum Guide, we'd see that stated in plain text.
+Technically speaking, the last event in the Sprint is the Sprint Retrospective, and it is the end of this event marks the end of the Sprint. 
+
+If we were to temporarily jump ahead 7 pages in the Scrum Guide, we'd see that stated in plain text.
 
 [quote, 2020 Scrum Guide page 10]
 ____
@@ -244,7 +244,7 @@ The Sprint Retrospective concludes the Sprint.
 ____
 
 
-'''
+<<<
 
 ==== Test Yourself
 
@@ -252,10 +252,10 @@ ____
 What is the purpose of the Daily Scrum? + 
 (Choose 2)
 
-* [ ] For the Scrum Master to get daily status updates from the developers
-* [ ] To allow the developers to inspect their progress toward the Sprint Goal
-* [ ] For the Product Owner to track the development team's progress on Product Backlog Items
-* [ ] To allow the developers to adapt their Sprint Plan as they work towards the Sprint Goal
+* [ ] A) For the Scrum Master to get daily status updates from the developers
+* [ ] B) To allow the developers to inspect their progress toward the Sprint Goal
+* [ ] C) For the Product Owner to track the development team's progress on Product Backlog Items
+* [ ] D) To allow the developers to adapt their Sprint Plan as they work towards the Sprint Goal
 ****
 
 Options B and D are correct.
@@ -269,7 +269,7 @@ It should be noted that inspection and adaptation can happen at any time during 
 If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
 
 
-'''
+
 
 
 

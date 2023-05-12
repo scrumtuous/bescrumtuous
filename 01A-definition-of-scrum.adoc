@@ -9,22 +9,22 @@ The process is going to go something like this:
  - We'll discuss how ideas in the Scrum Guide translate into exam questions
  - We'll iteratively and incrementally test you on what you’ve learned
 
-When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Certification exam.
+When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Master Certification exam.
 
 === The Best Ways to Learn
 
 Before you read too far ahead, let me recommend that you download and print out a couple of copies of the 2020 Scrum Guide.
 
-The Scrum Guide is only 13 pages long, and that includes the cover page, introduction, and table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
+The Scrum Guide is only 13 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
-.Try to hit as many learning modalities as you can.
+.Try to hit as many learning modalities as you can whenever you learn something new. Just be sure to use high-quality, authoritative resources.
 image::images/modalities.png["Hit as many learning modalities as you can."]
 
-Grab a highlighter as well and markup that printed copy as we go along. It will seriously help you learn.
+Grab a highlighter as well and markup that printed copy as we go along. It'll help you learn.
 
 === Read the Scrum Guide
 
-You should also read the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. It behooves you to do so.
+Along with downloading it, you should also _read_ the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. It behooves you to do so.
 
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
@@ -55,10 +55,10 @@ ____
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. 
 ____
 
-Given what you know about Scrum, and taking into account any experiences you've had with Scrum, how would you rate this definition?
+Given what you know about Scrum, and taking into account any experiences you've had with Agile development, how would you rate this definition?
 
 .Scrum is a lightweight, incomplete framework that helps teams solve complex problems as they work towards a Product Goal.
-image::images/lightweight-framework2.jpg["Credit MidJourneyAI"]
+image::images/lightweight-framework3.jpg["Credit MidJourneyAI"]
 
 === The Definition of Scrum
 
@@ -142,10 +142,10 @@ There is a big push in the Scrum community to gain acceptance outside of softwar
 
 Which one of the following statements most accurately reflects the definition of Scrum?
 
-* [ ] Scrum is a software development methodology
-* [ ] Scrum is an Agile process for teams and organizations to following
-* [ ] Scrum is a lightweight framework to help teams tackle complex problems
-* [ ] Scrum is a lightweight framework to help teams and organizations build software
+* [ ] A) Scrum is a software development methodology
+* [ ] B) Scrum is an Agile process for teams and organizations to following
+* [ ] C) Scrum is a lightweight framework to help teams tackle complex problems
+* [ ] D) Scrum is a lightweight framework to help teams and organizations build software
 
 ****
 
@@ -212,10 +212,10 @@ ____
 Which of the following statements are true about the Scrum framework? +
 (Choose 2)
 
-* [ ] Scrum describes an iterative process
-* [ ] Scrum is an iterative framework
-* [ ] Scrum generates value by repeatedly delivering usable increments to the stakeholders
-* [ ] Scrum only allows stakeholders to inspect progress when the final product is delivered
+* [ ] A) Scrum describes an iterative process
+* [ ] B) Scrum is an iterative framework
+* [ ] C) Scrum generates value by repeatedly delivering usable increments to the stakeholders
+* [ ] D) Scrum only allows stakeholders to inspect progress when the final product is delivered
 ****
 Options C and D are correct.
 
@@ -225,16 +225,8 @@ Scrum is also an incremental framework, which means it constantly tries to deliv
 
 That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
 
-'''
 
-
-
-
-
-
-
-
-
+TIP: Waterfall gets its name from the fact that isolated development stages like planning and design flow down, into each other, in only one direction, just like water in a waterfall.
 
 <<<
 
@@ -323,7 +315,7 @@ We're done with the definition of Scrum.
 
 Now on to a little overview of what Scrum theory is and what it's based on.
 
-'''
+
 
 
 
