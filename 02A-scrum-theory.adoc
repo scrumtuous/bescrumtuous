@@ -117,7 +117,7 @@ ____
 
 This one sentence is a lot to unpack. 
 
-Scrum is iterative because it describes a set of steps to be repeated over and over again. The iterative sequence of steps as outlined in the first section of the Scrum Guide:
+Scrum is iterative because it describes a set of steps that get repeated over and over again. The iterative sequence of steps as outlined in the first section of the Scrum Guide are:
 
 1. A Product Owner orders the work for a complex problem into a Product Backlog.
 2. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
@@ -130,7 +130,9 @@ Scrum is incremental. That's referenced in the second step of the iterative proc
 
 The idea of Scrum being incremental means that small victories, small units of value, and small pieces of the final product get created and added together slowly over time until the product is finally finished. 
 
-Piece by piece, through the delivery of value-added upon value, the product gets built. That's the incremental process.
+Piece by piece, through the delivery of value added upon value, the product gets built. That's the incremental process.
+
+By getting these small increments into the hands of stakeholders, and getting immediate feedback from which the Scrum Team can adapt, Scrum reduces risk and allows developers to better service the needs of their clients.
 
 .Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
 image::images/800px-Scrum_process.png["There are many learning modalities. "]
@@ -139,7 +141,7 @@ image::images/800px-Scrum_process.png["There are many learning modalities. "]
 
 === Cross-Functional Teams
 
-The idea that teams should be cross-functional and self-managed is a key concept in Scrum, and it is one that you will be tested on multiple times when you sit for the Scrum Certification exam.
+The idea that teams should be cross-functional and self-managed is a key concept in Scrum, and it's one that you'll be tested on multiple times when you sit for the Scrum Certification exam.
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -147,7 +149,7 @@ Scrum engages groups of people who collectively have all the skills and expertis
 ____
 
 
-This is another extremely loaded statement. Understanding this paragraph will go a long way toward properly answering some of the most challenging questions on the Scrum Master Certification exam.
+This is another extremely loaded statement. Understanding this paragraph will go a long way towards properly answering some of the most challenging questions on the Scrum Master certification exam.
 
 Scrum assumes that the Scrum Team has all the skills required to build the product being developed.
 
@@ -160,20 +162,20 @@ And what if your Scrum team doesn't have those skills? Then your team acquires t
 ==== Test Yourself
 
 ****
-One of the items under development as part of your project is a spaceship to Mars, but nobody on your team knows how to build a Spaceship to Mars. 
+One of the items under development as part of your project is a spaceship to Mars, but nobody on your team knows how to build a spaceship to Mars. 
 
-Which one of the following options is the best choice?
+Which one of the following options is the best way for the team to move forward?
 
 * [ ] A) Outsource the development of a spaceship to a third party
-* [ ] B) Remove the development of a spaceship from the project requirements
-* [ ] C) Explain to the Product Owner that you do not have the skills to build a spaceship to Mars
-* [ ] D) Get the team to start learning about how to build a spaceship for Mars
+* [ ] B) Remove the development of a spaceship from the project's requirements
+* [ ] C) Explain to the Product Owner that you don't have the skills to build a spaceship to Mars
+* [ ] D) Get the team to start learning about how to build a spaceship to Mars
 ****
 Option D is correct.
 
 This question is silly to the extreme, but it makes a point. 
 
-According to Scrum, all of the skills required to build a project under development exist on your team, or your team will take it upon themselves to acquire the skills needed. If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it is no longer part of the Scrum process. 
+According to Scrum, all of the skills required to build a project under development exist on your team, or your team will take it upon themselves to acquire the skills needed. If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it's no longer part of the Scrum process. 
 
 That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
 
@@ -206,20 +208,20 @@ image::images/timebox-bw.png["All Scrum events occur within a Sprint. "]
 
 Everything in Scrum happens within the boundaries of a Sprint. As soon as one Sprint ends, the next Sprint begins. 
 
-There is no buffer time between when one Sprint ends and the next Sprint starts where integration takes place, quality assurance happens or testing is done. If any of those things are part of the development of your product, all of those have to happen during the Sprint.
+There is no buffer time between when one Sprint ends and the next Sprint starts where integration takes place, quality assurance happens or testing is done. If any of those things are part of the development of your product, all of those things have to happen during the Sprint.
 
 Don't get tripped up on any questions that ask what happens before or after a Sprint. 
 
 ==== Inspection and Adaption
 
-Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning Meeting, and the Daily Scrum is to 'inspect and adapt.'
+Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning meeting, and the Daily Scrum is to 'inspect and adapt.'
 
 [quote, 2020 Scrum Guide page 3]
 ____
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
 ____
 
-You will often get questions on the Scrum Certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
+You will often get questions on the Scrum certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the listed options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
 
 ==== Test Yourself
  
@@ -235,7 +237,7 @@ Which one of the following options best describes when a new Sprint begins?
 
 Option E is correct. A new Sprint begins as soon as the previous Sprint ends.
 
-Technically speaking, the last event in the Sprint is the Sprint Retrospective, and it is the end of this event marks the end of the Sprint. 
+Technically speaking, the last event in the Sprint is the Sprint Retrospective, and the end of this event officially marks the end of the Sprint. 
 
 If we were to temporarily jump ahead 7 pages in the Scrum Guide, we'd see that stated in plain text.
 
@@ -255,7 +257,7 @@ What is the purpose of the Daily Scrum? +
 
 * [ ] A) For the Scrum Master to get daily status updates from the developers
 * [ ] B) To allow the developers to inspect their progress toward the Sprint Goal
-* [ ] C) For the Product Owner to track the development team's progress on Product Backlog Items
+* [ ] C) For the Product Owner to track the development team's progress on Product Backlog items
 * [ ] D) To allow the developers to adapt their Sprint Plan as they work towards the Sprint Goal
 ****
 
