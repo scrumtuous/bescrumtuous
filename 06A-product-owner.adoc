@@ -87,8 +87,8 @@ Who is responsible for managing the Product Backlog and maximizing the value of 
 
 * [ ] A) The Scrum Master
 * [ ] B) The Product Owner
-* [ ] C) The Management Team
-* [ ] D) The Development Team as a whole
+* [ ] C) The management team
+* [ ] D) The development team as a whole
 ****
 
 Option B is correct.
@@ -123,16 +123,16 @@ The Product Owner can delegate any of the work they are accountable for to anyon
 ==== Test Yourself
 
 ****
-True or False: It is the job of the Scrum Developer to ensure that items in the Product Backlog are properly understood by both stakeholders and team members.
+True or False: It is the job of the Scrum Master to ensure that items in the Product Backlog are properly understood by both stakeholders and team members.
 ****
 
-This is false. It is stated quite clearly in the Scrum Guide that it is the job of the Product Owner to make sure "that the Product Backlog is transparent, visible and _understood._'
+This is false. It is stated quite clearly in the Scrum Guide that it is the job of the _Product Owner_ to make sure "that the Product Backlog is transparent, visible and _understood._"
 
-Nobody should be expected to 'get into the head' of the Product Owner and assume what they are thinking. While the Product Owner's vision may not always be complete, what vision they do have should be clear to everyone involved in the project.
+Nobody should be expected to 'get into the head' of the Product Owner and assume what they are thinking. 
 
-<<<
+While the Product Owner's vision may not always be complete, what vision they do have should be clear to everyone involved in the project.
 
-=== Who Does the Product Owner Work?
+=== Who Does the Product Owner's Work?
 
 In Scrum, the developers do the development.
 
@@ -151,48 +151,37 @@ ____
 === Product Ownership and Trust
 
 
-Perhaps the most important quality of the Product Owner is that they have the complete and total trust of the organization to make decisions about what's best for the Product being built.
+Perhaps the most important quality of the Product Owner is that they have the complete and total trust of the organization to make decisions about what's best for the product being built.
 
 [quote, 2020 Scrum Guide page 6]
 ____
 For Product Owners to succeed, the entire organization must respect their decisions. 
 ____
 
-The importance of PO trust can't be understated.
+The importance of PO trust can't be understated with regards to product development.
 
 - Scrum teams move quickly
 - Conditions change from day to day
-- Adaptation should happen daily
-- Backlog item clarity is of utmost importance
+- Adaptation should happen constantly
+- Product Backlog item clarity is of utmost importance
 
 
 When developers have questions about the work they're doing, they need answers that are clear and definitive. The Product Owner must be able to respond quickly, and the development team needs to know that the decisions of the Product Owner will not be second-guessed by management. 
 
 If someone else in the organization keeps overriding the decisions of the PO, the team will quickly lose trust in the Product Owner, and the whole Scrum framework falls apart.
 
+NOTE: Notice how the Scrum pillars of transparency, inspection and adaptation always arise when talking about Scrum events, accountabilities and artifacts. 
 
-==== Test Yourself
+<<<
 
-****
-Important decisions that pertain to the future direction of the product being built must be made by: (Choose 1)
 
-* [ ] A) The Scrum Master
-* [ ] B) The Product Owner
-* [ ] C) The Product Owner along with a stakeholder committee
-* [ ] D) The Scrum Team as a whole
-****
 
-The answer to this question is B, the Product Owner.
-
-The Scrum Guide states quite emphatically that product-based decisions are not to be made by a committee. 
-
-'''
 
 === A Single Product Owner
 
-The job of the product owner cannot be shared amongst multiple individuals. There can't be two co-Product Owners on a team.
+The job of the Product Owner cannot be shared amongst multiple individuals. There can't be two co-Product Owners on a team.
 
-As the Scrum Guide stated earlier, the Product Owner can delegate some of the Product Backlog management work to a cohort, but in the end, all of the accountabilities associated with being a Product Owner fall on the shoulders of only one person: The Product Owner.
+As the Scrum Guide stated earlier, the Product Owner can delegate some of the Product Backlog management work to a cohort, but in the end, all of the accountabilities associated with being a Product Owner fall on the shoulders of only one person: the PO.
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -204,24 +193,6 @@ ____
 Notice how the Scrum Guide states that the Product Owner may represent the needs of many stakeholders. Implied in that statement is that different stakeholders might have different interests about which features or enhancements should be prioritized.
 
 When it comes to competing interests, the Product Owner is responsible for managing expectations and building a consensus amongst the stakeholders.
-
-==== Test Yourself
-
-****
-There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. 
-
-How does Scrum ensure the interests of each of these groups are recognized and respected? (Choose 1)
-
-* [ ] A) Have the Scrum Master represent the interests of each of these groups
-* [ ] B) Have multiple Scrum Masters, with a different Scrum Master assigned to each stakeholder group
-* [ ] C) Have one Product Owner represent the interests of each of these groups
-* [ ] D) Have multiple Product Owners, with a different Product Owner assigned to each stakeholder group
-****
-
-The answer is C.
-
-There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all the stakeholders.
-
 
 
 
@@ -235,7 +206,7 @@ The three Scrum artifacts, namely the Product Backlog, Sprint Backlog, and inspe
 
 [quote, 2020 Scrum Guide page 6]
 ____
-These decisions are visible in two ways:
+The entire organization must respect the PO's decisions. These decisions are visible in two ways:
 
 1. through the content and ordering of the Product Backlog
 2. through the inspectable Increment at the Sprint Review
@@ -245,21 +216,55 @@ ____
 
 
 
+==== Test Yourself
+
+****
+Important decisions that about the future direction of the product being built must be made by: (Choose 1)
+
+* [ ] A) The Scrum Master
+* [ ] B) The Product Owner
+* [ ] C) The Product Owner along with a stakeholder committee
+* [ ] D) Stakeholders or executive management
+****
+
+The answer to this question is B, the Product Owner.
+
+The Scrum Guide states quite emphatically that product-based decisions are not to be made by a committee. 
+
+'''
+
+==== Test Yourself
+
+****
+There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. 
+
+How does Scrum ensure the interests of each of these groups are recognized and respected? (Choose 1)
+
+* [ ] A) Have the Scrum Master represent the interests of each stakeholder group
+* [ ] B) Have multiple Scrum Masters, with a different Scrum Master assigned to each stakeholder group
+* [ ] C) Have one Product Owner represent the interests of each stakeholder group
+* [ ] D) Have multiple Product Owners, with a different Product Owner assigned to each stakeholder group
+****
+
+The answer is C.
+
+There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all the stakeholders.
+
+'''
+
 === Trust, Transparency, and the Product Backlog
 
-The PO must have the complete and total trust of the organization concerning product ownership. But trust is a two-way street. 
+The PO must have the complete and total trust of the organization concerning product ownership, but trust is a two-way street. 
 
-If the Product Owner is to be trusted, the Product Owner must also be transparent about what they're doing.
+If the Product Owner is to be trusted, the Product Owner must also be transparent about what they are doing.
 
-So how does the Product Owner make their decisions transparent?
-
-They do so by making the product backlog visible and available to all stakeholders.
+So how does the Product Owner make their decisions transparent? They do so by making the Product Backlog visible and available to all stakeholders.
 
 - Want to know what the Product Owner is building? Look at the Product Backlog.
 - Want to know what the Product Owner has prioritized? Look at the Product Backlog.
 - Want to know what the Product Owner wants to build next? Look at the Product Backlog.
 - Want to know how features are described? Look at the Product Backlog.
-- Want to know the vision and goal for the product? Look at the Product Goal which is part of the Product Backlog.
+- Want to know the vision and goal for the product? Look at the Product Backlog's Product Goal.
 
 The Prodcut Backlog is the key to making the decisions of the Product Owner transparent.
 
@@ -267,13 +272,15 @@ The Prodcut Backlog is the key to making the decisions of the Product Owner tran
 
 === Inspection of the Increment
 
-Furthermore, at the end of every Sprint, a Sprint Review takes place where stakeholders inspect what's been done.
 
-If a stakeholder wants to know what's being done, they look at the Product Backlog. 
 
-If a stakeholder wants to know what's been done, they attend the Sprint Review and inspect the increment of work that's been produced in the Sprint.
+If a stakeholder wants to know what needs to be done, they look at the Product Backlog. 
 
-The Product Owner's commitment to visibility and transparency with regard to these things is what makes it all work.
+If a stakeholder wants to know what's being done, they look at the Product Backlog items that are part of the current Sprint's backlog.
+
+At the end of every Sprint, a Sprint Review takes place where stakeholders inspect the Product Backlog items that have met the Definition of Done to produce a product Increment.
+
+The Product Owner's commitment to visibility and transparency with regard to the Product Backlog is what builds confidence and allows management to have trust in the Scrum framework.
 
 === Negotiating Product Features
 
@@ -287,7 +294,7 @@ Disagreement is expected, especially in a fast-moving environment where things c
 
 If anyone wants to change the Product Backlog, update the Product Backlog, delete something from the Product Backlog, or add something to the Product Backlog, they go through the Product Owner.
 
-When it comes to the Product, and the Product Backlog that describes what's being built, the Product Owner has full control.
+When it comes to the Product, and the Product Backlog that describes everything that needs to be built, the Product Owner has full control.
 
 ==== Test Yourself
 
@@ -299,13 +306,14 @@ How does the Product Owner ensure their decisions are transparent and open?
 * [ ] B) By allowing stakeholders to see how the Product Backlog has been ordered and prioritized
 * [ ] C) By sending regular status updates to stakeholders.
 * [ ] D) By scheduling weekly meetings between the Scrum Developers and stakeholders
-* [ ] E) By having the stakeholders inspect usable Increments of work at the Sprint Review
 
 ****
 
-Options A, B, and E are correct.
+Options A and B are correct.
 
-In Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum, is to remove the need to schedule other, time-wasting meetings.
+Everyone who has 'skin in the game' is allowed access to the Product Backlog. This allows stakeholders, developers and every team member to know exactly what needs to be built.
+
+The ordering of the Product Backlog also allows stakeholders to know which items have been given top priority, and which items are less likely to be developed in the near future.
 
 
 
@@ -328,6 +336,8 @@ Option D is correct.
 
 If a change needs to be made to the Product Backlog, it's the Product Owner who does it. 
 
-If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. Nobody else has the right to add features to the Product Backlog other than the Product Owner, and nobody can inform the developers about which items are the highest priority other than the Product Owner.
+If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. 
+
+Nobody has the right to add features to the Product Backlog other than the Product Owner, and nobody can inform the developers about which items are the highest priority other than the Product Owner.
 
 '''
