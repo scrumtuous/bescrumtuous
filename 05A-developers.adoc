@@ -99,10 +99,10 @@ The developers own it, and nobody tells them how to manage it, not even the Scru
 ****
 Who on the Scrum Team has the right to add new items to the Sprint Backlog? (Choose 1)
 
-* [ ] The Scrum Master
-* [ ] The Product Owner
-* [ ] The Stakeholders
-* [ ] The Developers
+* [ ] A) The Scrum Master
+* [ ] B) The Product Owner
+* [ ] C) The Stakeholders
+* [ ] D) The Developers
 
 ****
 
@@ -131,10 +131,10 @@ Any time the Scrum Master certification asks how to enforce quality, the answer 
 ****
 The gatekeeper of quality for the Scrum Framework is: (Choose 1)
 
-* [ ] The Scrum Master
-* [ ] The Product Owner
-* [ ] The Product Goal
-* [ ] The Definition of Done
+* [ ] A) The Scrum Master
+* [ ] B) The Product Owner
+* [ ] C) The Product Goal
+* [ ] D) The Definition of Done
 ****
 
 The answer is D. The Definition of Done is the quality gate all increments must pass through to become valid.
@@ -159,9 +159,9 @@ Since the developer's plan is the Sprint Backlog, that means the developers will
 ****
 When are developers allowed to adapt their plan by changing the Sprint Backlog? (Choose 1)
 
-* [ ] Any time during the sprint
-* [ ] Only during Sprint Planning
-* [ ] Only during the Daily Scrum
+* [ ] A) Any time during the sprint
+* [ ] B) Only during Sprint Planning
+* [ ] C) Only during the Daily Scrum
 ****
 
 Option A is correct.
@@ -193,10 +193,10 @@ In Scrum, the developers hold each other accountable for what they do and how th
 ****
 Who holds the Scrum Developers accountable for their work?
 
-* [ ] The Scrum Master
-* [ ] The Product Owner
-* [ ] The Management Team
-* [ ] The Development Team as a whole
+* [ ] A) The Scrum Master
+* [ ] B) The Product Owner
+* [ ] C) The Management Team
+* [ ] D) The Development Team as a whole
 ****
 
 The answer is D. The Scrum Developers on the development team holds each other accountable for their actions.
