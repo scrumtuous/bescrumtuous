@@ -118,6 +118,18 @@ Notice in the question above the term 'accountable' was used.
 
 The Product Owner can delegate any of the work they are accountable for to anyone they deem fit. However, the Product Owner remains fully accountable for the results, regardless of who does the work.
 
+'''
+
+==== Test Yourself
+
+****
+True or False: It is the job of the Scrum Developer to ensure that items in the Product Backlog are properly understood by both stakeholders and team members.
+****
+
+This is false. It is stated quite clearly in the Scrum Guide that it is the job of the Product Owner to make sure "that the Product Backlog is transparent, visible and _understood._'
+
+Nobody should be expected to 'get into the head' of the Product Owner and assume what they are thinking. While the Product Owner's vision may not always be complete, what vision they do have should be clear to everyone involved in the project.
+
 <<<
 
 === Who Does the Product Owner Work?
