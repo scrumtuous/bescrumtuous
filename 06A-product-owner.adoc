@@ -110,7 +110,7 @@ Which of the following statements is true? (Choose 1)
 
 Only Option C is correct.
 
-The developers have full control over the *Sprint* Backlog and they are the only ones who can add to it.
+The developers have full control over the *Sprint* Backlog and only the developers can add to it.
 
 The Product Owner has full control over the *Product* Backlog and only the PO can add items to it.
 
@@ -118,7 +118,7 @@ Notice in the question above the term 'accountable' was used.
 
 The Product Owner can delegate any of the work they are accountable for to anyone they deem fit. However, the Product Owner remains fully accountable for the results, regardless of who does the work.
 
-'''
+<<<
 
 === Who Does the Product Owner Work?
 
@@ -154,11 +154,10 @@ The importance of PO trust can't be understated.
 - Backlog item clarity is of utmost importance
 
 
-When developers have questions about the work they're doing, they need answers that are clear and definitive. 
-
-The Product Owner must be able to respond quickly, and the development team needs to know that the decisions of the Product Owner will not be second-guessed by management. 
+When developers have questions about the work they're doing, they need answers that are clear and definitive. The Product Owner must be able to respond quickly, and the development team needs to know that the decisions of the Product Owner will not be second-guessed by management. 
 
 If someone else in the organization keeps overriding the decisions of the PO, the team will quickly lose trust in the Product Owner, and the whole Scrum framework falls apart.
+
 
 ==== Test Yourself
 
@@ -197,7 +196,9 @@ When it comes to competing interests, the Product Owner is responsible for manag
 ==== Test Yourself
 
 ****
-There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. How does Scrum ensure the interests of each of these groups are recognized and respected? (Choose 1)
+There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. 
+
+How does Scrum ensure the interests of each of these groups are recognized and respected? (Choose 1)
 
 * [ ] A) Have the Scrum Master represent the interests of each of these groups
 * [ ] B) Have multiple Scrum Masters, with a different Scrum Master assigned to each stakeholder group
@@ -209,7 +210,7 @@ The answer is C.
 
 There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all the stakeholders.
 
-'''
+
 
 
 
@@ -247,6 +248,10 @@ They do so by making the product backlog visible and available to all stakeholde
 - Want to know what the Product Owner wants to build next? Look at the Product Backlog.
 - Want to know how features are described? Look at the Product Backlog.
 - Want to know the vision and goal for the product? Look at the Product Goal which is part of the Product Backlog.
+
+The Prodcut Backlog is the key to making the decisions of the Product Owner transparent.
+
+<<<
 
 === Inspection of the Increment
 
@@ -291,7 +296,6 @@ Options A, B, and E are correct.
 In Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum, is to remove the need to schedule other, time-wasting meetings.
 
 
-'''
 
 ==== Test Yourself
 
@@ -312,6 +316,6 @@ Option D is correct.
 
 If a change needs to be made to the Product Backlog, it's the Product Owner who does it. 
 
-If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. Nobody else has the right to do it.
+If the CEO needs a feature prioritized, the CEO has to go through the Product Owner. Nobody else has the right to add features to the Product Backlog other than the Product Owner, and nobody can inform the developers about which items are the highest priority other than the Product Owner.
 
 '''
