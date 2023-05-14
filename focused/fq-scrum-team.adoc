@@ -9,10 +9,11 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
 ==== Question 1
 --
 How many developers should there be on a Scrum Team that has a full-time Scrum Master and a full-time Product Owner?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -28,7 +29,7 @@ How many developers should there be on a Scrum Team that has a full-time Scrum M
 ==== Question 2
 --
 A Scrum Team:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -43,7 +44,7 @@ A Scrum Team:
 ==== Question 3
 --
 The optimal size of a development team is always a controversial topic. According to the Scrum Guide, a Scrum Team:
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -59,7 +60,7 @@ The optimal size of a development team is always a controversial topic. Accordin
 ==== Question 4
 --
 The Product Owner is not allowed to participate in the Daily Scrum:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -79,7 +80,7 @@ The Product Owner is not allowed to participate in the Daily Scrum:
 Your company has just acquired 33 new developers from a corporate merger. These new developers must be split up into teams.
 
 When developers are split up into teams, what should be the highest priority?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 

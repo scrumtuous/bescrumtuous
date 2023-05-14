@@ -7,10 +7,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
 ==== Question 1
 --
 A chart that shows the work completed and the amount of work remaining is known as a:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -25,7 +26,7 @@ A chart that shows the work completed and the amount of work remaining is known 
 ==== Question 2
 --
 How long should be spent planning a one-month sprint?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -40,7 +41,7 @@ How long should be spent planning a one-month sprint?
 ==== Question 3
 --
 You are a week into the Sprint things have gone sour. The developers feel they may not have enough time to complete all of the Sprint Backlog items in the Sprint Plan. Which of the following are not strategies that would be consistent with the Scrum Guide:
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -56,7 +57,7 @@ You are a week into the Sprint things have gone sour. The developers feel they m
 ==== Question 4
 --
 Who plans the work needed to be done throughout the course of a Sprint?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -72,7 +73,7 @@ Who plans the work needed to be done throughout the course of a Sprint?
 ==== Question 5
 --
 A product backlog item should be broken down into smaller, individual pieces:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 

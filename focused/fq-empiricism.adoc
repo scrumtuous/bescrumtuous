@@ -8,10 +8,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
 ==== Question 1
 --
 Which of the following are not empirical Scrum pillars?
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -32,7 +33,7 @@ The developers say there are too many meetings in Scrum.
 Their solution is to have the Daily Scrum every Monday, Wednesday and Friday instead of everyday.
 
 What problems could arise from reducing the frequency of the Daily Scrum?
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -48,7 +49,7 @@ What problems could arise from reducing the frequency of the Daily Scrum?
 ==== Question 3
 --
 The Scrum Guide states that Scrum is immutable. This means:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -63,7 +64,7 @@ The Scrum Guide states that Scrum is immutable. This means:
 ==== Question 4
 --
 Scrum is based on:
-(Select 2 answers.)
+(Choose 2.)
 --
 
 
@@ -78,8 +79,10 @@ Scrum is based on:
 
 ==== Question 5
 --
-When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' What Scrum Pillar is hurt most by the existence of technical debt?
-(Select 1 answers.)
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' 
+
+What Scrum Pillar is hurt most by the existence of technical debt?
+(Choose 1.)
 --
 
 
@@ -88,6 +91,7 @@ When Product Backlog items are said to be completed, despite not having met the 
 * [ ] B. Transparency
 * [ ] C. Courage
 * [ ] D. Focus
+* [ ] E. Openness
 
 --
 
@@ -224,7 +228,9 @@ Scrum is considered by many to be an Agile methodology, but you will not find th
 
 [#query]
 --
-When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' What Scrum Pillar is hurt most by the existence of technical debt?
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' 
+
+What Scrum Pillar is hurt most by the existence of technical debt?
 --
 
 [#list]
@@ -233,6 +239,7 @@ When Product Backlog items are said to be completed, despite not having met the 
 * [*] B. Transparency
 * [ ] C. Courage
 * [ ] D. Focus
+* [ ] E. Openness
 
 --
 ****

@@ -6,10 +6,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
 ==== Question 1
 --
 The Product Backlog should be ordered according to:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -24,7 +25,7 @@ The Product Backlog should be ordered according to:
 ==== Question 2
 --
 Which of the following statements are true?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -39,7 +40,7 @@ Which of the following statements are true?
 ==== Question 3
 --
 Multiple Scrum Teams who are actively developing features for the same project:
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -55,7 +56,7 @@ Multiple Scrum Teams who are actively developing features for the same project:
 ==== Question 4
 --
 Which of the following statements are true?
-(Select 2 answers.)
+(Choose 2.)
 --
 
 
@@ -71,8 +72,8 @@ Which of the following statements are true?
 
 ==== Question 5
 --
-The Product Owner will only represent one set of stakeholders at a time.
-(Select 1 answers.)
+The Product Owner will only ever represent one set of stakeholders at a time.
+(Choose 1.)
 --
 
 
@@ -221,7 +222,7 @@ The Scrum Developers are the ones who estimate the work required to complete a P
 
 [#query]
 --
-The Product Owner will only represent one set of stakeholders at a time.
+The Product Owner will only ever represent one set of stakeholders at a time.
 --
 
 [#list]

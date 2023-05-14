@@ -8,10 +8,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
 ==== Question 1
 --
 With regards to the Daily Scrum, the Scrum Master should:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -30,7 +31,7 @@ With regards to the Daily Scrum, the Scrum Master should:
 The self-managed and self-organized Scrum development team has come to a common agreement that they can increase development velocity by holding the Daily Scrum Monday, Wednesday and Friday, rather than on each day of the week.
 
 What are the two best ways for the Scrum Master to react when an issue like this arises?
-(Select 2 answers.)
+(Choose 2.)
 --
 
 
@@ -51,7 +52,7 @@ You're the Scrum Master and you've run into a problem with your team.
 - Developers do not want to attend Retrospectives anymore
 
 How should the Scrum Master respond?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -68,7 +69,7 @@ How should the Scrum Master respond?
 The key stakeholder on the project has told you the continuation of the project is dependent upon the completion of a 'critical feature' that is currently not part of the Sprint Backlog. If the feature is not completed before the end of this Sprint, the project and the continued employment of the team is at risk. 
 
 What course of action should you, as the Scrum Master, take?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -85,7 +86,7 @@ What course of action should you, as the Scrum Master, take?
 A new Scrum Master has been hired and is unclear about exactly what they are supposed to do. 
 
 Which three tasks are considered essential for the Scrum Master to perform according to the Scrum Guide? 
-(Select 3 answers.)
+(Choose 3.)
 --
 
 

@@ -7,12 +7,10 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 
 
-image::images/focused-exam-progress02.png[]
-
 ==== Question 1
 --
 The Sprint Backlog is comprised of:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -28,7 +26,7 @@ The Sprint Backlog is comprised of:
 ==== Question 2
 --
 Every Scrum Artifact has a commitment tied to it. What is the commitment tied to the Product Backlog?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -46,7 +44,7 @@ Every Scrum Artifact has a commitment tied to it. What is the commitment tied to
 ==== Question 3
 --
 A valuable increment:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -61,7 +59,7 @@ A valuable increment:
 ==== Question 4
 --
 If an high-value Sprint Backlog item is only partially completed at the end of the Scrum:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -76,7 +74,7 @@ If an high-value Sprint Backlog item is only partially completed at the end of t
 ==== Question 5
 --
 Which of the following is true of the Sprint Backlog?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 

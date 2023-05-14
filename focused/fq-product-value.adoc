@@ -9,10 +9,11 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
 ==== Question 1
 --
 Which one of the following best describes the Product Owner's role?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -27,7 +28,7 @@ Which one of the following best describes the Product Owner's role?
 ==== Question 2
 --
 How is the Product Backlog ordered?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -43,7 +44,7 @@ How is the Product Backlog ordered?
 ==== Question 3
 --
 According to the Scrum Guide, every Sprint must create value. Each Sprint should also
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -58,7 +59,7 @@ According to the Scrum Guide, every Sprint must create value. Each Sprint should
 ==== Question 4
 --
 When a large team working on a project is broken down into multiple, smaller teams:
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -75,7 +76,7 @@ When a large team working on a project is broken down into multiple, smaller tea
 ==== Question 5
 --
 If multiple team working on the same project do not integrate their increments together before the end of each Sprint:
-(Select 2 answers.)
+(Choose 2.)
 --
 
 

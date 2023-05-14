@@ -8,10 +8,11 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
 ==== Question 1
 --
 Which of the following is true about the participation of developers at the Sprint Review?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -26,7 +27,7 @@ Which of the following is true about the participation of developers at the Spri
 ==== Question 2
 --
 Only the Product Owner interacts directly with stakeholders during the Sprint
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -39,7 +40,7 @@ Only the Product Owner interacts directly with stakeholders during the Sprint
 ==== Question 3
 --
 Who on the Scrum Team is primarily responsible for engaging with and discovering the needs of stakeholders and C-suite executives?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -55,7 +56,7 @@ Who on the Scrum Team is primarily responsible for engaging with and discovering
 ==== Question 4
 --
 Under what circumstances can the Scrum Master speak directly with stakeholders?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -73,7 +74,7 @@ Under what circumstances can the Scrum Master speak directly with stakeholders?
 Management and stakeholders are not happy with the effectiveness of the Scrum Team.
 
 Who should management speak with about this issue? Who is responsible for the effectiveness of the Scrum Team?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 

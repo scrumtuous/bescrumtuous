@@ -9,10 +9,11 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
 ==== Question 1
 --
 Which of the following is not a Scrum value?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -28,7 +29,7 @@ Which of the following is not a Scrum value?
 ==== Question 2
 --
 How much time must developers put into completing a Product Backlog item selected as part of the current Sprint?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -43,7 +44,7 @@ How much time must developers put into completing a Product Backlog item selecte
 ==== Question 3
 --
 Which of the following actions embrace the Scrum Values of commitment and respect towards your fellow Scrum Team members?
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -59,7 +60,7 @@ Which of the following actions embrace the Scrum Values of commitment and respec
 ==== Question 4
 --
 Always working to the best of your abilities in order to achieve the Sprint Goal, and providing assistance to others team members when they struggle, demonstrates which one of the five Scrum values in action?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -76,7 +77,7 @@ Always working to the best of your abilities in order to achieve the Sprint Goal
 --
 The developers on a Scrum team are responsible for:
 
-(Select 1 answers.)
+(Choose 1.)
 --
 
 

@@ -7,10 +7,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
 ==== Question 1
 --
 Which of the following are not responsibilities of a Scrum Master?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -25,7 +26,7 @@ Which of the following are not responsibilities of a Scrum Master?
 ==== Question 2
 --
 What responsibilities does the Scrum Master have with regards to the Daily Scrum?
-(Select 2 answers.)
+(Choose 2.)
 --
 
 
@@ -42,7 +43,7 @@ What responsibilities does the Scrum Master have with regards to the Daily Scrum
 --
 On Fridays, developers want to hold the Daily Scrum in the cafeteria after the lunch crowd empties out. How would you respond to this request as a Scrum Master?
 
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -57,7 +58,7 @@ On Fridays, developers want to hold the Daily Scrum in the cafeteria after the l
 ==== Question 4
 --
 A Scrum Master:
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -74,7 +75,7 @@ A Scrum Master:
 The Product Owner feels that Developers are not communicating effectively during the Sprint.
 
 What are valid approaches the Scrum Master can take to address these issues?
-(Select 2 answers.)
+(Choose 2.)
 --
 
 

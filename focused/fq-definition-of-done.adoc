@@ -8,10 +8,11 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 
 
+
 ==== Question 1
 --
-The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
-(Select 1 answers.)
+The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+(Choose 1.)
 --
 
 
@@ -26,7 +27,7 @@ The developers on the team want to change the Definition of Done and make it a b
 ==== Question 2
 --
 What are three ways the Definition of Done helps to increase transparency throughout the organization?
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -42,7 +43,7 @@ What are three ways the Definition of Done helps to increase transparency throug
 ==== Question 3
 --
 A directive from the Devops team states product Increments cannot be released unless non-functional requirements for latency, performance, security and reliability are met. How should the Scrum Team deal with non-functional requirements.
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -57,7 +58,7 @@ A directive from the Devops team states product Increments cannot be released un
 ==== Question 4
 --
 Non-functional requirements such as security and regulatory compliance:
-(Select 3 answers.)
+(Choose 3.)
 --
 
 
@@ -73,7 +74,7 @@ Non-functional requirements such as security and regulatory compliance:
 ==== Question 5
 --
 Over time, as a Scrum Team becomes more comfortable with the framework and discovers how best to apply it, which of the following patterns do most teams experience?
-(Select 1 answers.)
+(Choose 1.)
 --
 
 
@@ -95,7 +96,7 @@ Over time, as a Scrum Team becomes more comfortable with the framework and disco
 
 [#query]
 --
-The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
 --
 
 [#list]
@@ -121,6 +122,9 @@ The Definition of Done can be changed with the agreement of the team during the 
 "During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
 
 Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
+
+
+
 --
 
 
