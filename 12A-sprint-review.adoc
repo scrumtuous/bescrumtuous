@@ -29,6 +29,10 @@ The Sprint Review is the one Scrum event where everyone is invited and allowed t
 
 The purpose of the Sprint Review is pretty self-explanatory. It's for everyone to review what was done and talk about what they like, what they don't like, and where they think things should go next.
 
+<<<
+
+=== Sprint Review Participants
+
 Everyone gets to speak at the Sprint Review. Developers can speak to stakeholders, stakeholders can speak to the Scrum Master, and the Product Owner can speak to developers.
 
 There are no restrictions in the Scrum Guide about developers ever talking to stakeholders, the Scrum Master talking to stakeholders, or the Product Owner talking to stakeholders.
@@ -38,16 +42,15 @@ The Sprint Review intentionally and concertedly brings everyone together once pe
 The more openness and transparency the better, as far as Scrum is concerned.
 
 
-
 ==== Test Yourself
 
 ****
-Which of the following is true about the Sprint Review?
+Which of the following is true about the Sprint Review? (Choose 1)
 
-* [ ] Only the Scrum Master is allowed to talk directly to stakeholders
-* [ ] Only the Product Owner is allowed to talk directly to stakeholders
-* [ ] Developers are not allowed to talk directly to stakeholders
-* [ ] The Sprint Review is the only Scrum event where both stakeholders and the Scrum Team are invited
+* [ ] A) Only the Scrum Master is allowed to talk directly to stakeholders
+* [ ] B) Only the Product Owner is allowed to talk directly to stakeholders
+* [ ] C) Developers are not allowed to talk directly to stakeholders
+* [ ] D) The Sprint Review is the only Scrum event where both stakeholders and the Scrum Team are invited
 
 ****
 
@@ -71,7 +74,7 @@ ____
 
 The term *what was accomplished* is somewhat vague.
 
-We discover in the Scrum Guide's section on artifacts that only completed Increments, that is work items that have met the Definition of Done, are to be presented at the Sprint Review.
+We discover in the Scrum Guide's section on artifacts that only _completed Increments,_ that is work items that have met the Definition of Done, are to be presented at the Sprint Review.
 
 <<<
 
@@ -94,7 +97,7 @@ Based on this information, attendees collaborate on what to do next.
 The Product Backlog may also be adjusted to meet new opportunities.
 ____
 
-The Sprint Review gives everyone on the team and the stakeholders a chance to talk about what they like, what they don't like, and what they think should change in terms of how the product is being developed.
+The Sprint Review gives everyone on the team, and the stakeholders, a chance to talk about what they like, what they don't like, and what they think should change in terms of how the product is being developed.
 
 If the stakeholders don't like the direction development is taking and want some proposed features removed, the Product Owner may remove those features from the Product Backlog. If there are features the stakeholders decide they want, then the Product Owner can either add them to the Product Backlog or prioritize them if they already exist.
 
@@ -108,18 +111,18 @@ For shorter Sprints, the event is usually shorter.
 ____
 
 
-You are guaranteed to get questions about the timebox length of every event. Remember that the Sprint Review is time-boxed to a maximum of 4 hours.
+You are guaranteed to get questions about the timebox length of every event on the Scrum Master certification exam. Remember that the Sprint Review is time-boxed to a maximum of 4 hours.
 
 ==== Test Yourself
 
 ****
-Which of the following Scrum events are time-boxed to 4 hours?
+Which of the following Scrum events are time-boxed to 4 hours? (Choose 1)
 
-* [ ] The Sprint Review only
-* [ ] The Sprint Retrospective only
-* [ ] Sprint Planning only
-* [ ] The Sprint Review and the Sprint Retrospective
-* [ ] The Sprint Review and Sprint Planning
+* [ ] A) The Sprint Review only
+* [ ] B) The Sprint Retrospective only
+* [ ] C) Sprint Planning only
+* [ ] D) The Sprint Review and the Sprint Retrospective
+* [ ] E) The Sprint Review and Sprint Planning
 
 ****
 
@@ -138,7 +141,7 @@ ____
 The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
 ____
 
-The Scrum Master Certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a _demo_ or deliver a _presentation._ Don't fall for that bait. 
+The Scrum Master certification exam will likely include a question or two where one of the incorrect options implies that the purpose of the Sprint Review is to simply do a _demo_ or deliver a _presentation._ Don't fall for that bait. 
 
 The Sprint Review is much more than just a presentation to stakeholders.
 

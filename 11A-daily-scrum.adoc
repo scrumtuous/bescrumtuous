@@ -2,11 +2,14 @@
 
 == Chapter 11: The Daily Scrum
 
+{nbsp} + 
+{nbsp} + 
+
 Some frameworks and methodologies have a _Daily Standup_.
 
 We don't have _Daily Standups_ in Scrum.
 
-First of all, the term is ableist, as not everyone can stand. 
+First of all, the term is ableist. Not everyone can stand. 
 
 Secondly, the idea behind a Daily _Standup_ is that it won't last long because people will eventually get tired of standing.
 
@@ -20,7 +23,7 @@ The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and
 ____
 
 
-.The purpose of the Daily Scrum is for the Developers to metaphorically get the ball moving again.
+.The purpose of the Daily Scrum is for the developers to metaphorically get the ball moving again.
 image::images/daily-scrum-ball-moving.jpg["The Daily Scrum gets the ball moving again."]
 
 <<<
@@ -63,11 +66,11 @@ If your Daily Scrum feels like a waste of time, you're doing the Daily Scrum wro
 
 Scrum doesn't try to put an overwhelming amount of structure and ceremony around the development process. At it's heart, Scrum just says:
 
-- Plan your work before you start. That's why we have the Sprint Planning meeting
+- Plan your work before you start. That's why we have the Sprint Planning meeting.
 - Regularly review your work with stakeholders. That's why we have the Sprint Review.
 - Regularly talk about how you can improve things. That's why we have the Sprint Retrospective.
 
-It's hard to think someone could argue that any of these meeting recommendations  are bad. These activities just naturally elute from any team that's serious about software development.
+It's hard to think someone could argue that any of these meeting are bad. These activities just naturally elute from any team that's serious about software development.
 
 Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable.
 
@@ -75,7 +78,7 @@ Scrum also says that every workday the developers should talk to each other abou
 
 Scrum isn't some framework that demands developers use some crazy set of new and revolutionary techniques. All Scrum really does is document the practices good development teams already do.
 
-Did you ever work on a group project in High School or College? One where you had to meet up with five friends in the library a few times to get the project finished?
+Did you ever work on a group project in High School or College? One where you had to meet-up with five friends in the library a few times to get the project finished?
 
 What did you all do for the first 15 minutes when you got together? 
 
@@ -114,7 +117,7 @@ When people say Scrum has too many meetings, I ask them which ones they think sh
 - Should there be no product reviews with  clients?
 - Should there be no retrospective to reflect on the Sprint?
 
-Or is the Daily Scrum the problem? Do they think having developers talking to each other in the Daily Scrum for a few minutes every day is too much.
+Or is the Daily Scrum the problem? Do they think having developers talking to each other in the Daily Scrum for a few minutes every day is too much?
 
 If a team of six or seven developers is working on a project that burns through $250,000 worth of budget money a month, I'd say it was a problem if those developers didn't talk to each other for a few minutes every day.
 
@@ -123,12 +126,12 @@ Scrum doesn't have too many meetings. Scrum gets it just about right.
 ==== Test Yourself
 
 ****
-Which one of the following is the responsibility of the Scrum Master with regards to the Daily Scrum?
+Which one of the following is the responsibility of the Scrum Master during the Daily Scrum?
 
-* [ ] The Scrum Master should coach the developers about keeping the Daily Scrum timeboxed to 15 minutes
-* [ ] The Scrum Master should ensure each developer gets a chance to speak
-* [ ] The Scrum Master starts the Daily Scrum by asking the 3 standard Daily Scrum questions
-* [ ] The Scrum Master starts the Daily Scrum by asking every developer to stand up.
+* [ ] A) The Scrum Master should coach the developers about keeping the Daily Scrum timeboxed to 15 minutes
+* [ ] B) The Scrum Master should ensure each developer gets a chance to speak
+* [ ] C) The Scrum Master starts the Daily Scrum by asking the 3 standard Daily Scrum questions
+* [ ] D) The Scrum Master starts the Daily Scrum by asking every developer to stand up.
 
 ****
 
@@ -144,13 +147,11 @@ Past Scrum Guides mentioned the 3 Daily Scrum questions:
 - What do you plan to do today?
 - Is anything impeding your progress?
 
-These questions were removed from the 2020 Scrum Guide. 
-
-They can be asked if the developers find them helpful, but they are certainly not a requirement of the Daily Scrum.
+These questions were removed from the 2020 Scrum Guide. They can be asked if the developers find them helpful, but they are certainly not a requirement of the Daily Scrum.
 
 '''
 
-.The Daily Scrum is for the developers and managed by the developers. If the Scrum Master or the Product Owner attends, they do so at the behest of the Developers.
+.The Daily Scrum is for the developers and managed by the developers. If the Scrum Master or the Product Owner attends, they do so at the behest of the developers.
 image::images/developers-in-scrum.jpg["The Daily Scrum is for the developers. Neither the Scrum Master nor the Product Owner is required to attend."]
 
 ==== Test Yourself
@@ -160,10 +161,10 @@ The development team has decided to only work one day a week and will only hold 
 
 How do you react as a Scrum Master? (Choose 1)
 
-* [ ] Inform the team Scrum development cannot happen only one day a week
-* [ ] Have Human Resources talk to the development lead about their proposed work schedule
-* [ ] Cancel the Sprint and consult the Product Owner
-* [ ] Inform the team this is fine so long as the only workday is Monday
+* [ ] A) Inform the team Scrum development cannot happen only one day a week
+* [ ] B) Have Human Resources talk to the development lead about their proposed work schedule
+* [ ] C) Cancel the Sprint and consult the Product Owner
+* [ ] D) Inform the team this is fine so long as the only workday is Monday
 
 ****
 
@@ -186,10 +187,10 @@ ____
 ****
 The Scrum team wants to move the Daily Scrum to the atrium on Fridays to help them wind down after a busy workweek. How do you, as a Scrum Master, respond? (Choose 1)
 
-* [ ] Explain to them that the Daily Scrum should always take place at the same time and place
-* [ ] Allow the developers to be self-managed and hold their Daily Scrum in the Atrium on Fridays
-* [ ] Confirm with the Product Owner that it is okay to change the Daily Scrum location on Fridays
-* [ ] As the Scrum Master, work to remove any impediments standing in the way of running the Friday Scrum in the atrium
+* [ ] A) Explain to them that the Daily Scrum should always take place at the same time and place
+* [ ] B) Allow the developers to be self-managed and hold their Daily Scrum in the Atrium on Fridays
+* [ ] C) Confirm with the Product Owner that it is okay to change the Daily Scrum location on Fridays
+* [ ] D) As the Scrum Master, work to remove any impediments standing in the way of running the Friday Scrum in the atrium
 
 ****
 
@@ -218,7 +219,7 @@ This is an interesting statement that answers several questions about how Scrum 
 
 People often wonder if a Scrum Master or Product Owner is allowed to actively do development. The answer is a big YES.
 
-If a Scrum Team of five people is cast away on a desert island and scrambling to build a shelter before a storm comes, everyone on that Scrum Team going to pitch in. If your life is on the line, you're not going to refuse to help build a shelter just because you've accepted the designation of _Scrum Master._
+If a Scrum Team of five people is cast away on a deserted island and scrambling to build a shelter before a storm comes, everyone on that Scrum Team is going to pitch in. If your life is on the line, you're not going to refuse to help build a shelter just because you've accepted the designation of _Scrum Master._
 
 On small teams and startups, the Scrum Master might also be the Product Owner and they might be a developer as well. It might not be a best practice, but there's nothing that forbids it. More to the point, it might make a lot of sense in a really small development firm.
 
@@ -234,13 +235,11 @@ The Developers can select whatever structure and techniques they want, as long a
 This creates focus and improves self-management.
 ____
 
-The Daily Scrum is for the developers. 
-
-It should be run by the developers, organized by developers, and managed by the developers. How they manage or organize it is up to them.
+The Daily Scrum is for the developers. It should be run by the developers, organized by developers and managed by the developers. How they manage or organize it is up to them.
 
 Anyone can _attend_ the daily Scrum. If the developers want to hire a circus clown to create balloon animals while the Daily Scrum proceeds, then all the power to them. But only the developers are supposed to _participate._
 
-Now that's not to say the developers can't ask the Scrum Master or Product Owner a question during the Daily Scrum. That may be necessary to properly adapt their plan towards the Sprint Goal. But the Scrum Master, Product Owner, and stakeholders shouldn't be active participants driving the meeting. The meeting must be driven by the developers.
+Now that's not to say the developers can't ask the Scrum Master or Product Owner a question during the Daily Scrum. That may be necessary to properly adapt their plan towards the Sprint Goal. But the Scrum Master, Product Owner and stakeholders shouldn't be active participants driving the even. The Daily Scrum must be driven by the developers.
 
 === Purpose of the Daily Scrum
 
@@ -251,13 +250,14 @@ ____
 
 Things change from day to day. The Daily Scrum is a time for developers to deal with issues that have arisen that may delay their progress and put the Sprint Goal in jeopardy.
 
-Hopefully, having the whole team of Developers together in the Daily Scrum will help to bring about quick solutions to problems that may have arisen.
+Hopefully, having the whole team of developers together in the Daily Scrum will help to bring about quick solutions to problems that may have arisen.
 
 === Meetings Don't Replace Pragmatic Communication
 
 [quote, 2020 Scrum Guide page 9]
 ____
 The Daily Scrum is not the only time Developers are allowed to adjust their plans. 
+
 They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of Sprint’s work.
 ____
 
@@ -265,25 +265,25 @@ Don't ever think that the Daily Scrum is the only time developers are allowed to
 
 If a team of construction workers was putting up a roof, and a wind gust blew all their shingles away, would they wait until the next day's Scrum to form a new plan, or would they reformulate their plans right away?
 
-Developers can meet with each other any time they like. They can schedule additional meetings as a group. They can meet one on one at each other's desks. They can have dinner together after work.
+Developers can meet with each other any time they like. They can schedule additional meetings as a group. They can meet one-on-one at each other's desks. They can have dinner together after work.
 
-There's nothing in the Scrum Guide that restricts communication between developers, stakeholders, product owners, scrum masters, or anyone else. The only thing the Scrum Guide recommends is a few time-boxed events that guarantee opportunities for communication, transparency, and adaptation to take place.
+There's nothing in the Scrum Guide that restricts communication between developers, stakeholders, Product Owners, Scrum Masters, or anyone else. The only thing the Scrum Guide recommends is a few time-boxed events that guarantee opportunities for communication, transparency, and adaptation to take place.
 
 ==== Test Yourself
 
 ****
-A critical bug has appeared in your code that may put the Sprint Goal at risk. What should you, as a developer, do?
+A critical bug has appeared in your code that may put the Sprint Goal at risk. What should you, as a developer, do? (Choose 1)
 
-* [ ] Speak to your fellow developers as soon as possible to find a way to adapt the Sprint plan
-* [ ] Bring the issue up in the next day`s Daily Scrum meeting
-* [ ] Inform the Scrum Master and have the Scrum Master remove the impediment
-* [ ] Pass the issue to the Quality Assurance team and continue working on Product Backlog items
+* [ ] A) Speak to your fellow developers as soon as possible to find a way to adapt the Sprint plan
+* [ ] B) Bring the issue up in the next day`s Daily Scrum meeting
+* [ ] C) Inform the Scrum Master and have the Scrum Master remove the impediment
+* [ ] D) Pass the issue to the Quality Assurance team and continue working on Product Backlog items
 
 ****
 
-Any time an issue comes up it should be addressed as soon as possible.
+Option A is correct.
 
-If a critical bug appears in your code, and you think it will impact the Sprint Goal, then meet with your fellow developers right away and see if you can adapt by adjusting the Sprint plan.
+Any time an issue comes up it should be addressed as soon as possible. If a critical bug appears in your code, and you think it will impact the Sprint Goal, then meet with your fellow developers right away and see if you can adapt by adjusting the Sprint plan.
 
 Don't ever let the Scrum Guide and the various Scrum events and artifacts impede pragmatic thinking. If a problem arises that needs to be taken care of immediately, take care of it immediately. Don't wait for the next Scrum event to adapt.
 

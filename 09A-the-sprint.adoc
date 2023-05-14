@@ -1,5 +1,9 @@
 == Chapter 9: The Sprint
 
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
 All of the development, planning, retrospectives, and reviews that happen in Scrum happen within the scope of a Sprint. It's the most important part of Scrum.
 
 [quote, 2020 Scrum Guide page 7]
@@ -21,9 +25,9 @@ ____
 
 Sometimes the Scrum Certification exam will ask you when it's possible to change the length of a Sprint.
 
-The temptation is to say 'during Sprint planning,' but Sprint planning happens during the Sprint, so if you were to change the duration of the Sprint during Sprint Planning, it would be the length of the _next_ Sprint you'd be changing, not the current one.
+The temptation is to say 'during Sprint planning,' but Sprint planning happens _during_ the Sprint, so if you were to change the duration of the Sprint during Sprint Planning, it would be the length of the _next_ Sprint you'd be changing, not the current one.
 
-Discussions about the length of the Sprint and whether the Sprint should be shortened or extended are best to take place during the Sprint Retrospective. That way if you do decide to change the Sprint length, the change can apply to the Sprint that starts after the current Retrospective finishes.
+Discussions about the length of the Sprint and whether the Sprint should be shortened or extended are best to take place during the Sprint Retrospective. That way, if you do decide to change the Sprint length, the change can apply to the Sprint that starts after the current Sprint Retrospective finishes.
 
 Having said that, the length of the Sprint shouldn't be changed too often. It should remain relatively consistent throughout the project.
 
@@ -140,15 +144,15 @@ The developers believe this PBI should be broken into multiple Product Backlog i
 What should you as the Scrum Master do?
 (Choose 1)
 
-* [ ] Have the Scrum Developers clarify the requirements and renegotiate the scope of the Product Backlog items with the PO
-* [ ] Expand the length of the Sprint so the Development team can complete the complex Product Backlog items
-* [ ] Rewrite the user story so the work related to the Product Backlog Item can be completed within the current Sprint
+* [ ] A) Have the Scrum Developers clarify the requirements and renegotiate the scope of the Product Backlog items with the PO
+* [ ] B) Expand the length of the Sprint so the Development team can complete the complex Product Backlog items
+* [ ] C) Rewrite the user story so the work related to the Product Backlog Item can be completed within the current Sprint
 
 ****
 
 A is correct. 
 
-If the developers have issues with the size, scope, complexity, and clarity of the work they are doing, they simply contact the Product Owner so requirements can be clarified and scope can be renegotiated.
+If the developers have issues with the size, scope, complexity, and clarity of their work, they simply contact the Product Owner so requirements can be clarified and scope can be renegotiated.
 
 Sprints are a fixed length, so they can't ever be extended, which makes B incorrect.
 
@@ -178,6 +182,8 @@ Shorter Sprints can be employed to generate more learning cycles and limit the r
 Each Sprint may be considered a short project.
 ____
 
+=== The Benefits of Short Sprints
+
 The Scrum Guide places a great deal of emphasis on short Sprints, and there are plenty of reasons for that.
 
 Remember, a Sprint Review happens at the end of a Sprint. With a 2 week Sprint, the stakeholders get to review the product twice in a month. With a 4 week Sprint, they only get to see it once.
@@ -190,17 +196,16 @@ It's also arguably easier to estimate work for two weeks, as opposed to three or
 
 ****
 
-The development team is working with a new technology which has introduced a great deal of risk and uncertainty into the project. 
-
-The Product Owner wants to reduce the Sprint time down to 2 or 3 weeks from the current Sprint length of one month. 
+The development team is working with a new technology which has introduced a great deal of risk and uncertainty into the project. The Product Owner wants to reduce the Sprint time down to 2 or 3 weeks from the current Sprint length of one month. 
 
 What should the Scrum Master do?
-(Select 1)
+(Choose 1)
 
-* [ ] Act on the Product Owner's recommendation and reduce the Sprint length to 2 weeks
-* [ ] Coach the team on how shorter Sprints reduce risk and ask them to consider reducing the Sprint length to 2 or 3 weeks.
-* [ ] Explain to the Product Owner that the Sprint length cannot be changed after development has started.
-* [ ] Plan a week-long 'learning Sprint' where developers learn the new technology and don't try to deliver an Increment.
+* [ ] A) Act on the Product Owner's recommendation and reduce the Sprint length to 2 weeks
+* [ ] B) Coach the Scrum Team on how shorter Sprints reduce risk and ask them to consider reducing the Sprint length to 2 or 3 weeks.
+* [ ] C) Explain to the Product Owner that the Sprint length cannot be changed after development has started.
+* [ ] D) Plan a week-long 'learning Sprint' where developers learn the new technology and don't try to deliver an Increment.
+* [ ] E) Assign work with the new technology to an external Scrum Team that specializes in it.
 
 ****
 
@@ -212,9 +217,11 @@ Neither the Scrum Master nor the Product Owner can arbitrarily set the length of
 
 C is incorrect because the length of future Sprint can be changed if the team agrees a change is needed. However, the Sprint length cannot be changed mid-sprint.
 
-D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of a valuable and useful Increment.
+D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of a valuable and useful Increment. 
 
-'''
+E is incorrect because Scrum Teams should be cross-functional and be able to learn new technologies as required.
+
+<<<
 
 === Empiricism Trumps Scrum Metrics
 
@@ -245,22 +252,25 @@ Still, for the exam, you do need to know what each of these charts does. You don
 
 NOTE: I queried ChatGPT so you don't have to! I got ChatGPT to generate these descriptions. ChatGPT gets a lot of stuff about Scrum wrong, but I thought these descriptions were better than I could do on my own.
 
-Burn-Down Chart:
+
+*Burn-Down Chart:*
 A burn-down chart is a graphical representation of the amount of work remaining in a project versus time. It tracks the progress of a project by showing the remaining work that needs to be completed on the vertical axis and the time on the horizontal axis. The chart starts with the total amount of work to be completed at the beginning of the project, and as work is completed, the line on the chart gradually moves down until it reaches zero at the end of the project.
 
 Burn-down charts are useful because they help teams track progress over time and adjust their approach as necessary. For example, if the team is falling behind schedule, they can identify this early on and make changes to get back on track.
 
-Burn-Up Chart:
+*Burn-Up Chart:*
 A burn-up chart is similar to a burn-down chart but shows progress differently. Rather than showing the remaining work on the vertical axis, a burn-up chart shows the amount of work completed over time. The chart starts with zero completed work at the beginning of the project, and as work is completed, the line on the chart moves up until it reaches the total amount of work to be completed at the end of the project.
 
 Burn-up charts are useful because they show progress towards a goal and can help teams identify whether they are on track to complete the project on time.
 
-Cumulative Flow Chart:
+*Cumulative Flow Chart:*
 A cumulative flow chart is a graphical representation of the flow of work in a project. It shows the amount of work in progress at any given time, as well as the rate at which work is being completed. The chart has a horizontal axis representing time and a vertical axis representing the number of tasks.
 
 The chart starts with a backlog of tasks at the beginning of the project and shows how tasks move through different stages of completion over time. For example, a task might start in the "to do" column, move to "in progress", and then finally move to "completed".
 
 Cumulative flow charts are useful because they help teams identify bottlenecks in their workflow and optimize their processes to increase efficiency. By tracking the rate of completion over time, teams can also identify whether they are on track to complete the project on time.
+
+
 
 === Scrum Can't Predict the Future
 
@@ -359,7 +369,7 @@ Or maybe two teams who finish their Sprints on the same day would end up pushing
 
 So maybe it'd be better to stagger the Sprints? Have one team start a 4 week Sprint on the first of the month, and have the other start the Sprint in the middle of the month?
 
-=== No Rule Means No Rule
+=== No Rule Means There's No Rule
 
 The fact is, the Scrum Guide doesn't care what those two teams do. The teams are expected to figure it out on their own.
 

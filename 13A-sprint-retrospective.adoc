@@ -27,11 +27,11 @@ image::images/chart-sprint-retrospective.jpg["The Sprint Retrospective is the la
 
 === Updating the Sprint Length and the DoD
 
-One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time to do so.
+One question that comes up regularly on the Scrum Master certification exam is _when should the Definition of Done be discussed or updated._ This paragraph makes it clear that the Sprint Retrospective is the correct time to do so.
 
 It's not stated explicitly, but the Sprint Retrospective is also the right time to discuss changing the Sprint length if that's desired. That way if a change is agreed upon, the change can be applied to the next Sprint that starts when the retrospective ends.
 
-The Scrum Guide also indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum Framework are best discussed during the Sprint Retrospective.
+The Scrum Guide also indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum framework are best discussed during the Sprint Retrospective.
 
 If the certification exam ever asks when developers should talk about how well their tools are working, or how well they have applied the Scrum framework, the correct answer will be the Sprint Retrospective, not the Daily Scrum. 
 
@@ -45,10 +45,10 @@ If a given tool is causing an immediate problem and creating a blocker or impedi
 ****
 The developers are not happy with how the Sprint framework has been implemented. When is the best time to discuss this? (Choose 1)
 
-* [ ] During the Sprint Review
-* [ ] During the Daily Scrum
-* [ ] During the Sprint Planning
-* [ ] During the Sprint Retrospective
+* [ ] A) During the Sprint Review
+* [ ] B) During the Daily Scrum
+* [ ] C) During Sprint Planning
+* [ ] D) During the Sprint Retrospective
 
 ****
 
