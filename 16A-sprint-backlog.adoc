@@ -48,10 +48,10 @@ Other than a responsibility to guide the team and organization on how to properl
 ****
 The Sprint Backlog answers which three questions?
 
-* [ ] When, where, and why
-* [ ] Who, when, and where
-* [ ] Why, what, and how
-* [ ] How, what, and where
+* [ ] A) When, where, and why
+* [ ] B) Who, when, and where
+* [ ] C) Why, what, and how
+* [ ] D) How, what, and where
 
 ****
 
@@ -66,14 +66,16 @@ The Sprint Backlog answers the questions of why, what, and how.
 
 ****
 The CEO talks to you, the Scrum Master, and tells you the project will be canceled if a given feature is not implemented before the end of the Sprint.
-What should you as the Scrum Master do?
+What should you as the Scrum Master do? (Choose 1)
 
-* [ ] Add the feature as a Sprint Backlog item in the current Sprint
-* [ ] Cancel the Sprint and have the team work on this important feature
-* [ ] Have the Product Owner speak with the CEO
-* [ ] Have the Product Owner add the feature to the current Sprint Backlog
+* [ ] A) Add the feature as a Sprint Backlog item in the current Sprint
+* [ ] B) Cancel the Sprint and have the team work on this important feature
+* [ ] C) Have the Product Owner speak with the CEO
+* [ ] D) Have the Product Owner add the feature to the current Sprint Backlog
 
 ****
+
+Option D is correct.
 
 Nobody can add anything to the Sprint Backlog other than the developers.
 
@@ -117,12 +119,12 @@ Management should never pester the Scrum Team with requests for status meetings 
 ==== Test Yourself
 
 ****
-When should the Sprint Backlog be updated?
+When should the Sprint Backlog be updated? (Choose 1)
 
-* [ ] During Sprint planning when more details emerge
-* [ ] During the Daily Scrum as the Scrum developers adapt
-* [ ] During the Sprint review as stakeholders give feedback
-* [ ] During the Sprint any time more is learned
+* [ ] A) During Sprint planning when more details emerge
+* [ ] B) During the Daily Scrum as the Scrum developers adapt
+* [ ] C) During the Sprint review as stakeholders give feedback
+* [ ] D) During the Sprint any time more is learned
 
 ****
 
@@ -161,12 +163,12 @@ What matters is that the Sprint Goal drives the team forward. So long as a usabl
 ==== Test Yourself
 
 ****
-Issues beyond the Scrum Team's control have made it almost impossible to achieve the Sprint Goal, and there's still a week left in the Sprint. What should the Scrum Master do?
+Issues beyond the Scrum Team's control have made it almost impossible to achieve the Sprint Goal, and there's still a week left in the Sprint. What should the Scrum Master do? (Choose 1)
 
-* [ ] Change the Sprint Goal
-* [ ] Cancel the Sprint
-* [ ] Schedule a mid-Sprint planning session
-* [ ] Have the team continue to work towards the goal
+* [ ] A) Change the Sprint Goal
+* [ ] B) Cancel the Sprint
+* [ ] C) Schedule a mid-Sprint planning session
+* [ ] D) Have the team continue to work towards the goal
 
 ****
 
@@ -204,16 +206,18 @@ If developers need to decompose backlog items or even remove items from the Spri
 ==== Test Yourself
 
 ****
-If Developers find the scope of work scheduled for a Sprint is too much, with whom should they negotiate the Sprint Backlog's scope?
+If Developers find the scope of work scheduled for a Sprint is too much, with whom should they negotiate the Sprint Backlog's scope? (Choose 1)
 
-* [ ] The Product Owner
-* [ ] The Scrum Master
-* [ ] Their fellow developers
-* [ ] The stakeholders.
+* [ ] A) The Product Owner
+* [ ] B) The Scrum Master
+* [ ] C) Their fellow developers
+* [ ] D) The stakeholders.
 
 ****
+
+Option A is correct.
 
 Any time the developers need to scale back on their work or break down Product Backlog items into smaller pieces, it's always wise to speak with the Product Owner for clarification. The Product Owner can also help developers understand which product features should be included in order to not to put the Sprint Goal at risk.
 
 
-'''
+

@@ -9,7 +9,9 @@ There are three Scrum artifacts:
 [quote, 2020 Scrum Guide page 10]
 ____
 Scrum’s artifacts represent work or value. 
+
 They are designed to maximize the transparency of key information. 
+
 Thus, everyone inspecting them has the same basis for adaptation.
 ____
 
@@ -22,12 +24,10 @@ The existence of these artifacts helps provide transparency by answering the thr
 - What needs to be done? That's answered by the Product Backlog
 - What's been done? That's answered by the Increments of work that have been produced
 
-Stakeholders get angry and upset when they don't have answers to these questions. 
-
-The existence of transparent and inspectable Scrum Artifacts tends to calm the nerves of nervous stakeholders.
+Stakeholders get angry and upset when they don't have answers to these questions. The existence of transparent and inspectable Scrum Artifacts tends to calm the nerves of nervous stakeholders.
 
 
-.Each of the three Scrum artifacts, namely the Product Backlog, Sprint Backlog and the Increment, has a corresponding Scrum commitment. The Product Goal, Sprint Goal and the Increment are the Scrum commitments.
+.Each Scrum artifact, namely the Product Backlog, Sprint Backlog and the Increment, has a corresponding Scrum commitment. The Product Goal, Sprint Goal and the Increment are the Scrum commitments.
 image::images/artifacts-commitments.jpg["Each of the three Scrum artifacts has a corresponding Scrum commitment."]
 
 <<<
@@ -37,10 +37,10 @@ image::images/artifacts-commitments.jpg["Each of the three Scrum artifacts has a
 ****
 The stakeholders are waiting on a new feature to be released and they want to know if it's being actively developed during this Sprint. Where would the stakeholders look to find this information? (Select 1)
 
-* [ ] The Product Backlog
-* [ ] The Sprint Backlog
-* [ ] The Definition of Done
-* [ ] The Sprint Goal
+* [ ] A) The Product Backlog
+* [ ] B) The Sprint Backlog
+* [ ] C) The Definition of Done
+* [ ] D) The Sprint Goal
 
 ****
 
@@ -68,46 +68,46 @@ ____
 
 Every arrow needs a target. Each Scrum commitment act as a target for their corresponding artifact.
 
-.Scrum commitments are the targets for the Scrum artifacts to aim at. (Image from Freepik.com)
+.Scrum commitments are the targets for the Scrum artifacts to aim at.
 image::images/darts.png["Scrum commitments are targets for artifacts."]
 
 
-A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance an Agile Scrum developer’s focus as the project progresses.
+A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance a Scrum Developer’s focus as the project progresses.
 
 
 ==== Test Yourself
 
 ****
-The goal of every Sprint is to create an Increment that lives up to what ultimate measure?
+The goal of every Sprint is to create an Increment that lives up to what ultimate measure? (Choose 1)
 
-* [ ] Standard performance metrics
-* [ ] Quality Assurance review
-* [ ] The Definition of Done
-* [ ] A conflict-free merge into the master branch
+* [ ] A) Standard performance metrics
+* [ ] B) Quality Assurance review
+* [ ] C) The Definition of Done
+* [ ] D) A conflict-free merge into the master branch
 
 ****
 
 C is correct.
 
-The Increment commits to measuring up to the Definition of Done.
+The Increment commits to measuring up to and conforming to the Definition of Done.
 
 '''
 
 ==== Test Yourself
 
 ****
-How do the Scrum Artifacts reinforce empiricism for stakeholders?
+How do the Scrum Artifacts reinforce empiricism for stakeholders? (Choose 1)
 
-* [ ] They help the stakeholder's chart velocity
-* [ ] They help Quality Assurance teams confirm quality metrics are achieved
-* [ ] They provide insight into what has been done and what is being done
-* [ ] They help stakeholders estimate the overall cost of the project
+* [ ] A) They help the stakeholder's chart velocity
+* [ ] B) They help Quality Assurance teams confirm quality metrics are achieved
+* [ ] C) They provide insight into what has been done and what is being done
+* [ ] D) They help stakeholders estimate the overall cost of the project
 
 ****
 
 Option C is correct.
 
-Empiricism is all about observation and experience. The Scrum Artifacts allow stakeholders to know exactly what has been done and what is currently being worked on.
+Empiricism is all about observation and experience. The Scrum Artifacts allow stakeholders to know precisely what has been done and exactly what is currently being worked on.
 
 This provides more empirical evidence of the state of the project than burndown charts or cumulative flow diagrams.
 
@@ -122,5 +122,5 @@ True or False: The Scrum Artifacts exist to reinforce empiricism only for the Sc
 
 This is false. The Scrum Artifacts are accessible to the Stakeholders as well as the Scrum Team. They help reinforce empiricism for everyone involved in the project.
 
-'''
+
 

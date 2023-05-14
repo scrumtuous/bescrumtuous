@@ -28,3 +28,6 @@ The Goal of a Scrum Master is to teach themself out of a job.
 
 
 Wha thappens to points when a backlog item isn't completed.
+
+
+A PBI can never be deleted from the Product Backlog.

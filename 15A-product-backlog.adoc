@@ -2,7 +2,7 @@
 
 The Product Owner is the one member of the Scrum Team who is tasked solely with the job of 'optimizing the value of the work done by the Scrum Team.'
 
-The way the Product Owner does that is by keeping a prioritized list of all the features and improvement the product under development requires.
+The way the Product Owner does that is by keeping a prioritized list of all the features and improvements the product under development requires.
  
 This list is known as the Product Backlog.
  
@@ -13,15 +13,15 @@ The Product Backlog is an emergent, ordered list of what is needed to improve th
 ____
 
 
-This definition makes it clear that the Product Backlog is the list of the features that need to be built to complete the project. The Developers on a Scrum Team should never be working on anything that isn't part of the Product Backlog.
+The Scrum Guide's definition makes it clear that the Product Backlog is the list of the features that need to be built to complete the project. The developers on a Scrum Team should never be working on anything that isn't part of the Product Backlog.
 
 
-.The Product Owner is accountable for the Product Backlog. (Image from Freepik.com)
+.The Product Owner is solely accountable for the Product Backlog.
 image::images/emergent-list.png["The Product Owner manages the Product Backlog."]
 
 === Ordered, Prioritized List of Features
 
-This definition also demands that the list be ordered, in a priority  sequence. The most important items are at the top.
+The Scrum Guide's definition of the Proudct Backlog demands that the list be ordered in a priority sequence. The most important items are at the top.
 
 There is also only one Product Backlog. Any product feature that's needed is listed in the one, true Product Backlog. 
 
@@ -52,7 +52,7 @@ ____
 The Product Backlog is the single source of work undertaken by the Scrum Team.
 ____
 
-The fact that the Product Backlog is the _single source_ of work to be undertaken by the Scrum Team indicates that it is also the _only_ source of work undertaken by the Scrum team.
+The fact that the Product Backlog is the _single source_ of work to be undertaken by the Scrum Team reinforces the fact that it is also the _only_ source of work to be undertaken by the Scrum team.
 
 If the Scrum Team is going to work on something, then it has to first be part of the Product Backlog.
 
@@ -100,16 +100,16 @@ ____
 ****
 Breaking Product Backlog items selected for the Sprint down into smaller work items of one day or less is called: (Choose 1)
 
-* [ ] Grooming
-* [ ] Refinement
-* [ ] Decomposition
-* [ ] Planning
+* [ ] A) Grooming
+* [ ] B) Refinement
+* [ ] C) Decomposition
+* [ ] D) Planning
 
 ****
 
 Option C is correct.
 
-The Scrum Guide describes decomposition as breaking "Product Backlog items into smaller work items of one day or less."
+The Scrum Guide describes decomposition as breaking "Product Backlog items into smaller work items of one day or less." The term 'grooming' has fallen out of favor.
 
 '''
 
@@ -118,10 +118,10 @@ The Scrum Guide describes decomposition as breaking "Product Backlog items into 
 ****
 A Product Backlog item has remained untouched for over a year, and there are no plans for the developers to work on this item within the next 12 months. What should the Product Owner do with this Product Backlog item? (Choose 1)
 
-* [ ] Remove the Product Backlog item
-* [ ] Create a separate, low-priority Product Backlog to track items like this
-* [ ] Assign a high-priority status to the item so it gets completed in an upcoming Sprint
-* [ ] Leave the item in the Product Backlog with a low priority
+* [ ] A) Remove the Product Backlog item from the Product Backlog
+* [ ] B) Create a separate, low-priority Product Backlog to track items like this
+* [ ] C) Assign a high-priority status to the item so it gets completed in an upcoming Sprint
+* [ ] D) Leave the item in the Product Backlog with a low priority
 
 ****
 
@@ -133,12 +133,12 @@ Every product feature that is required remains in the Product Backlog, even if o
 ==== Test Yourself
 
 ****
-When does Product Backlog refinement occur:
+When does Product Backlog refinement occur: (Choose 1)
 
-* [ ] Product Backlog refinement happens during Sprint Planning
-* [ ] Product Backlog refinement happens during the Sprint Retrospective
-* [ ] Product Backlog refinement happens during the Daily Scrum
-* [ ] Product Backlog refinement is an ongoing activity that happens throughout the Sprint
+* [ ] A) Product Backlog refinement happens during Sprint Planning
+* [ ] B) Product Backlog refinement happens during the Sprint Retrospective
+* [ ] C) Product Backlog refinement happens during the Daily Scrum
+* [ ] D) Product Backlog refinement is an ongoing activity that happens throughout the Sprint
 
 ****
 
@@ -164,7 +164,7 @@ ____
 
 This point keeps coming up and up again in the Scrum Guide, and you can expect it to come up again and again on the certification exam.
 
-Only the Developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog items and estimate how much time a given feature will take to complete.
+Only the developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog items and estimate how much time a given feature will take to complete.
 
 Developers do the estimating in Scrum.
 
@@ -172,12 +172,12 @@ Developers do the estimating in Scrum.
 ==== Test Yourself
 
 ****
-Who is responsible for estimating how many Product Backlog Items can be completed in a Sprint? (Choose 1)
+Who is responsible for estimating how many Product Backlog items can be completed in a Sprint? (Choose 1)
 
-* [ ] The Product Owner
-* [ ] The Scrum Master
-* [ ] The Scrum developers
-* [ ] The stakeholders
+* [ ] A) The Product Owner
+* [ ] B) The Scrum Master
+* [ ] C) The Scrum developers
+* [ ] D) The stakeholders
 
 ****
 
@@ -201,7 +201,7 @@ Burndown charts and velocity calculations are great, but they are not a replacem
 '''
 
 
-=== Commitment: Product Goal
+=== Commitment: The Product Goal
 
 [quote, 2020 Scrum Guide page 11]
 ____
@@ -213,7 +213,7 @@ Every arrow needs a target.
 
 As the Scrum Team works to build the product, they need to know what the product is that they're building. 
 
-The Product Goal serves this purpose.
+The Product Goal serves this purpose. It's the Product Backlog's target.
 
 
 .The Product Goal is the target to which the Product Backlog aims at.
@@ -242,17 +242,17 @@ The Product Goal is in the Product Backlog.
 The rest of the Product Backlog emerges to define "what" will fulfill the Product Goal.
 ____
 
-The Product Goal is a semi-permanent part of the Product Backlog. 
+The Product Goal is a semi-finalized, permanent part of the Product Backlog. 
 
-It's semi-permanent because it shouldn't be changing all the time. It should represent the vision of the Product Owner and act as a steady target for all members of the Scrum Team to aim at.
+It's semi-finalized because it shouldn't be changing very often. It should represent the vision of the Product Owner and act as a steady target for all members of the Scrum Team to aim at.
 
 On the other hand, the Product Backlog is _emergent._
 
-The project may start will little more than a vague idea of how to implement the product vision. The Product Backlog items may be poorly defined, as a full appreciation for exactly what product features are necessary may not exist. 
+The project may start will little more than a vague idea of how to implement the product vision. The Product Backlog items may be poorly defined, as a full appreciation for exactly what product features are necessary may not exist when the project kicks off. 
 
 Over time, as more is learned about the product, the stakeholders, the tech stack, the timelines and the team's capacity, Product Backlog items will be added, refined, decomposed and potentially even deleted. 
 
-The Product Goal should represent a relatively stable vision of what the Product Owner would like to build. The Product Backlog emerges and is refined over time.
+The Product Goal represents a stable vision of what the Product Owner would like to build. The Product Backlog emerges and is refined over time.
 
 ==== Test Yourself
 
@@ -260,10 +260,10 @@ The Product Goal should represent a relatively stable vision of what the Product
 The Product Backlog has many items that have never been assessed and likely won't be worked on within the next year.
 What should the Product Owner do to clean up the Product Backlog? (Choose 1)
 
-* [ ] Create a second Product Backlog and moved these items there
-* [ ] Delete the old items from the Product Backlog
-* [ ] Prioritize these Product Backlog items so the developers complete them
-* [ ] Leave the Product Backlog items in the Product Backlog as they are
+* [ ] A) Create a second Product Backlog to track low-priority items
+* [ ] B) Delete the old items from the Product Backlog
+* [ ] C) Prioritize these Product Backlog items so the developers complete them
+* [ ] D) Leave the Product Backlog items in the Product Backlog as they are
 
 ****
 
@@ -271,7 +271,7 @@ Option D is correct.
 
 The Product Backlog contains everything needed to create the product and achieve the Product Goal.
 
-If a Product Backlog item contributes to the completion of the Product Goal, then it must be in the Product Backlog.
+If a Product Backlog item contributes to the fulfillment of the Product Goal, then it must be in the Product Backlog.
 
 '''
 
@@ -300,10 +300,10 @@ This section further emphasizes the point that Scrum can be used to develop more
 ****
 During the Sprint, the product being built will have: (Choose 2)
 
-* [ ] An approved budget
-* [ ] Known stakeholders
-* [ ] Well-defined users
-* [ ] Has unclear boundaries
+* [ ] A) An approved budget
+* [ ] B) Known stakeholders
+* [ ] C) Well-defined users
+* [ ] D) Potentially unclear boundaries
 
 ****
 
@@ -311,7 +311,7 @@ Options B and C are correct.
 
 The Scrum Guide does not say anything about the topic of budgets, so option A is correct.
 
-Option D is incorrect because the Scrum Guide insists that the product being built has clear boundaries.
+Option D is incorrect because the Scrum Guide insists that the product being built must have clear boundaries.
 
 '''
 
@@ -330,7 +330,7 @@ ____
 
 According to the Scrum Guide, a Scrum Team can only work on one project at a time. They can't have their efforts split between two separate projects.
 
-That doesn't mean an _individual Developer_ or _Scrum Master_ can't be on multiple teams at the same time.
+That doesn't mean an _individual developer_ or _Scrum Master_ can't be on multiple teams at the same time.
 
 I've quite often seen UI designers who have only a small part to play on a set of active projects be part of multiple Scrum Teams at the same time. 
 
@@ -346,7 +346,7 @@ The Product Owner believes the Scrum Team has enough capacity to work on two sep
 * [ ] Double the timebox for all Scrum events
 * [ ] Create a second Product Backlog for the new project
 * [ ] Add features for the new Project into the current Product Backlog
-* [ ] Inform the Product Owner that a Scrum team can only work on one product at a time
+* [ ] Inform the Product Owner that a Scrum team can only work on one objective at a time
 
 ****
 
@@ -354,4 +354,4 @@ Option D is correct.
 
 A Scrum Team must fulfill or abandon one objective before taking on the next. A Scrum Team can have only one objective at a time.
 
-'''
+
