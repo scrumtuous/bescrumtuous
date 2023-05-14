@@ -1,6 +1,6 @@
 == Chapter 16: The Sprint Backlog
 
-If you're ever asked about the Sprint Backlog on the Scrum certification exam, there's a good chance the answer is 'The Developers.' The Developers own the Sprint Backlog.
+If you're ever asked about the Sprint Backlog on the Scrum Master certification exam, there's a good chance the answer is 'The Developers.' The Developers own the Sprint Backlog.
 
 [quote, 2020 Scrum Guide page 11]
 ____
@@ -41,6 +41,8 @@ What does that leave the Scrum Master to control? Very little.
 
 Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artifacts.
 
+On a really well Scrum Team, the Scrum Master has very little work to do. In mature organizations that have been doing Scrum for a long time, a Scrum Master can easily split their efforts across multiple teams. A great Scrum Master eventually coaches themselves out of a job, as the organization becomes so good at Scrum, they hardly neet the Scrum Master at all.
+
 <<<
 
 ==== Test Yourself
@@ -59,31 +61,10 @@ Option C is correct.
 
 The Sprint Backlog answers the questions of why, what, and how.
 
-'''
-
-
-==== Test Yourself
-
-****
-The CEO talks to you, the Scrum Master, and tells you the project will be canceled if a given feature is not implemented before the end of the Sprint.
-What should you as the Scrum Master do? (Choose 1)
-
-* [ ] A) Add the feature as a Sprint Backlog item in the current Sprint
-* [ ] B) Cancel the Sprint and have the team work on this important feature
-* [ ] C) Have the Product Owner speak with the CEO
-* [ ] D) Have the Product Owner add the feature to the current Sprint Backlog
-
-****
-
-Option D is correct.
-
-Nobody can add anything to the Sprint Backlog other than the developers.
-
-In this case, the Scrum Master should have the Product Owner speak to the CEO.
-
-The Product Owner could then speak with the developers and see if they could include the new feature in the Sprint Backlog without putting the Sprint Goal at risk.
+Who and where is not a concern of the Sprint Backlog.
 
 '''
+
 
 === What gets Updated Throughout the Sprint
 
@@ -107,6 +88,10 @@ Consequently, the Sprint Backlog is updated throughout the Sprint as more is lea
 
 It should have enough detail so that they can inspect their progress in the Daily Scrum.
 ____
+
+TIP: The developers wholly control the Sprint Backlog. Only the Scrum Developers can add to it or delete from it. However, the Sprint Goal, which is part of the Sprint Backlog is formulated through the consensus of the Scrum Team. The Sprint Goal is the one part of the Sprint Backlog that is a collective teams effort.
+
+<<<
 
 === Transparency, Inspection, and Adaptation
 
@@ -136,7 +121,7 @@ It should be updated regularly.
 
 '''
 
-<<<
+
 
 === Sprint Goal
 
@@ -180,7 +165,7 @@ The correct answer here is to just keep working towards the Sprint Goal.
 
 It's not the end of the world if the Sprint Goal is not achieved. Sprints are short. You can create a new Sprint Goal when the current Sprint is finished.
 
-'''
+
 
 === Product Owner and Developer Collaboration
 

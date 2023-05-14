@@ -31,3 +31,5 @@ Wha thappens to points when a backlog item isn't completed.
 
 
 A PBI can never be deleted from the Product Backlog.
+
+What happens to definition of done over time?
