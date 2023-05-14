@@ -69,7 +69,7 @@ ____
 Every arrow needs a target. Each Scrum commitment act as a target for their corresponding artifact.
 
 .Scrum commitments are the targets for the Scrum artifacts to aim at.
-image::images/darts.png["Scrum commitments are targets for artifacts."]
+image::images/darts.jpg["Scrum commitments are targets for artifacts."]
 
 
 A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance a Scrum Developer’s focus as the project progresses.

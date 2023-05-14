@@ -18,7 +18,7 @@ Before you read too far ahead, let me recommend that you download and print out 
 The Scrum Guide is only 13 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
 .Try to hit as many learning modalities as you can whenever you learn something new. Just be sure to use high-quality, authoritative resources.
-image::images/modalities.png["Hit as many learning modalities as you can."]
+image::images/modalities.jpg["Hit as many learning modalities as you can."]
 
 Grab a highlighter as well and markup that printed copy as we go along. It'll help you learn.
 
@@ -39,7 +39,7 @@ So please, read the Scrum Guide a few times before jumping deep into this book. 
 With that foundation, we'll be able to dig much deeper into the significance of these interesting and important terms. Now let's get started with the Scrum Guide!
 
 .Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
-image::images/read-guide.png["Please read the Scrum Guide a few times. It's only 13 pages long. "]
+image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
 
 == Chapter 1: What is Scrum?
@@ -156,7 +156,7 @@ Any references to Scrum being a methodology, a process, or a framework that only
 
 <<<
 
-image::images/scrum-incomplete.png["Scrum is an incomplete framework."]
+image::images/scrum-incomplete.jpg["Scrum is an incomplete framework."]
 
 
 === Iterative and Incremental

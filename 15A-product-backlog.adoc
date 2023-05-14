@@ -17,7 +17,7 @@ The Scrum Guide's definition makes it clear that the Product Backlog is the list
 
 
 .The Product Owner is solely accountable for the Product Backlog.
-image::images/emergent-list.png["The Product Owner manages the Product Backlog."]
+image::images/emergent-list.jpg["The Product Owner manages the Product Backlog."]
 
 === Ordered, Prioritized List of Features
 

@@ -39,7 +39,7 @@ You'll probably reduce your projection by 50 percent. That decision is based on 
 Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's _lean thinking._
 
 .Charts and trends are no replacement for first-hand knowledge and empiricism.
-image::images/bet-the-habs.png["There are many learning modalities. "]
+image::images/bet-the-habs.jpg["There are many learning modalities. "]
 
 
 
@@ -135,7 +135,7 @@ Piece by piece, through the delivery of value added upon value, the product gets
 By getting these small increments into the hands of stakeholders, and getting immediate feedback from which the Scrum Team can adapt, Scrum reduces risk and allows developers to better service the needs of their clients.
 
 .Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
-image::images/800px-Scrum_process.png["There are many learning modalities. "]
+image::images/800px-Scrum_process.jpg["There are many learning modalities. "]
 
 <<<
 
@@ -200,7 +200,7 @@ Scrum has four time-boxed events that happen within a fifth Scrum event known as
 - None of the Scrum events can be left out of a Sprint.
 
 .The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
-image::images/timebox-bw.png["All Scrum events occur within a Sprint. "]
+image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
 
 <<<
 

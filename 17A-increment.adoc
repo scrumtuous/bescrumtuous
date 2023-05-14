@@ -91,7 +91,7 @@ When you think about integration pragmatically, the questions answer themselves.
 
 
 .If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
-image::images/house-door.png["Integrate immediately into the product."]
+image::images/house-door.jpg["Integrate immediately into the product."]
 
 <<<
 
