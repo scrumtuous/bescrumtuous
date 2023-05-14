@@ -16,11 +16,11 @@ The Sprint Goal is created:
 
 [#list]
 --
-* [ ] During Spring 0
+* [ ] During Sprint 0
 * [*] Before the end of Sprint Planning
 * [ ] After Sprint Planning concludes but before the Sprint begins
 * [ ] Each day during the Daily Scrum
-* [ ] Scrum does not define a Spring Goal
+* [ ] Scrum does not define a Sprint Goal
 
 --
 ****

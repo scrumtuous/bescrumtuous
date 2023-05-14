@@ -19,7 +19,7 @@ A good team of Developers in Scrum:
 * [ ] Will have a good mix of junior and senior developers
 * [ ] Will have a strong team lead
 * [ ] Will have an equal mix of male and female developers
-* [*] Will have the combined skills to complete Spring Backlog items without external help
+* [*] Will have the combined skills to complete Sprint Backlog items without external help
 
 --
 ****

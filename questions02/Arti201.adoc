@@ -18,7 +18,7 @@ Which of the following is true:
 --
 * [ ] The sprint backlog does not change during a sprint
 * [ ] During a sprint, changes to the sprint backlog must be approved by the Scrum Master
-* [*] New work required to achieve the spring goal should be added to the sprint backlog immediately
+* [*] New work required to achieve the Sprint goal should be added to the sprint backlog immediately
 * [ ] During a sprint, changes to the sprint backlog must be approved by the product owner
 
 --

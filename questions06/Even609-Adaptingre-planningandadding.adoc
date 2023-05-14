@@ -11,7 +11,7 @@ title: "609"
 
 [#query]
 --
-Adapting, re-planning and adding work to the Spring Backlog
+Adapting, re-planning and adding work to the Sprint Backlog
 --
 
 [#list]

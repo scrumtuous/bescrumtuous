@@ -29,7 +29,7 @@ A
 
 [#explanation]
 --
-Spring Planning has an 8 hour timebox for a one-month sprint.The Sprint Review has a 4 hour timebox.The Spring Retrospective has a 3 hour timebox.There is no such thing as a 'final scrum.'According to the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+Sprint Planning has an 8 hour timebox for a one-month sprint.The Sprint Review has a 4 hour timebox.The Sprint Retrospective has a 3 hour timebox.There is no such thing as a 'final scrum.'According to the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 --
 
 [#ka]

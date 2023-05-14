@@ -11,7 +11,7 @@ title: "304"
 
 [#query]
 --
-The plan for delivering the Sprint Goal and the Product Backlog items selected for the Sprint is part of the Spring Backlog
+The plan for delivering the Sprint Goal and the Product Backlog items selected for the Sprint is part of the Sprint Backlog
 --
 
 [#list]

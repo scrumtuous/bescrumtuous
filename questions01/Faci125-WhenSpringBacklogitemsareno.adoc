@@ -12,7 +12,7 @@ id: 125-6445b165221e893e31a49d0b.
 
 [#query]
 --
-When Spring Backlog items are not completed, and the Sprint Goal is not achieved by the end of the Sprint:
+When Sprint Backlog items are not completed, and the Sprint Goal is not achieved by the end of the Sprint:
 --
 
 [#list]

@@ -29,7 +29,7 @@ C
 
 [#explanation]
 --
-According to the Scrum Guide, "the Product Owner is one person, not a committee."In terms of attending the Daily Scrum, the Product Owner is not expected to attend it unless they are actively working on an item in the Spring Backlog, and even then, they attend the Daily Scrum as a 'developer.'"If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." -The Scrum GuideCoaching the organization is indeed part of the job of a Scrum Master. "The Scrum Master serves the organization in several ways, including: Leading, training, and coaching the organization in its Scrum adoption."
+According to the Scrum Guide, "the Product Owner is one person, not a committee."In terms of attending the Daily Scrum, the Product Owner is not expected to attend it unless they are actively working on an item in the Sprint Backlog, and even then, they attend the Daily Scrum as a 'developer.'"If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." -The Scrum GuideCoaching the organization is indeed part of the job of a Scrum Master. "The Scrum Master serves the organization in several ways, including: Leading, training, and coaching the organization in its Scrum adoption."
 --
 
 [#ka]

@@ -12,13 +12,13 @@ id: 505-64456797ca886e07fd8927dd.
 
 [#query]
 --
-During Spring Planning, it is realized that the highest-priority Product Backlog item cannot be completed in the Sprint being planned due to problems with an external dependency. What should the developers do?
+During Sprint Planning, it is realized that the highest-priority Product Backlog item cannot be completed in the Sprint being planned due to problems with an external dependency. What should the developers do?
 --
 
 [#list]
 --
 * [ ] Tell the Product Owner to reorder the backlog
-* [*] Choose lower priority items Product Backlog items to add to the Spring Backlog during the Sprint Planning meeting
+* [*] Choose lower priority items Product Backlog items to add to the Sprint Backlog during the Sprint Planning meeting
 * [ ] Add the high-priority Product Backlog item to the next Sprint's Backlog, even though you know it will not get completed
 * [ ] Ask the stakeholders to reprioritize the features being developed
 

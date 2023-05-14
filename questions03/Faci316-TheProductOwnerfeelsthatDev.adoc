@@ -24,7 +24,7 @@ What are valid approaches the Scrum Master can take to address these issues?
 * [*] Coach the development team on Scrum Values and the importance of communication
 * [ ] Refer the issue to Human Resources
 * [*] Raise the issue in the Sprint Retrospective
-* [ ] Tell the Product Owner that they should not be communicating with developers during the Spring
+* [ ] Tell the Product Owner that they should not be communicating with developers during the Sprint
 
 --
 ****
