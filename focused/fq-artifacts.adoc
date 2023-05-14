@@ -7,6 +7,8 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 
 
+
+
 ==== Question 1
 --
 The Sprint Backlog is comprised of:
@@ -17,7 +19,7 @@ The Sprint Backlog is comprised of:
 --
 * [ ] The Sprint and the plan for delivering
 * [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
-* [ ] The Product Backlog items selected for the Sprint, the Spring Goal and the plan for delivering them
+* [ ] The Product Backlog items selected for the Sprint, the Sprint Goal and the plan for delivering them
 * [ ] The Product Backlog items selected for the Sprint
 * [ ] The Product Backlog items selected for the Sprint and the plan for delivering them
 
@@ -102,7 +104,7 @@ The Sprint Backlog is comprised of:
 --
 * [ ] The Sprint and the plan for delivering
 * [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
-* [*] The Product Backlog items selected for the Sprint, the Spring Goal and the plan for delivering them
+* [*] The Product Backlog items selected for the Sprint, the Sprint Goal and the plan for delivering them
 * [ ] The Product Backlog items selected for the Sprint
 * [ ] The Product Backlog items selected for the Sprint and the plan for delivering them
 

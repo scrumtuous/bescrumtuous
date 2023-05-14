@@ -9,6 +9,8 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
+
 ==== Question 1
 --
 Scrum can be applied to many disciplines, but its roots is in software development.

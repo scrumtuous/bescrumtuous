@@ -1,1 +1,54 @@
-include::../questions00/Done832-Whatarethethreeprimaryobjec.adoc[]
+---
+layout: default 
+title: "832 - Which three purposes does the definition"
+id: 832-63effb469ebbe935e4c16ab1.
+---
+
+
+[#question]
+
+
+****
+
+[#query]
+--
+What are the primary objectives served by the Definition of Done (DoD)?
+--
+
+[#list]
+--
+* [*] A. The DoD helps the Development Team estimate the number of Product Backlog items to select for the Sprint
+* [*] B. The DoD creates a common understanding across the team with regard to when development work is completed.
+* [ ] C. The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
+* [ ] D. The DoD describes the work that must be done before the Sprint is ended.
+* [*] E. The DoD helps to increase transparency throughout the Scrum framework.
+* [*] F. The DoD helps to create consistency across Scrum Teams working on the same product.
+
+--
+****
+
+[#answer]
+ABEF
+
+[#explanation]
+--
+Scrum's "Definition of Done" is a shared understanding among the Scrum Team of what it means for a Product Backlog item to be considered complete. It is an agreed-upon set of criteria that a product backlog item (PBI), or a decomposition of a PBI, must meet before it can be considered "complete."
+
+By establishing a clear "Definition of Done," Scrum increases transparency by providing a shared understanding of what constitutes a completed product backlog item. This shared understanding helps ensure that everyone involved in the development process has the same expectations of what is expected in the final product.
+
+The "Definition of Done" also helps developers estimate how much work to add to the Sprint Backlog. Because the team has a clear understanding of what constitutes a completed product backlog item, they can more accurately estimate how much work needs to be done to achieve that level of completeness. This can help the team better plan their work for the sprint and avoid over-committing to work they may not be able to complete.
+
+Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a product backlog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
+
+It's also stated in the Scrum Guide that when multiple teams work on the same Product, they should all share the same Definition of Done so they are all working within the same guidelines.
+
+"If multiple Scrum Teams are working together on a product, they must mutually define and comply with the same Definition of Done." - The Scrum Guide, page 12.
+
+
+--
+
+[#ka]
+Done
+
+'''
+

@@ -10,6 +10,8 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
+
 ==== Question 1
 --
 How many developers should there be on a Scrum Team that has a full-time Scrum Master and a full-time Product Owner?

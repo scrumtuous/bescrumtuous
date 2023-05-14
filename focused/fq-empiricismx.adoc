@@ -1,0 +1,256 @@
+:pdf-theme: some-theme.yml
+
+== Empiricism Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+Which of the following are not empirical Scrum pillars?
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Commitment
+* [ ] Transparency
+* [ ] Openness
+* [ ] Inspection
+* [ ] Courage
+* [ ] Adaptation
+
+--
+
+==== Question 2
+--
+The developers say there are too many meetings in Scrum.
+
+Their solution is to have the Daily Scrum every Monday, Wednesday and Friday instead of everyday.
+
+What problems could arise from reducing the frequency of the Daily Scrum?
+(Select 3 answers.)
+--
+
+
+--
+* [ ] A. Chances to adapt to changes are lost
+* [ ] B. Chances to inspect progress are lost
+* [ ] C. The Kanban board is not updated often enough
+* [ ] D. Daily updates cannot be reported to the Product Owner
+* [ ] E. The Sprint Plan may become stale 
+
+--
+
+==== Question 3
+--
+The Scrum Guide states that Scrum is immutable. This means:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Scrum is the best software development methodology
+* [ ] Practitioners can pick and choose which parts of Scrum work best for them
+* [ ] That all communication remain confidential within the team
+* [ ] The users cannot pick and choose which parts of Scrum they want to use
+
+--
+
+==== Question 4
+--
+Scrum is based on:
+(Select 2 answers.)
+--
+
+
+--
+* [ ] Agile philosophies
+* [ ] The Waterfall model
+* [ ] Empiricism
+* [ ] Mysticism
+* [ ] lean thinking
+
+--
+
+==== Question 5
+--
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' 
+
+What Scrum Pillar is hurt most by the existence of technical debt?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Adaptation
+* [ ] B. Transparency
+* [ ] C. Courage
+* [ ] D. Focus
+* [ ] E. Openness
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+Which of the following are not empirical Scrum pillars?
+--
+
+[#list]
+--
+* [*] Commitment
+* [ ] Transparency
+* [*] Openness
+* [ ] Inspection
+* [*] Courage
+* [ ] Adaptation
+
+--
+****
+
+[#answer]
+
+The correct answers are A, C and E.
+
+[#explanation]
+--
+The three Scrum pillars are: transparency, inspection and adaptation.The Scrum Values are: Commitment, Focus, Openness, Respect, and Courage
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+The developers say there are too many meetings in Scrum.
+
+Their solution is to have the Daily Scrum every Monday, Wednesday and Friday instead of everyday.
+
+What problems could arise from reducing the frequency of the Daily Scrum?
+--
+
+[#list]
+--
+* [*] A. Chances to adapt to changes are lost
+* [*] B. Chances to inspect progress are lost
+* [ ] C. The Kanban board is not updated often enough
+* [ ] D. Daily updates cannot be reported to the Product Owner
+* [*] E. The Sprint Plan may become stale 
+
+--
+****
+
+[#answer]
+
+The correct answers are A, B and E.
+
+[#explanation]
+--
+If the developers don't meet daily, chances to adapt and inspect are lost, which can cause the Sprint Plan to get outdated and stale, which puts the Sprint Goal at risk.
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+The Scrum Guide states that Scrum is immutable. This means:
+--
+
+[#list]
+--
+* [ ] Scrum is the best software development methodology
+* [ ] Practitioners can pick and choose which parts of Scrum work best for them
+* [ ] That all communication remain confidential within the team
+* [*] The users cannot pick and choose which parts of Scrum they want to use
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+Scrum demands that you follow the steps and processes that are outlined in the Scrum Guide. And if you skip certain steps, then what you are doing is not Scrum."The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices." -TSG, page 13
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+Scrum is based on:
+--
+
+[#list]
+--
+* [ ] Agile philosophies
+* [ ] The Waterfall model
+* [*] Empiricism
+* [ ] Mysticism
+* [*] lean thinking
+
+--
+****
+
+[#answer]
+
+The correct answers are C and E.
+
+[#explanation]
+--
+Scrum is considered by many to be an Agile methodology, but you will not find the term Agile anywhere in the Scrum Guide. References to Agile on the PSMI exam are typically wrong.Agile methodologies are the opposite of Waterfall, so Waterfall is definitely incorrect.Scrum is not based on mysticism.Scrum is based on Lean Thinking and empiricism."Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' 
+
+What Scrum Pillar is hurt most by the existence of technical debt?
+--
+
+[#list]
+--
+* [ ] A. Adaptation
+* [*] B. Transparency
+* [ ] C. Courage
+* [ ] D. Focus
+* [ ] E. Openness
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+Technical debt can impact transparency through both technical debt incurred from code or architecture issues, or from process debt caused by inefficient practices or processes.
+--
+
+

@@ -9,6 +9,8 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 
 
+
+
 ==== Question 1
 --
 The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?

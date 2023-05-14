@@ -1,0 +1,277 @@
+:pdf-theme: some-theme.yml
+
+== Definitions of Done Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Inform the developers the Definition of Done cannot be changed mid-project.
+* [ ] B. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner during the Sprint Retrospective.
+* [ ] C. Have the developers discuss the changes they would like to see made to the Definition of Done with you, the stakeholders and the Product Owner during the Sprint Review.
+* [ ] D. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner at the end of the current Sprint but before the next Sprint begins.
+
+--
+
+==== Question 2
+--
+What are three ways the Definition of Done helps to increase transparency throughout the organization?
+(Select 3 answers.)
+--
+
+
+--
+* [ ] A. The Definition of Done provides clear expectations for developers and stakeholders alike
+* [ ] B. The Definition of Done helps the Product Owner identify when developers are underperforming.
+* [ ] C. The Definition of Done provides objective criteria that allows teams to know when a Product Backlog Item is complete and can be released
+* [ ] D. The Definition of Done helps stakeholders know when a task or feature will be complete
+* [ ] E. The Definition of Done provides a shared understanding throughout the organization
+
+--
+
+==== Question 3
+--
+A directive from the Devops team states product Increments cannot be released unless non-functional requirements for latency, performance, security and reliability are met. How should the Scrum Team deal with non-functional requirements.
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Create a separate team outside of Scrum to handle non-functional requirements.
+* [ ] B. Create a second Scrum team to address non-functional requirements.
+* [ ] C. Create an 'Integration Sprint' where non-functional requirements are tested and validated.
+* [ ] D. Include non-functional requirements in the Definition of Done and make sure every increment satisfies them.
+
+--
+
+==== Question 4
+--
+Non-functional requirements such as security and regulatory compliance:
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Should be added to the Product Backlog when they apply to specific Product Backlog items
+* [ ] Are generally dealt with in the same way functional requirements are dealt
+* [ ] Should be part of the Definition of Done if they apply globally to the product
+* [ ] Do not need to be addressed in order for an Increment to be considered complete
+* [ ] Need to be validated by an external team with specialized skills in these non-functional areas
+
+--
+
+==== Question 5
+--
+Over time, as a Scrum Team becomes more comfortable with the framework and discovers how best to apply it, which of the following patterns do most teams experience?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Teams pick and choose which parts of the Scrum framework to apply rigorously, and which parts not to apply at all.
+* [ ] B. Fewer stakeholders attend the Sprint Retrospectives.
+* [ ] C. Sprint lengths go from 2 to 3 weeks in length to 4 to 5 weeks in length
+* [ ] D. The Daily Scrum takes place later in the day.
+* [ ] E. The quality and success criteria used to define the Definition of Done becomes more rigorous and well defined
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+--
+
+[#list]
+--
+* [ ] A. Inform the developers the Definition of Done cannot be changed mid-project.
+* [*] B. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner during the Sprint Retrospective.
+* [ ] C. Have the developers discuss the changes they would like to see made to the Definition of Done with you, the stakeholders and the Product Owner during the Sprint Review.
+* [ ] D. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner at the end of the current Sprint but before the next Sprint begins.
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+Option B is correct.
+
+The Definition of Done can be changed with the agreement of the team during the Sprint Retrospective.
+
+"During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
+
+Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
+
+
+
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+What are three ways the Definition of Done helps to increase transparency throughout the organization?
+--
+
+[#list]
+--
+* [*] A. The Definition of Done provides clear expectations for developers and stakeholders alike
+* [ ] B. The Definition of Done helps the Product Owner identify when developers are underperforming.
+* [*] C. The Definition of Done provides objective criteria that allows teams to know when a Product Backlog Item is complete and can be released
+* [ ] D. The Definition of Done helps stakeholders know when a task or feature will be complete
+* [*] E. The Definition of Done provides a shared understanding throughout the organization
+
+--
+****
+
+[#answer]
+
+The correct answers are A, C and E.
+
+[#explanation]
+--
+The Definition of Done (DoD) in Scrum is an agreement among team members on the requirements that must be met for a Product Backlog item to be considered "done". Here are three ways the DoD helps increase transparency in Scrum:
+
+Clear expectations: The DoD sets clear expectations for what needs to be done for each Product Backlog item to be considered complete. This creates transparency because everyone on the team knows what is expected of them and what they need to do to complete a task. This helps eliminate confusion and miscommunications, which can increase transparency.
+
+Objective criteria: The DoD defines objective criteria that must be met for each Product Backlog item. This helps increase transparency by making it clear what the team needs to do to achieve a particular outcome. Measurable criteria also make it easier to track progress and determine whether a task is truly complete.
+
+Shared understanding: The DoD ensures that all team members have a shared understanding of what "done" means for a particular task. This creates transparency because everyone on the team is working toward the same goal and understands what it takes to achieve it. When everyone is on the same page, it's easier to identify and resolve any issues or roadblocks that arise during the development process.
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+A directive from the Devops team states product Increments cannot be released unless non-functional requirements for latency, performance, security and reliability are met. How should the Scrum Team deal with non-functional requirements.
+--
+
+[#list]
+--
+* [ ] A. Create a separate team outside of Scrum to handle non-functional requirements.
+* [ ] B. Create a second Scrum team to address non-functional requirements.
+* [ ] C. Create an 'Integration Sprint' where non-functional requirements are tested and validated.
+* [*] D. Include non-functional requirements in the Definition of Done and make sure every increment satisfies them.
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+If non-functional requirements are part of the products they are building, then the Scrum team must include non-functional requirements in the definition of done (DoD). This helps ensure that the final product meets all of the necessary quality standards and is fully functional. Non-functional requirements, also known as "quality requirements," are typically related to the performance, security, usability, and maintainability of the product.
+
+Here are a few reasons why non-functional requirements should be included in the DoD:
+
+Ensures product quality: By including non-functional requirements in the DoD, the team is ensuring that the final product meets all of the necessary quality standards. This helps to reduce the risk of technical debt and avoid issues that could arise during production use.
+
+Increases team accountability: By having non-functional requirements in the DoD, the team takes on the responsibility of ensuring that these requirements are met. This increases team accountability and encourages a culture of continuous improvement.
+
+Aligns with the Agile manifesto: The Agile manifesto values "working software" and "customer satisfaction," which includes non-functional requirements. By including non-functional requirements in the DoD, the team is working to create a high-quality product that meets the needs of the customer.
+
+Overall, including non-functional requirements in the DoD is essential for creating a high-quality product that meets the needs of the customer. It helps to ensure that the team is accountable for meeting all necessary quality standards and promotes a culture of continuous improvement.
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+Non-functional requirements such as security and regulatory compliance:
+--
+
+[#list]
+--
+* [*] Should be added to the Product Backlog when they apply to specific Product Backlog items
+* [*] Are generally dealt with in the same way functional requirements are dealt
+* [*] Should be part of the Definition of Done if they apply globally to the product
+* [ ] Do not need to be addressed in order for an Increment to be considered complete
+* [ ] Need to be validated by an external team with specialized skills in these non-functional areas
+
+--
+****
+
+[#answer]
+
+The correct answers are A, B and C.
+
+[#explanation]
+--
+If there is a non-functional requirement associated with the product, it should be handled the same way a functional requirement is. That is, you add it to the Product Backlog, it is attached to some type of functionality that can be tested, and it is included in the Definition of Done to that an item is not released without the non-functional requirement being validated.
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+Over time, as a Scrum Team becomes more comfortable with the framework and discovers how best to apply it, which of the following patterns do most teams experience?
+--
+
+[#list]
+--
+* [ ] A. Teams pick and choose which parts of the Scrum framework to apply rigorously, and which parts not to apply at all.
+* [ ] B. Fewer stakeholders attend the Sprint Retrospectives.
+* [ ] C. Sprint lengths go from 2 to 3 weeks in length to 4 to 5 weeks in length
+* [ ] D. The Daily Scrum takes place later in the day.
+* [*] E. The quality and success criteria used to define the Definition of Done becomes more rigorous and well defined
+
+--
+****
+
+[#answer]
+
+The correct answer is E.
+
+[#explanation]
+--
+Scrum teams typically develop a more stringent "Definition of Done" (DoD) the longer they work with the Scrum framework for several reasons:
+
+Increased Understanding: As the team gains more experience with Scrum, they begin to understand the importance of having a clear and comprehensive DoD. They begin to see the benefits of ensuring that all work meets a consistent quality standard, which is critical to maintaining the integrity of the product and delivering value to the customer.
+
+Continuous Improvement: Scrum is a framework that emphasizes continuous improvement, and the DoD is a critical aspect of that process. Teams are encouraged to constantly review and refine their DoD to ensure that it reflects the best practices and standards for their product and industry.
+
+Addressing Quality Issues: Over time, the team may encounter quality issues or defects that are caused by incomplete or unclear definitions of "done." By refining the DoD, the team can reduce the risk of these issues and improve the quality of the product.
+
+Encouraging Collaboration: A well-defined DoD helps to promote collaboration and shared understanding within the team. As team members work together to establish and refine the DoD, they gain a deeper appreciation for each other's roles and responsibilities, and develop a more collaborative mindset.
+
+Increased Complexity: As the team begins to tackle more complex work, they will naturally need to develop a more detailed and comprehensive DoD. This is because the work may involve multiple layers of testing, integration, and other quality checks, which require a more rigorous approach to ensure that the work is truly "done."
+
+Overall, developing a more stringent DoD is a natural part of the team's maturation process within the Scrum framework. It reflects a growing understanding of the importance of quality and collaboration, and a commitment to continuous improvement.
+--
+
+

@@ -1,0 +1,253 @@
+
+== Scrum Artifacts Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Artifacts.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+==== Question 1
+--
+The Sprint Backlog is comprised of:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] The Sprint and the plan for delivering
+* [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
+* [ ] The Product Backlog items selected for the Sprint, the Spring Goal and the plan for delivering them
+* [ ] The Product Backlog items selected for the Sprint
+* [ ] The Product Backlog items selected for the Sprint and the plan for delivering them
+
+--
+
+==== Question 2
+--
+Every Scrum Artifact has a commitment tied to it. What is the commitment tied to the Product Backlog?
+(Select 1 answers.)
+--
+
+
+--
+
+* [ ] The commitment to the Definition of Done
+* [ ] The Increment commitment
+* [ ] The Sprint commitment
+* [ ] The Sprint Goal
+* [ ] The Product commitment
+* [ ] The Product goal
+
+--
+
+==== Question 3
+--
+A valuable increment:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Should be created before the end of every Sprint
+* [ ] Happens every second Sprint
+* [ ] Is created when unit testing completes successfully
+* [ ] Must be agreed upon by a consensus of stakeholders in the Sprint Review
+
+--
+
+==== Question 4
+--
+If an high-value Sprint Backlog item is only partially completed at the end of the Scrum:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] The partially completed Product Backlog item is automatically added to the next Sprint's Backlog but it is not presented at the Sprint Review
+* [ ] Progress on the high-value Sprint Backlog item is presented at the Sprint Review and automatically returned to the Product Backlog
+* [ ] Progress on the  partially completed Sprint Backlog item is presented at the Sprint Review and automatically added to the next Sprint's Backlog
+* [ ] The partially completed Sprint Backlog item is returned to the Product Backlog and it is not presented at the Sprint Review
+
+--
+
+==== Question 5
+--
+Which of the following is true of the Sprint Backlog?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Items cannot be removed from the Sprint Backlog once Sprint Planning is complete and the Sprint has begun
+* [ ] Only developers can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Product Owner can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Scrum Master can remove items in the Sprint Backlog during the Sprint
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+The Sprint Backlog is comprised of:
+--
+
+[#list]
+--
+* [ ] The Sprint and the plan for delivering
+* [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
+* [*] The Product Backlog items selected for the Sprint, the Spring Goal and the plan for delivering them
+* [ ] The Product Backlog items selected for the Sprint
+* [ ] The Product Backlog items selected for the Sprint and the plan for delivering them
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+The Sprint Backlog is made up of the Sprint Goal, Product Backlog items added to the Sprint, and the plan for delivering.
+
+"The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog." -TSG, page 9
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+Every Scrum Artifact has a commitment tied to it. What is the commitment tied to the Product Backlog?
+--
+
+[#list]
+--
+
+* [ ] The commitment to the Definition of Done
+* [ ] The Increment commitment
+* [ ] The Sprint commitment
+* [ ] The Sprint Goal
+* [ ] The Product commitment
+* [*] The Product goal
+
+--
+****
+
+[#answer]
+
+The correct answer is F.
+
+[#explanation]
+--
+The Product goal is the commitment associated with the Product Backlog.
+
+The idea is that once the everything in the Product Backlog is done, the Product Goal will have been achieved, and the Product has been completed.
+
+Of course, development is always in flux, so as Product Backlog items get completed, more get added. So the Product Goal may never actually be achieved so long as ongoing development happens, but regardless, the goal is always being strived for.
+
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+A valuable increment:
+--
+
+[#list]
+--
+* [*] Should be created before the end of every Sprint
+* [ ] Happens every second Sprint
+* [ ] Is created when unit testing completes successfully
+* [ ] Must be agreed upon by a consensus of stakeholders in the Sprint Review
+
+--
+****
+
+[#answer]
+
+The correct answer is A.
+
+[#explanation]
+--
+According to page 5 of the Scrum Guide, "the entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."Technically speaking, an increment occurs every time a Product Backlog item meets the Definition of Done. Increments can happen any time throughout a Sprint, but must happen at some time before the Sprint ends.
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+If an high-value Sprint Backlog item is only partially completed at the end of the Scrum:
+--
+
+[#list]
+--
+* [ ] The partially completed Product Backlog item is automatically added to the next Sprint's Backlog but it is not presented at the Sprint Review
+* [ ] Progress on the high-value Sprint Backlog item is presented at the Sprint Review and automatically returned to the Product Backlog
+* [ ] Progress on the  partially completed Sprint Backlog item is presented at the Sprint Review and automatically added to the next Sprint's Backlog
+* [*] The partially completed Sprint Backlog item is returned to the Product Backlog and it is not presented at the Sprint Review
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+Partially completed backlog items are never presented to stakeholders. It causes confusion and stifles progress.
+
+If a Sprint Backlog item is not completed, it is returned to the Product Backlog. Priorities may have changed from when it was first added as a Sprint Backlog item. As such, it should not be automatically added to the next Sprint's Backlog.
+
+"If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration." -TSG, page 12
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+Which of the following is true of the Sprint Backlog?
+--
+
+[#list]
+--
+* [ ] Items cannot be removed from the Sprint Backlog once Sprint Planning is complete and the Sprint has begun
+* [*] Only developers can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Product Owner can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Scrum Master can remove items in the Sprint Backlog during the Sprint
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+According to the Scrum Guide, "Developers are always accountable for adapting their plan each day toward the Sprint Goal... The Sprint Backlog is a plan by and for the Developers."
+
+It is expected that items in the Sprint Backlog will change through the Sprint. According to the Scrum Guide, "the Sprint Backlog is updated throughout the Sprint as more is learned."
+--
+
+

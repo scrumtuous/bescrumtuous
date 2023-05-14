@@ -1,0 +1,249 @@
+== Product Backlog Management Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Product Backlog Management.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+The Product Backlog should be ordered according to:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] What the Developers are capable of completing in the next Sprint
+* [ ] Which items will provide the most value
+* [ ] Items that have the least number of blockers associated with them
+* [ ] Which items will take the most time to develop
+
+--
+
+==== Question 2
+--
+Which of the following statements are true?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] The Product Owner is responsible for estimating and choosing which Product Backlog items go into a Sprint
+* [ ] The Product Owner is responsible for creating and estimating Product Backlog items
+* [ ] The Product Owner is responsible for creating and ordering Product Backlog items
+* [ ] The Product Owner is responsible for ordering and estimating Product Backlog items
+
+--
+
+==== Question 3
+--
+Multiple Scrum Teams who are actively developing features for the same project:
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Will share the same Product Owner
+* [ ] Will have a different Product owner
+* [ ] Will pick items from the same Product Backlogs
+* [ ] Will maintain their own, separate Product Backlogs
+* [ ] Will maintain their own, separate Sprint Backlogs
+
+--
+
+==== Question 4
+--
+Which of the following statements are true?
+(Select 2 answers.)
+--
+
+
+--
+* [ ] The Product Owner creates the Product Backlog item's estimate
+* [ ] The Scrum Master creates the Product Backlog item's estimate
+* [ ] The Development Team creates the Product Backlog item's estimate
+* [ ] The Product Owner is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Master is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Developers create the Product Goal at the start of every Sprint
+
+--
+
+==== Question 5
+--
+The Product Owner will only ever represent one set of stakeholders at a time.
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. True
+* [ ] B. False
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+The Product Backlog should be ordered according to:
+--
+
+[#list]
+--
+* [ ] What the Developers are capable of completing in the next Sprint
+* [*] Which items will provide the most value
+* [ ] Items that have the least number of blockers associated with them
+* [ ] Which items will take the most time to develop
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+The Product Backlog is ordered according to which items will provide the most value and improve the product the most."The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team." -TSG, page 10
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+Which of the following statements are true?
+--
+
+[#list]
+--
+* [ ] The Product Owner is responsible for estimating and choosing which Product Backlog items go into a Sprint
+* [ ] The Product Owner is responsible for creating and estimating Product Backlog items
+* [*] The Product Owner is responsible for creating and ordering Product Backlog items
+* [ ] The Product Owner is responsible for ordering and estimating Product Backlog items
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+The Product Owner develops, orders and communicates backlog items to the rest of the team. Note that in this sense 'development' does not mean software development, but instead developing the description of the Product Backlog item.
+
+Estimating Product Backlog Items and choosing which ones go into a Sprint is the job of the developers.
+
+"The Product Owner is also accountable for effective Product Backlog management, which includes:
+
+Developing and explicitly communicating the Product Goal;
+Creating and clearly communicating Product Backlog items;
+Ordering Product Backlog items; and,
+Ensuring that the Product Backlog is transparent, visible and understood." 
+
+-The Scrum Guide, page 6
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+Multiple Scrum Teams who are actively developing features for the same project:
+--
+
+[#list]
+--
+* [*] Will share the same Product Owner
+* [ ] Will have a different Product owner
+* [*] Will pick items from the same Product Backlogs
+* [ ] Will maintain their own, separate Product Backlogs
+* [*] Will maintain their own, separate Sprint Backlogs
+
+--
+****
+
+[#answer]
+
+The correct answers are A, C and E.
+
+[#explanation]
+--
+When multiple teams work on the same project, they will have a common Product Backlog and a common Product Owner. However, they will maintain a separate Sprint Backlog because each team will be working on different things at the same time."If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." -The Scrum Guide, page 5
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+Which of the following statements are true?
+--
+
+[#list]
+--
+* [ ] The Product Owner creates the Product Backlog item's estimate
+* [ ] The Scrum Master creates the Product Backlog item's estimate
+* [*] The Development Team creates the Product Backlog item's estimate
+* [*] The Product Owner is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Master is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Developers create the Product Goal at the start of every Sprint
+
+--
+****
+
+[#answer]
+
+The correct answers are C and D.
+
+[#explanation]
+--
+The Scrum Developers are the ones who estimate the work required to complete a Product Backlog item. But this is done in collaboration with the Product Owner whose job it is to communicate the requirements of the Product Backlog item to the developers.Creation of the Product Goal and communicating that Product Goal to the rest of the team is the job of the Product Owner, not the Scrum Master or developers.
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+The Product Owner will only ever represent one set of stakeholders at a time.
+--
+
+[#list]
+--
+* [ ] A. True
+* [*] B. False
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+This is false.
+
+The Product Owner will represent the interests of many stakeholders, and balance their wants and needs by fairly ordering the Product Backlog.
+
+The Scrum Team can only work on one objective at a time, but the Product Owner will represent many stakeholders while doing that.
+--
+
+

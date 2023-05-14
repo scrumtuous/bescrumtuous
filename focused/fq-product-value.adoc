@@ -10,6 +10,8 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
+
 ==== Question 1
 --
 Which one of the following best describes the Product Owner's role?

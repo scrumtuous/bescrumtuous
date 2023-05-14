@@ -1,0 +1,276 @@
+:pdf-theme: some-theme.yml
+
+== Scrum Team Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Teams.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+ 
+
+
+
+
+==== Question 1
+--
+How many developers should there be on a Scrum Team that has a full-time Scrum Master and a full-time Product Owner?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] 10 or less
+* [ ] There is no suggested, upper limit on how many developers should be on a Scrum Team
+* [ ] 8 or less
+* [ ] 5 or less
+* [ ] 7 plus or minus 3
+
+--
+
+==== Question 2
+--
+A Scrum Team:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Can share their Scrum Master only with teams working on the same project
+* [ ] Can share their Scrum Master with other teams
+* [ ] Must have a Scrum Master who is committed to it 100% of the time
+* [ ] Can have more than one Scrum Master
+
+--
+
+==== Question 3
+--
+The optimal size of a development team is always a controversial topic. According to the Scrum Guide, a Scrum Team:
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Should be small enough to remain nimble
+* [ ] Should be large enough to complete a significant amount of work
+* [ ] Should e 7 or fewer people
+* [ ] Should never share the Product Owner with other Scrum Teams
+* [ ] Should be eorganized into smaller teams when they become too large
+
+--
+
+==== Question 4
+--
+The Product Owner is not allowed to participate in the Daily Scrum:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Because the Product Owner does not need to be updated daily on development progress
+* [ ] Because they are not always in the same building as the developers
+* [ ] Unless invited by the development team
+* [ ] Unless accompanied by the Scrum Master
+* [ ] Unless they are working on a Sprint Backlog item.
+* [ ] None of the above, as the Product Owner is required to attend the Daily Scrum
+
+
+--
+
+==== Question 5
+--
+Your company has just acquired 33 new developers from a corporate merger. These new developers must be split up into teams.
+
+When developers are split up into teams, what should be the highest priority?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Each team has the skills required to meet all the Definitions of Done
+* [ ] Each team is approximately the same size
+* [ ] Each team has a designated Team Lead
+* [ ] Each team has an equal mix of junior and senior developers
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+How many developers should there be on a Scrum Team that has a full-time Scrum Master and a full-time Product Owner?
+--
+
+[#list]
+--
+* [ ] 10 or less
+* [ ] There is no suggested, upper limit on how many developers should be on a Scrum Team
+* [*] 8 or less
+* [ ] 5 or less
+* [ ] 7 plus or minus 3
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+A Scrum Team should have 10 or less members, which includes the Scrum Master and Product Owner. That leaves room for 8 developers.
+
+"The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive." -The Scrum Guide, page 5
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+A Scrum Team:
+--
+
+[#list]
+--
+* [ ] Can share their Scrum Master only with teams working on the same project
+* [*] Can share their Scrum Master with other teams
+* [ ] Must have a Scrum Master who is committed to it 100% of the time
+* [ ] Can have more than one Scrum Master
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+There is no rule that says a Scrum Master can only work on one team. Many teams, working on many different projects can share a Scrum Master. Whether that is a good system to use is up to the team and the organization to decide.
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+The optimal size of a development team is always a controversial topic. According to the Scrum Guide, a Scrum Team:
+--
+
+[#list]
+--
+* [*] Should be small enough to remain nimble
+* [*] Should be large enough to complete a significant amount of work
+* [ ] Should e 7 or fewer people
+* [ ] Should never share the Product Owner with other Scrum Teams
+* [*] Should be eorganized into smaller teams when they become too large
+
+--
+****
+
+[#answer]
+
+The correct answers are A, B and E.
+
+[#explanation]
+--
+The Scrum team should be small enough to respond to change easily but big enough to get work done. 
+
+And when a team grows too big, which is more than 10 people, it should be reorganized into smaller groups.When teams are reorganized, they will share the same Product Owner if they are working on the same product.
+
+"The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. 
+
+In general, we have found that smaller teams communicate better and are more productive. 
+
+If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. 
+
+Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." 
+-The Scrum Guide, page 5
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+The Product Owner is not allowed to participate in the Daily Scrum:
+--
+
+[#list]
+--
+* [ ] Because the Product Owner does not need to be updated daily on development progress
+* [ ] Because they are not always in the same building as the developers
+* [ ] Unless invited by the development team
+* [ ] Unless accompanied by the Scrum Master
+* [*] Unless they are working on a Sprint Backlog item.
+* [ ] None of the above, as the Product Owner is required to attend the Daily Scrum
+
+
+--
+****
+
+[#answer]
+
+The correct answer is E.
+
+[#explanation]
+--
+The Product Owner and the Scrum Master to not participate in the Daily Scrum.
+
+The only exception is if they are actively working on Sprint Backlog items.
+
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. 
+
+To reduce complexity, it is held at the same time and place every working day of the Sprint. 
+
+If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." 
+
+-The Scrum Guide, page 9
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+Your company has just acquired 33 new developers from a corporate merger. These new developers must be split up into teams.
+
+When developers are split up into teams, what should be the highest priority?
+--
+
+[#list]
+--
+* [*] Each team has the skills required to meet all the Definitions of Done
+* [ ] Each team is approximately the same size
+* [ ] Each team has a designated Team Lead
+* [ ] Each team has an equal mix of junior and senior developers
+
+--
+****
+
+[#answer]
+
+The correct answer is A.
+
+[#explanation]
+--
+When building a Scrum Team we do not worry about team leads, or testers or SMEs (Subject Matter Experts). What matters is the teams have the skills necessary to complete the project.
+
+If a team doesn't have the combined skills to achieve the Definition of Done, what point is there having them work on a Backlog Item?
+
+"Within a Scrum Team, there are no sub-teams or hierarchies." -TSG, page 5
+--
+
+

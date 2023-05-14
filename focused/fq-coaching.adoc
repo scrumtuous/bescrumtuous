@@ -9,6 +9,8 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 
 
+
+
 ==== Question 1
 --
 With regards to the Daily Scrum, the Scrum Master should:

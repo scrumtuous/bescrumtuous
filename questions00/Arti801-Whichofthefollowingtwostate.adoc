@@ -12,7 +12,7 @@ reviewedby: cm -
 
 [#query]
 --
-Every Sprint needs a Spring Backlog. Which of the following two statements are true about the Sprint Backlog?
+Every Sprint needs a Sprint Backlog. Which of the following two statements are true about the Sprint Backlog?
 --
 
 [#list]

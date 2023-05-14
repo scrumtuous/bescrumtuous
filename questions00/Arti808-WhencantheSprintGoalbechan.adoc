@@ -13,7 +13,7 @@ id: 807-63effc789ebbe935e4c16ae1.
 
 [#query]
 --
-Half way through the Spring the development team has become uncomfortable with the Sprint Goal and feel a change needs to be made to bring it in line with the Sprint Plan.
+Half way through the Sprint the development team has become uncomfortable with the Sprint Goal and feel a change needs to be made to bring it in line with the Sprint Plan.
 
 According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 --

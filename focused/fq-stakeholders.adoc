@@ -9,6 +9,8 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
+
 ==== Question 1
 --
 Which of the following is true about the participation of developers at the Sprint Review?

@@ -38,7 +38,7 @@ The Scrum Guide does not mention the term "use cases" or "user stories" so any r
 
 "Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum.
 
-Note that the _Developers_ select Product Backlog Items to work on during the Spring, not the Scrum Master or the Product Owner.
+Note that the _Developers_ select Product Backlog Items to work on during the Sprint, not the Scrum Master or the Product Owner.
 --
 
 [#ka]

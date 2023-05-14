@@ -18,7 +18,7 @@ What action would a certified Scrum Master take in these circumstances?
 
 [#list]
 --
-* [ ] A. Have the Product Owner extend the length of the current Sprint to have more time to order the Product Backlog before the next Spring begins.
+* [ ] A. Have the Product Owner extend the length of the current Sprint to have more time to order the Product Backlog before the next Sprint begins.
 * [ ] B. Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
 * [*] C. Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
 * [ ] D. The Scrum Master should provide the Product Owner with the Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.

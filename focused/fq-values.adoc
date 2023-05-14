@@ -10,6 +10,8 @@ The following questions will give you an idea of the scope and difficulty of the
 
 
 
+
+
 ==== Question 1
 --
 Which of the following is not a Scrum value?

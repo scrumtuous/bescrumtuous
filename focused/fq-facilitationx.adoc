@@ -1,0 +1,255 @@
+== Scrum Master Facilitation and Coaching Quiz
+ 
+One of the 13 tested categories on the Scrum Master exam is 'Facilitation and Coaching.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+
+==== Question 1
+--
+Which of the following are not responsibilities of a Scrum Master?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Attending the Daily Scrum
+* [ ] Performing performance reviews with developers
+* [ ] Making sure the team understands Scrum commitments such as the Definition of Done
+* [ ] Establishing a bonus plan for developers who contribute the most to the Sprint
+
+--
+
+==== Question 2
+--
+What responsibilities does the Scrum Master have with regards to the Daily Scrum?
+(Select 2 answers.)
+--
+
+
+--
+* [ ] A. Encourage the developers to select whatever techniques and structure they want during the Daily Scrum.
+* [ ] B. Ensure everyone on the development team has a chance to speak and have their voice heard.
+* [ ] C. Ask each member if there are any impediments that need to be addressed.
+* [ ] D. Take notes and act as a scribe so the developers don't have to.
+* [ ] E. The Scrum Master must coach the team so they know that the Daily Scrum does not exceed the 15 minute time-box
+
+--
+
+==== Question 3
+--
+On Fridays, developers want to hold the Daily Scrum in the cafeteria after the lunch crowd empties out. How would you respond to this request as a Scrum Master?
+
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Tell the developers that if they want to do it Friday after lunch in the cafeteria, then they'll have to do it every day after lunch in the cafeteria
+* [ ] Tell the developers the daily scrum must take place in the morning
+* [ ] Tell developers the daily scrum cannot take place in the lunchroom
+* [ ] Tell developers the daily scrum must happen in the same room where development takes place
+
+--
+
+==== Question 4
+--
+A Scrum Master:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Can work with only one Scrum Team at a time
+* [ ] Can only work on one project at a time
+* [ ] Can work on many Scrum Teams as long as they are all working on the same project
+* [ ] Can work on many different Projects and many different Scrum Teams at the same time
+
+--
+
+==== Question 5
+--
+The Product Owner feels that Developers are not communicating effectively during the Sprint.
+
+What are valid approaches the Scrum Master can take to address these issues?
+(Select 2 answers.)
+--
+
+
+--
+* [ ] Permanently remove the developers from the team who are not communicating
+* [ ] The the developers who are not communicating on the bench for the next Sprint
+* [ ] Coach the development team on Scrum Values and the importance of communication
+* [ ] Refer the issue to Human Resources
+* [ ] Raise the issue in the Sprint Retrospective
+* [ ] Tell the Product Owner that they should not be communicating with developers during the Spring
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+Which of the following are not responsibilities of a Scrum Master?
+--
+
+[#list]
+--
+* [ ] Attending the Daily Scrum
+* [ ] Performing performance reviews with developers
+* [*] Making sure the team understands Scrum commitments such as the Definition of Done
+* [ ] Establishing a bonus plan for developers who contribute the most to the Sprint
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+The job of the Scrum Master is to coach the team on how Scrum works, which includes making sure they understand terms like the Definition of Done.
+
+A Scrum Master doesn't actually have to attend the Daily Scrum. The Daily Scrum is owned by the developers, and only the developers need to attend. And even when the Scrum Master does attend, they aren't supposed to participate.
+
+Doing performance reviews or setting up bonus plans are not part of the Scrum Master's role.
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+What responsibilities does the Scrum Master have with regards to the Daily Scrum?
+--
+
+[#list]
+--
+* [*] A. Encourage the developers to select whatever techniques and structure they want during the Daily Scrum.
+* [ ] B. Ensure everyone on the development team has a chance to speak and have their voice heard.
+* [ ] C. Ask each member if there are any impediments that need to be addressed.
+* [ ] D. Take notes and act as a scribe so the developers don't have to.
+* [*] E. The Scrum Master must coach the team so they know that the Daily Scrum does not exceed the 15 minute time-box
+
+--
+****
+
+[#answer]
+
+The correct answers are A and E.
+
+[#explanation]
+--
+The Scrum Master does not actively participate in the Daily Scrum. The Scrum Master does not ask questions, take notes for the team or instruct any individual to speak.
+
+With regards to the Daily Scrum, the Scrum Master's responsibility is to make sure it is used properly within the context of Scrum, which means coaching around it being self-managed, self-organized and time-boxed to 15 minutes.
+
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work."
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+On Fridays, developers want to hold the Daily Scrum in the cafeteria after the lunch crowd empties out. How would you respond to this request as a Scrum Master?
+
+--
+
+[#list]
+--
+* [*] Tell the developers that if they want to do it Friday after lunch in the cafeteria, then they'll have to do it every day after lunch in the cafeteria
+* [ ] Tell the developers the daily scrum must take place in the morning
+* [ ] Tell developers the daily scrum cannot take place in the lunchroom
+* [ ] Tell developers the daily scrum must happen in the same room where development takes place
+
+--
+****
+
+[#answer]
+
+The correct answer is A.
+
+[#explanation]
+--
+The are no rules in the Scrum Guide about where or when the daily Scrum takes place. The only rule is that is must take place at the same time and in the same place every day. If developers find it productive to do their Daily Scrum on the Whitehouse lawn, then let them, so long as it doesn't impede their ability to complete their Sprint Goals.
+
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+A Scrum Master:
+--
+
+[#list]
+--
+* [ ] Can work with only one Scrum Team at a time
+* [ ] Can only work on one project at a time
+* [ ] Can work on many Scrum Teams as long as they are all working on the same project
+* [*] Can work on many different Projects and many different Scrum Teams at the same time
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+There is no rule that says a Scrum Master must be 100% dedicated to a single team.The availability of the Scrum Master and the Product Owner is important to a team's success. But there is no rule in the Scrum Guide that says a Scrum Master must be 100% dedicated to only one team or one project.
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+The Product Owner feels that Developers are not communicating effectively during the Sprint.
+
+What are valid approaches the Scrum Master can take to address these issues?
+--
+
+[#list]
+--
+* [ ] Permanently remove the developers from the team who are not communicating
+* [ ] The the developers who are not communicating on the bench for the next Sprint
+* [*] Coach the development team on Scrum Values and the importance of communication
+* [ ] Refer the issue to Human Resources
+* [*] Raise the issue in the Sprint Retrospective
+* [ ] Tell the Product Owner that they should not be communicating with developers during the Spring
+
+--
+****
+
+[#answer]
+
+The correct answers are C and E.
+
+[#explanation]
+--
+If team members are not communicating effectively, they need to be coached on Scrum Values and the importance of working as a team.This is also an issue to bring up at the Sprint Retrospective. Any time there are communication issues that were not resolved during the Sprint, the Sprint Retrospective is the correct time to discuss them.
+--
+
+

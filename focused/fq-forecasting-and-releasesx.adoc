@@ -1,0 +1,259 @@
+== Forecasting and Release Planning Quiz
+
+
+One of the 13 tested categories on the Scrum Master exam is 'Forecasting and Release Planning.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+A chart that shows the work completed and the amount of work remaining is known as a:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Burndown Chart
+* [ ] Kanban Board
+* [ ] ScrumBan Chart
+* [ ] Agile Window
+
+--
+
+==== Question 2
+--
+How long should be spent planning a one-month sprint?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] At least 4 hours
+* [ ] However long the team requires
+* [ ] At least 8 hours
+* [ ] At most 8 hours
+
+--
+
+==== Question 3
+--
+You are a week into the Sprint things have gone sour. The developers feel they may not have enough time to complete all of the Sprint Backlog items in the Sprint Plan. Which of the following are not strategies that would be consistent with the Scrum Guide:
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Cancel the Sprint and perform Sprint Planning again
+* [ ] Push management to temporarily hire more developers
+* [ ] Have the developers work overtime and weekends
+* [ ] Remove some of the selected Product Backlog items so long as the Sprint Goal is not compromised
+* [ ] Renegotiate the Sprint Scope with the product Owner
+
+--
+
+==== Question 4
+--
+Who plans the work needed to be done throughout the course of a Sprint?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [ ] The Developers
+* [ ] The Scrum Team as a whole
+* [ ] The Stakeholders
+
+--
+
+==== Question 5
+--
+A product backlog item should be broken down into smaller, individual pieces:
+(Select 1 answers.)
+--
+
+
+--
+* [ ] That can be validated with a single unit test
+* [ ] That represent one day of work or less
+* [ ] That can be completed before the end of the sprint
+* [ ] That represent a single feature or use case
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+A chart that shows the work completed and the amount of work remaining is known as a:
+--
+
+[#list]
+--
+* [*] Burndown Chart
+* [ ] Kanban Board
+* [ ] ScrumBan Chart
+* [ ] Agile Window
+
+--
+****
+
+[#answer]
+
+The correct answer is A.
+
+[#explanation]
+--
+A Burndown Chart shows the amount of work done and the amount of work remaining.
+
+This was mentioned in older Scrum Guides but not the new one. 
+
+There is a chance you might see a reference to a Burndown Chart on the exam.
+
+References to Kanban or Agile are unlikely to be the correct answer on the PSMI exam.
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+How long should be spent planning a one-month sprint?
+--
+
+[#list]
+--
+* [ ] At least 4 hours
+* [ ] However long the team requires
+* [ ] At least 8 hours
+* [*] At most 8 hours
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+For a month long sprint no more than 8 hours should be spent planning it.
+
+According to the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+You are a week into the Sprint things have gone sour. The developers feel they may not have enough time to complete all of the Sprint Backlog items in the Sprint Plan. Which of the following are not strategies that would be consistent with the Scrum Guide:
+--
+
+[#list]
+--
+* [*] Cancel the Sprint and perform Sprint Planning again
+* [*] Push management to temporarily hire more developers
+* [*] Have the developers work overtime and weekends
+* [ ] Remove some of the selected Product Backlog items so long as the Sprint Goal is not compromised
+* [ ] Renegotiate the Sprint Scope with the product Owner
+
+--
+****
+
+[#answer]
+
+The correct answers are A, B and C.
+
+[#explanation]
+--
+Only the Product Owner can cancel a Sprint, and it can only because the Sprint Goal no longer makes sense for some reason.
+
+Temporarily hiring workers or having developers work overtime is not a solution to poor planning or estimations. A better solution is to learn from the mistakes that have been made and correct them in future Sprints.
+
+Things will change during the Sprint, and it is common for the work required to complete a Sprint Backlog item to be underestimated. 
+
+You can change the Sprint Backlog and even renegotiate the Sprint Scope with the Product Owner, just as long as the Sprint Goal is not compromised.
+
+From the Scrum Guide
+
+"During the Sprint:No changes are made that would endanger the Sprint Goal;
+Quality does not decrease;
+The Product Backlog is refined as needed; and,
+Scope may be clarified and renegotiated with the Product Owner as more is learned."
+
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+Who plans the work needed to be done throughout the course of a Sprint?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Developers
+* [ ] The Scrum Team as a whole
+* [ ] The Stakeholders
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+According to the Scrum Guide, "the Developers select items from the Product Backlog to include in the current Sprint" and "the Developers plan the work necessary to create an Increment that meets the Definition of Done." (page 8)
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+A product backlog item should be broken down into smaller, individual pieces:
+--
+
+[#list]
+--
+* [ ] That can be validated with a single unit test
+* [*] That represent one day of work or less
+* [ ] That can be completed before the end of the sprint
+* [ ] That represent a single feature or use case
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+When decomposing a backlog item, the goal is to break the backlog item down into a unit of work that can be completed in one day or less."For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less."
+--
+
+

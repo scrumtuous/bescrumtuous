@@ -1,0 +1,263 @@
+:pdf-theme: some-theme.yml
+
+== Stakeholders and Customers Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Stakeholders and Customers.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+Which of the following is true about the participation of developers at the Sprint Review?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] The developers attend the Sprint Review but only communicate with stakeholders through the Product Owner
+* [ ] The developers attend the Sprint Review and collaborate directly with stakeholders
+* [ ] Developers do not attend the Sprint Review
+* [ ] The developers attend the Sprint Review but do not speak directly to stakeholders
+
+--
+
+==== Question 2
+--
+Only the Product Owner interacts directly with stakeholders during the Sprint
+(Select 1 answers.)
+--
+
+
+--
+* [ ] True
+* [ ] False
+
+--
+
+==== Question 3
+--
+Who on the Scrum Team is primarily responsible for engaging with and discovering the needs of stakeholders and C-suite executives?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. The Business Analyst.
+* [ ] B. The Development Team.
+* [ ] C. The Scrum Master.
+* [ ] D. The Project Manager.
+* [ ] E. The Product Owner.
+
+--
+
+==== Question 4
+--
+Under what circumstances can the Scrum Master speak directly with stakeholders?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. After the Product Owner gives the Scrum Master permission to talk with the stakeholders
+* [ ] B. When the Product Owner is failing to fulfill their responsibilities
+* [ ] C. Only during the Sprint Review
+* [ ] D. Only during the Sprint Retrospective
+* [ ] E. There are no rules forbidding a Scrum Master from speaking with stakeholders at any time
+
+--
+
+==== Question 5
+--
+Management and stakeholders are not happy with the effectiveness of the Scrum Team.
+
+Who should management speak with about this issue? Who is responsible for the effectiveness of the Scrum Team?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. The Scrum Master and the Product Owner
+* [ ] B. The Product Owner
+* [ ] C. The Scrum Master
+* [ ] D. The Scrum Team as a whole, inlcuding developers, the Product Owner and the Scrum Master
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+Which of the following is true about the participation of developers at the Sprint Review?
+--
+
+[#list]
+--
+* [ ] The developers attend the Sprint Review but only communicate with stakeholders through the Product Owner
+* [*] The developers attend the Sprint Review and collaborate directly with stakeholders
+* [ ] Developers do not attend the Sprint Review
+* [ ] The developers attend the Sprint Review but do not speak directly to stakeholders
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+The developers not only attend the Sprint Review, but they are expected to fully collaborate with stakeholders.
+
+"The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed... During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next." -The Scrum Guide, page 9
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+Only the Product Owner interacts directly with stakeholders during the Sprint
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+During the Sprint Review, the entire Scrum Team collaborates with the stakeholders to discuss the Product Goal. Since the Sprint Review is part of the Sprint, it is false to say that only the Product Owner interacts directly with stakeholders during the Sprint."The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed." -The Scrum Guide, page 9
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+Who on the Scrum Team is primarily responsible for engaging with and discovering the needs of stakeholders and C-suite executives?
+--
+
+[#list]
+--
+* [ ] A. The Business Analyst.
+* [ ] B. The Development Team.
+* [ ] C. The Scrum Master.
+* [ ] D. The Project Manager.
+* [*] E. The Product Owner.
+
+--
+****
+
+[#answer]
+
+The correct answer is E.
+
+[#explanation]
+--
+In the Scrum framework, the Product Owner is primarily responsible for engaging with stakeholders and C-suite executives. The Product Owner represents the stakeholders and is responsible for maximizing the value of the product or service that the Development Team is building. This involves managing the Product Backlog, which is a prioritized list of the work that the Development Team will complete during the upcoming Sprints.
+
+As part of their role, the Product Owner engages with stakeholders and C-suite executives to understand their needs, gather feedback, and communicate the progress and status of the product development effort. This includes working with stakeholders to define the product vision, goals, and requirements, as well as gathering and prioritizing feedback on the product throughout the development process.
+
+The Product Owner also works closely with the Development Team to ensure that the work being done is aligned with stakeholder needs and priorities. They provide guidance on the direction of the product and make decisions on behalf of the stakeholders regarding the prioritization of work in the Product Backlog.
+
+While the Scrum Master and the Development Team may also interact with stakeholders and C-suite executives from time to time, it is the Product Owner who is primarily responsible for these activities. They are the ones who have the most direct contact with stakeholders and are the key point of communication between the Development Team and the outside world.
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+Under what circumstances can the Scrum Master speak directly with stakeholders?
+--
+
+[#list]
+--
+* [ ] A. After the Product Owner gives the Scrum Master permission to talk with the stakeholders
+* [ ] B. When the Product Owner is failing to fulfill their responsibilities
+* [ ] C. Only during the Sprint Review
+* [ ] D. Only during the Sprint Retrospective
+* [*] E. There are no rules forbidding a Scrum Master from speaking with stakeholders at any time
+
+--
+****
+
+[#answer]
+
+The correct answer is E.
+
+[#explanation]
+--
+Scrum doesn't discourage communication.
+
+There are no rules in the Scrum Guide that forbid open discussion between a Scrum Master and stakeholders. 
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+Management and stakeholders are not happy with the effectiveness of the Scrum Team.
+
+Who should management speak with about this issue? Who is responsible for the effectiveness of the Scrum Team?
+--
+
+[#list]
+--
+* [ ] A. The Scrum Master and the Product Owner
+* [ ] B. The Product Owner
+* [*] C. The Scrum Master
+* [ ] D. The Scrum Team as a whole, inlcuding developers, the Product Owner and the Scrum Master
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+
+
+The Scrum Master is accountable for the Scrum Team's effectiveness because they are responsible for facilitating the Scrum framework and ensuring that it is implemented correctly. The Scrum Master is a servant-leader who helps the team understand and apply Scrum practices and values, and remove any impediments that may hinder their progress.
+
+The Scrum Master is responsible for ensuring that the Scrum Team works as a cohesive unit towards a common goal. This includes fostering a collaborative and self-organizing team culture, facilitating effective communication between the team and the Product Owner, and ensuring that the team is continuously improving and adapting to change.
+
+The Scrum Master is also accountable for facilitating Scrum events such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective. The Scrum Master will coach Scrum team members so that they  understand their purpose and goals. The Scrum Master must also help the team to identify and address any impediments to using the Scrum framework that may arise during the sprint.
+
+Furthermore, the Scrum Master is accountable for ensuring that the team is following the Scrum framework and values. They must be able to recognize when the team is not adhering to Scrum practices or is deviating from Scrum values, and take action to address these issues.
+
+In summary, the Scrum Master is accountable for the Scrum Team's effectiveness because they are responsible for facilitating the Scrum framework, promoting a collaborative and self-organizing team culture, and ensuring that the team continuously improves and adapts to change.
+
+
+
+
+
+--
+
+

@@ -1,0 +1,243 @@
+:pdf-theme: some-theme.yml
+
+== Product Value Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Product Value.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+
+==== Question 1
+--
+Which one of the following best describes the Product Owner's role?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Product Owners ensure that developers never interact with stakeholders
+* [ ] Product Owners maximize the value of the work the Development Team performs
+* [ ] Product Owners make Product Backlog Items are delivered on time
+* [ ] Product Owners make sure the product is delivered on budget
+
+--
+
+==== Question 2
+--
+How is the Product Backlog ordered?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] FIFO (First In, First Out)
+* [ ] LILO (Last In, Last Out)
+* [ ] By which are most difficult
+* [ ] By which are most valuable
+* [ ] The order is randomized at the start of each Sprint Planning meeting.
+
+--
+
+==== Question 3
+--
+According to the Scrum Guide, every Sprint must create value. Each Sprint should also
+(Select 1 answers.)
+--
+
+
+--
+* [ ] Create a useful increment
+* [ ] Create a useful iteration
+* [ ] Complete every item in the Sprint backlog
+* [ ] Complete every item in the Product backlog
+
+--
+
+==== Question 4
+--
+When a large team working on a project is broken down into multiple, smaller teams:
+(Select 3 answers.)
+--
+
+
+--
+* [ ] Each team should share the same Product Goal
+* [ ] Each team should share the same Sprint Goal
+* [ ] The sum of all increments produced by each team should be integrated into every Sprint
+* [ ] Each team should share the same Product Owner
+* [ ] Each team should start their Sprints on the same day
+* [ ] Each team should have the same Sprint length
+
+--
+
+==== Question 5
+--
+If multiple team working on the same project do not integrate their increments together before the end of each Sprint:
+(Select 2 answers.)
+--
+
+
+--
+* [ ] The results of the work performed cannot be properly inspected during the Sprint Review
+* [ ] Developers cannot properly discuss how to improve their processes during the Sprint Retrospective
+* [ ] Sprint Planning will become difficult as teams will not know which Product Backlog items have been completed.
+* [ ] Developers on separate teams will not be able to speak about how they will adapt their work to meet the Scrum Goal during the Daily Scrum
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+Which one of the following best describes the Product Owner's role?
+--
+
+[#list]
+--
+* [ ] Product Owners ensure that developers never interact with stakeholders
+* [*] Product Owners maximize the value of the work the Development Team performs
+* [ ] Product Owners make Product Backlog Items are delivered on time
+* [ ] Product Owners make sure the product is delivered on budget
+
+--
+****
+
+[#answer]
+
+The correct answer is B.
+
+[#explanation]
+--
+The job of the Product Owner is to order the Product Backlog, and ensure the work performed by the Development Team is of maximum value."The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals."
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+How is the Product Backlog ordered?
+--
+
+[#list]
+--
+* [ ] FIFO (First In, First Out)
+* [ ] LILO (Last In, Last Out)
+* [ ] By which are most difficult
+* [*] By which are most valuable
+* [ ] The order is randomized at the start of each Sprint Planning meeting.
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+Product Backlog items are prioritized according to which ones are most valuable, with the most important items prioritized at the top.
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+According to the Scrum Guide, every Sprint must create value. Each Sprint should also
+--
+
+[#list]
+--
+* [*] Create a useful increment
+* [ ] Create a useful iteration
+* [ ] Complete every item in the Sprint backlog
+* [ ] Complete every item in the Product backlog
+
+--
+****
+
+[#answer]
+
+The correct answer is A.
+
+[#explanation]
+--
+According to the Scrum Guide, "the entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."The Scrum Guide doesn't actually use the term iteration.Not every item in the Sprint Backlog gets completed in a Sprint. Anything left unfinished at the end of the Sprint goes back into the Product Backlog to potentially be added into the next Sprint.
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+When a large team working on a project is broken down into multiple, smaller teams:
+--
+
+[#list]
+--
+* [*] Each team should share the same Product Goal
+* [ ] Each team should share the same Sprint Goal
+* [*] The sum of all increments produced by each team should be integrated into every Sprint
+* [*] Each team should share the same Product Owner
+* [ ] Each team should start their Sprints on the same day
+* [ ] Each team should have the same Sprint length
+
+--
+****
+
+[#answer]
+
+The correct answers are A, C and D.
+
+[#explanation]
+--
+When multiple Scrum Teams are working together on the same project, they will share the same Product Goal, Product Backlog and Product Owner. However, the Sprint Goal will be unique to each team, as each team will have their own, unique Sprint Backlog to work on.
+
+All increments should be integrated together throughout the Sprint and certainly before the end of the Sprint so that the results can be properly inspected, and new items can be selected from the Product Backlog without conflict or repeating work.
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+If multiple team working on the same project do not integrate their increments together before the end of each Sprint:
+--
+
+[#list]
+--
+* [*] The results of the work performed cannot be properly inspected during the Sprint Review
+* [ ] Developers cannot properly discuss how to improve their processes during the Sprint Retrospective
+* [*] Sprint Planning will become difficult as teams will not know which Product Backlog items have been completed.
+* [ ] Developers on separate teams will not be able to speak about how they will adapt their work to meet the Scrum Goal during the Daily Scrum
+
+--
+****
+
+[#answer]
+
+The correct answers are A and C.
+
+[#explanation]
+--
+It is important to integrate Increments together before the end of the Sprint so that the work completed can be properly inspected during the Sprint Review, and so the Scrum Teams know what work has been completed as the Sprint Planning event takes place.
+--
+
+

@@ -1,0 +1,318 @@
+
+
+== Scrum Master Coaching Techniques Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Coaching.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+
+
+==== Question 1
+--
+With regards to the Daily Scrum, the Scrum Master should:
+(Select 1 answers.)
+--
+
+
+--
+
+* [ ] Make sure the three questions about yesterday, today and impediments are answered by all developers
+* [ ] Take specific notes about what each developer's daily action plan is
+* [ ] Coach the team on how to keep focus stay within the 15 minute timebox
+* [ ] Take general notes about what the team's daily action plan is
+* [ ] All of the above
+
+--
+
+==== Question 2
+--
+The self-managed and self-organized Scrum development team has come to a common agreement that they can increase development velocity by holding the Daily Scrum Monday, Wednesday and Friday, rather than on each day of the week.
+
+What are the two best ways for the Scrum Master to react when an issue like this arises?
+(Select 2 answers.)
+--
+
+
+--
+* [ ] A. Be Agile and respect the decisions of the self-managed and self-organized development teams and agree to hold the Daily Scrum on Monday, Wednesday and Friday.
+* [ ] B. Educate the team on the Scrum Framework and emphasize how the Daily Scrum provides an important opportunity to adapt and update their plan to achieve the Sprint Goal.
+* [ ] C. Agree to the wishes of the development team so long as the Product Owner provides consent.
+* [ ] D. Discuss with the team why they want to take this course of action and coach around their objections.
+* [ ] E. Reject the request but promise to take a more active role in leading the Daily Scrum.
+
+--
+
+==== Question 3
+--
+You're the Scrum Master and you've run into a problem with your team.
+
+- Developers think Retrospectives are not productive
+- Developers do not want to attend Retrospectives anymore
+
+How should the Scrum Master respond?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Bring human resources in to talk to the developers about their roles and responsibilities.
+* [ ] B. Respect the decision of the self-managed and self-organized team and skip the Sprint Retrospectives.
+* [ ] C. Consult the Product Owner, as they have final say over whether a Sprint Retrospective needs to be done.
+* [ ] D. Educate the team on how Sprint Retrospectives help reinforce Scrum values, and help to facilitate more productive Retrospectives.
+
+--
+
+==== Question 4
+--
+The key stakeholder on the project has told you the continuation of the project is dependent upon the completion of a 'critical feature' that is currently not part of the Sprint Backlog. If the feature is not completed before the end of this Sprint, the project and the continued employment of the team is at risk. 
+
+What course of action should you, as the Scrum Master, take?
+(Select 1 answers.)
+--
+
+
+--
+* [ ] A. Cancel the Sprint and have them team expend all development efforts on the critical feature
+* [ ] B. Add the critical feature to the Sprint Backlog and assign it to the Scrum Team.
+* [ ] C. Add the new feature to the Sprint Backlog and assign it to the Team Lead.
+* [ ] D. Discuss the situation with the Product Owner and allow the PO to negotiate a solution with the Development Team
+
+--
+
+==== Question 5
+--
+A new Scrum Master has been hired and is unclear about exactly what they are supposed to do. 
+
+Which three tasks are considered essential for the Scrum Master to perform according to the Scrum Guide? 
+(Select 3 answers.)
+--
+
+
+--
+* [ ] A. Ensure every developer gets a chance to speak at the Daily Scrum
+* [ ] B. Ensure all stakeholders, developers and the Product Owner attend the Sprint Retrospective
+* [ ] C. Coach the team members in self-management and cross-functionality
+* [ ] D. Remove barriers between stakeholders and Scrum Teams
+* [ ] E. Facilitate stakeholder collaboration
+
+--
+
+<<<
+
+=== Answers
+
+==== Answer 1
+****
+
+[#query]
+--
+With regards to the Daily Scrum, the Scrum Master should:
+--
+
+[#list]
+--
+
+* [ ] Make sure the three questions about yesterday, today and impediments are answered by all developers
+* [ ] Take specific notes about what each developer's daily action plan is
+* [*] Coach the team on how to keep focus stay within the 15 minute timebox
+* [ ] Take general notes about what the team's daily action plan is
+* [ ] All of the above
+
+--
+****
+
+[#answer]
+
+The correct answer is C.
+
+[#explanation]
+--
+According to the Scrum Guide, "the Daily Scrum is a 15-minute event for the Developers of the Scrum Team." There isn't even a requirement that the Scrum Master attend!
+
+One rule of the Scrum Guide is that the Daily Scrum stays under 15 minutes. If the Scrum Master realizes that the meetings are going on longer, this becomes a teachable and coachable event.
+--
+
+
+
+==== Answer 2
+****
+
+[#query]
+--
+The self-managed and self-organized Scrum development team has come to a common agreement that they can increase development velocity by holding the Daily Scrum Monday, Wednesday and Friday, rather than on each day of the week.
+
+What are the two best ways for the Scrum Master to react when an issue like this arises?
+--
+
+[#list]
+--
+* [ ] A. Be Agile and respect the decisions of the self-managed and self-organized development teams and agree to hold the Daily Scrum on Monday, Wednesday and Friday.
+* [*] B. Educate the team on the Scrum Framework and emphasize how the Daily Scrum provides an important opportunity to adapt and update their plan to achieve the Sprint Goal.
+* [ ] C. Agree to the wishes of the development team so long as the Product Owner provides consent.
+* [*] D. Discuss with the team why they want to take this course of action and coach around their objections.
+* [ ] E. Reject the request but promise to take a more active role in leading the Daily Scrum.
+
+--
+****
+
+[#answer]
+
+The correct answers are B and D.
+
+[#explanation]
+--
+As a Scrum Master, dealing with a Scrum Team that does not want to do Daily Scrum meetings can be challenging. 
+
+Always keep in mind that the role of the Scrum Master is to coach, facilitate and educate. With that said, here are a few things you as a Scrum Master can do to address the issue. 
+
+Understand the underlying reason: Start by understanding why the team does not want to do Daily Scrum meetings. Is it because they feel the meetings are a waste of time, or is it because they are facing some other issue? Once you understand the root cause, you can take appropriate actions.
+
+Educate the team on the importance of Daily Scrum meetings: As a Scrum Master, it's essential to educate the team on the importance of Daily Scrum meetings. Help the team understand that these meetings are a crucial part of the Scrum framework and are necessary for keeping everyone on the same page.
+
+Encourage participation: Encourage team members to participate in Daily Scrum meetings by having them make them engaging and interactive. Ask open-ended questions and encourage team members to share their progress and challenges. Coach them to make the meeting a safe space where team members can share their concerns.
+
+Keep in mind that the Scrum Master isn't supposed to take part in the Daily Scrum. The Scrum Master should not be leading it or asking everyone questions. The Daily Scrum is for the developers and it is to be led by the developers.
+
+Identify and address any roadblocks: If there are any roadblocks that are preventing the team from participating in Daily Scrum meetings, identify and address them. For example, if the team is finding it hard to schedule the meetings, find a time that works for everyone. Just keep in mind that the Daily Scrum must take place at the same time and location every day.
+
+Consider having the team adjust the format: If the team is finding the Daily Scrum meetings tedious or unproductive, consider adjusting the format. You can have them try shortening the meetings, changing the format to make it more interactive, or using new tools to facilitate the meeting.
+
+Remember that as a Scrum Master, your role is to facilitate the team's success, so be patient and work with the team to find a solution that works for everyone. 
+--
+
+
+
+==== Answer 3
+****
+
+[#query]
+--
+You're the Scrum Master and you've run into a problem with your team.
+
+- Developers think Retrospectives are not productive
+- Developers do not want to attend Retrospectives anymore
+
+How should the Scrum Master respond?
+--
+
+[#list]
+--
+* [ ] A. Bring human resources in to talk to the developers about their roles and responsibilities.
+* [ ] B. Respect the decision of the self-managed and self-organized team and skip the Sprint Retrospectives.
+* [ ] C. Consult the Product Owner, as they have final say over whether a Sprint Retrospective needs to be done.
+* [*] D. Educate the team on how Sprint Retrospectives help reinforce Scrum values, and help to facilitate more productive Retrospectives.
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+As a certified Scrum Master, it's important to recognize that the Sprint Retrospective is a critical ceremony in the Scrum framework. The retrospective provides the team with an opportunity to reflect on their work during the previous Sprint, identify areas for improvement, and make adjustments to their process for the next sprint.
+
+If developers want to cancel the Sprint Retrospective, it's important to understand their reasoning and address their concerns. In such a situation, a Scrum Master might want to:
+
+Understand the reasons: The Scrum Master should have a conversation with the developers to understand why they want to cancel the Sprint Retrospective. There may be valid concerns or issues that the team needs to address.
+
+Educate the team: The Scrum Master should educate the team on the importance of the Sprint Retrospective and the benefits that can come from holding the ceremony. The Scrum Master can explain that canceling the retrospective could lead to missed opportunities for process improvement and may negatively impact team morale.
+
+Identify alternative solutions: The Scrum Master can work with the team to identify alternative solutions that address their concerns while still allowing the team to hold the retrospective. For example, if the developers feel that the retrospectives are taking too much time, the team could try shortening the retrospective or adjusting the format to make it more efficient.
+
+Scrum is immutable. That means it must be done in its entirety or not done at all. Sprint Retrospectives cannot be cancelled if you want to describe what you are doing as Scrum.
+--
+
+
+
+==== Answer 4
+****
+
+[#query]
+--
+The key stakeholder on the project has told you the continuation of the project is dependent upon the completion of a 'critical feature' that is currently not part of the Sprint Backlog. If the feature is not completed before the end of this Sprint, the project and the continued employment of the team is at risk. 
+
+What course of action should you, as the Scrum Master, take?
+--
+
+[#list]
+--
+* [ ] A. Cancel the Sprint and have them team expend all development efforts on the critical feature
+* [ ] B. Add the critical feature to the Sprint Backlog and assign it to the Scrum Team.
+* [ ] C. Add the new feature to the Sprint Backlog and assign it to the Team Lead.
+* [*] D. Discuss the situation with the Product Owner and allow the PO to negotiate a solution with the Development Team
+
+--
+****
+
+[#answer]
+
+The correct answer is D.
+
+[#explanation]
+--
+The Scrum Master cannot cancel a Sprint, they cannot add items to the Sprint Backlog and they cannot assign tasks to members of the development team.
+
+This is a job for the Product Owner to address. Hopefully the PO can negotiate a change to the Sprint Backlog that would allow the critical feature to be implemented without risking the Sprint Goal. If the new information makes the existing Sprint Goal obsolete, then under those conditions the Product Owner has the ability to cancel the Sprint and begin a new Sprint with a new round of Sprint Planning.
+--
+
+
+
+==== Answer 5
+****
+
+[#query]
+--
+A new Scrum Master has been hired and is unclear about exactly what they are supposed to do. 
+
+Which three tasks are considered essential for the Scrum Master to perform according to the Scrum Guide? 
+--
+
+[#list]
+--
+* [ ] A. Ensure every developer gets a chance to speak at the Daily Scrum
+* [ ] B. Ensure all stakeholders, developers and the Product Owner attend the Sprint Retrospective
+* [*] C. Coach the team members in self-management and cross-functionality
+* [*] D. Remove barriers between stakeholders and Scrum Teams
+* [*] E. Facilitate stakeholder collaboration
+
+--
+****
+
+[#answer]
+
+The correct answers are C, D and E.
+
+[#explanation]
+--
+The Scrum Master does not participate in the Daily Scrum, and in fact, the Scrum Guide does not even require that they attend the Daily Scrum.
+
+Also, stakeholders do not attend the Sprint Retrospective. They attend the Sprint Review, but not the retrospective.
+
+The correct options were all taken directly out of the Scrum Guide:
+
+The Scrum Master serves the Scrum Team in several ways, including:
+- Coaching the team members in self-management and cross-functionality;
+- Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+- Causing the removal of impediments to the Scrum Team?s progress; and,
+- Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
+
+The Scrum Master serves the Product Owner in several ways, including:
+- Helping find techniques for effective Product Goal definition and Product Backlog management;
+- Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+- Helping establish empirical product planning for a complex environment; and,
+- Facilitating stakeholder collaboration as requested or needed.
+
+The Scrum Master serves the organization in several ways, including:
+- Leading, training, and coaching the organization in its Scrum adoption;
+- Planning and advising Scrum implementations within the organization;
+- Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+- Removing barriers between stakeholders and Scrum Teams.
+
+
+--
+
+

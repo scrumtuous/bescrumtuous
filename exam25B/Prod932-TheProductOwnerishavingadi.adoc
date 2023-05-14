@@ -1,1 +1,0 @@
-include::../questions00/Prod932-TheProductOwnerishavingadi.adoc[]

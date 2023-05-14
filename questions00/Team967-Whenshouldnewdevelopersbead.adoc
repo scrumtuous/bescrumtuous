@@ -18,7 +18,7 @@ When should new developers be added to a Scrum team?
 [#list]
 --
 * [ ] A. During Sprint Zero the team size should be set for the duration of the project.
-* [ ] B. After the current Sprint ends but before the next Spring begins.
+* [ ] B. After the current Sprint ends but before the next Sprint begins.
 * [*] C. When hiring a new developer will help development continue at a sustainable pace.
 * [ ] D. When the Project Manager provides enough budget money for a new developer.
 

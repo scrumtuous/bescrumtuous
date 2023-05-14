@@ -116,17 +116,16 @@ What are the primary objectives served by the Definition of Done (DoD)?
 ==== Question 7
 
 --
-What are three ways the Definition of Done helps to increase transparency throughout the organization?
-(Choose 3.)
+In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
+(Choose 1.)
 --
 
 
 --
-* [ ] A. The Definition of Done provides clear expectations for developers and stakeholders alike
-* [ ] B. The Definition of Done helps the Product Owner identify when developers are underperforming.
-* [ ] C. The Definition of Done provides objective criteria that allows teams to know when a Product Backlog Item is complete and can be released
-* [ ] D. The Definition of Done helps stakeholders know when a task or feature will be complete
-* [ ] E. The Definition of Done provides a shared understanding throughout the organization
+* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks
+* [ ] B. Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint
+* [ ] C. Have the development team train and learn the skills required to perform QA tasks
+* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
 
 --
 
@@ -746,33 +745,28 @@ It's also stated in the Scrum Guide that when multiple teams work on the same Pr
 
 [#query]
 --
-What are three ways the Definition of Done helps to increase transparency throughout the organization?
+In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
 --
 
 [#list]
 --
-* [*] A. The Definition of Done provides clear expectations for developers and stakeholders alike
-* [ ] B. The Definition of Done helps the Product Owner identify when developers are underperforming.
-* [*] C. The Definition of Done provides objective criteria that allows teams to know when a Product Backlog Item is complete and can be released
-* [ ] D. The Definition of Done helps stakeholders know when a task or feature will be complete
-* [*] E. The Definition of Done provides a shared understanding throughout the organization
+* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks
+* [ ] B. Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint
+* [*] C. Have the development team train and learn the skills required to perform QA tasks
+* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
 
 --
 ****
 
 [#answer]
 
-The correct answers are A, C and E.
+The correct answer is C.
 
 [#explanation]
 --
-The Definition of Done (DoD) in Scrum is an agreement among team members on the requirements that must be met for a Product Backlog item to be considered "done". Here are three ways the DoD helps increase transparency in Scrum:
+The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
-Clear expectations: The DoD sets clear expectations for what needs to be done for each Product Backlog item to be considered complete. This creates transparency because everyone on the team knows what is expected of them and what they need to do to complete a task. This helps eliminate confusion and miscommunications, which can increase transparency.
-
-Objective criteria: The DoD defines objective criteria that must be met for each Product Backlog item. This helps increase transparency by making it clear what the team needs to do to achieve a particular outcome. Measurable criteria also make it easier to track progress and determine whether a task is truly complete.
-
-Shared understanding: The DoD ensures that all team members have a shared understanding of what "done" means for a particular task. This creates transparency because everyone on the team is working toward the same goal and understands what it takes to achieve it. When everyone is on the same page, it's easier to identify and resolve any issues or roadblocks that arise during the development process.
+In this case, if QA is required to meet the definition of done, then someone, or everyone, on the development team must learn QA.
 --
 
 
