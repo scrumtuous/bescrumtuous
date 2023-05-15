@@ -247,7 +247,11 @@ Outside of the few rules Scrum has, the framework encourages people to discover 
 ==== Test Yourself
 
 ****
-True or False: Scrum is a complete and proven framework that helps teams achieve goals and create value.
+Scrum is a complete and proven framework that helps teams achieve goals and create value.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false. 
