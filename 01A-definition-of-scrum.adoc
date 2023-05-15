@@ -291,7 +291,11 @@ If you're not familiar with Kanban, don't worry. Kanban is never mentioned in th
 ==== Test Yourself
 
 ****
-True or false: Scrum can be used alongside various processes and methodologies including Kanban and Lean.
+Scrum can be used alongside various processes and methodologies including Kanban and Lean.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is true.
@@ -305,7 +309,10 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 ==== Test Yourself
 
 ****
-True or False: When implemented properly, Scrum has the capacity to expose ineffective management.
+When implemented properly, Scrum has the capacity to expose ineffective management.
+
+* [ ] True
+* [ ] False
 
 ****
 
