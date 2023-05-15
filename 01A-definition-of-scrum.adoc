@@ -126,7 +126,11 @@ If you ever see an option on the certification exam that asserts Scrum works exc
 Here's the type of trick question you'll see on the Scrum certification exam that attempts to trip you up on the incorrectly held belief that Scrum is only used in software development:
 
 ****
-True or False: Scrum is a lightweight framework used exclusively by software development teams to generate value through adaptive solutions to complex problems. 
+Scrum is a lightweight framework used exclusively by software development teams to generate value through adaptive solutions to complex problems. 
+
+* [ ] True
+* [ ] False
+
 ****
 
 The answer is false because the question implies that Scrum is only applicable in the world of software development. 
