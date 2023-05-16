@@ -36,7 +36,29 @@ Now, say you know half the developers have taken time-off to be with their famil
 
 You'll probably reduce your projection by 50 percent. That decision is based on empirical evidence that a chart simply couldn't provide.
 
-Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's _lean thinking._
+=== Lean Thinking
+
+Lean thinking is also an important concept in Scrum. 
+
+The idea of lean thinking comes from productivity enhancements Toyota discovered in the 1950s and 60s. Obviously Toyota was building cars, but the lessons of lean thinking are universal to all product development domains.
+
+Key concepts of lean manufacturing that manifest themselves within the Scrum framework include:
+
+- All unnecessary steps in a process should be eliminated
+- Work should be tied tightly to a specific outcome or goal
+- Products should not be over-engineered with unnecessary features
+- The connection with the customer or stakeholder should be direct
+- Teams need strong leaders whose priority is to serve their team
+- Workers should not be left idle with no work to do
+- Improvements should be made in accorance with empirical observations
+
+Just looking at this list you can see how:
+
+- the Scrum Master role maps to the lean demand that teams have strong leaders
+- The Sprint and Product Goals map to the idea that work should be tied to a specific outcome
+- How Scrum's Sprint Review embraces the ides of maitaining a tight connection with the stakeholder
+
+Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
 .Charts and trends are no replacement for first-hand knowledge and empiricism.
 image::images/bet-the-habs.png["There are many learning modalities. "]
@@ -270,6 +292,41 @@ Scrum recognizes this reality, which is why it provides several events that allo
 It should be noted that inspection and adaptation can happen at any time during the Sprint, not just during the official Scrum events. 
 
 If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
+
+'''
+
+=== A Word About Being Lean
+
+One of the early reviewers of this book pointed out that while I go deeply into the topic of empiricism in this chapter, my coverage of lean is, well, _lean_.
+
+There's a reason for that.
+
+The fact is, on the Scrum Master certification, _empiricism_ is one of the 13 categories in which questions are categorized. You can expect 5 or 6 exam questions that hit the topic of empiricism in several different ways. You won't see many exam questions on lean manufacturing, and the ones you will see will look like this:
+
+==== Test Yourself
+
+****
+Which of the following concepts are consistent with a lean approach to product development? + 
+(Choose 3)
+
+* [ ] A) The elimination of unnecessary steps in a process
+* [ ] B) The use of a Kanban board
+* [ ] C) The removal of unneccessary features in a product
+* [ ] D) Significant up-front planning and design
+* [ ] E) The elimination of idle time where developers are not working
+****
+
+Options B and D are correct.
+
+From day to day and hour to hour, conditions change. 
+
+Scrum recognizes this reality, which is why it provides several events that allow for the inspection of progress along with the ability to adapt if necessary.
+
+It should be noted that inspection and adaptation can happen at any time during the Sprint, not just during the official Scrum events. 
+
+If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
+
+'''
 
 
 
