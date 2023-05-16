@@ -346,9 +346,9 @@ That's also why you'll often find me repeating myself about certain topics throu
 
 Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide. 
 
-That's why you won't hear me talking about the Agile Manifesto or discussing _story points_ in this book. Other Scrum Master certification books invest a lot of time in those topics, but I think that does you a disservice.
+That's why you won't hear me talking about the _Agile Manifesto_ or discussing _story points_ in this book. Other Scrum Master certification books invest a lot of time in those topics, but I think that does you a disservice.
 
-The Scrum Guide never mentions the word _Agile_ and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
+The Scrum Guide never once mentions the word _Agile_ and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
 
 NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
 
