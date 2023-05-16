@@ -342,13 +342,13 @@ That's also why you'll often find me repeating myself about certain topics throu
 - Scrum is a framework, it's not a process or a methodology.
 - Scrum is not just for software development but for the development of _any product_.
 
-The Scrum Guide never mentions the word _Agile_ and it never talks about _user stories_ or _story points._ 
+=== Forget Everything You Think You Know
 
-Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
+Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide. That's why you won't hear me talking about the Agile Manifest or discussing _story points_ in this book.
+
+The Scrum Guide never mentions the word _Agile_ and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
 
 NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
-
-Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide.
 
 My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will distract and confuse you.
 
