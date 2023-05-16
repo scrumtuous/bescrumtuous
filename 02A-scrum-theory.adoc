@@ -338,9 +338,9 @@ There are many topics I _could_ go in depth on in this book, but my preference i
 That's also why you'll often find me repeating myself about certain topics throughout the book. For example:
 
 - I will annoyingly repeat myself about the time allotted to the various Scrum events.
-- I constantly emphasize that you don't have to wait for a Scrum event to change your plan
-- Scrum is a framework, it's not a process or a methodology
-- Scrum is not just for software development but for the development of _any product_
+- I constantly emphasize that you don't have to wait for a Scrum event to change your plan.
+- Scrum is a framework, it's not a process or a methodology.
+- Scrum is not just for software development but for the development of _any product_.
 
 The Scrum Guide never mentions the word _Agile_ and it never talks about _user stories_ or _story points._ 
 
