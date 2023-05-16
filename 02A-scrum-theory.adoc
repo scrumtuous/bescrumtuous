@@ -66,12 +66,9 @@ Just looking at this list you can see how:
 Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
 
-
-
-
 === Empiricism and Lean Thinking
 
-You are guaranteed to get two questions from this section on the Scrum Master certification exam. They are easy marks if you just understand what 'empiricism' and 'lean thinking' means.
+You are guaranteed to get five or six questions from this section on the Scrum Master certification exam. They are easy marks if you just understand what 'empiricism' and 'lean thinking' means.
 
 ==== Test Yourself
 
