@@ -238,9 +238,7 @@ It's a guide, not a rulebook.
 
 The Scrum Guide even promises __not__ to be heavy on rules, saying that it promises _not_ to 'provide people with detailed instructions.'
 
-There are very few actual rules in the 13-page Scrum Guide.
-
-Outside of the few rules Scrum has, the framework encourages people to discover strategies that work best for them.
+There are very few actual rules in the 13-page Scrum Guide. Outside of the few rules Scrum does have, the framework encourages people to discover strategies that work best for them.
 
 ==== Test Yourself
 
