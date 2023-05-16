@@ -334,7 +334,7 @@ Options B and D represent the waterfall model, which is the antithesis of Scrum 
 
 '''
 
-There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of Scrum.
+There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of lean thinking.
 
 That's also why you'll often find me repeating myself about certain topics throughout the book. For example:
 
