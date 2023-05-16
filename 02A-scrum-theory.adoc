@@ -55,13 +55,13 @@ Key concepts of lean manufacturing that manifest themselves in the Scrum framewo
 - The need for a direct connection with the customer or stakeholder
 - The insistence that teams have strong leaders whose priority is to serve their team
 - The desire for workers not to be left idle during the production process
-- The fact that improvements should be made in accorance with empirical observations
+- The fact that improvements should be made in accordance with empirical observations
 
 Just looking at this list you can see how:
 
 - The Scrum Master role maps to the lean demand that teams have strong leaders
 - The Sprint and Product Goals map to the idea that work should be tied to a specific outcome
-- Scrum's Sprint Review embraces the ides of maintaining a tight connection with the stakeholder
+- Scrum's Sprint Review embraces the ideas of maintaining a tight connection with the stakeholder
 
 Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
@@ -321,7 +321,7 @@ Which of the following concepts are consistent with a lean approach to product d
 
 * [ ] A) The elimination of unnecessary steps in a process
 * [ ] B) Isolated development phases that flow into each other
-* [ ] C) The removal of unneccessary features in a product
+* [ ] C) The removal of unnecessary features in a product
 * [ ] D) Significant up-front planning and design
 * [ ] E) The elimination of idle time where developers are not working
 ****
@@ -333,6 +333,8 @@ These three options are core concepts learned from _lean manufacturing._
 Options B and D represent the waterfall model, which is the antithesis of Scrum and lean.
 
 '''
+
+=== Lean Learning with Focus
 
 There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of lean thinking.
 
