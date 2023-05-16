@@ -15,7 +15,7 @@ ____
 
 I'm not a big fan of the word empiricism.
 
-Fundamentally, empiricism means using your six senses to understand the situation you're in. I'm not sure how my sense of smell or taste helps me as a Scrum Master.
+Fundamentally, empiricism means using your five senses to understand the situation you're in. I'm not sure how my sense of smell or taste helps me as a Scrum Master.
 
 In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience, and verifiable facts.
 
