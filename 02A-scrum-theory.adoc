@@ -350,9 +350,11 @@ That's why you won't hear me talking about the _Agile Manifesto_ or discussing _
 
 The Scrum Guide never once mentions the word _Agile_ and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
 
-NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
+
 
 My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will distract and confuse you.
+
+NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
 
 One of the Scrum values is focus. 
 
