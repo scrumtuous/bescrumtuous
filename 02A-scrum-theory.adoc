@@ -30,7 +30,7 @@ Here's an example of the application of empiricism.
 
 Imagine you have a burndown chart that says you are completing 10 items Sprint. How many items do you think you'll complete in the next Sprint?
 
-You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses. Charts may be predictive, but they're not empirical.
+You'd probably say 10, but that's an answer based on a chart. Charts don't have five senses. Charts may be predictive, but they're not empirical.
 
 Now, say you know half the developers have taken time-off to be with their families during the next Sprint?
 
