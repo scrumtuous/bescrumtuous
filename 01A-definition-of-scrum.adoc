@@ -17,7 +17,7 @@ Before you read too far ahead, let me recommend that you download and print out 
 
 The Scrum Guide is only 13 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
-.Try to hit as many learning modalities as you can whenever you learn something new. Just be sure to use high-quality, authoritative resources.
+.Try to hit as many learning modalities as you can whenever you learn something new.
 image::images/modalities.jpg["Hit as many learning modalities as you can."]
 
 Grab a highlighter as well and markup that printed copy as we go along. It'll help you learn.
@@ -29,6 +29,8 @@ Along with downloading it, you should also _read_ the Scrum Guide before you dig
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
 For example, the first paragraph in the Scrum talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
+
+=== We are Bound by the Scrum Guide
 
 I don't like that. If you're going to bring up a topic, you should address it and explain it the first time it's mentioned. I don't like saying 'this is really, really important, but we'll cover that later.' If it's important, cover it now.
 
@@ -110,9 +112,7 @@ TIP: It often helps to think about certification exam questions outside of the d
 
 === Scrum is a Framework
 
-Feel free to debate whether you believe Scrum is a process or a methodology on Twitter or in your favorite online forum. I know I have.
-
-On the Scrum Certification exam? Scrum is a framework.
+Feel free to debate whether you believe Scrum is a process or a methodology on Twitter or in your favorite online forum. I know I have. On the Scrum Certification exam? Scrum is a framework.
 
 The stewards of the Scrum framework have also worked hard to position Scrum as a tool that can be applied in a variety of industries, not just software development. 
 
@@ -154,9 +154,7 @@ Which one of the following statements most accurately reflects the definition of
 
 Option C is correct. 
 
-The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." 
-
-Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
+The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
 
 <<<
 
@@ -254,11 +252,9 @@ Scrum is a complete and proven framework that helps teams achieve goals and crea
 
 ****
 
-This is false. 
+This is false. Scrum self-identifies as a _purposefully incomplete_ framework.
 
-Scrum self-identifies as a _purposefully incomplete_ framework.
-
-This fact seems counter-intuitive to many. After all, 
+This fact seems counter-intuitive to many. After all:
 
 - Why would anyone want to use an incomplete framework? 
 - Wouldn't a complete framework be better?

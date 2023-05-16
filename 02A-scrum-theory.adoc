@@ -24,6 +24,9 @@ Empiricism also ties in tightly with the Scrum Pillars of transparency, inspecti
 Empirical analysis of your current situation is a more effective way to make decisions than following a plan written up six months ago, or making decisions based on trendlines on a historical chart.
 
 
+TIP: The word _empiric_ is Latin meaning 'based on observations formed during medical treatments.' The _piric_ part of _empiric_ is Latin for 'trial or test.'
+
+
 === Empirical Example
 
 Here's an example of the application of empiricism.
@@ -35,6 +38,8 @@ You'd probably say 10, but that's an answer based on a chart. Charts don't have 
 Now, say you know half the developers have taken time-off to be with their families during the next Sprint?
 
 You'll probably reduce your projection by 50 percent. That decision is based on empirical evidence that a chart simply couldn't provide.
+
+<<<
 
 === Lean Thinking
 
@@ -60,8 +65,7 @@ Just looking at this list you can see how:
 
 Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
-.Charts and trends are no replacement for first-hand knowledge and empiricism.
-image::images/bet-the-habs.jpg["There are many learning modalities. "]
+
 
 
 
@@ -100,6 +104,10 @@ ____
 
 
 '''
+
+.Charts and trends are no replacement for first-hand knowledge and empiricism.
+image::images/bet-the-habs.jpg["There are many learning modalities. "]
+
 
 ==== Test Yourself
 
@@ -156,10 +164,8 @@ Piece by piece, through the delivery of value added upon value, the product gets
 
 By getting these small increments into the hands of stakeholders, and getting immediate feedback from which the Scrum Team can adapt, Scrum reduces risk and allows developers to better service the needs of their clients.
 
-.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
-image::images/800px-Scrum_process.jpg["There are many learning modalities. "]
 
-<<<
+
 
 === Cross-Functional Teams
 
@@ -221,11 +227,6 @@ Scrum has four time-boxed events that happen within a fifth Scrum event known as
 - None of the Scrum events happen before a Sprint.
 - None of the Scrum events can be left out of a Sprint.
 
-.The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
-image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
-
-<<<
-
 === Moving from Sprint to Sprint
 
 Everything in Scrum happens within the boundaries of a Sprint. As soon as one Sprint ends, the next Sprint begins. 
@@ -238,12 +239,22 @@ Don't get tripped up on any questions that ask what happens before or after a Sp
 
 Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning meeting, and the Daily Scrum is to 'inspect and adapt.'
 
+.The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
+image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
+
 [quote, 2020 Scrum Guide page 3]
 ____
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
 ____
 
 You will often get questions on the Scrum certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the listed options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
+
+
+
+
+
+
+
 
 ==== Test Yourself
  
@@ -269,7 +280,6 @@ The Sprint Retrospective concludes the Sprint.
 ____
 
 
-<<<
 
 ==== Test Yourself
 
@@ -342,7 +352,8 @@ My goal is to get you Scrum Master certified. A _lean approach_ to doing so is t
 One of the Scrum values is focus. Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, while at the same time, constantly re-inforcing and reviewing topics that I know will be tested heavily. That's how we're going to get you past the Scrum Master certification finish line!
 
 
-
+.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
+image::images/800px-Scrum_process.jpg["There are many learning modalities. "]
 
 
 
