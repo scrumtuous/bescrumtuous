@@ -47,7 +47,7 @@ Lean thinking is also an important concept in Scrum.
 
 The idea of lean thinking comes from productivity enhancements Toyota discovered in the 1950s and 60s. Obviously Toyota was building cars, but the lessons of lean thinking are universal to all product development domains.
 
-Key concepts of lean manufacturing that manifest themselves within the Scrum framework include:
+Key concepts of lean manufacturing that manifest themselves in the Scrum framework include:
 
 - The idea that all unnecessary steps in a process should be eliminated
 - The belief that all work should be tied tightly to a specific outcome or goal
@@ -59,9 +59,9 @@ Key concepts of lean manufacturing that manifest themselves within the Scrum fra
 
 Just looking at this list you can see how:
 
-- the Scrum Master role maps to the lean demand that teams have strong leaders
+- The Scrum Master role maps to the lean demand that teams have strong leaders
 - The Sprint and Product Goals map to the idea that work should be tied to a specific outcome
-- How Scrum's Sprint Review embraces the ides of maitaining a tight connection with the stakeholder
+- Scrum's Sprint Review embraces the ides of maintaining a tight connection with the stakeholder
 
 Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
