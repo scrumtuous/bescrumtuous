@@ -15,7 +15,7 @@ ____
 
 I'm not a big fan of the word empiricism.
 
-Fundamentally, empiricism means using your six senses to understand the situation you're in. I'm not sure how my sense of smell or taste helps me as a Scrum Master.
+Fundamentally, empiricism means using your five senses to understand the situation you're in. I'm not sure how my sense of smell or taste helps me as a Scrum Master.
 
 In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience, and verifiable facts.
 
@@ -30,13 +30,35 @@ Here's an example of the application of empiricism.
 
 Imagine you have a burndown chart that says you are completing 10 items Sprint. How many items do you think you'll complete in the next Sprint?
 
-You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses. Charts may be predictive, but they're not empirical.
+You'd probably say 10, but that's an answer based on a chart. Charts don't have five senses. Charts may be predictive, but they're not empirical.
 
 Now, say you know half the developers have taken time-off to be with their families during the next Sprint?
 
 You'll probably reduce your projection by 50 percent. That decision is based on empirical evidence that a chart simply couldn't provide.
 
-Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's _lean thinking._
+=== Lean Thinking
+
+Lean thinking is also an important concept in Scrum. 
+
+The idea of lean thinking comes from productivity enhancements Toyota discovered in the 1950s and 60s. Obviously Toyota was building cars, but the lessons of lean thinking are universal to all product development domains.
+
+Key concepts of lean manufacturing that manifest themselves within the Scrum framework include:
+
+- The idea that all unnecessary steps in a process should be eliminated
+- The belief that all work should be tied tightly to a specific outcome or goal
+- The insistence that products should not be over-engineered with unnecessary features
+- The need for a direct connection with the customer or stakeholder
+- The insistence that teams have strong leaders whose priority is to serve their team
+- The desire for workers not to be left idle during the production process
+- The fact that improvements should be made in accorance with empirical observations
+
+Just looking at this list you can see how:
+
+- the Scrum Master role maps to the lean demand that teams have strong leaders
+- The Sprint and Product Goals map to the idea that work should be tied to a specific outcome
+- How Scrum's Sprint Review embraces the ides of maitaining a tight connection with the stakeholder
+
+Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
 .Charts and trends are no replacement for first-hand knowledge and empiricism.
 image::images/bet-the-habs.jpg["There are many learning modalities. "]
@@ -271,8 +293,53 @@ It should be noted that inspection and adaptation can happen at any time during 
 
 If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
 
+'''
 
+=== A Word About Being Lean
 
+One of the early reviewers of this book pointed out that while I go deeply into the topic of empiricism in this chapter, my coverage of lean is, well, _lean_.
+
+There's a reason for that.
+
+The fact is, on the Scrum Master certification, _empiricism_ is one of the 13 categories in which questions are categorized. You can expect 5 or 6 exam questions that hit the topic of empiricism in several different ways. You won't see many exam questions on lean manufacturing, and the ones you will see will look like this:
+
+==== Test Yourself
+
+****
+Which of the following concepts are consistent with a lean approach to product development? + 
+(Choose 3)
+
+* [ ] A) The elimination of unnecessary steps in a process
+* [ ] B) Isolated development phases that flow into each other
+* [ ] C) The removal of unneccessary features in a product
+* [ ] D) Significant up-front planning and design
+* [ ] E) The elimination of idle time where developers are not working
+****
+
+Options A, C and are E are correct.
+
+These three options are core concepts learned from _lean manufacturing._
+
+Options B and D represent the waterfall model, which is the antithesis of Scrum and lean.
+
+'''
+
+There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of Scrum.
+
+That's also why you'll often find me repeating myself about certain topics throughout the book. For example:
+
+- I will annoyingly repeat myself about the time allotted to the various Scrum events.
+- I constantly emphasize that you don't have to wait for a Scrum event to change your plan
+- Scrum is a framework, it's not a process or a methodology
+- Scrum is not just for software development but for the developent of _any product_
+
+The Scrum Guide never mentions the word Agile and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be _red herrings_ trying to trip you up and get you to select an incorrect option.
+
+Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and instead focus on the concepts contained within the Scrum Guide.
+
+My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will waste your time, or worse yet, confuse you.
+
+One of the Scrum values is focus. Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, while at the same time, constantly re-inforcing and reviewing topics that I know will be tested heavily. That's how we're going to get you past the Scrum Master certification finish line!
 
 
 

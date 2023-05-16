@@ -126,7 +126,11 @@ If you ever see an option on the certification exam that asserts Scrum works exc
 Here's the type of trick question you'll see on the Scrum certification exam that attempts to trip you up on the incorrectly held belief that Scrum is only used in software development:
 
 ****
-True or False: Scrum is a lightweight framework used exclusively by software development teams to generate value through adaptive solutions to complex problems. 
+Scrum is a lightweight framework used exclusively by software development teams to generate value through adaptive solutions to complex problems. 
+
+* [ ] True
+* [ ] False
+
 ****
 
 The answer is false because the question implies that Scrum is only applicable in the world of software development. 
@@ -142,7 +146,7 @@ There is a big push in the Scrum community to gain acceptance outside of softwar
 Which one of the following statements most accurately reflects the definition of Scrum?
 
 * [ ] A) Scrum is a software development methodology
-* [ ] B) Scrum is an Agile process for teams and organizations to following
+* [ ] B) Scrum is an Agile process for teams and organizations to follow
 * [ ] C) Scrum is a lightweight framework to help teams tackle complex problems
 * [ ] D) Scrum is a lightweight framework to help teams and organizations build software
 
@@ -243,7 +247,11 @@ Outside of the few rules Scrum has, the framework encourages people to discover 
 ==== Test Yourself
 
 ****
-True or False: Scrum is a complete and proven framework that helps teams achieve goals and create value.
+Scrum is a complete and proven framework that helps teams achieve goals and create value.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false. 
@@ -283,7 +291,11 @@ If you're not familiar with Kanban, don't worry. Kanban is never mentioned in th
 ==== Test Yourself
 
 ****
-True or false: Scrum can be used alongside various processes and methodologies including Kanban and Lean.
+Scrum can be used alongside various processes and methodologies including Kanban and Lean.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is true.
@@ -297,7 +309,10 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 ==== Test Yourself
 
 ****
-True or False: When implemented properly, Scrum has the capacity to expose ineffective management.
+When implemented properly, Scrum has the capacity to expose ineffective management.
+
+* [ ] True
+* [ ] False
 
 ****
 
