@@ -117,6 +117,9 @@ What does it mean to say there are no subteams in Scrum?
 
 If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team. To be without hierarchies means developers aren't given titles like 'Team Lead' or 'Sr. Developer.' Everyone on the team is equal. 
 
+.The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
+image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (USS Albacore, credit: US Navy)"]
+
 ==== Test Yourself
 
 Here's the structure of a prototypical Scrum Master certification exam question that tests you on this hierarchies and subteams:
@@ -137,11 +140,10 @@ You should immediately identify the first three options as being wrong because t
 
 Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls on the shoulders of the Scrum Master to solve, the solution is typically for the Scrum Master coach around it.
 
-'''
+<<<
 
 
-.The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
-image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (USS Albacore, credit: US Navy)"]
+
 
 
 <<<
