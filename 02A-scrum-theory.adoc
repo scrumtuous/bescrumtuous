@@ -334,7 +334,7 @@ Options B and D represent the waterfall model, which is the antithesis of Scrum 
 
 '''
 
-=== Lean Learning with Focus
+=== Lean Learning with a Focus on Scrum Master Certification
 
 There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of lean thinking.
 
@@ -345,17 +345,25 @@ That's also why you'll often find me repeating myself about certain topics throu
 - Scrum is a framework, it's not a process or a methodology
 - Scrum is not just for software development but for the developent of _any product_
 
-The Scrum Guide never mentions the word Agile and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be _red herrings_ trying to trip you up and get you to select an incorrect option.
+The Scrum Guide never mentions the word _Agile_ and it never talks about _user stories_ or _story points._ 
 
-Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and instead focus on the concepts contained within the Scrum Guide.
+Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be red herrings trying to trip you up and get you to select an incorrect option.
 
-My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will waste your time, or worse yet, confuse you.
+NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
 
-One of the Scrum values is focus. Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, while at the same time, constantly re-inforcing and reviewing topics that I know will be tested heavily. That's how we're going to get you past the Scrum Master certification finish line!
+Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide.
+
+My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will distract and confuse you.
+
+One of the Scrum values is focus. 
+
+Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, and at the same time, constantly re-inforce topics that I know will be tested heavily. 
+
+That's how we're going to get you past the Scrum Master certification finish line!
 
 
-.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
-image::images/800px-Scrum_process.jpg["There are many learning modalities. "]
+.With lean thinking and focus, we're going to get you past the Scrum Master certification finish line. (Image: Joshbdork, GFDL1.2)
+image::images/finish-line.jpg["Scrum Master certification finish line. Credit: Joshbdork at the English Wikipedia"]
 
 
 
