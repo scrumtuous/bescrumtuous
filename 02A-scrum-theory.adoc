@@ -44,13 +44,13 @@ The idea of lean thinking comes from productivity enhancements Toyota discovered
 
 Key concepts of lean manufacturing that manifest themselves within the Scrum framework include:
 
-- All unnecessary steps in a process should be eliminated
-- Work should be tied tightly to a specific outcome or goal
-- Products should not be over-engineered with unnecessary features
-- The connection with the customer or stakeholder should be direct
-- Teams need strong leaders whose priority is to serve their team
-- Workers should not be left idle with no work to do
-- Improvements should be made in accorance with empirical observations
+- The idea that all unnecessary steps in a process should be eliminated
+- The belief that all work should be tied tightly to a specific outcome or goal
+- The insistence that products should not be over-engineered with unnecessary features
+- The need for a direct connection with the customer or stakeholder
+- The insistence that teams have strong leaders whose priority is to serve their team
+- The desire for workers not to be left idle during the production process
+- The fact that improvements should be made in accorance with empirical observations
 
 Just looking at this list you can see how:
 
@@ -310,26 +310,36 @@ Which of the following concepts are consistent with a lean approach to product d
 (Choose 3)
 
 * [ ] A) The elimination of unnecessary steps in a process
-* [ ] B) The use of a Kanban board
+* [ ] B) Isolated development phases that flow into each other
 * [ ] C) The removal of unneccessary features in a product
 * [ ] D) Significant up-front planning and design
 * [ ] E) The elimination of idle time where developers are not working
 ****
 
-Options B and D are correct.
+Options A, C and are E are correct.
 
-From day to day and hour to hour, conditions change. 
+These three options are core concepts learned from _lean manufacturing._
 
-Scrum recognizes this reality, which is why it provides several events that allow for the inspection of progress along with the ability to adapt if necessary.
-
-It should be noted that inspection and adaptation can happen at any time during the Sprint, not just during the official Scrum events. 
-
-If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
+Options B and D represent the waterfall model, which is the antithesis of Scrum and lean.
 
 '''
 
+There are many topics I _could_ go in depth on in this book, but my preference is to keep you focused on what the test covers, not simply what I find interesting. That's why I don't go too heavy into the topic of Scrum.
 
+That's also why you'll often find me repeating myself about certain topics throughout the book. For example:
 
+- I will annoyingly repeat myself about the time allotted to the various Scrum events.
+- I constantly emphasize that you don't have to wait for a Scrum event to change your plan
+- Scrum is a framework, it's not a process or a methodology
+- Scrum is not just for software development but for the developent of _any product_
+
+The Scrum Guide never mentions the word Agile and it never talks about _user stories_ or _story points._ Furthermore, the Scrum Master exam never tests you on these concepts, and whenever a potential answer references a _user story_ or a _story point_, those answers will be _red herrings_ trying to trip you up and get you to select an incorrect option.
+
+Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and instead focus on the concepts contained within the Scrum Guide.
+
+My goal is to get you Scrum Master certified. A _lean approach_ to doing so is to not waste your time discussing peripheral topics that will waste your time, or worse yet, confuse you.
+
+One of the Scrum values is focus. Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, while at the same time, constantly re-inforcing and reviewing topics that I know will be tested heavily. That's how we're going to get you past the Scrum Master certification finish line!
 
 
 
