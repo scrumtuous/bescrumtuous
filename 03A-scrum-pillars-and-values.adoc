@@ -46,7 +46,7 @@ The five Scrum values that support the Scrum Pillars are:
 - *Commitment:* The idea that a Scrum Team is made up of conscientious and motivated developers who are dedicated to achieving the Product Goal.
 - *Focus:* The idea that the Scrum Team concentrates on the work at hand and doesn't plan too far into the future.
 - *Openness:* The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal.
-- *Respect:* The idea that you will treat people with dignity and compassion, while doing the same in turn.
+- *Respect:* The idea that you will treat people with dignity and compassion, with others doing the same in turn.
 - *Courage:* The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk.
 
 Memorize the Scrum pillars and values, and don't confuse them with each other.
