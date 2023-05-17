@@ -99,7 +99,7 @@ Scrum events are designed to provoke change.
 
 ____
 
-Inspection is all about taking a look at what you and your team is doing so you can figure out if it's working or not.
+Inspection is all about taking a look at what you and your team are doing so you can figure out if it's working or not.
 
 - Why do we do the Daily Scrum? We do it so the developers can _inspect_ their work and change their plans if they need to.
 
