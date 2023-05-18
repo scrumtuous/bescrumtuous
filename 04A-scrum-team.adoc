@@ -361,7 +361,7 @@ Five Scrum Teams are working on the same product. Which of the following stateme
 
 ****
 
-Options A, C, and D are true, which makes option B the correct answer.
+Options A, C, and D are true, which makes option B the incorrect answer.
 
 When multiple teams work on the same product, they share the same Product Owner, Product Goal, and the same Product Backlog. 
 
