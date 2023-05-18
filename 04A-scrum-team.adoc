@@ -150,7 +150,7 @@ Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls 
  
 === Cross-functional Scrum Teams
 
-The importance of the concept of cross-functional teams that can accomplish everything required of them without resorting to third parties our outsourced help can't be emphasized enough for people who wish to pass the Scrum Certification exam.
+The importance of the concept of cross-functional teams that can accomplish everything required of them without resorting to third parties or outsourced help, can't be emphasized enough for people who wish to pass the Scrum Certification exam.
 
 [quote, 2020 Scrum Guide page 5]
 ____
