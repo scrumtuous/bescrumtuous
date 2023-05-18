@@ -122,7 +122,7 @@ image::images/subteam.jpg["The only time you have a subteam in Scrum is if there
 
 ==== Test Yourself
 
-Here's the structure of a prototypical Scrum Master certification exam question that tests you on this hierarchies and subteams:
+Here's the structure of a prototypical Scrum Master certification exam question that tests you on hierarchies and subteams:
 
 ****
 There is an issue. What should you do? (Choose 1)
