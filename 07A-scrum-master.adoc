@@ -51,10 +51,10 @@ The developers say they don't feel ready to start development and would like to 
 However, the Product Owner wants to get the first Sprint, and the first increment, under the team's belt. What should the Scrum Master do? +
 (Choose 1)
 
-* [ ] Cancel the first Sprint.
-* [ ] Tell the developers there will not be an 'infrastructure Sprint.'
-* [ ] Tell the Product Owner there will be no Increment on the first Sprint.
-* [ ] Help the Scrum Developers understand the importance Scrum places on creating an increment in every Sprint.
+* A) [ ] Cancel the first Sprint.
+* B) [ ] Tell the developers there will not be an 'infrastructure Sprint.'
+* C) [ ] Tell the Product Owner there will be no Increment on the first Sprint.
+* D) [ ] Help the Scrum Developers understand the importance Scrum places on creating an increment in every Sprint.
 
 ****
 
