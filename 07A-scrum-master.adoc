@@ -204,10 +204,10 @@ A developer who has taken on the task of booking a conference room for the daily
 
 Which one of the following courses of actions should the Scrum Master take?
 
-* [ ] The Scrum Master should remove the blocker by learning the booking system and booking the room for the developer
-* [ ] Allow the developer to book a different room each day for the daily Scrum
-* [ ] Coach the developer on the importance of Scrum Events always taking place at the same time and location
-* [ ] Have the developer only schedule the Daily Scrum on days when the same room is available
+* [ ] A) The Scrum Master should remove the blocker by learning the booking system and booking the room for the developer
+* [ ] B) Allow the developer to book a different room each day for the daily Scrum
+* [ ] C) Coach the developer on the importance of Scrum Events always taking place at the same time and location
+* [ ] D) Have the developer only schedule the Daily Scrum on days when the same room is available
 ****
 
 Option C is correct.
