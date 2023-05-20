@@ -267,10 +267,10 @@ Other questions will say that developers are not enjoying the Daily Scrum, or th
 The Scrum Developers are frustrated, not clear on what they are developing, and do not want to attend the Daily Scrum. What should the Scrum Master do?
 (Choose 2)
 
-* [ ] Cancel the Daily Scrum so the developers can focus on their work.
-* [ ] Coach the team on the value the Daily Scrum brings to the team.
-* [ ] Reprimand developers who don't attend the Daily Scrum
-* [ ] Facilitate the creation of a clearer Sprint goal during the next Sprint Planning event
+* [ ] A) Cancel the Daily Scrum so the developers can focus on their work.
+* [ ] B) Coach the team on the value the Daily Scrum brings to the team.
+* [ ] C) Reprimand developers who don't attend the Daily Scrum
+* [ ] D) Facilitate the creation of a clearer Sprint goal during the next Sprint Planning event
 ****
 
 B and D are correct. 
@@ -392,10 +392,10 @@ The management wants regular status updates on the progress of the project, so t
 
 How should you, as the Scrum Master, handle this situation?
 
-* [ ] Tell the development team they need to attend a Friday afternoon standup meeting
-* [ ] Replace Friday's Daily Scrum with management's standup meeting
-* [ ] Have the Product Owner speak to the management about the need for the Friday meeting
-* [ ] Speak personally to the management about the need for the Friday meeting
+* [ ] A) Tell the development team they need to attend a Friday afternoon standup meeting
+* [ ] B) Replace Friday's Daily Scrum with management's standup meeting
+* [ ] C) Have the Product Owner speak to the management about the need for the Friday meeting
+* [ ] D) Speak personally to the management about the need for the Friday meeting
 ****
 
 Option D is correct.
