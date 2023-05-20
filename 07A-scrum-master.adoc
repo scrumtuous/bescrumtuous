@@ -145,14 +145,14 @@ They are not managers or commanders who coerce others through intimidation or Ma
 ==== Test Yourself
 
 ****
-Blah, blah, blah Developer problem. Blah, blah, blah what should the Scrum Master do?
+A developer is having a problem with some of the front end code. What should the Scrum Master do?
 (Choose 2)
 
-* [ ] Tell the Developer to blah, blah, blah...
-* [ ] Coach the Developer on blah, blah, blah...
-* [ ] Instruct the Developer to blah, blah, blah...
-* [ ] Facilitate the Developer with blah, blah, blah...
-* [ ] Force the Developer blah, blah, blah...
+* [ ] A) Tell the Developer what needs to be fixed in the code
+* [ ] B) Coach the Developer on how the could approach the problems
+* [ ] C) Instruct the Developer to change the framework
+* [ ] D) Facilitate the Developer with access to an expert
+* [ ] E) Force the Developer to take a different approach
 
 ****
 
