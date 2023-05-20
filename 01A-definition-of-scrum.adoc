@@ -28,7 +28,7 @@ Along with downloading it, you should also _read_ the Scrum Guide before you dig
 
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
-For example, the first paragraph in the Scrum talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
+For example, the first paragraph in the Scrum Guide talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
 
 === We are Bound by the Scrum Guide
 
