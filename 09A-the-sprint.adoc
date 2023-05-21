@@ -100,9 +100,10 @@ More to the point, this statement is false because the maximum length of a Sprin
 '''
 
 ==== Test Yourself
-
+A Sprint can be any length a team decides is best, so long as it is less than a month.
 ****
-True or false: A Sprint can be any length a team decides is best, so long as it is less than a month.
+* [ ] True
+* [ ] False
 ****
 
 This is true.
