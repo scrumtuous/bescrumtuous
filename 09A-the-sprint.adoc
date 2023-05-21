@@ -78,7 +78,9 @@ image::images/sprint-container.jpg["The Sprint contains all the Scrum events."]
 ==== Test Yourself
 
 ****
-True or False: Sprint Zero can last for up to 49 days.
+Sprint Zero can last for up to 49 days.
+* [ ] True
+* [ ] False
 ****
 
 This is false for two reasons.
