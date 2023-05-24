@@ -37,7 +37,10 @@ The Product Backlog will change over time as more is known about what the stakeh
 ==== Test Yourself
 
 ****
-True or False: The Product Backlog is a prioritized list of the things that are needed to improve the product.
+The Product Backlog is a prioritized list of the things that are needed to improve the product.
+
+* [ ] True
+* [ ] False
 
 ****
 
@@ -57,7 +60,10 @@ The fact that the Product Backlog is the _single source_ of work to be undertake
 If the Scrum Team is going to work on something, then it has to first be part of the Product Backlog.
 
 ****
-True or False: The Scrum Master can assign work to the Scrum Developers that is not a part of the Product Backlog.
+The Scrum Master can assign work to the Scrum Developers that is not a part of the Product Backlog.
+
+* [ ] True
+* [ ] False
 
 ****
 
@@ -190,7 +196,10 @@ The developers are the experts. Only the developers know how long it will take t
 ==== Test Yourself
 
 ****
-True or false: Taking into account upcoming vacation time is more empirical than estimating productivity based on burndown charts.
+Taking into account upcoming vacation time is more empirical than estimating productivity based on burndown charts.
+
+* [ ] True
+* [ ] False
 
 ****
 
@@ -223,7 +232,11 @@ image::images/product-goal-backlog.jpg["The Product Goal is the target to which 
 ==== Test Yourself
 
 ****
-True or false: The Product Goal represents the current state of the project?
+The Product Goal represents the current state of the project?
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false.
