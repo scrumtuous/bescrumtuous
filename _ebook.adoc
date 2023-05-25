@@ -40,33 +40,35 @@ include::18A-part2.adoc[]
 
 include::19A-exam-1.adoc[]
 
-
-include::focused/fq-artifacts.adoc[]
-
-include::focused/fq-coaching.adoc[]
-
-include::focused/fq-definition-of-done.adoc[]
-
-include::focused/fq-empiricism.adoc[]
-
-include::focused/fq-events.adoc[]
-
-include::focused/fq-facilitation.adoc[]
-
-include::focused/fq-forecasting-and-releases.adoc[]
-
-include::focused/fq-product-backlog.adoc[]
-
-include::focused/fq-product-value.adoc[]
-
-include::focused/fq-scrum-team.adoc[]
-
-include::focused/fq-self-management.adoc[]
-
-include::focused/fq-stakeholders.adoc[]
+include::20A-exam-2.adoc[]
 
 include::exam25A/file/exam20A.adoc[]
 
 include::exam25B/file/exam20B.adoc[]
 
 include::exam40/file/exam40.adoc[]
+
+
+// include::focused/fq-artifacts.adoc[]
+
+// include::focused/fq-coaching.adoc[]
+
+// include::focused/fq-definition-of-done.adoc[]
+
+// include::focused/fq-empiricism.adoc[]
+
+// include::focused/fq-events.adoc[]
+
+// include::focused/fq-facilitation.adoc[]
+
+// include::focused/fq-forecasting-and-releases.adoc[]
+
+// include::focused/fq-product-backlog.adoc[]
+
+// include::focused/fq-product-value.adoc[]
+
+// include::focused/fq-scrum-team.adoc[]
+
+// include::focused/fq-self-management.adoc[]
+
+// include::focused/fq-stakeholders.adoc[]
