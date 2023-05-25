@@ -51,10 +51,10 @@ The developers say they don't feel ready to start development and would like to 
 However, the Product Owner wants to get the first Sprint, and the first increment, under the team's belt. What should the Scrum Master do? +
 (Choose 1)
 
-* [ ] Cancel the first Sprint.
-* [ ] Tell the developers there will not be an 'infrastructure Sprint.'
-* [ ] Tell the Product Owner there will be no Increment on the first Sprint.
-* [ ] Help the Scrum Developers understand the importance Scrum places on creating an increment in every Sprint.
+* [ ] A) Cancel the first Sprint.
+* [ ] B) Tell the developers there will not be an 'infrastructure Sprint.'
+* [ ] C) Tell the Product Owner there will be no Increment on the first Sprint.
+* [ ] D) Help the Scrum Developers understand the importance Scrum places on creating an increment in every Sprint.
 
 ****
 
@@ -95,10 +95,10 @@ It's a persnickety distinction, but an important one nevertheless.
 ****
 Which one of the following statements is most true about a Scrum Master?
 
-* [ ] The Scrum Master manages others with a command and control leadership approach
-* [ ] The Scrum Master is a leader first, and a servant to their Scrum Team second
-* [ ] The Scrum Master is a servant-leader on the Scrum Team
-* [ ] The Scrum Master is a leader and not a servant
+* [ ] A) The Scrum Master manages others with a command and control leadership approach
+* [ ] B) The Scrum Master is a leader first, and a servant to their Scrum Team second
+* [ ] C) The Scrum Master is a servant-leader on the Scrum Team
+* [ ] D) The Scrum Master is a leader and not a servant
 
 ****
 
@@ -145,14 +145,14 @@ They are not managers or commanders who coerce others through intimidation or Ma
 ==== Test Yourself
 
 ****
-Blah, blah, blah Developer problem. Blah, blah, blah what should the Scrum Master do?
+A developer is having a problem with some of the front end code. What should the Scrum Master do?
 (Choose 2)
 
-* [ ] Tell the Developer to blah, blah, blah...
-* [ ] Coach the Developer on blah, blah, blah...
-* [ ] Instruct the Developer to blah, blah, blah...
-* [ ] Facilitate the Developer with blah, blah, blah...
-* [ ] Force the Developer blah, blah, blah...
+* [ ] A) Tell the Developer what needs to be fixed in the code
+* [ ] B) Coach the Developer on how the could approach the problems
+* [ ] C) Instruct the Developer to change the framework
+* [ ] D) Facilitate the Developer with access to an expert
+* [ ] E) Force the Developer to take a different approach
 
 ****
 
@@ -204,10 +204,10 @@ A developer who has taken on the task of booking a conference room for the daily
 
 Which one of the following courses of actions should the Scrum Master take?
 
-* [ ] The Scrum Master should remove the blocker by learning the booking system and booking the room for the developer
-* [ ] Allow the developer to book a different room each day for the daily Scrum
-* [ ] Coach the developer on the importance of Scrum Events always taking place at the same time and location
-* [ ] Have the developer only schedule the Daily Scrum on days when the same room is available
+* [ ] A) The Scrum Master should remove the blocker by learning the booking system and booking the room for the developer
+* [ ] B) Allow the developer to book a different room each day for the daily Scrum
+* [ ] C) Coach the developer on the importance of Scrum Events always taking place at the same time and location
+* [ ] D) Have the developer only schedule the Daily Scrum on days when the same room is available
 ****
 
 Option C is correct.
@@ -267,10 +267,10 @@ Other questions will say that developers are not enjoying the Daily Scrum, or th
 The Scrum Developers are frustrated, not clear on what they are developing, and do not want to attend the Daily Scrum. What should the Scrum Master do?
 (Choose 2)
 
-* [ ] Cancel the Daily Scrum so the developers can focus on their work.
-* [ ] Coach the team on the value the Daily Scrum brings to the team.
-* [ ] Reprimand developers who don't attend the Daily Scrum
-* [ ] Facilitate the creation of a clearer Sprint goal during the next Sprint Planning event
+* [ ] A) Cancel the Daily Scrum so the developers can focus on their work.
+* [ ] B) Coach the team on the value the Daily Scrum brings to the team.
+* [ ] C) Reprimand developers who don't attend the Daily Scrum
+* [ ] D) Facilitate the creation of a clearer Sprint goal during the next Sprint Planning event
 ****
 
 B and D are correct. 
@@ -392,10 +392,10 @@ The management wants regular status updates on the progress of the project, so t
 
 How should you, as the Scrum Master, handle this situation?
 
-* [ ] Tell the development team they need to attend a Friday afternoon standup meeting
-* [ ] Replace Friday's Daily Scrum with management's standup meeting
-* [ ] Have the Product Owner speak to the management about the need for the Friday meeting
-* [ ] Speak personally to the management about the need for the Friday meeting
+* [ ] A) Tell the development team they need to attend a Friday afternoon standup meeting
+* [ ] B) Replace Friday's Daily Scrum with management's standup meeting
+* [ ] C) Have the Product Owner speak to the management about the need for the Friday meeting
+* [ ] D) Speak personally to the management about the need for the Friday meeting
 ****
 
 Option D is correct.

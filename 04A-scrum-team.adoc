@@ -125,7 +125,7 @@ image::images/subteam.jpg["The only time you have a subteam in Scrum is if there
 
 ==== Test Yourself
 
-Here's the structure of a prototypical Scrum Master certification exam question that tests you on this hierarchies and subteams:
+Here's the structure of a prototypical Scrum Master certification exam question that tests you on hierarchies and subteams:
 
 ****
 There is an issue. What should you do? (Choose 1)
@@ -153,7 +153,7 @@ Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls 
  
 === Cross-functional Scrum Teams
 
-The importance of the concept of cross-functional teams that can accomplish everything required of them without resorting to third parties our outsourced help can't be emphasized enough for people who wish to pass the Scrum Certification exam.
+The importance of the concept of cross-functional teams that can accomplish everything required of them without resorting to third parties or outsourced help, can't be emphasized enough for people who wish to pass the Scrum Certification exam.
 
 [quote, 2020 Scrum Guide page 5]
 ____
@@ -364,7 +364,7 @@ Five Scrum Teams are working on the same product. Which of the following stateme
 
 ****
 
-Options A, C, and D are true, which makes option B the correct answer.
+Options A, C, and D are true, which makes option B the incorrect answer.
 
 When multiple teams work on the same product, they share the same Product Owner, Product Goal, and the same Product Backlog. 
 

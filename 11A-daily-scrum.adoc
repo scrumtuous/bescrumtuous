@@ -70,7 +70,7 @@ Scrum doesn't try to put an overwhelming amount of structure and ceremony around
 - Regularly review your work with stakeholders. That's why we have the Sprint Review.
 - Regularly talk about how you can improve things. That's why we have the Sprint Retrospective.
 
-It's hard to think someone could argue that any of these meeting are bad. These activities just naturally elute from any team that's serious about software development.
+It's hard to think someone could argue that any of these meeting are bad. These activities just naturally evolve from any team that's serious about software development.
 
 Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable.
 

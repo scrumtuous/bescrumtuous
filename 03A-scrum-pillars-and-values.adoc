@@ -46,7 +46,7 @@ The five Scrum values that support the Scrum Pillars are:
 - *Commitment:* The idea that a Scrum Team is made up of conscientious and motivated developers who are dedicated to achieving the Product Goal.
 - *Focus:* The idea that the Scrum Team concentrates on the work at hand and doesn't plan too far into the future.
 - *Openness:* The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal.
-- *Respect:* The idea that you will treat people with dignity and compassion, while doing the same in turn.
+- *Respect:* The idea that you will treat people with dignity and compassion, with others doing the same in turn.
 - *Courage:* The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk.
 
 Memorize the Scrum pillars and values, and don't confuse them with each other.
@@ -99,7 +99,7 @@ Scrum events are designed to provoke change.
 
 ____
 
-Inspection is all about taking a look at what you and your team is doing so you can figure out if it's working or not.
+Inspection is all about taking a look at what you and your team are doing so you can figure out if it's working or not.
 
 - Why do we do the Daily Scrum? We do it so the developers can _inspect_ their work and change their plans if they need to.
 

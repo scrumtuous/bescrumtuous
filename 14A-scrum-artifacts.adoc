@@ -117,7 +117,11 @@ This provides more empirical evidence of the state of the project than burndown 
 ==== Test Yourself
 
 ****
-True or False: The Scrum Artifacts exist to reinforce empiricism only for the Scrum Team.
+The Scrum Artifacts exist to reinforce empiricism only for the Scrum Team.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false. The Scrum Artifacts are accessible to the Stakeholders as well as the Scrum Team. They help reinforce empiricism for everyone involved in the project.
