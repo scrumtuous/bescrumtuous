@@ -95,7 +95,7 @@ First, there is no such thing as 'Sprint Zero' as far as the Scrum Guide goes.
 
 Whenever you see the term 'Sprint Zero' on the Scrum Master Certification exam, it's usually a red herring.
 
-More to the point, this statement is false because the maximum length of a Sprint in Scrum is one month. That's the max. Often it is shorter.
+Secondly, this statement is false because the maximum length of a Sprint in Scrum is one month. That's the max. Often it is shorter.
 
 '''
 
@@ -224,7 +224,6 @@ D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it 
 
 E is incorrect because Scrum Teams should be cross-functional and be able to learn new technologies as required.
 
-<<<
 
 === Empiricism Trumps Scrum Metrics
 

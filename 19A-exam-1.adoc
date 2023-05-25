@@ -1,13 +1,17 @@
 
-== About the Practice Exams
+= PART II: THE EXAM QUESTIONS
 
-The second part of this book is all about testing you on your knowledge of the Scrum Guide, and possibly introducing you to some of the unexpected ways the test makers use to evaluate your knowledge.
+
+The second part of this book is all about testing your knowledge of the Scrum Guide, and possibly introducing you to some of the unexpected ways the exam tests your knowledge.
 
 - The last exam is 40 questions, and I believe it is slightly harder than the actual exam.
 - The two exams prior to that are 25 questions long and are a good approximation to the Scrum Master certification exam's difficulty
-- The two exams that kick off the start of this section? Well, they're unusual.
+- The two exams that kick off the second half of the book? Well, they're unusual.
 
 Let me explain.
+
+.Do this set of exam questions first. Then, we'll show you a cool trick to help you answer the toughest exam questions.
+image::images/shipwreck.jpg["There's a trick to passing the Scrum Master certification exam.."]
 
 === The Secret Test-Taking Trick
 
@@ -21,7 +25,8 @@ I think you'll find it makes a big difference.
 
 Now get started with the practice exams. Good luck!
 
-== Exam 1
+
+== Ten Tough Scrum Master Practice Exam Questions
 
 ==== Question 1
 
@@ -140,7 +145,7 @@ What guidance would you, as the Scrum Master, provide to the team?
 * [ ] D.	Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
 
 
-== Exam 1 Answers
+== Answers to the First Practice Exam
 
 
 ==== Question 1

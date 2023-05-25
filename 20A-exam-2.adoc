@@ -1,18 +1,16 @@
 
 == A Simple Trick
 
-Here's a simple trick to correctly answering some of the hardest questions you'll face on the Scrum Master certification exam. 
+Here's a simple trick to correctly answering some of the hardest questions you'll face on the Scrum Master certification exam. I've alluded to it throughout the book, but I really want to drive the idea home with the next mock Scrum Master exam.
 
-I've alluded to it throughout the book, but I really want to drive the idea home with the next mock Scrum Master exam.
-
-=== A Simple Exam Hack
+=== A Hack to Help You Pass the Exam
 
 Most people who take the Scrum Master exam come from the world of software development. That can really clutter your mind when answering a certification exam question.
 
 So instead of thinking about how a given exam question applies to the field of software development, reframe the question in a completely different domain. 
 
-.Reframe exam questions is a scenario outside of software development and you'll find them much easier to answer.
-image::images/shipwrech.jpg["Reframe all exam questions in a survival camp."]
+.Reframing exam questions  outside of software development makes them easier to answer.
+image::images/shipwreck.jpg["Reframe all exam questions in a survival camp."]
 
 The following exam questions are a mirror image of the first set of questions you were just asked, but reframed in a much more rediculous and extreme scenario. 
 
@@ -43,7 +41,7 @@ Their first task? Get a team of developers to go to shore and build a survival c
 10 Scrum Master exam questions
 
 .The following set of questions frame Scrum in a life-or-death survival scenario where castaways from a shipwreck must build a survival shelter.
-image::images/shipwrech.jpg["Reframe all exam questions in a survival camp."]
+image::images/shipwreck2.jpg["Reframe all exam questions in a survival camp."]
 
 
 === Questions
@@ -88,7 +86,7 @@ Bob dug a trench to divert water from a nearby stream to the survival camp. Alan
 
 The two trenches need to be joined. When is the best time to integrate these two trenches?
 
-* [*] A.	Integration should happen immediately assuming both trenches meet the definition of done
+* [ ] A.	Integration should happen immediately assuming both trenches meet the definition of done
 * [ ] B.	Integration should be coordinated with the rest of the team during the Daily Scrum
 * [ ] C.	Integration should happen during the Sprint Review so stakeholders can be present
 * [ ] D.	Integration should happen after approval is obtained from the Scrum Master
@@ -100,7 +98,7 @@ The two trenches need to be joined. When is the best time to integrate these two
 
 Tina has just spotted a poisonous snake on the outskirts of the camp. When should Tina inform the rest of the development team?
 
-* [*] A.	The development team should be informed immediately
+* [ ] A.	The development team should be informed immediately
 * [ ] B.	The development team should be informed at the next Daily Scrum
 * [ ] C.	The development team should be informed during the Sprint Retrospective
 * [ ] D.	The development team should be informed during the Sprint Review
@@ -118,7 +116,7 @@ What instructions do you, the Scrum Master, have for the developers returning to
 * [ ] A.	Tell the developers not to directly interact with any of the stakeholders on the ship
 * [ ] B.	Tell the developers to direct all questions from stakeholders about the survival camp to the Product Owner
 * [ ] C.	Have developers tell stakeholders to hold any questions they have about the survival camp for the Sprint Review
-* [*] D.	Discuss progress about the survival camp openly and honestly with stakeholders whenever they ask about it
+* [ ] D.	Discuss progress about the survival camp openly and honestly with stakeholders whenever they ask about it
 
 
 ==== Question 7
@@ -126,7 +124,7 @@ What instructions do you, the Scrum Master, have for the developers returning to
 Three healthy and enthusiastic survivors have swum ashore to help build the survival camp. 
 Given the fact that a new, two-week Sprint has just started, when should these developers be added to the development team?
 
-* [*] A.	The developers should be added to the team immediately
+* [ ] A.	The developers should be added to the team immediately
 * [ ] B.	The developers should be added to the team at the next Sprint Planning meeting
 * [ ] C.	The developers should be added to the team when the current Sprint ends but before the next Sprint begins
 * [ ] D.	The developers should be added to the team at the next Daily Scrum
@@ -140,7 +138,7 @@ Things have been running smoothly for the last three Sprints. However, three new
 What will happen to the individual productivity of the experienced developers?
 
 * [ ] A.	A permanent decrease in productivity will occur
-* [*] B.	A short term decrease in productivity will occur
+* [ ] B.	A short term decrease in productivity will occur
 * [ ] C.	A permanent increase in productivity will occur
 * [ ] D.	A short term increase in productivity will occur
 
@@ -152,7 +150,7 @@ The Product Owner has decided the survival camp needs a canoe. However, nobody o
 * [ ] A.	Organize a sub-team dedicated to building a canoe
 * [ ] B.	Outsource the building of a canoe to a third-party
 * [ ] C.	Tell the Product Owner building a canoe is not possible
-* [*] D.	Figure out how to build a canoe
+* [ ] D.	Figure out how to build a canoe
 
 
 ==== Question 10
@@ -161,7 +159,7 @@ A devastating flash flood has ripped through the survival camp and washed away t
 
 How should the Scrum team proceed?
 
-* [*] A.	Have the developers regroup and adjust the Sprint Plan accordingly
+* [ ] A.	Have the developers regroup and adjust the Sprint Plan accordingly
 * [ ] B.	Have the developers cancel the Sprint and begin a new Sprint Planning meeting
 * [ ] C.	Have the developers put time aside during the next Daily Scrum to adjust the Sprint Goal
 * [ ] D.	Tell the developers the Sprint Plan cannot be changed and they should continue with their original plan
