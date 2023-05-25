@@ -1,0 +1,421 @@
+
+
+
+
+
+
+1. True or false: Scrum is software development process and should not be applied to life-or-death tasks like building a survival shelter.
+
+2. You, the Scrum Master, have outdoors experience. You would like to be a developer on the first Sprint and help build the temporary shelter. 
+
+How should you proceed in order not to violate the rules of the Scrum Guide?
+
+You must temporarily assign Scrum Master duties to another person while you act as a developer
+You must temporarily assign Scrum Master duties to the Product Owner while you act as a developer
+You must participate in the Daily Scrum during the Sprint
+Scrum Masters cannot be a developer on their Scrum Team
+
+
+3. A team of four developers, along with a Product Owner and the Scrum Master, have made it to shore and need to start building a survival shelter. However, the team is at odds over what they should do for the very first Sprint.
+
+Whose approach is most in line with the ethos of the Scrum Guide?
+
+Jim wants to declare a 'Sprint 0' where time is spent planning and designing the survial camp
+Julie wants to spend the first Spring searching the island for tools they can use to build the survival camp
+Jeff wants to spend the first Sprint searching the island for edible food and clean water
+Jessica wants to build a simple communication system from the camp to the ship using mirrors she salvaged
+
+4. Bob dug a trench to divert water from a nearby stream to the survival camp. Alan dug a trench so waste could be safely flushed from the survival camp out to sea.
+
+The two trenches need to be joined. When is the best time to integrate these two trenches?
+
+
+Integration should happen immediately assuming both trenches meet the definition of done
+Integration should be coordinated with the rest of the team during the Daily Scrum
+Integration should happen during the Sprint Review so stakeholders can be present
+Integration should happen after approval is obtained from the Scrum Master
+Integration should happen after approval is obtained from the Product Owner
+
+
+5. Tina has just spotted a poisonous snake on the outskirts of the camp. When should Tina inform the rest of the development team?
+
+The development team should be informed immediately
+The development team should be informed at the next Daily Scrum
+The development team should be informed during the Sprint Retrospective
+The development team should be informed during the Sprint Review
+The development team should be informed after discussing the deadly snake with the Scrum Master
+The development team should be informed after discussing the deadly snake the Product Owner
+
+6. Living conditions have become dire and progress on the survival camp has not been going as quickly as planned. Two developers and the Scrum Master will be returning to the marooned ship for two days to care for loved ones.
+
+What instructions do you, the Scrum Master, have for the developers returning to the boat, knowing that the survivors on the ship are the primary stakeholders in the development of the survival camp.
+
+Tell the developers not to directly interact with any of the stakeholders on the ship
+Tell the developers to direct all questions from stakeholders about the survival camp to the Product Owner
+Have developers tell stakeholders to hold any questions they have about the survival camp for the Sprint Review
+Discuss progress about the survival camp openly and honestly with stakeholders whenever they ask about it
+
+
+7. Three healthy and enthusiastic survivors have swum ashore to help build the survival camp. 
+
+Given the fact that a new, two-week Sprint has just started, when should these developers be added to the development team?
+
+The developers should be added to the team immediately
+The developers should be added to the team at the next Sprint Planning meeting
+The developers should be added to the team when the current Sprint ends but before the next Sprint begins
+The developers should be added to the team at the next Daily Scrum
+New developers cannot be added to a team once product development has started
+
+
+8. Things have been running smoothly for the last three Sprints. However, three new developers with no experience in building a survival camp have just been added to the team.
+
+What will happen to the individual productivity of the experienced developers?
+
+A permanent increase in productivity will occur
+A short term increase in productivity will occur
+A permanent decrease in productivity will occur
+A short term decrease in productivity will occur
+
+
+
+
+9. The Product Owner has decided the survival camp needs a canoe. However, nobody on the team has the skills to build a canoe. What should the team do?
+
+- Organize a sub-team dedicated to building a canoe
+- Outsource the building of a canoe to a third-party
+- Tell the Product Owner building a canoe is not possible
+- Figure out how to build a canoe
+
+
+10. A devestating flash flood has ripped through the survival camp and washed away the temporary shelters the team spent the majority of the Sprint building.
+
+When should the team discuss changes the Sprint Plan to address the devestation?
+
+
+Immediately
+At the next Sprint Planning meeting
+At the Sprint Review
+At the Spritn Retrospective
+The Team should not change their plan
+
+
+**************
+
+
+
+
+
+
+A party boat from a popular tech conference was blown off course by a surprise typhoon, and 100 developers are now shipwrecked and injured on a deserted island somewhere in the south pacific.
+
+The ship is marooned on rocky coral, about 30 meters from the island's shore.
+
+Nobody knows what to do. Fortunately, one developer took a Scrum courses and has a copy of the Scrum Guide with them. 
+
+The castaways are going to make it through this ordeal, and a Scrum based approach to survival will guide them through it.
+
+Their first task? Get a team of developers to go to shore and build a survival camp.
+
+
+1. True or false: Scrum is software development process and should not be applied to a building shelter within a life-or-death survival scenario.
+
+This is false.
+
+Scrum is a way to help teams get started on the development of a product and help those teams iteratively solve complex problems until the product is complete.
+
+Scrum is a lightweight framework for product development. 
+
+Scrum is not a process or a methodology, and it is definitely not to exclusively tied to the domain of software development.
+
+
+2. You, the Scrum Master, have camping experience and know how to properly build a shelter. You would like to be a developer on the first Sprint. 
+
+How should you proceed in order to keep in line with the rules of the Scrum Guide?
+
+You must temporarily assign Scrum Master duties to another person duing the first Sprint
+You must temporarily assign Scrum Master duties to the Product Owner during the first Sprint
+You must participate in the Daily Scrum during the Sprint
+Scrum Masters cannot also be developers on their Scrum Team
+
+Option C is correct.
+
+There's no rule that says a Scrum Master can't also be a developer.
+
+Could you imagine a life or death survival situation where a Scrum Master refuses to help their team just because they have the title as 'Scrum Master?' The idea is preposterous.
+
+Both a Scrum Master and the Product Owner can participate as developers on a Scrum Team. The only rule is that when doing product development, they must also attend the Daily Scrum and participate as unbiased developers.
+
+
+
+
+
+
+3. A team of four developers, along with a Product Owner and you, the Scrum Master, have made it to shore and need to start building a survival shelter. The team is unsure what they should do for the very first sprint. Which member of the team would you, the Scrum Master, support?
+
+Jim wants to spend the first sprint planning and designing the survial camp
+Julie wants to spend the first Spring searching the island for tools they can use to build the survival camp
+Jeff wants to spend the first Sprint searching the island for edible food and clean water
+Jessica wants to build a simple communication system with the ship using mirrors she found
+
+Option D is correct.
+
+In Scrum, every Sprint must attempt to deliver some piece of usable and valuable functionality that will be part of the final product. 
+
+Setting up infrastructure, configuring tools, planning, design and even finding food to eat are all noble tasks, but they all must occur in the background as the Scrum team focuses on the delivery of at least one increment of value before the end of the current Sprint.
+
+
+
+4.
+
+Jim dug a trench to divert water from a nearby stream to the survival camp.
+Jeff dug a trench so waste could be safely flushed out to sea.
+
+The two trenches need to be joined. When is the best time to integrate these two trenches?
+
+
+Integration should happen immediately assuming both trenches meet the definition of done
+Integration should be coordinated during the Daily Scrum
+Integration should happen after approval is obtained from the Scrum Master
+Integration should happen after approval is obtained from the Product Owner
+
+Option A is correct.
+
+If two developers have worked on a feature that is complete and meets the definition of done, they should integrate their work immediately.
+
+Scrum prides itself on being based on lean thinking. How lean would it be to have developers wait around for a Scrum Master or Product Owner to tell them it's okay to integrate their work? 
+
+If the work is done, it should be integrated immediately. After all, if the work does not successfully integrate, then it's not really 'done', is it?
+
+Scrum doesn't put 'red tape', ceremony and procedure around the development process. Instead, Scrum is pragmatic and lean. When work is done, integrate it immediately and then move on to the next thing that needs built.
+
+
+
+5. Jess has just spotted a poisonous snake on the outskirts of the camp. When should Jess inform the rest of the development team?
+
+Right away
+At the next Daily Scrum
+At the Sprint Retrospective
+At the Sprint Review
+After discussing the deadly snake with the Scrum Master
+After discussing the deadly snake the Product Owner
+
+Option A is correct.
+
+Obviously if something threatens the people working on the product, the existence of the threat should be brought up immediately. You don't wait for a planned event to warn your peers about a dangerous situation.
+
+On the Scrum Master exam, they will ask you what should happen if a developer identifies a dangerous security flaw that threatens the project. People often stumble on this question, thinking maybe it's something to discuss at the Sprint Retrospective, or something to raise at the next Daily Scrum.
+
+Scrum is pragmatic. If there's a serious problem, it should be addressed immediately. The Scrum Events should never act as an excuse to participate in important discussions about the health of the project.
+
+
+6. Living conditions have become dire and progress on the survival camp has not been going as quickly as planned.
+
+Two developers and the Scrum Master will be returning to the ship for two days to care for loved ones.
+
+What instructions do you as the Scrum Master have for the developers returning to the boat, knowing that the survivors on the ship are the primary stakeholders in the development of the survival camp.
+
+Tell the developers not to directly interact with any of the stakeholders on the ship
+Tell the developers to direct all questions from stakeholders about the survival camp to the Product Owner
+Have developers tell stakeholders to hold any questions they have about the survival camp for the Sprint Review
+Discuss progress about the survival camp openly and honestly with stakeholders whenever they ask about it
+
+
+Option D is correct.
+
+Could you imagine how much feat, uncertainty and distrust it would create in this scenario of a gag order was put on the people building the survival camp?
+
+Furthermore, the idea that developers should not be allowed to talk to stakeholders in this scenario is ascinine, because the developers are also stakeholders. Everyone in this problem domain is a stakeholder.
+
+People think Scrum has a whole set of rules when a developer is allowed to talk to a stakeholder or the product owner or a customer. Scrum doesn't advocate secrecy and silence. Scrum advocates for transparency and openness.
+
+If your organization has some rules about developers not talking to stakeholders, that's an entirely different issue. It's also an issue the Scrum Master might want to address. Rules that limit transparency and communication do not coincide the the Scrum values and pillars.
+
+
+7.
+
+Three healthy and enthusiastic survivors have swum ashore to help build the survival camp. 
+
+When should these developers be added to the development team?
+
+Immediately
+At the next Sprint Planning meeting
+At the Sprint Review
+At the Sprint Retrospective
+At the next Daily Scrum
+New developers cannot be added to an existing Scrum Team
+
+Option A is correct.
+
+If you were in a life or death situation, and three people showed up who could potentially help to save your life, would you ask them to sit on the sidelines until the next Sprint Planning meeting, or would you get them to work right away?
+
+Which approach is more pragmatic and lean? Having developers sit on the sidelines doing nothing, or having them get to work right away?
+
+If new developers become available, have them join the team and get to work immediately.
+
+
+
+8. Things have been running smoothly for the last three Sprints. Three new developers with no experience with building a survival camp have just been added to the team.
+
+What will happen to the productivity of the experienced developers?
+
+It will increase permanently
+It will increase over the short term
+It will decreate permanently
+It will decrease over the short term
+
+
+9. The Product Owner has decided the survival camp needs a canoe. However, nobody on the team has the skills to build a canoe. How should the team proceed?
+
+- Organize a sub-team dedicated to building a canoe
+- Outsource the building of a canoe to a third-party
+- Tell the Product Owner building a canoe is not possible
+- Have the team figure out how to build a canoe
+
+
+
+10. A devestating flash flood has ripped through the survival camp and washed away the temporary shelters the team spent the majority of the Sprint building.
+
+When should the team discuss changes the Sprint Plan to address the devestation?
+
+Immediately
+At the next Sprint Planning meeting
+At the Sprint Review
+At the Spritn Retrospective
+The Team should not change their plan
+
+Option A is correct.
+
+When circumstances change, developers should adapt immediately.
+
+Scrum provides a number of scheduled events to ensure communication happens regularly, but those events are not the only times developers are allowed to communicate with each other.
+
+Developers should always be inspecting their work, 
+
+
+Don't overthink Scrum. Don't ever let the Scrum events be an excuse for not taking immediate action when immediate action is warranted. 
+
+
+
+
+
+
+9. Sprints are currently one week in length, but conditions are changing so rapidly, and the stakeholders are so anxious for progress updates, the Scrum Team would like to work 14 hours a day and experiment with Sprints that are one day in length. 
+
+That means all of the Scrum events would take place within the same day. 
+
+How would you advise the team?
+
+
+Explain to the team that Sprints must be more than a single day in length
+Explain that the 8, 4 and 3 hour timeboxes of planning, review and retrospectives makes this impossible
+Advise the team to be to work at a sustainable pace and not skip any of the Scrum events
+Inform the team that the Sprint length cannot change after product development has started
+
+Option C is correct.
+
+Short sprints reduce risk and allow for more frequent, scheduled reviews by the client.
+
+A single day Sprint seems extreme, but there is nothing in the Scrum Guide that forbids it.
+
+Spring planning, review and retrospectives are timeboxed to 8, 4 and 3 hours respectively, but those are maximums. If these events only require 15 minutes to be done effectively, then that's fine. There's nothing wrong with short meetings if they are effective and achieve their goals.
+
+In the context of this question, the only advice the Scrum Guide provides is that developers should always work at a sustainable pace, and none of the Scrum events can be skipped.
+
+If things are changing so rapidly that it makes sense to do planning, reviews and retrospectives on a daily basis, then that's something the Scrum team should be allowed to decide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The team wants to do Sprints that are one day in length, which includes planning, reviews, retrospectives and the daily Scrum. What do you tell them?
+
+
+
+When should these developers be added to the development team?
+
+Immediately
+At the next Sprint Planning meeting
+At the Sprint Review
+At the Sprint Retrospective
+New developers cannot be added to an existing Scrum Team
+
+
+Team of 8 developers wants to split into 2 teams.
+
+Scrum master also a developer
+
+
+
+
+
+
+
+
+
+The product owner and two developers will be going back to the boat. 
+ 
+
+2. Two survivors have volunteered to be the Product Owner, both of whom have a common vision of how to build a survival camp.
+
+Jeff is injured and cannot swim to shore, but has extensive survival skills and outdoors knowledge.
+Julie is healthy and can swim to shore, has some survival skills but not as much outdoors knowledge as Jeff.
+
+Which of the following is true:
+
+Jeff should be made the Product Owner
+Julie should be made the Product Owner
+Jeff and Julie should share Product Owner responsibilities
+All of the survivors should share the Product Owner responsibilities
+
+
+
+
+
+
+
+
+
+
+
+Stakeholders can be developers
+
+
+
+
+
+3. Twenty surviors have shown interest in helping to build a survival camp, although some may not yet be strong enough to swim to shore.
+
+You, the Scrum Master, know absolutely nothing about these volunteers.
+
+How should you, as a Scrum Master, organize these 20 volunteers into teams?
+
+Organize the volunteers into one big team and go to shore.
+Organize the volunteers into four teams of equal size based their health and strength.
+Organize the volunteers into four teams of equal size based on their outdoors knowledge.
+Organize the volunteers into four teams with an equal mix of skills and physical strength.
+Allow the volunteers to organize themselves into their own teams of 8 people or less.
+
+Option E is correct.
+
+In Scrum:
+
+- the Scrum Master only knows the Scrum Guide.
+- the Product Owner only knows the product
+- only the developers know how to develop
+
+If the developers are going to take full control over the development of the product, then they should also be given full control over how to organize themselves into productive teams.
+
+The only rule Scrum has is that a Scrum Team, including the Product Owner and Scrum Master, should be 10 people or less. Beyond that, how teams are organized and assembled is up to the teams.
+
+
+

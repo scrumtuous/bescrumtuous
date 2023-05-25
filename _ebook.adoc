@@ -36,6 +36,11 @@ include::16A-sprint-backlog.adoc[]
 
 include::17A-increment.adoc[]
 
+include::18A-part2.adoc[]
+
+include::19A-exam-1.adoc[]
+
+
 include::focused/fq-artifacts.adoc[]
 
 include::focused/fq-coaching.adoc[]

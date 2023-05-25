@@ -33,3 +33,87 @@ Wha thappens to points when a backlog item isn't completed.
 A PBI can never be deleted from the Product Backlog.
 
 What happens to definition of done over time?
+
+
+
+
+
+
+
+
+
+
+
+
+Scrum in sun 
+
+Can share Product Owner role
+
+Can a product owner be developer
+
+1. Can Scrum Master be developer
+
+2. When to integrate
+
+What to show them at Sprint Review
+
+Change the location
+
+Should Scrum Master attend?
+
+3. When to discuss a disaster?
+
+4. When to change a plan.
+
+5. Rescued what to do?
+
+6. Injured developers - Productivity
+
+7. Subteams 
+
+8. Cross functional - find the skills
+
+9. Additional people come from the ship - break team down
+
+10 When to add new developer
+
+Multiple Teams
+
+Self-managed
+
+New developers slow things down
+
+Negotiate with PO - feature
+
+Plan or work right away?
+
+Who can plan what can be done in the Sprint?
+
+Meeting for communication
+
+Sprint review
+
+Useful increment integrated
+
+When to 
+
+Done over time?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

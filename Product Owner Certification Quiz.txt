@@ -1,0 +1,88 @@
+1. According to the Scrum Guide, the Product Backlog should be:
+
+
+Ordered and transparent
+Prioritized and transparent
+Order and final
+Prioritized and final
+
+
+The development team selected far too many Product Backlog items for the Sprint, and only 50% of them will be completed before the Sprint Review. The poor planning has put the Sprint Goal at risk.
+
+2. How should the Product Owner respond.
+
+Cancel the Sprint and begin a new Sprint Planning session.
+Work with the Scrum Team to adjust the Sprint Goal
+Renegotiate the selected Sprint Backlog items with the developers
+Have the Scrum Master extend the Sprint so the planned work can be completed
+
+3. The product delivered by the Scrum Team is failing to meet performance and security expectations.
+
+How can the Product Owner help non-functional requirements to gain visibility throughout the Sprint.
+
+Make performance and security part of the Sprint Goal
+Make performance and security part of the Product Goal
+Make performance and security part of the Definition of Done
+Outsource performance and security to a third party
+
+4. True or False: Dependencies between parts of the product that needs to be built should be taken into account when ordering the Product Backlog
+
+
+5. What is the time-box for the Sprint Planning meeting?
+
+15 minutes
+8 hours
+4 hours
+3 hours
+
+6. Which of the following should be agreed upon before the first Sprint Planning meeting ends?
+
+The Definition of Ready
+The Definition of Done
+The Definition of Agile
+The Definition of Scrum
+
+7. The Product Backlog should be ordered according to which of the following?
+
+The priority the Product Owner has assigned to items
+The risk associated with its development and integration
+The dependencies it has on other parts of the product being built
+All of the above
+
+8. According to the Scrum Guide, which of the following are valid activities for the Product Owner to perform during the Sprint?
+
+Writing out Product Backlog items as clearly defined user stories
+Assinging points to Product Backlog items in JIRA
+Having a work-buddy order the Product Backlog
+Estimating the time it will take to complete Product Backlog items
+
+9. If the developers have issues with the Definition of Done, when should they discuss it with the Product Owner?
+
+During the Daily Scrum
+During the Sprint Review
+During Sprint Planning
+During the Sprint Retrospective
+
+10. Which of the following can be added to the Sprint backlog of the next Sprint 
+
+The Sprint Goal is the Sprint Goal was not achieved
+Unfinished items in the Sprint Backlog
+Process improvement suggested during the Sprint Retrospective
+Nothing in the Sprint backlog is carried over from one Sprint to the next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -55,7 +55,8 @@ There are also no:
 - Engineers
 - Plumbers
 - Carpenters
-- Rocket Scientists or
+- Rocket Scientists
+- Heavy Equipment Operators or
 - Hairdressers referenced in the Scrum Guide. 
 
 If people with those skills are required to build the product you're working on, then they all fall under the term 'Developer.' There are no separate _Quality Assurance (QA)_ people or _Business Analysts_ in Scrum. There are no separate testing teams. 
@@ -115,7 +116,9 @@ What does it mean to say there are no subteams in Scrum?
 
 - It means here is no performance team to do load testing. The development team does that.
 
-If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team. To be without hierarchies means developers aren't given titles like 'Team Lead' or 'Sr. Developer.' Everyone on the team is equal. 
+If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team. 
+
+To be without hierarchies means developers aren't given titles like 'Team Lead' or 'Sr. Developer.' Everyone on the team is equal in the eyes of the Scrum framework. 
 
 .The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
 image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (USS Albacore, credit: US Navy)"]

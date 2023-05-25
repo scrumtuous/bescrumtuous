@@ -1,0 +1,448 @@
+
+Scrum certification, either as a certified Scrum Master or a certified Product Owner is an extremely challanging credential to achieve.
+
+There is a great deal of nuance to the text of the Scrum Guide, which makes proper interpretation tricky, and the passing threshold for the Professional Scrum Master (PSM1) and Professional Scrum Product Owner Certification (PSPO) exams is an intimidating 85%.
+
+There is very little room for error when the goal is to achieve a Scrum certification.
+
+In my work with individuals pursuing accreditation, I have found the following ten Scrum Master certification exam questions to be the most challenging. 
+
+These Scrum certifications are challenging because they deail with topics not explicitly covered in the Scrum Guide, topics which include:
+
+- product integration
+- team dymanics
+- active adaptation
+- and stakeholder communication
+
+However, despite the difficulty of these questions, there is a simple trick that makes answering these questions incredibly easy, but I don't want to reveal the trick to you yet.
+
+First, answer these ten tough Scrum Master certification exam questions. 
+
+Then, read about the trick to help simplify these tough Scrum Master exam questions.
+
+You will then be provided a second set of Scrum Certification exam questions and answers that will drive home the effectiveness of the trick.
+
+For those on the margins, it will be the difference between passing and failing the Professional Scrum Master or Product Owner certification exam. For others, it will be the difference between getting a passing score and a perfect score on the Scrum certification exams.
+
+
+1. True or false: Scrum is a proven and complete software development process.
+
+2. Which of the following statements are true about the Scrum Master role?
+
+The Scrum Master cannot be one of the developers on the team
+The Scrum Master cannot also be the team's Product Owner
+The Scrum Master cannot be one of the product's stakeholder
+The Scrum Master can be a stakeholder and a developer at the same time
+
+3. The Scrum Team has just been assembled, but the IT department has been slow to provision resources like laptops, software, build tools and test environments.
+
+The team does not want to start the first Sprint next week given the lack of preparedness.
+
+How would you as the Scrum Master recommend the team proceed?
+
+Explain to the organization that 'Sprint 0' exists to allow the team to get prepared for development
+Declare this an infrastructure Sprint where developers simply configure their tools and software
+Delay the start of the Sprint until the organization can properly provision the required tools and infrastructure
+Ask the team to work toward the development of a small, valueable increment despite the lack of preparedness
+
+
+4. A developer has completed a feature that when integrated into the codebase will create a valuable and usable increment. Completion of the Sprint Goal depends upon it.
+
+When should the developer integrate their work into the product?
+
+During the Daily Scrum, after achieving concensus with the other developers
+After the development Sprint finishes with the consent of the Scrum Master
+Immediately so long as their work meets the team's definition of done
+During the Sprint Review so stakeholders can witness the integration
+
+5. A developer has identified a troublesome and worrying security vulnerability in the codebase and has asked you, the Scrum Master, what should be done about it. 
+
+What guidance should you provide the developer on this topic?
+
+Have the developer make this issue as a top priority item in tomorrow's Daily Scrum
+Have the developer discuss the issue with the Product Owner and plan to fix the issue in the next Sprint
+Have the developer discuss the issue with developers right away
+Have the developer raise the issue as a priorty item during the next Sprint Planning meeting
+
+6. Under which circumstance are developers allowed to discuss product development directly with stakeholders?
+
+Developers can speak directly with stakeholders during the Sprint Retrospective
+Developers can speak directly with stakeholders so long as the Product Owner is present
+Developers can speak directly with stakeholders with permission from the Scrum Master
+Developers are not allowed speak direclty with stakeholders
+Developers can speak directly with stakeholders at any time
+
+7. Human Resources has just hired the three new programmers that were required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
+
+As the Scrum Master, when do you advise these programmers be added to the development effort?
+
+At the moment they arrive in the development team's project room
+At the end of the current Sprint but before the next Sprint begins
+At the following day's Daily Scrum
+During the next Sprint Planning event
+
+8. Given a well-functioning team of 4 developers, what impact will the addition of 3 new developers likely have on the productivity of the existing team members?
+
+Individual productivity will increase permanently
+Individual productivity will increase over the short term
+Individual productivity will decreate permanently
+Individual productivity will decrease over the short term
+
+
+9. Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and docuementation have taken away from their core development efforts, subsequently putting the project at risk.
+
+How would you advise the team to move forward?
+
+Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
+Have the Scrum team outsource QA, UAT and documentation to a third party
+Have the Product Owner remove quality control, testing and documentation from the definition of done
+Advise the Scrum Team they are responsible for all aspects of delivering a product increment
+
+
+
+10. Unforseen circumstances have reduced developer productivity and half way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
+
+What guidance would you, as the Scrum Master, provide to the team?
+
+Tell the developers to cancel the development Sprint and start a new Sprint Planning session
+Have the developers regroup and update the Sprint Plan as soon as possible
+Have the developers dedicate time during the next Daily Scrum to update the Sprint Goal
+Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
+
+
+*******************
+
+
+1. True or false: Scrum is a proven and complete software development process.
+
+This is false for three reasons:
+
+1. Scrum is not a process. Scrum is a lightweight framework.
+2. Scrum can be used to develop any product, not just software.
+3. Scrum self-describes as an incomplete framework. 
+
+
+"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete." 
+
+The Scrum Guide, page 3.
+
+2. Which of the following statements are true about the Scrum Master role?
+
+The Scrum Master cannot be one of the developers on the team
+The Scrum Master cannot also be the team's Product Owner
+The Scrum Master cannot be one of the product's stakeholder
+The Scrum Master can be a stakeholder and a developer at the same time
+
+Option D is correct.
+
+There are no rules in the Scrum Guide that say a person cannot take on multiple roles or accountabilities at the same time. In fact, on small startups, it's not uncommon for the Scrum Master to also be a stakeholder while also helping out with development. Furthermore, if the Product Owner got sick, that person might even take on Product Owner accountabilities temporarily as well.
+
+The only rule the Scrum Guide provides on a Scrum Master or Product Owner doing development is that when they do help to build the product, they must participate in the Daily Scrum as a developer.
+
+"If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate [in the Daily Scrum] as Developers."
+
+-The Scrum Guide, page 9.
+
+
+
+3. The Scrum Team has just been assembled, but the IT department has been slow to provision resources like laptops, software, build tools and test environments.
+
+The team does not want to start the first Sprint next week given the lack of preparedness.
+
+How would you as the Scrum Master recommend the team proceed?
+
+Explain to the organization that 'Sprint 0' exists to allow the team to get prepared for development
+Ask the team to work toward the development of a small, valueable increment despite the lack of preparedness
+Declare this an infrastructure Sprint where developers simply configure their tools and software
+Delay the start of the Sprint until the organization can properly provision the required tools and infrastructure
+
+
+Option B is correct.
+
+There is no such thing as an infrastructure Sprint or a Sprint 0 in Scrum.
+
+Every Sprint must attempt to develop and increment of value that will be part of the final product.
+
+No organization is ever sufficiently prepared for development to begin. If Scrum teams waited for all of the tools they require to be provisioned and available before they started to work, it's unlikely that any work would ever get done.
+
+
+4. A developer has completed a feature that when integrated into the codebase will create a valuable and usable increment. Completion of the Sprint Goal depends upon it.
+
+When should the developer integrate their work into the product?
+
+During the Daily Scrum, after achieving concensus with the other developers
+After the development Sprint finishes with the consent of the Scrum Master
+Immediately so long as the work meets the team's definition of done
+During the Sprint Review so stakeholders can witness the integration
+
+
+Option C is correct.
+
+If a developer completes any work that meets the definition of done, it should be immediately integrated into the product.
+
+If work cannot be integrated into the product being built, it is not useful and it does not create a valid increment. Integration, and ensuring that work does indeed integrate, is essential.
+
+A developer doesn't need anyone's permission to integrate their work into the product.
+
+If there is a piece of work that is complete and can be successfully integrated into the final product, it should be integrated immediately. Waiting serves no purpose, nor is it in line with Scrum's adherence to lean thinking.
+
+5. A developer has identified a troublesome and worrying security vulnerability in the codebase and has asked you, the Scrum Master, what should be done about it. 
+
+What guidance should you provide the developer on this topic?
+
+Have the developer make this issue as a top priority item in tomorrow's Daily Scrum
+Have the developer discuss the issue with the Product Owner and plan to fix the issue in the next Sprint
+Have the developer discuss the issue with developers right away
+Have the developer raise the issue as a priorty item during the next Sprint Planning meeting
+
+Option C is correct.
+
+If there is a serious security flaw in the codebase, it's an issue that should be raised immediately with the development team.
+
+Scrum provides a number of events, such as the Daily Scrum and the Sprint Retrospective, to encourage discussion. However, the existence of these events should never stand in the way of pragmatic or essential discussions between members of the team.
+
+If an emergency arises, it should be addressed immediately. Don't wait for a scheduled Scrum event to adapt to changing conditions.
+
+
+6. Under which circumstance are developers allowed to discuss product development directly with stakeholders?
+
+Developers can speak directly with stakeholders during the Sprint Retrospective
+Developers can speak directly with stakeholders so long as the Product Owner is present
+Developers can speak directly with stakeholders with permission from the Scrum Master
+Developers are not allowed speak direclty with stakeholders
+Developers can speak directly with stakeholders at any time
+
+Option E is correct.
+
+There are no rules in Scrum that resctric a developer talking to a stakeholder.
+
+One of the Scrum pillars is transparency. One of the Scrum values is openness. What does it say about transparency and openness of an organization put rules and restrictions around when a developer might be allowed to talk to a stakeholder?
+
+The Product Owner is responsible for speaking with stakeholders and discovering which features and and functionality they value most. However, in terms of speaking with developers about the Sprint Backlog, Product Backlog, Sprint Goal or anything else, there is nothing in the Scrum Guide that restricts such discussions. In fact, Scrum encourages it.
+
+
+7. Human Resources has just hired the three new programmers that were required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
+
+As the Scrum Master, when do you advise these programmers be added to the development effort?
+
+At the moment they arrive in the development team's project room
+At the end of the current Sprint but before the next Sprint begins
+At the following day's Daily Scrum
+During the next Sprint Planning event
+
+Option A is correct.
+
+If your project needs programmers to assist in the development effort, why would you wait even one minute to add them to the team and get them contributing to the development effort?
+
+Note that there is no delay in Scrum between the time when one Sprint ends and the next Sprint begins. When one Sprint ends, the next Sprint starts immediately.
+
+
+8. Given a well-functioning team of 4 developers, what impact will the addition of 3 new developers likely have on the productivity of the existing team members?
+
+Individual productivity will increase permanently
+Individual productivity will increase over the short term
+Individual productivity will decreate permanently
+Individual productivity will decrease over the short term
+
+Option D is correct.
+
+The onboarding process of new team members often pulls existing developers away from thieir normal routines, as they spend time with new devs explaining the product, helping them connect to GitHub, set up a printer and even find the restroom.
+
+Over the long run, individual productivity should go back to normal, but in the short term it will decrease.
+
+
+9. Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and docuementation have taken away from their core development efforts, subsequently putting the project at risk.
+
+How would you advise the team to move forward?
+
+Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
+Have the Scrum team outsource QA, UAT and documentation to a third party
+Have the Product Owner remove quality control, testing and documentation from the definition of done
+Advise the Scrum Team they are responsible for all aspects of delivering a product increment
+
+
+Option D is correct.
+
+There are no sub-teams in Scrum, nor are their any hierarchies of developers.
+
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals."
+The Scrum Guide, page 5.
+
+If there is a backlog item that requires documentation to be generated, or the definition of done requires a set of user acceptance tests (UAT) to e performed, then it is the job of the individuals of the development team to get those tasks done.
+
+The developers of the Scrum Team are responsible for the end-to-end development of all features in the Product Backlog with full compliance to any non-functional requirements the definition of done may demand.
+
+
+
+
+10. Unforseen circumstances have reduced developer productivity and half way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
+
+What guidance would you, as the Scrum Master, provide to the team?
+
+Tell the developers to cancel the development Sprint and start a new Sprint Planning session
+Have the developers regroup and update the Sprint Plan as soon as possible
+Have the developers dedicate time during the next Daily Scrum to update the Sprint Goal
+Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
+
+Option B is correct.
+
+If circumstances change and the developers need to update their plan, they should update their plan immediately. 
+
+During the Sprint, the Sprint Goal cannot change, nor can a Sprint be cancelled on the whim of the Scrum Master or the developers.
+
+What can change is the Sprint Plan, and it's expected to be updated throughout the sprint as conditions change and more is learned about the product being developed.
+
+Developers should certainly not wait for a scheduled event like the Daily Scrum to adapt their plan if it's necessary.
+
+"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning." 
+
+Scrum Guide, page 9.
+
+
+
+
+
+
+
+
+
+
+
+
+9. What is the maximum length of a Sprint?
+
+
+One week
+Four weeks
+One month
+Four months
+
+
+The maximum length of a Sprint is one month.
+
+Sprints should be short in duration to minimize risk. 
+
+On projects where the risk is high, conditions change rapidly and continual feedback from the stakeholders is required, shorter sprints are preferred.
+
+
+
+10. Unforseen circumstances have reduced developer productivity and half way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
+
+What guidance would you, as the Scrum Master, provide to the team?
+
+Tell the developers to cancel the development Sprint and start a new Sprint Planning session
+Have the developers regroup and update the Sprint Plan as soon as possible
+Have the developers dedicate time during the next Daily Scrum to update the Sprint Goal
+Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
+
+
+
+
+9. Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and docuementation have taken away from their core development efforts, subsequently putting the project at risk.
+
+How would you advise the team to move forward?
+
+
+
+
+10. Which of the following statements are true about stakeholders and the product they are having developed?
+
+Stakeholders cannot be developers
+A stakeholder cannot be the Scrum Master
+A stakeholders cannot be the Product Owner
+A, B and C are all true
+A, B and C are all false
+
+Option E is correct.
+
+There is no rule that says a stakeholder can't be a developer, Scrum Master or Product Owner. 
+
+In fact, in small startups or during times of employee sickness or turnover, many organizations will have a single person in all three roles. It may not be an ideal situation, but it's not forbidden either.
+
+
+3. Human resources just hired 32 new developers of varying skills and experience to help build the latest version of the company's flagship product.
+
+Development starts next week, and HR has asked you to divide the developers up into teams. How do you proceed?
+
+Split the developers up into equal size teams with an equal mix of senior and junior developers
+Designate the four most experienced developers as Team Leads and have them select their teams
+Randomly assign developers into four equal sized groups of 8 members
+Allow the developers to self organize into any number of groups so long as each is less than 8 people in size
+
+Scrum asserts that teams should be self-organizing.
+
+Given 32 new developers, allow the developers to get to know each other, explain the project to them, and allow them to organize into their own groups.
+
+The only direction Scrum provides in this case is that a Scrum Team must be 10 or fewer people. If each team has one Scrum Master and one Product Owner, each team should have 8 or fewer developers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
