@@ -135,7 +135,7 @@ Unforeseen circumstances have reduced developer productivity and half-way throug
 What guidance would you, as the Scrum Master, provide to the team?
 
 * [ ] A.	Tell the developers to cancel the development Sprint and start a new Sprint Planning session
-* [*] B.	Have the developers regroup and update the Sprint Plan as soon as possible
+* [ ] B.	Have the developers regroup and update the Sprint Plan as soon as possible
 * [ ] C.	Have the developers dedicate time during the next Daily Scrum to update the Sprint Goal
 * [ ] D.	Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
 
@@ -373,4 +373,4 @@ What can change is the Sprint Plan, and it's expected to be updated throughout t
 
 Developers should certainly not wait for a scheduled event like the Daily Scrum to adapt their plan if it's necessary.
 
-"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re* [ ] A.planning." –The Scrum Guide, page 9.
+"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or replanning." –The Scrum Guide, page 9.
