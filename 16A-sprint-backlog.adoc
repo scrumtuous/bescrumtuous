@@ -161,7 +161,7 @@ The Sprint can't be canceled unless the Sprint Goal becomes obsolete, and that's
 
 You're also not allowed to change the Sprint Goal once it's finalized.
 
-The correct answer here is to just keep working towards the Sprint Goal. 
+The correct answer here is D - to just keep working towards the Sprint Goal. 
 
 It's not the end of the world if the Sprint Goal is not achieved. Sprints are short. You can create a new Sprint Goal when the current Sprint is finished.
 
