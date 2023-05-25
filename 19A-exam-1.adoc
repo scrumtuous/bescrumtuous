@@ -23,8 +23,6 @@ Now get started with the practice exams. Good luck!
 
 == Exam 1
 
-=== Questions
-
 ==== Question 1
 
 True or false: Scrum is a proven and complete software development process.
@@ -84,7 +82,7 @@ What guidance should you provide the developer on this topic?
 
 ==== Question 6
 
- Under which circumstance are developers allowed to discuss product development directly with stakeholders?
+Under which circumstance are developers allowed to discuss product development directly with stakeholders?
 
 * [ ] A.	Developers can speak directly with stakeholders during the Sprint Retrospective
 * [ ] B.	Developers can speak directly with stakeholders so long as the Product Owner is present
@@ -122,7 +120,8 @@ Given a well-functioning team of 4 developers, what impact will the addition of 
 Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and documentation have taken away from their core development efforts, subsequently putting the project at risk.
 
 How would you advise the team to move forward?
-* [ ] A.	Have the Scrum team create a sub* [ ] A.team dedicates to QA, UAT testing and documentation
+
+* [ ] A.	Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
 * [ ] B.	Have the Scrum team outsource QA, UAT and documentation to a third party
 * [ ] C.	Have the Product Owner remove quality control, testing and documentation from the definition of done
 * [ ] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product increment
@@ -131,7 +130,7 @@ How would you advise the team to move forward?
 
 ==== Question 10
 
-Unforeseen circumstances have reduced developer productivity and half* [ ] A.way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
+Unforeseen circumstances have reduced developer productivity and half-way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
 
 What guidance would you, as the Scrum Master, provide to the team?
 
@@ -141,7 +140,7 @@ What guidance would you, as the Scrum Master, provide to the team?
 * [ ] D.	Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
 
 
-=== Answers
+== Exam 1 Answers
 
 
 ==== Question 1
@@ -331,6 +330,7 @@ Over the long run, individual productivity should go back to normal, but in the 
 Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and documentation have taken away from their core development efforts, subsequently putting the project at risk.
 
 How would you advise the team to move forward?
+
 * [ ] A.	Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
 * [ ] B.	Have the Scrum team outsource QA, UAT and documentation to a third party
 * [ ] C.	Have the Product Owner remove quality control, testing and documentation from the definition of done
