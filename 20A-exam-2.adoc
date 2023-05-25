@@ -11,6 +11,9 @@ Most people who take the Scrum Master exam come from the world of software devel
 
 So instead of thinking about how a given exam question applies to the field of software development, reframe the question in a completely different domain. 
 
+.Reframe exam questions is a scenario outside of software development and you'll find them much easier to answer.
+image::images/shipwrech.jpg["Reframe all exam questions in a survival camp."]
+
 The following exam questions are a mirror image of the first set of questions you were just asked, but reframed in a much more rediculous and extreme scenario. 
 
 The scenario used for the next set of quetsions is that of a shipwreck where a survivors from a marooned party boat are forced to build a survival camp as they await rescue.
@@ -20,6 +23,8 @@ The scenario used for the next set of quetsions is that of a shipwreck where a s
 
 
 I think you'll find the next set of questions to be a bit more fun to answer than they prototypical Scrum Master certification exam questions. You’ll also find that they’ll give you a deeper understanding of the Scrum framework as well.
+
+
 
 
 
@@ -36,6 +41,9 @@ The castaways are going to make it through this ordeal, and a Scrum based approa
 
 Their first task? Get a team of developers to go to shore and build a survival camp.
 10 Scrum Master exam questions
+
+.The following set of questions frame Scrum in a life-or-death survival scenario where castaways from a shipwreck must build a survival shelter.
+image::images/shipwrech.jpg["Reframe all exam questions in a survival camp."]
 
 
 === Questions
