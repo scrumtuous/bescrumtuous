@@ -146,7 +146,11 @@ What guidance would you, as the Scrum Master, provide to the team?
 
 ==== Question 1
 
+****
+
 True or false: Scrum is a proven and complete software development process.
+
+****
 
 This is false for three reasons:
 
@@ -158,6 +162,7 @@ This is false for three reasons:
 
 ==== Question 2
 
+****
 
 Which of the following statements are true about the Scrum Master role?
 
@@ -165,6 +170,8 @@ Which of the following statements are true about the Scrum Master role?
 * [ ] B.	The Scrum Master cannot also be the team's Product Owner
 * [ ] C.	The Scrum Master cannot be one of the product's stakeholder
 * [*] D.	The Scrum Master can be a stakeholder and a developer at the same time
+
+****
 
 Option D is correct.
 
@@ -176,7 +183,11 @@ The only rule the Scrum Guide provides on a Scrum Master or Product Owner doing 
 
 "If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate [in the Daily Scrum] as Developers." -The Scrum Guide, page 9.
 
+
+
 ==== Question 3
+
+****
 
 The Scrum Team has just been assembled, but the IT department has been slow to provision resources like laptops, software, build tools and test environments.
 
@@ -188,6 +199,8 @@ How would you as the Scrum Master recommend the team proceed?
 * [*] B.	Ask the team to work toward the development of a small, valuable increment despite the lack of preparedness
 * [ ] C.	Declare this an infrastructure Sprint where developers simply configure their tools and software
 * [ ] D.	Delay the start of the Sprint until the organization can properly provision the required tools and infrastructure
+
+****
 
 Option B is correct.
 
@@ -201,6 +214,8 @@ No organization is ever sufficiently prepared for development to begin. If Scrum
 
 ==== Question 4 
 
+****
+
 A developer has completed a feature that when integrated into the codebase will create a valuable and usable increment. Completion of the Sprint Goal depends upon it.
 
 When should the developer integrate their work into the product?
@@ -209,6 +224,8 @@ When should the developer integrate their work into the product?
 * [ ] B.	After the development Sprint finishes with the consent of the Scrum Master
 * [*] C.	Immediately so long as the work meets the team's definition of done
 * [ ] D.	During the Sprint Review so stakeholders can witness the integration
+
+****
 
 Option C is correct.
 
@@ -222,6 +239,7 @@ If there is a piece of work that is complete and can be successfully integrated 
 
 ==== Question 5
 
+****
 
 A developer has identified a troublesome and worrying security vulnerability in the codebase and has asked you, the Scrum Master, what should be done about it. 
 
@@ -231,6 +249,8 @@ What guidance should you provide the developer on this topic?
 * [ ] B.	Have the developer discuss the issue with the Product Owner and plan to fix the issue in the next Sprint
 * [*] C.	Have the developer discuss the issue with developers right away
 * [ ] D.	Have the developer raise the issue as a priority item during the next Sprint Planning meeting
+
+****
 
 Option C is correct.
 
@@ -242,13 +262,17 @@ If an emergency arises, it should be addressed immediately. Don't wait for a sch
 
 ==== Question 6
 
- Under which circumstance are developers allowed to discuss product development directly with stakeholders?
+****
+
+Under which circumstance are developers allowed to discuss product development directly with stakeholders?
 
 * [ ] A.	Developers can speak directly with stakeholders during the Sprint Retrospective
 * [ ] B.	Developers can speak directly with stakeholders so long as the Product Owner is present
 * [ ] C.	Developers can speak directly with stakeholders with permission from the Scrum Master
 * [ ] D.	Developers are not allowed speak directly with stakeholders
 * [*] E.	Developers can speak directly with stakeholders at any time
+
+****
 
 Option E is correct.
 
@@ -262,6 +286,8 @@ However, in terms of speaking with developers about the Sprint Backlog, Product 
 
 ==== Question 7
 
+****
+
 Human Resources has just hired the three new programmers that were required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
 
 As the Scrum Master, when do you advise these programmers be added to the development effort?
@@ -271,6 +297,8 @@ As the Scrum Master, when do you advise these programmers be added to the develo
 * [ ] C.	At the following day's Daily Scrum
 * [ ] D.	During the next Sprint Planning event
 
+****
+
 Option A is correct.
 
 If your project needs programmers to assist in the development effort, why would you wait even one minute to add them to the team and get them contributing to the development effort?
@@ -279,12 +307,16 @@ Note that there is no delay in Scrum between the time when one Sprint ends and t
 
 ==== Question 8
 
+****
+
 Given a well-functioning team of 4 developers, what impact will the addition of 3 new developers likely have on the productivity of the existing team members?
 
 * [ ] A.	Individual productivity will increase permanently
 * [ ] B.	Individual productivity will increase over the short term
 * [ ] C.	Individual productivity will decrease permanently
 * [*] D.	Individual productivity will decrease over the short term
+
+****
 
 Option D is correct.
 
@@ -294,6 +326,8 @@ Over the long run, individual productivity should go back to normal, but in the 
 
 ==== Question 9
 
+****
+
 Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and documentation have taken away from their core development efforts, subsequently putting the project at risk.
 
 How would you advise the team to move forward?
@@ -301,6 +335,8 @@ How would you advise the team to move forward?
 * [ ] B.	Have the Scrum team outsource QA, UAT and documentation to a third party
 * [ ] C.	Have the Product Owner remove quality control, testing and documentation from the definition of done
 * [*] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product increment
+
+****
 
 Option D is correct.
 
