@@ -178,7 +178,11 @@ The Definition of Done must be clear and understood by everyone on the Scrum Tea
 ==== Test Yourself
 
 ****
-True or false: The Definition of Done is an informal understanding of what needs to be done to turn a Product Backlog item into an Increment.
+The Definition of Done is an informal understanding of what needs to be done to turn a Product Backlog item into an Increment.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false
