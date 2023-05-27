@@ -12,7 +12,7 @@ id: 934-63effea19ebbe935e4c16b27.
 
 [#query]
 --
-Two Scrum Teams working on the same Product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
+Two Scrum Teams working on the same product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
 
 What would you as a Scrum Master advise this team?
 --
@@ -21,7 +21,7 @@ What would you as a Scrum Master advise this team?
 --
 * [ ] A. Two teams working on the same project should have separate Product Backlogs, making this unnecessary.
 * [ ] B. Two separate Scrum Teams should not be openly discussing their development work with each other.
-* [ ] C. The Product Owner should be selecting Product Backlog Items for each team, so the joint meeting is unnecessary.
+* [ ] C. The Product Owner should be selecting Product Backlog items for each team, so the joint meeting is unnecessary.
 * [ ] D. Explain to the teams that Scrum forbids shared planning meetings.
 * [*] E. Encourage the teams to be self-managed, encourage them to introduce new processes like the one they suggested, and have them introspect during the Sprint Retrospective and adapt accordingly.
 
@@ -37,7 +37,8 @@ Scrum is self-described as an incomplete framework. That means there is a great 
 
 Generally speaking, if Scrum doesn't explicitly forbid it, then teams are free to explore it. 
 
-Shared Sprint Planning meetings might be a great process for the team to implement. Many large companies do exactly that!
+Shared Sprint Planning meetings might be a great process for the teams to implement. Many large companies do exactly that! The Scrum Master should encourage such experimentation.
+
 --
 
 [#ka]
