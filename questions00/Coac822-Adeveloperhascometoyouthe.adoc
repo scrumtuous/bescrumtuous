@@ -13,7 +13,7 @@ title: "822 - A member of the Development Team takes t"
 --
 A developer has come to you, the Scrum Master, expressing concerns about the lax attitudes the team has towards data privacy and security. The concerned developer believes there are serious security vulnerabilities in the existing code.
 
-How should the Scrum Master first respond to a Development Team member expressing such concerns?
+How should the Scrum Master first respond to a Scrum Developer expressing such concerns?
 --
 
 [#list]
@@ -32,15 +32,8 @@ E
 
 [#explanation]
 --
-A Scrum Developer should discuss security concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so, for the following reasons:
 
-Security Risks Can Be Immediate: Security risks can be serious and immediate, and they require immediate attention. Waiting until a Sprint Review or Sprint Retrospective to raise security concerns could leave the product and organization vulnerable to security breaches.
-
-Collaboration and Problem-Solving: By discussing security concerns with the development team immediately, the team can collaborate and work together to find a solution to the problem. This approach helps to prevent the security risk from escalating and ensures that everyone is aware of the issue.
-
-Agile Values: The Agile Manifesto emphasizes the importance of individuals and interactions over processes and tools. By discussing security concerns immediately with the development team, the Scrum Developer is demonstrating a commitment to this Agile value and promoting collaboration and communication within the team.
-
-Continuous Improvement: Agile methodologies emphasize continuous improvement, and this requires a culture of transparency and openness. By raising security concerns immediately, the Scrum Developer is contributing to this culture and encouraging the team to identify areas for improvement.
+A Scrum Developer should discuss security concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so.
 
 If the developer does not feel comfortable discussing the issue with the team, that points to an even deeper problem with team dynamics, which is an impediment to transparency. This would be an impediment the Scrum Master would be interested in coaching around.
 
