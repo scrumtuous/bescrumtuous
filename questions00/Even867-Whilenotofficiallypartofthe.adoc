@@ -34,9 +34,9 @@ BDF
 
 [#explanation]
 --
-At the Daily Scrum, the Development Team commonly shares what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do until the next Daily Scrum.
+At the Daily Scrum, the Scrum Developers commonly share what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do until the next Daily Scrum.
 
-Also known as the '3 Daily Scrum' questions, these questions were included in previous version of the Scrum Guide, but were removed in the 2020 Scrum Guide, not because they are bad, but because Developers should be free to run the Daily Scrum in any manner they like.
+Also known as the '3 Daily Scrum questions', these questions were included in previous version of the Scrum Guide, but were removed in the 2020 Scrum Guide update, not because they are bad, but because developers should be free to run the Daily Scrum in any manner they like.
 --
 
 [#ka]
