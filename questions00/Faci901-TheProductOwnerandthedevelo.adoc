@@ -14,7 +14,7 @@ id: 901-63efff7c9ebbe935e4c16b40.
 --
 The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
 
-The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority Backlog Items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments and unfullfilled dependencies make the highest priority Backlog Items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
 
 After 8 hours of Sprint Planning, the only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
 --
@@ -22,7 +22,7 @@ After 8 hours of Sprint Planning, the only thing the development team and the Pr
 [#list]
 --
 * [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
-* [*] B. Allow the development team to choose which Product Backlog items to make part of the development Sprint.
+* [*] B. Trust the development team to choose which Product Backlog items to make part of the development Sprint.
 * [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
 * [*] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
 * [*] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
