@@ -12,9 +12,9 @@ id: 950-63efff4f9ebbe935e4c16b3b.
 
 [#query]
 --
-The Scrum Team has been assembled, the Product Owner has the backlog prioritized and everyone is ready for their very first Sprint!
+The Scrum Team has been assembled, the Product Owner has the backlog ordered and everyone is ready for their very first Sprint!
 
-What actions should a new Scrum Development Team take during the initial Sprint when starting a new project?
+What actions should a new Scrum  Team take during the initial Sprint when starting a new project?
 --
 
 [#list]
@@ -33,7 +33,7 @@ AE
 
 [#explanation]
 --
-Every Sprint in Scrum must produce a valuable, usable increment of work, and this increment of work must be something that becomes part of the final product.
+Every Sprint in Scrum must produce a valuable, usable increment of work and this increment of work must be something that becomes part of the final product.
 
 There is no Sprint Zero in Scrum. There is no 'initial setup Sprint' in Scrum where teams can focus on designs or infrastructure. 
 
