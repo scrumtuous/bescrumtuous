@@ -41,7 +41,7 @@ Disagreements will happen. When they do, move forward and start development.
 
 A Sprint will only last a month at most. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
 
-The development team must be trusted to choose what is right in terms of what to develop over the short term. And the term is 'short', and adaptation happens daily, so if the Sprint Goal goes out of focus, the team can change to bring the goal back on target.
+The development team must be trusted to choose what is right in terms of what to develop over the short term. 
 --
 
 [#ka]
