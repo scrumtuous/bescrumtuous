@@ -12,18 +12,19 @@ id: 922-63effb6c9ebbe935e4c16ab6.
 
 [#query]
 --
-You have been hired to be the Scrum Master for five separate Scrum Teams, all of whom are working to develop the same exact product. 
+You have been hired to be the Scrum Master for five separate Scrum Teams, all of which are working to develop the same exact product. 
 
-As a Scrum Master intent on facilitating and coaching around Scrum best practices, what would you recommend?
+As a Scrum Master intent on respecting the Scrum Guide and coaching around Scrum best practices, what would you recommend?
+
 --
 
 [#list]
 --
-* [*] A. There should be one Product Owner, shared across all teams.
-* [ ] B. There should be five Scrum Masters, with each one 100% dedicated to their team.
+* [*] A. There should be one Product Owner shared across all teams.
+* [ ] B. There should be five Scrum Masters with each one 100% dedicated to their team.
 * [ ] C. There should be five Product Backlogs, one for each team.
 * [*] D. There should be one Product Backlog shared across all teams.
-* [ ] E. There should be five Product Owners, with each one 100% dedicated to their team.
+* [ ] E. There should be five Product Owners with each one 100% dedicated to their team.
 * [ ] F. Multiple Scrum Teams cannot develop the same product at the same time.
 
 --
@@ -34,24 +35,15 @@ AD
 
 [#explanation]
 --
-In Scrum, the Product Backlog is the single, prioritized list of items that define what needs to be done to achieve the project's goal. The Product Owner is responsible for managing the Product Backlog, ensuring that it is constantly refined and prioritized, and that the development team has a clear understanding of what needs to be built and why.
+In Scrum, the Product Backlog is the single, ordered list of items that define what needs to be done to complete the project. The Product Owner is responsible for managing the Product Backlog, ensuring that it is constantly refined and ordered, and that the development team has a clear understanding of what needs to be built and why.
 
-When multiple teams are building the same project, they must share:
+When multiple teams are building the same product, they must share:
 
 - A common Product Backlog
 - The same Product Owner
 - A common Product Goal
 - The same Definition of Done
 
-There are several reasons why the Scrum Guide requires this:
-
-Consistency: By having a common Product Backlog and Product Owner, all teams are working towards the same set of goals and priorities. This ensures that everyone is on the same page and working towards the same objectives.
-
-Collaboration: By sharing a common Product Backlog and Product Owner, teams can collaborate more easily and share information more effectively. They can work together to refine and prioritize the backlog, ensuring that it reflects the needs of all stakeholders.
-
-Alignment: By having a common backlog and Product Owner, the entire organization is more likely to work towards the same objectives.
-
-Efficiency: A common backlog and Product Owner helps to improve the efficiency of the development process. Teams can work together to identify dependencies and plan their work more effectively, avoiding duplication of effort and ensuring that everyone is working on the most important tasks.
 
 --
 
