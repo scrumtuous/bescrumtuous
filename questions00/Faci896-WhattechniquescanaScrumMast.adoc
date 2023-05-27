@@ -18,11 +18,11 @@ What techniques can a Scrum Master use to facilitate the prevention or removal o
 
 [#list]
 --
-* [*] A. Coach management on how to use Scrum artifacts to achieve transparencey
-* [ ] B. Schedule Zoom calls for the development team
-* [*] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox
-* [ ] D. Take notes for the developers during the Dailiy Scrum
-* [*] E. Coach the developers on keeping the Daily Scrum within the timebox
+* [*] A. Coach management on how to use Scrum artifacts to achieve transparency.
+* [ ] B. Schedule Zoom calls for the development team.
+* [*] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox.
+* [ ] D. Take notes for the developers during the Daily Scrum.
+* [*] E. Coach the developers on keeping the Daily Scrum within the timebox.
 
 --
 ****
@@ -37,9 +37,11 @@ One of the responsibilities of the Scrum Master is to coach the organization in 
 
 When it comes to removing impediments, those impediments deal specifically with issues related to Scrum and the inappropriate application of Scrum.
 
-So if an impediment is that a team is being micromanaged, the Scrum Master would remove that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
+If an impediment is that a team is being micromanaged, the Scrum Master would remove that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
 
-For the Scrum Team itself, the Scrum Master's job is to coach them on the proper application of the Scrum Guide. The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help remove that impediment.
+For the Scrum Team itself, the Scrum Master's job is to coach them on the proper application of the Scrum Guide. 
+
+The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help remove that impediment.
 
 
 
