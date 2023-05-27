@@ -12,7 +12,7 @@ id: 872-63effd4b9ebbe935e4c16aff.
 
 [#query]
 --
-The Sprint Review is one of Scrum's time-boxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
+The Sprint Review is one of Scrum's timeboxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
 --
 
 [#list]
