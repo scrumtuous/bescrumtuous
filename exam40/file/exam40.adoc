@@ -1,6 +1,8 @@
 
 == Final Exam: 40 Questions
 
+image::images/exam-sitting.jpg[""]
+
 <<<
 
 

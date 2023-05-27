@@ -1,9 +1,9 @@
 
 == 25 Question Exam #2
 
+image::images/exam-sitting.jpg[""]
+
 <<<
-
-
 
 ==== Question 1
 
@@ -493,7 +493,7 @@ Th question is right out of the Scrum Guide:
 
 "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."
 
-With regards to the option about 'backlog items not completed on the previous Spring,' items not completed on a previous Sprint are removed from the Spring backlog and are returned to the Product Backlog. 
+With regards to the option about 'backlog items not completed on the previous Sprint,' items not completed on a previous Sprint are removed from the Spring backlog and are returned to the Product Backlog. 
 
 They are not automatically added to the next Sprint. You will get tested on that point.
 --
@@ -1417,6 +1417,7 @@ The specific skills needed by the Developers are often broad and will vary with 
 - Adapting their plan each day toward the Sprint Goal; and,
 - *Holding each other accountable as professionals.*
 --
+
 
 
 

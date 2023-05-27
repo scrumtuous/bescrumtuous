@@ -11,7 +11,7 @@ The second part of this book is all about testing your knowledge of the Scrum Gu
 Let me explain.
 
 .Do this set of exam questions first. Then, we'll show you a cool trick to help you answer the toughest exam questions.
-image::images/shipwreck.jpg["There's a trick to passing the Scrum Master certification exam.."]
+image::images/exam-sitting-2wide.jpg["There's a trick to passing the Scrum Master certification exam.."]
 
 === The Secret Test-Taking Trick
 

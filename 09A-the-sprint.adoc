@@ -328,9 +328,7 @@ Just by the authoritative nature of the name, people think a Scrum Master would 
 
 Scrum Masters don't. Scrum Masters don't really have much authority in Scrum.
 
-A Scrum Master can't cancel a Sprint. Only the Product Owner can.
-
-And there is only one reason why a Sprint can be canceled: the Sprint Goal has become obsolete.
+A Scrum Master can't cancel a Sprint. Only the Product Owner can, and there is only one reason why a Sprint can be canceled: the Sprint Goal has become obsolete.
 
 That means none of the following reasons are justifications to cancel the Sprint:
 

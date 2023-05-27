@@ -1,6 +1,9 @@
 
 == 25 Question Exam #1
 
+image::images/exam-sitting.jpg[""]
+
+
 <<<
 
 
@@ -1539,6 +1542,14 @@ The Product Owner is the single point of accountability for the success of the p
 One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for defining the product backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make decisions and communicate them to the team. Having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
 
 Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that everyone in the team is working towards the same Product Goal.
+
+Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
+
+--
+
+
+
+
 
 Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
 
