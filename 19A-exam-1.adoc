@@ -30,8 +30,10 @@ Now get started with the practice exams. Good luck!
 
 ==== Question 1
 
-True or false: Scrum is a proven and complete software development process.
+Scrum is a proven and complete software development process.
 
+* [ ] True
+* [ ] False
 
 ==== Question 2
 
@@ -152,7 +154,10 @@ What guidance would you, as the Scrum Master, provide to the team?
 
 ****
 
-True or false: Scrum is a proven and complete software development process.
+Scrum is a proven and complete software development process.
+
+* [ ] True
+* [ ] False
 
 ****
 
