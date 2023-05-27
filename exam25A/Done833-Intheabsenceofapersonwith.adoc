@@ -12,7 +12,7 @@ id: 833-63effb7a9ebbe935e4c16ab8.
 
 [#query]
 --
-In the absence of a person with quality assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
+In the absence of a person with quality assurance (QA) training on the team, what should a group of Scrum Developers do about all of the QA requirements that are part of the Definition of Done?
 --
 
 [#list]
@@ -32,7 +32,7 @@ C
 --
 The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
-In this case, if QA is required to meet the definition of done, then someone, or everyone, on the development team must learn QA.
+In this case, if QA is required to meet the definition of done, then someone, or everyone on the development team must learn QA.
 --
 
 [#ka]
