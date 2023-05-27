@@ -157,7 +157,7 @@ What guidance would you, as the Scrum Master, provide to the team?
 Scrum is a proven and complete software development process.
 
 * [ ] True
-* [ ] False
+* [*] False
 
 ****
 
