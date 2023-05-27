@@ -12,7 +12,7 @@ id: 841-63efff3e9ebbe935e4c16b39.
 
 [#query]
 --
-If the company your work for does not have an organizational standard that defines the Definition of Done, whose responsibility is it to define it before development begins?
+If the company you work for does not have an organizational standard that defines the Definition of Done, whose responsibility is it to provide a definition before development begins?
 --
 
 [#list]
@@ -36,8 +36,7 @@ According to the Scrum Guide:
 
 If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
 
-In Scrum, the Definition of Done (DoD) is a shared understanding of what it means for a Product Backlog item to be considered "done" and ready for release. The Scrum Team, which includes the Product Owner, the Development Team, and the Scrum Master, collaborates to create the Definition of Done if an organizational standard for the DoD does not already exist.
-
+In Scrum, the Definition of Done (DoD) is a shared understanding of what it means for a Product Backlog item to be considered complete and ready to be integrated into the product. The Scrum Team, which includes the Product Owner, the development team and the Scrum Master, collaborates to create the Definition of Done if an organizational standard for the DoD does not already exist.
 
 Ultimately, the Definition of Done should be agreed upon by the entire Scrum Team and should reflect the standards and expectations for delivering a high-quality product to the customer.
 

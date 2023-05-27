@@ -21,7 +21,7 @@ What should you, as the Scrum Master, do?
 
 [#list]
 --
-* [ ] A. Change the definition of Done and negotiate the quality standard with the Product Owner to ensure all Sprint Backlog items are completed before the end of the Sprint.
+* [ ] A. Change the Definition of Done and negotiate the quality standard with the Product Owner to ensure all Sprint Backlog items are completed before the end of the Sprint.
 * [*] B. While the Sprint is ongoing, have the Product Owner and the developers negotiate the scope of the work being done so as not to endanger the Sprint Goal.
 * [ ] C. Scale out and assign some of the Sprint Backlog items to an external Scrum team.
 * [ ] D. Inform the Product Owner prior to the Sprint Review so the stakeholders won't be disappointed.

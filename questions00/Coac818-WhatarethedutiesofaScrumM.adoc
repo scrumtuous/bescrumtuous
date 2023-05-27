@@ -19,8 +19,8 @@ What are the duties of a Scrum Master?
 --
 * [*] A. Participating as an equal member of the Scrum team while also acting as a leader who serves.
 * [ ] B. Assigning action items for team members to complete during the Sprint.
-* [ ] C. Communicating the Development Team's answers to stakeholder questions through transcription, email or direct communication.
-* [ ] D. Taking dictation during the Daily Scrum and reporting discussions that take place during the Daily Scrum to management.
+* [ ] C. Communicating the development team's answers to stakeholder questions through transcription, email or direct communication.
+* [ ] D. Taking dictation during the Daily Scrum and reporting discussions that take place during the Daily Scrum back to management.
 * [ ] E. Scheduling meetings and booking conference rooms for the team.
 
 --

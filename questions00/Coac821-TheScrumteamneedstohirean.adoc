@@ -11,16 +11,16 @@ id: 821-63effb829ebbe935e4c16ab9
 
 [#query]
 --
-The Scrum team needs to hire an outside specialist, external to the Scrum team, to deliver wireframes needed to meet the Definition of Done. Some of the developers have complained to you in confidence about this. 
+The Scrum team needs to hire an outside specialist, external to the Scrum team, to deliver wireframes needed to meet the Definition of Done. Some of the developers have complained to you in confidence about the outside specialist. 
 
-What are your two main concerns in this situation?
+What are your main concerns in this situation?
 --
 
 [#list]
 --
 * [ ] A. You are concerned that this may impact the velocity of software development.
 * [*] B. You are concerned that team members are coming to you with complaints rather than figuring out a solution themselves within the team.
-* [*] C. You are concerned about the ability of the Development Teams to produce a fully integrated Increment when the Definition of Done includes work produced by someone outside of the Scrum team.
+* [*] C. You are concerned about the ability of the development team to produce a fully integrated Increment when the Definition of Done depends on work produced by someone outside of the Scrum team.
 * [ ] D. You are worried that there will be software developers sitting idle while work is outsourced.
 
 --
@@ -31,7 +31,7 @@ BC
 
 [#explanation]
 --
-The Scrum Team should have all the skills required to meet the Definition of Done (DoD). If the DoD depends on work performed outside of the team, there is no control over it and it jeopardizes the teams ability to create a full Increment.
+The Scrum Team should have all the skills required to meet the Definition of Done (DoD). If the DoD depends on work performed outside of the team, there is no control over it and it jeopardizes the team's ability to create a full Increment.
 
 The development team should also be self-organized and self-managed. Openness and transparency may be problematic if developers are complaining to the Scrum Master in confidence.
 --

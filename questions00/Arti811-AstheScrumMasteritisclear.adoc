@@ -11,7 +11,7 @@ id: 811-63efff599ebbe935e4c16b3c.
 
 [#query]
 --
-As the Scrum Master it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted, and new items aren't added. 
+As the Scrum Master, it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted and new items aren't added. 
 
 In Scrum, who has the right to add items to the Sprint Backlog?
 --
@@ -19,8 +19,8 @@ In Scrum, who has the right to add items to the Sprint Backlog?
 [#list]
 --
 * [ ] A. The Product Owner prioritizes Product Backlog items and has the authority to add items to the Sprint Backlog.
-* [*] B. The Development Team own the Sprint Backlog and can add items to it any time during the Sprint.
-* [ ] C. Both the Scrum Master and Developers can add to the Sprint Backlog if  change needs to be made to keep the Sprint Goal in focus.
+* [*] B. The development team owns the Sprint Backlog and can add items to it at any time during the Sprint.
+* [ ] C. Both the Scrum Master and the developers can add to the Sprint Backlog if  changes need to be made to keep the Sprint Goal in focus.
 * [ ] D. Anyone on the Scrum Team can add or remove items from the Sprint Backlog.
 
 --

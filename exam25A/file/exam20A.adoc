@@ -6,8 +6,6 @@ image::images/exam-sitting.jpg[""]
 
 <<<
 
-
-
 ==== Question 1
 
 --
@@ -1546,14 +1544,5 @@ Additionally, having a single Product Owner helps to maintain consistency and co
 Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
 
 --
-
-
-
-
-
-Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
-
---
-
 
 

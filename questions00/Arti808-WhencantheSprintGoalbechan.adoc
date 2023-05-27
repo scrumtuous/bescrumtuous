@@ -13,7 +13,7 @@ id: 807-63effc789ebbe935e4c16ae1.
 
 [#query]
 --
-Half way through the Sprint the development team has become uncomfortable with the Sprint Goal and feel a change needs to be made to bring it in line with the Sprint Plan.
+Half way through the Sprint the development team has become uncomfortable with the Sprint Goal and feels a change needs to be made to bring it in line with the Sprint Plan.
 
 According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 --
@@ -24,7 +24,7 @@ According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 * [ ] B. The Sprint Goal can be changed or adjusted any time during the Daily Scrum.
 * [ ] C. A Sprint Goal can be changed or adjusted any time during the Sprint.
 * [*] D. The Sprint Goal must be finalized before the end of Sprint Planning and it cannot be changed throughout the Sprint.
-* [ ] E. The Sprint Goal must be finalized before the Sprint starts and it cannot be changed throughout the Sprint.
+* [ ] E. The Sprint Goal must be finalized before the development Sprint starts and it cannot be changed throughout the Sprint.
 
 --
 ****

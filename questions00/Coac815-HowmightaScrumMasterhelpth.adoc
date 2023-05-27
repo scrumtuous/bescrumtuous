@@ -12,16 +12,16 @@ id: 815-63effa7d9ebbe935e4c16a99.
 
 [#query]
 --
-How might a Scrum Master help the Scrum Team resolve an internal disagreement, which is causing inter-personal conflicts, regarding how to troubleshoot and diagnose a difficult, ongoing production bug that must be fixed as part of the current Sprint's Definition of Done?
+How might a Scrum Master help the Scrum Team resolve an internal disagreement that has caused inter-personal conflicts between team members.
 --
 
 [#list]
 --
-* [*] A. Use various coaching and facilitation techniques, such as open feedback and active listening.
-* [*] B. Involve everyone on the Development Team in forming a decision that is in line with the Scrum Values.
+* [*] A. Use various coaching and facilitation techniques such as open feedback and active listening.
+* [*] B. Involve everyone on the Development Team in forming a resolution that is in line with the Scrum values.
 * [ ] C. Ask an external consultant on the production team to determine the most sensible path forward.
 * [ ] D. Incorporate the Human Resources department to help resolve any inter-personal conflicts that have arisen.
-* [*] E. Coach the team on maintaining a psychologically safe environment for all participants
+* [*] E. Coach the team on maintaining a psychologically safe environment for all participants.
 --
 ****
 
@@ -30,11 +30,11 @@ ABE
 
 [#explanation]
 --
-A Scrum Team is expected to be cross-functional and have all the skills needed to address the issues that arise. The team should be able to make decisions without consulting external specialists.
+A Scrum Team is expected to be cross-functional and have all the skills needed to address issues that arise. The team should be able to make independent decisions without consulting external specialists.
 
-A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not a prescribed approach. The Scrum Guide never even mentions the term "Human Resources.'
+A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not a prescribed approach. The Scrum Guide never mentions the term "Human Resources.'
 
-A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and find paths to help them  move forward.
+A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and find paths to help them move forward.
 --
 
 [#ka]
