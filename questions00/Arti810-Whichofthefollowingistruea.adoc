@@ -19,8 +19,8 @@ Which of the following is true about Sprint Planning in Scrum?
 --
 * [*] A. The Sprint Goal must be finalized before the end of Sprint Planning and cannot change during the Sprint.
 * [ ] B. The Sprint Backlog must be finalized before the end of Sprint Planning and cannot change during the Sprint.
-* [*] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event
-* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event
+* [*] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event.
+* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event.
 
 --
 ****
