@@ -17,7 +17,7 @@ According to the 2020 Scrum Guide, when does a Sprint officially come to an end?
 
 [#list]
 --
-* [*] A. When the predetermined length, or 'time box,' for the Sprint expires.
+* [*] A. When the predetermined length, or 'timebox,' for the Sprint expires.
 * [ ] B. When all Product Backlog items are complete.
 * [ ] C. When all Product Backlog items selected for the Sprint are complete.
 * [ ] D. When a full increment that delivers value to the client is complete.
@@ -34,9 +34,11 @@ A Sprint expires when the predetermined length for the Sprint expires.
 
 A Sprint may be two weeks, three weeks or four weeks. That's up to the team to decide.
 
-One the time allotted for the Sprint is met, the Sprint ends and a new Sprint begins.
+Once the time allotted for the Sprint expires, the Sprint ends and a new Sprint begins.
 
 Even if Product Backlog items are not finished, or even if the team failed to deliver any Increment of value, the Sprint is not extended. When the allotted time-box is met, the Sprint ends.
+
+To answer this question even more concisely, the Sprint ends at the end of the Sprint Retrospective. The Sprint Retrospective is the last event in Scrum, and when this event finishes, a new Sprint begins. 
 
 --
 
