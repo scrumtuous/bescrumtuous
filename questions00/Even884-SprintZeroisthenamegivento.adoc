@@ -30,11 +30,11 @@ B
 --
 There is no such thing as a 'Sprint Zero' according to the Scrum Guide. 
 
-There is no such thing as a 'Release Sprint,' 'Integration Sprint' or an 'Infrastructure Sprint' according to the Scrum Guide. 
+Furthermore, the Scrum Guide makes no references to a 'Release Sprint,' 'Integration Sprint' or an 'Infrastructure Sprint.'
 
 These phrases on the Scrum Master Certification exam will almost always be red herrings that point to an incorrect answer.
 
-Scrum just has Sprints. And every Sprint must create a usable and valuable Increment of work. There are no Sprints in Scrum where you 'just set things up' or 'just get the infrastructure working.' 
+Scrum just has Sprints - plain, ordinary Sprints that must create a usable and valuable Increment of work. There are no Sprints in Scrum where you 'just set things up' or 'just get the infrastructure working.' 
 
 --
 
