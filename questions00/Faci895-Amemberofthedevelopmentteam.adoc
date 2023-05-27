@@ -12,7 +12,7 @@ id: 895-63effc809ebbe935e4c16ae2.
 
 [#query]
 --
-A member of the development team has failed to integrate well with their peers.
+Despite ongoing coaching and facilitation, a member of the development team has failed to integrate well with their peers.
 
 The Scrum Developers have just informed you that the consensus is that the developer needs to be removed from the team.
 
@@ -21,8 +21,8 @@ What should you do as a Scrum Master?
 
 [#list]
 --
-* [ ] A. Facilitate team building activities to help the underperforming developer integrate better with the team.
-* [ ] B. Coach the development team on ways to improve communication between peers and help everyone on the team get along.
+* [ ] A. Continue to facilitate team building activities to help the underperforming developer integrate better with the team.
+* [ ] B. Continue to coach the development team on ways to improve communication between peers and help everyone on the team get along.
 * [*] C. Help the team remove the unwanted developer and coach them on ways to do it in a manner that is fair and respectful.
 * [ ] D. Inform the development team that they do not have the authority to remove members from the team.
 
