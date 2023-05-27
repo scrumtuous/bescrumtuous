@@ -33,7 +33,7 @@ E
 [#explanation]
 --
 
-A Scrum Developer should discuss security concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so.
+A Scrum Developer should discuss major concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so.
 
 If the developer does not feel comfortable discussing the issue with the team, that points to an even deeper problem with team dynamics, which is an impediment to transparency. This would be an impediment the Scrum Master would be interested in coaching around.
 
