@@ -17,10 +17,10 @@ Which of the following would be responsibilities a team's Scrum Master would ful
 [#list]
 --
 * [ ] A. At the Sprint Review, the Scrum Master identifies which backlog items have met the Definition of Done and which have not.
-* [*] B. The Scrum Master coaches Development Teams on the importance of keeping Scrum events within their time-box.
-* [*] C. The Scrum Master helps to plan and advises on Scrum implementations within the organization.
-* [ ] D. The Scrum Master will assign tasks to Development Team members in order to maximize their utilization.
-* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA tickets or generating Sprint Burndown charts for the team.
+* [*] B. The Scrum Master coaches the Scrum Team on the importance of keeping Scrum events within their timebox.
+* [*] C. The Scrum Master helps to plan and advises on Scrum implementations within their organization.
+* [ ] D. The Scrum Master will assign tasks to development team members in order to maximize their utilization.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA, or generating Sprint Burndown charts for the team.
 
 --
 ****
@@ -30,9 +30,9 @@ BC
 
 [#explanation]
 --
-The Scrum Master is responsible for ensuring that the Scrum framework is followed by the team and that the team is continuously improving. Two key aspects of this responsibility are facilitating time-boxed meetings and coaching people on Scrum values.
+The Scrum Master is responsible for ensuring the Scrum framework is followed by the team and that the team is continuously improving. Two key aspects of this responsibility are facilitating timeboxed meetings and coaching people on Scrum values.
 
-The Scrum Master is also responsible for helping the organization they work for to plan for Scrum adoption and advise on how to implement Scrum successfully.
+The Scrum Master is also responsible for helping their organization to plan for Scrum adoption and advise on how to implement Scrum successfully.
 
 From the Scrum Guide:
 
