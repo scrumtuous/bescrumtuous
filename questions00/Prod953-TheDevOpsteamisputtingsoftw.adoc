@@ -35,7 +35,7 @@ BD
 --
 Developers must address both functional and non-functional requirements if they are an expected part of the product they are building.
 
-To make sure an increment is not released without non-functional requirements being addressed, just add the non-functional requirements to the definition of done. That way an increment is not considered complete unless all functional and non-functional requirements have been dealt with.
+To make sure an increment is not released without non-functional requirements being addressed, just add the non-functional requirements to the Definition of Done. That way an increment is not considered complete unless all functional and non-functional requirements have been dealt with.
 
 Furthermore, having the Product Owner add non-functional requirements as backlog items gives them visibility and makes the Product Owner aware of them.
 
