@@ -22,10 +22,10 @@ How much work do the Scrum Developers need to perform on a Product Backlog item 
 
 [#list]
 --
-* [ ] A. The Development Team does as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
-* [ ] B. The Development Team does a proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
-* [ ] C. The Development Team works on a Product Backlog item until the Scrum Master says it meets the Definition of Done
-* [*] D. The Development Team works on a Product Backlog item until it meets the agreed upon Definition of Done.
+* [ ] A. The Scrum Developers do as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
+* [ ] B. The Scrum Developers do  a proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
+* [ ] C. The Scrum Developers work on a Product Backlog item until the Scrum Master says it meets the Definition of Done
+* [*] D. The Scrum Developers work on a Product Backlog item until it meets the agreed upon Definition of Done.
 
 --
 ****
@@ -36,7 +36,7 @@ D
 [#explanation]
 --
 
-During Sprint Planning, the Developers pick Product Backlog items they believe the can complete before the end of the Sprint.
+During Sprint Planning, the Scrum Developers pick Product Backlog items they believe the can completed before the end of the Sprint.
 
 When a selected item meets the Definition of Done, the feature is said to be complete, the work becomes part of the Increment, and the results are shared with stakeholders at the Sprint Review.
 
