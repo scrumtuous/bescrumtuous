@@ -16,9 +16,9 @@ The developers are new to Scrum and they've asked you, an experienced Scrum Mast
 
 [#list]
 --
-* [ ] A. Explain that the most senior developer on the team should start and lead the Scrum
-* [ ] B. Explain that the most senior developer on the team leads the Scrum while the most junior developer speaks first
-* [ ] B. Explain that the team lead leads the Scrum while the most senior developer speaks first
+* [ ] A. Explain that the most senior developer on the team should start and lead the Daily Scrum
+* [ ] B. Explain that the most senior developer on the team leads the Daily Scrum while the most junior developer speaks first
+* [ ] B. Explain that the team lead leads the Daily Scrum while the most senior developer speaks first
 * [*] D. Explain how the developers can choose whatever structure they want for the Daily Scrum, so who starts it is up to them.
 * [*] E. Explain that Scrum is hierarchy-less and it doesn't require any specific individual to 'lead' during the Daily Scrum.
 
