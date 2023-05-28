@@ -22,8 +22,8 @@ What is the best way to divide a group of 75 new developers, of varying skills a
 
 [#list]
 --
-* [ ] A. Assign 7-10 trusted developers to be team leads and let the team leaders perform member allocation based on the skills their teams will require.
-* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, Stakeholders or outside party.
+* [ ] A. Nominate 7-10 trusted developers to be team leads and let the team leaders perform member allocation based on the skills their teams will require.
+* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, stakeholders or outside party.
 * [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority and experience.
 * [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority and experience.
 
