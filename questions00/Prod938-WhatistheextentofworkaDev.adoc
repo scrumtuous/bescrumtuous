@@ -16,7 +16,7 @@ Before the end of every Sprint, the Scrum Team must produce a usable, valuable I
 
 But what exactly constitutes a usable and valuable Increment?
 
-How much work do the Scrum Developers needs to perform on a Product Backlog item for it to be considered a full-fledged Increment?
+How much work do the Scrum Developers need to perform on a Product Backlog item for it to be considered a full-fledged Increment?
 
 --
 
