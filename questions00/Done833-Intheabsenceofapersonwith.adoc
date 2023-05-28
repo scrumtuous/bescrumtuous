@@ -30,7 +30,7 @@ C
 
 [#explanation]
 --
-The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
+The Scrum development team must be cross-functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
 In this case, if QA is required to meet the definition of done, then someone, or everyone on the development team must learn QA.
 --
