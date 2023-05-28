@@ -31,12 +31,13 @@ D
 --
 This question comes right out of the Scrum Guide:
 
-The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
+"The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
 
 - Creating a plan for the Sprint, the Sprint Backlog;
 - Instilling quality by adhering to a Definition of Done;
 - Adapting their plan each day toward the Sprint Goal; and,
-- *Holding each other accountable as professionals.*
+- *Holding each other accountable as professionals.* "
+
 --
 
 [#ka]
