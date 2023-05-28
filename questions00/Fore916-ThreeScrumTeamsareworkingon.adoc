@@ -36,17 +36,13 @@ If code changes are not integrated, how does anyone know that the changes and up
 
 Multiple Scrum teams working on the same project should continuously integrate their increments of work for several reasons:
 
-Ensure overall project coherence: By integrating their work regularly, the teams can ensure that their contributions are compatible and consistent with the larger project goals. This helps to avoid potential conflicts, misalignments, or integration issues that might arise when each team works in isolation.
 
-Early detection of integration issues: Continuous integration enables early detection and resolution of integration issues. This approach promotes collaboration and feedback among the teams, allowing them to identify and address integration issues quickly before they become larger problems.
+- Early detection of integration issues
+- Improved transparency
+- Teams will collboarate and communicate more often
 
-Faster time to market: Continuous integration enables the teams to deliver working software at a more rapid pace than if they worked in isolation. This approach helps teams to identify and address integration issues early on, which results in a faster delivery of a high-quality product.
+If something works and meets the definition of done, it should be integrated right away. Waiting makes no sense. Waiting is certainly not in like with Scrum's commitment to lean thinking.
 
-Improved transparency: When teams integrate their work frequently, it promotes transparency among the teams. This approach enables them to monitor each other's progress, which leads to a better understanding of the overall project status and helps to identify any issues that need to be addressed.
-
-Foster a sense of ownership and collaboration: By integrating their work continuously, the teams feel more invested in the project as a whole. It fosters a sense of collaboration, responsibility and ownership, and helps to align everyone towards a common goal.
-
-In summary, continuous integration of work across multiple Scrum teams is essential for ensuring that the project is coherent, of high quality, and completed on time. It also fosters a sense of collaboration and shared ownership among team members.
 --
 
 [#ka]
