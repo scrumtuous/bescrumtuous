@@ -38,13 +38,13 @@ AB
 [#explanation]
 --
 
-The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. They maintain the product backlog and ensure Product Backlog items are ordered. 
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Scrum Developers. The PO maintains the product backlog and ensures Product Backlog items are ordered. 
 
-The Product Owner is the champion of the project and the sole person responsible for managing the product backlog. They also ensure that the development team, stakeholders and others understand the product vision.
+The Product Owner is the champion of the project and the sole person responsible for managing the Product Backlog. They also ensure that the development team, stakeholders and others understand the product vision.
 
-The Product Owner is the single point of accountability for the success of the product and is responsible for making decisions about the priority of work items. They ensure the work of the team is delivers the most value to the stakeholders.
+The Product Owner is the single point of accountability for the success of the product and is responsible for making decisions about the priority of work items. They ensure the work of the team delivers the most value to the stakeholders.
 
-One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for defining the product backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make decisions and communicate them to the team. Having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
+One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for ordering the Product Backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make product-related decisions and communicate them to the team. Having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
 
 Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that everyone on the team is working towards the same Product Goal.
 
