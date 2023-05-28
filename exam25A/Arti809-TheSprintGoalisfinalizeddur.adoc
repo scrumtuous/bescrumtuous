@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc[]
-=======
 
-include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc
->>>>>>> f61d9788812e037c6e9adb8ac47464265523b0d5
+include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc[]
