@@ -45,4 +45,3 @@ From the Scrum Guide: "The Scrum Team is responsible for all product-related act
 Events
 
 '''
-
