@@ -20,7 +20,7 @@ According to the Scrum Guide, which of the following is true about the Increment
 * [*] A. Each new Increment gets added to all the prior Increments
 * [ ] B. An Increment doesn't have to be usable.
 * [ ] C. Only one Increment can be created per Sprint.
-* [*] D. An Increment must be compatible with and work with all previous increments.
+* [*] D. An Increment must be compatible with and work with all previous Increments.
 * [*] E. An Increment can be seen as a concrete stepping stone toward the Product Goal.
 
 --
@@ -31,7 +31,7 @@ A,D,E
 
 [#explanation]
 --
-An increment must be usable and multiple increments can be created per Sprint, which makes those two options wrong.
+An Increment must be usable and multiple Increments can be created per Sprint, which makes those two options wrong.
 
 The correct options come directly out of the Scrum Guide's definition of a Sprint:
 
