@@ -19,10 +19,10 @@ The stakeholders have asked to attend every-other Sprint Review to minimize the 
 
 [#list]
 --
-* [*] A. Coach the stakeholders and the team on how to make the meetings more productive and positive
-* [ ] B. Agree with the request of the stakeholders, as reducing meetings is in line with Agile principles
+* [*] A. Coach the stakeholders and the team on how to make the meetings more productive and positive.
+* [ ] B. Agree with the request of the stakeholders, as reducing meetings is in line with Agile principles.
 * [*] C. Educate stakeholders on the importance of Sprint Reviews and work to facilitate more engaging Sprint Reviews.
-* [ ] D. Consult privately with the Product Owner and see if they will agree to fewer meetings
+* [ ] D. Consult privately with the Product Owner and see if they will agree to fewer meetings.
 
 --
 ****
@@ -33,6 +33,10 @@ AC
 [#explanation]
 --
 The Scrum Master should use this opportunity to explain the importance of a Sprint Review and the value the team receives from the stakeholders participating in it.
+
+Attendance at Scrum events is not optional, nor is running Scrum events as planned. Stakeholders must participate in the Sprint Review.
+
+As the Scrum Guide states: "The Scrum framework is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety"
 
 --
 
