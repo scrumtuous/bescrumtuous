@@ -21,7 +21,7 @@ What's the best way for the Scrum Master to deal with this?
 --
 * [ ] A. Share stories from the help desk about the issues the software is having.
 * [*] B. Make sure non-functional requirements are clearly articulated in the Definition of Done.
-* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployemnt.
+* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployment.
 * [*] D. Ask the Product Owner to add new Product Backlog items that deal specifically with performance and security.
 * [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requrements are not part of the development team's planning tasks.
 
