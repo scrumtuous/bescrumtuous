@@ -12,7 +12,7 @@ id: 818-63effaf39ebbe935e4c16aa7.
 
 [#query]
 --
-What are the duties of a Scrum Master?
+Accodring to the Scrum Guide, which of the following are duties of a Scrum Master?
 --
 
 [#list]
