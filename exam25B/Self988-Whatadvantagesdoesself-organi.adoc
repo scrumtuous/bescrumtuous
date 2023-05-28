@@ -20,11 +20,11 @@ What advantages does self-organization offer to Scrum Teams and the team's membe
 [#list]
 --
 
-* [*] A. Increased personal accountability with regards to the work developers perform
-* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates
-* [*] C. Increased personal commitment to the team and the project
+* [*] A. Increased personal accountability with regards to the work developers perform.
+* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates.
+* [*] C. Increased personal commitment to the team and the project.
 * [*] D. Increased ingenuity and motivation to solve problems.
-* [ ] E. Increased ability to comply with industry regulation, rules and guidelines
+* [ ] E. Increased ability to comply with industry regulation, rules and guidelines.
 
 --
 ****
@@ -34,9 +34,9 @@ ACD
 
 [#explanation]
 --
-Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity, and ownership of projects. 
+Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity and ownership of projects. 
 
-Additionally, self-organized teams can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility, and more effective problem-solving. 
+Additionally, self-organized teams can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility and more effective problem-solving. 
 
 Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.
 
