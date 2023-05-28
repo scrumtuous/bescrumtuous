@@ -22,7 +22,7 @@ Who has the power to remove an underperforming developer from a Scrum team?
 * [ ] A. Only someone in management or Human Resources can remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
 * [ ] B. The Scrum Master can remove underperforming developers from a Scrum team.
 * [ ] C. The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
-* [*] D. The Development Team has the final say over who is allowed to be a member of the development team.
+* [*] D. The team of Scrum Developers has the final say over who is allowed to be a member of the development team.
 
 --
 ****
