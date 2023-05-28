@@ -24,7 +24,7 @@ What are key characteristics and responsibilities of the Product Owner?
 
 [#list]
 --
-* [*] A. The Product Owner the the one who orders the Product Backlog.
+* [*] A. The Product Owner is the one who orders the Product Backlog.
 * [*] B. The Product Owner is a single person and the role cannot be shared.
 * [ ] C. The Product Owner commits 100% of their time to their Scrum Team.
 * [ ] D. Multiple individuals with product knowledge can share the Product Owner role on a Scrum Team.
