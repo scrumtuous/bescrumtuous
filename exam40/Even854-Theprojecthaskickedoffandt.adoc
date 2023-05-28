@@ -32,7 +32,12 @@ C
 
 [#explanation]
 --
+
+When one Sprint finished, the next Sprint begins immediately after.
+
 All Scrum Events happen within a Sprint. Nothing happens 'outside of a Sprint'.
+
+
 
 
 --
