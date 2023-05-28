@@ -32,7 +32,7 @@ C
 
 [#explanation]
 --
-All Scrum Events happen with a Sprint. Nothing happens 'outside of a Sprint'.
+All Scrum Events happen within a Sprint. Nothing happens 'outside of a Sprint'.
 
 
 --
