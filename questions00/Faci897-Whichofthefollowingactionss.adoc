@@ -17,7 +17,7 @@ Which of the following actions should the Scrum Master never do?
 
 [#list]
 --
-* [*] A. Tell the Scrum Developers how to self-manage.
+* [*] A. Tell the Scrum Developers how to manage their workloads.
 * [*] B. Extend the length of the Sprint.
 * [*] C. End the Sprint early.
 * [ ] D. Coach the Development Team to ensure the Daily Scrum is time-boxed to 15 minutes.
@@ -30,7 +30,7 @@ ABCE
 
 [#explanation]
 --
-The Scrum Master is a servant-leader and should never 'tell' the developers what to do. The Scrum Master coaches and facilitates and allows developers to discover solutions and solve problems themselves.
+The Scrum Master is a leader who serves the team and as such, should never _tell_ the developers what to do. The Scrum Master coaches and facilitates and allows developers to discover solutions and solve problems themselves.
 
 Furthermore, the Scrum Framework does not allow the length of a Sprint to be extended, and only the Product Owner can end a Sprint early.
 
