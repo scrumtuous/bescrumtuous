@@ -17,7 +17,7 @@ Which of the following are key responsibilities of the Scrum Master on a Scrum T
 
 [#list]
 --
-* [*] A. Helping employees and stakeholders understand and enact an empirical approach for complex work.
+* [*] A. The Scrum Master helps employees and stakeholders understand and enact an empirical approach for complex work.
 * [ ] B. The Scrum Master assigns Product Backlog items to developers when they are idle.
 * [*] C. The Scrum Master helps those outside the Scrum team understand Scrum and how to interact with teams that employ the Scrum framework.
 * [*] D. The Scrum Master ensures that all Scrum events are kept within the timebox.
