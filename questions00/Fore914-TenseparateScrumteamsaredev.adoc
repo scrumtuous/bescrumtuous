@@ -35,7 +35,7 @@ B
 --
 If you think a Scrum Master or a Product Owner is going to be able to figure out how to integrate code across 10 separate teams working on a complicated project, they you've never met a Scrum Master or a Product Owner.
 
-The Product Owner manages the Product Backlog, and the Scrum Master coaches and facilitates, but they can't solve technical issues for the development teams. 
+The Product Owner manages the Product Backlog and the Scrum Master coaches and facilitates, but they can't solve technical issues for the development teams. 
 
 All a Scrum Master can do is coach those teams and help them discover their own solutions that work within the intentionally incomplete framework known as Scrum.
 
