@@ -33,11 +33,11 @@ AE
 
 [#explanation]
 --
-Every Sprint in Scrum must produce a valuable, usable increment of work and this increment of work must be something that becomes part of the final product.
+Every Sprint in Scrum must produce a valuable, usable Increment of work and this Increment of work must be something that becomes part of the final product.
 
 There is no Sprint Zero in Scrum. There is no 'initial setup Sprint' in Scrum where teams can focus on designs or infrastructure. 
 
-Every Sprint must produce something of value. Every Sprint must produce an increment of work that will incrementally, over time, lead to a complete and finished product.
+Every Sprint must produce something of value. Every Sprint must produce an Increment of work that will incrementally, over time, lead to a complete and finished product.
 
 --
 
