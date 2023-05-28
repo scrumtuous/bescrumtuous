@@ -43,13 +43,13 @@ Option D is correct.
 
 A Scrum Team is responsible for the creation of an increment that meets the Definition of Done, and it is the developers who do the work. 
 
-If Technical Documentation is a Product Backlog item, or it is included in the Definition of Done, the developers on the Scrum Team are expected to have the skills and time to create it.
+If technical documentation is a Product Backlog item, or it is included in the Definition of Done, the developers on the Scrum Team are expected to have the skills and time to create it.
 
 "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."
 
 Furthermore, there are no 'special teams' in Scrum. The Scrum Guide clearly states: "Within a Scrum Team, there are no sub-teams or hierarchies."
 
-In Scrum, the Scrum Developers are responsible for creating a potentially releasable product Increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the Development Team must find a way to produce it.
+In Scrum, the Scrum Developers are responsible for creating a potentially releasable product Increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the team of developers must find a way to produce it.
 
 "The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."
 
