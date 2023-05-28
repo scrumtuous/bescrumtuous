@@ -17,7 +17,7 @@ What are the primary objectives served by the Definition of Done (DoD)?
 
 [#list]
 --
-* [*] A. The DoD helps the Development Team estimate the number of Product Backlog items to select for the Sprint
+* [*] A. The DoD helps the Development Team estimate the number of Product Backlog items to select for the Sprint.
 * [*] B. The DoD creates a common understanding across the team with regard to when development work is completed.
 * [ ] C. The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
 * [ ] D. The DoD describes the work that must be done before the Sprint is ended.
@@ -38,7 +38,7 @@ By establishing a clear "Definition of Done," Scrum increases transparency by pr
 
 The "Definition of Done" also helps developers estimate how much work to add to the Sprint Backlog. Because the team has a clear understanding of what constitutes a completed product backlog item, they can more accurately estimate how much work needs to be done to achieve that level of completeness. This can help the team better plan their work for the sprint and avoid over-committing to work they may not be able to complete.
 
-Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a product backlog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
+Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a Product Bvacklog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
 
 It's also stated in the Scrum Guide that when multiple teams work on the same Product, they should all share the same Definition of Done so they are all working within the same guidelines.
 
@@ -51,4 +51,3 @@ It's also stated in the Scrum Guide that when multiple teams work on the same Pr
 Done
 
 '''
-
