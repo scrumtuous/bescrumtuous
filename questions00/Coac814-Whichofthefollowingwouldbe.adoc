@@ -20,7 +20,7 @@ Which of the following would be responsibilities a team's Scrum Master would ful
 * [*] B. The Scrum Master coaches the Scrum Team on the importance of keeping Scrum events within their timebox.
 * [*] C. The Scrum Master helps to plan and advises on Scrum implementations within their organization.
 * [ ] D. The Scrum Master will assign tasks to development team members in order to maximize their utilization.
-* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA, or generating Sprint Burndown charts for the team.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA and generating Sprint Burndown charts for the team.
 
 --
 ****

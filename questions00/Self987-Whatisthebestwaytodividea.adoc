@@ -12,20 +12,20 @@ id: 987-63effb2d9ebbe935e4c16aae.
 
 [#query]
 --
-Human resources have hired 75 new developers to work on a company-defining flagship product.
+Human resources (HR) has just hired 75 new developers to work on a company-defining flagship product.
 
-The head of Human Resources has asked you, the Scrum Master, to help with dividing these new hires into Scrum Teams.
+The head of HR has asked you, the Scrum Master, to help with dividing these new hires into development teams.
 
-What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple Development Teams?
+What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple development teams?
 
 --
 
 [#list]
 --
-* [ ] A. Assign 7-10 trusted developers to be team leads and let the team leaders perform team allocation based on the skills their teams will require.
-* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, Stakeholders, or outside party.
-* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority, and experience.
-* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority, and experience.
+* [ ] A. Assign 7-10 trusted developers to be team leads and let the team leaders perform member allocation based on the skills their teams will require.
+* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, Stakeholders or outside party.
+* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority and experience.
+* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority and experience.
 
 --
 ****
@@ -35,19 +35,17 @@ B
 
 [#explanation]
 --
-Dividing a group of 100 developers into multiple development teams can be a complex process that requires careful consideration of many factors, including the developers' skills and experience, the nature of the project, and the organizational structure of the company.
+Dividing a group of 75 developers into multiple development teams can be a complex process that requires careful consideration of many factors including the developers' skills, experience and the nature of the project.
 
-One of the best and most Agile ways to divide the group is to use a self-organizing approach, which allows the developers to organize themselves into teams based on their skills and experience. This approach has several benefits:
+One of the best and most Agile ways to divide a group is to use a self-organizing approach, which allows the developers to organize themselves into teams based on their skills and experience. This approach has several benefits:
 
-Empowerment: When developers are allowed to organize themselves, they feel empowered and are more likely to take ownership of their work and be motivated to succeed.
-
-Autonomy: Self-organizing teams have the autonomy to make decisions about how to approach their work, which can lead to more innovative solutions and increased productivity.
-
-Flexibility: The self-organizing approach allows for flexibility in team composition and size, which can be adjusted as the project evolves.
+- Empowerment: When developers are allowed to organize themselves, they feel empowered and are more likely to take ownership of their work and be motivated to succeed.
+- Autonomy: Self-organizing teams have the autonomy to make decisions about how to approach their work, which can lead to more innovative solutions and increased productivity.
+- Flexibility: The self-organizing approach allows for flexibility in team composition and size, which can be adjusted as the project evolves.
 
 To implement this approach, the company can provide guidelines and support for the developers to form their teams. Giving the developers insight into the product, what is being built and the skill required would be helpful as well. Informed decisions are the best decisions, but there should not be direct intervention from any outside parties.
 
-This also comes with the understanding that the teams will be allowed to self-organize again in the future if the teams believe it is necessary to do so.
+This also comes with the understanding that the teams will be allowed to re-organize again in the future if the teams believe it is necessary to do so.
 
 --
 

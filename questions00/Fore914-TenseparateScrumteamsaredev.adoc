@@ -15,14 +15,15 @@ id: 914-63efff479ebbe935e4c16b3a.
 Ten separate Scrum teams are developing a very complex and highly integrated product. 
 
 What role does the Scrum Master play in ensuring each team can successfully integrate their software together with other teams without merge conflicts or incompatible deployments?
+
 --
 
 [#list]
 --
-* [ ] A. Have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog items will be integrated together.
-* [*] B. As the Scrum Master you should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
-* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task to help make integration easier.
-* [ ] D. The Product Owner (PO) is shared across all teams on the same project, so the PO should visit each team regularly to coordinate integrations.
+* [ ] A. The Scrum Master should have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog items will be integrated together.
+* [*] B. The Scrum Master should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
+* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task. This will make integration easier.
+* [ ] D. Since the Product Owner (PO) is shared across all teams on the same project, the Scrum Master makes sure the PO visits each team regularly to coordinate integrations.
 
 --
 ****

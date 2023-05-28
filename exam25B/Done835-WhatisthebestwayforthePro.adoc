@@ -29,13 +29,13 @@ B
 
 [#explanation]
 --
-The Product Owner needs the Development Team to adhere to the Definition of Done because it helps ensure that the team delivers high-quality Increments of work that meet the needs of the stakeholders.
+The Product Owner needs everyone to adhere to the Definition of Done because it helps ensure that the team delivers high-quality Increments of work that meet the needs of the stakeholders.
 
-The Definition of Done is a shared understanding between the Product Owner and the Development Team about what it means for a product backlog item to be considered complete. It includes a set of criteria that must be met for each item, such as passing tests, meeting performance standards, and conforming to coding standards.
+The Definition of Done is a shared understanding between the Product Owner, stakeholders and the developers about what it means for a Product Backlog item to be considered complete. It includes a set of criteria that must be met for each item, such as passing tests, meeting performance standards and conforming to coding standards.
 
-By adhering to the Definition of Done, the Development Team ensures that they are producing work that is of high quality and meets the expectations of the Product Owner. This, in turn, helps the Product Owner manage stakeholder expectations, as they can rely on the Development Team to consistently deliver work that meets the agreed-upon criteria.
+By adhering to the Definition of Done, the development team ensures that they are producing work that is of high quality and meets the expectations of the Product Owner. This, in turn, helps the Product Owner manage stakeholder expectations, as they can rely on the Scrum Developers to consistently deliver work that meets the agreed-upon criteria.
 
-Moreover, adhering to the Definition of Done promotes transparency and accountability. The Development Team commits to delivering work that meets the agreed-upon criteria, which helps to ensure that they take ownership of the quality of their work. The Product Owner can also track progress more accurately, as they can trust that items that meet the Definition of Done are truly complete.
+Moreover, adhering to the Definition of Done promotes transparency and accountability. The developers commit to delivering work that meets the agreed-upon criteria, which helps to ensure that they take ownership of the quality of their work. The Product Owner can also track progress more accurately as they can trust that items that meet the Definition of Done are truly complete.
 
 
 --

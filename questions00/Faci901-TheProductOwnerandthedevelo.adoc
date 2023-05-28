@@ -14,7 +14,7 @@ id: 901-63efff7c9ebbe935e4c16b40.
 --
 The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
 
-The Product Owner wants the highest priority items completed, but the development team insists existing impediments and unfullfilled dependencies make the highest priority Backlog Items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments and unfullfilled dependencies make the highest priority Backlog items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
 
 After 8 hours of Sprint Planning, the only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
 --
@@ -39,7 +39,7 @@ You don't ever extend a Scrum event beyond its timebox.
 
 Disagreements will happen. When they do, move forward and start development. 
 
-A Sprint will only last a month at most. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
+A Sprint will only last a month at most, at most. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
 
 The development team must be trusted to choose what is right in terms of what to develop over the short term. 
 --

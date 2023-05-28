@@ -13,7 +13,7 @@ id: 804-63effbba9ebbe935e4c16ac1.
 
 [#query]
 --
-According to the Scrum Guide, what is the purpose of the Sprint Backlog, and what is its composition?
+According to the Scrum Guide, what is the purpose of the Sprint Backlog?
 --
 
 [#list]
@@ -22,7 +22,7 @@ According to the Scrum Guide, what is the purpose of the Sprint Backlog, and wha
 * [*] B. The Sprint Backlog is a list of all work the team hopes to complete in the current Sprint.
 * [ ] C. The Sprint Backlog is a list of all work the team hopes to complete in the next Sprint. 
 * [*] D. The Sprint Backlog is the Development Team's actionable plan for the Sprint.
-* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner.
+* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner to maximize the developer productivity.
 
 --
 ****
@@ -36,7 +36,7 @@ According to the Scrum Guide, "The Sprint Backlog is composed of the Sprint Goal
 
 During Sprint Planning, the development team plans the work that will be done during the current sprint. 
 
-Note that all events happen within the Sprint. So Sprint Planning happens for the current Sprint, not the 'next' Sprint. Sprint Planning, development, the Sprint Review and the Sprint Retrospective all happen with the boundaries of the same Sprint.
+Note that all events happen _within_ the Sprint. So Sprint Planning happens for the current Sprint, not the 'next' Sprint. Sprint Planning, development, the Sprint Review and the Sprint Retrospective all happen with the boundaries of the same Sprint.
 
 One of the primary outcomes of Sprint Planning is the creation of the Sprint Backlog, which is a list of tasks that the team plans to complete during the sprint.
 

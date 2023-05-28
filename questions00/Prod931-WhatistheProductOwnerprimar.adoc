@@ -36,9 +36,10 @@ The answer to this question comes right out of the Scrum Guide:
 
 The Scrum Guide does not mention the term "use cases" or "user stories" so any reference to them on the Scrum certification exam is normally an _incorrect_ answer.
 
-"Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum.
+"Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum, not the Product Owner.
 
 Note that the _Developers_ select Product Backlog Items to work on during the Sprint, not the Scrum Master or the Product Owner.
+
 --
 
 [#ka]
