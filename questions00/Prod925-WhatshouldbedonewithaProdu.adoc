@@ -12,15 +12,15 @@ id: 925-63effbca9ebbe935e4c16ac4.
 
 [#query]
 --
-What should be done with a Product Backlog item (PBI) that did not meet the Scrum team's agreed upon "Definition of Done" by the end of a Sprint?
+What should be done with a Product Backlog item (PBI) that did not meet the Scrum team's agreed upon Definition of Done by the end of a Sprint?
 --
 
 [#list]
 --
-* [*] A. Return the item to the Product Backlog
-* [ ] B. With the consent of the Product Owner and stakeholders, the PBI can be approved and released
-* [ ] C. Automatically add the unfinished PBI to the next Sprint's backlog
-* [*] D. Make sure the team knows this PBI will not be included in the current Sprint's Increment
+* [*] A. Return the item to the Product Backlog.
+* [ ] B. With the consent of the Product Owner and stakeholders, the PBI can be approved and released.
+* [ ] C. Automatically add the unfinished PBI to the next Sprint's backlog.
+* [*] D. Make sure the team knows this PBI will not be included in the current Sprint's Increment.
 
 --
 ****
@@ -40,13 +40,6 @@ The Product Backlog is the prioritized list of features, requirements, and other
 
 One of the key principles of Scrum is that the team commits to completing the work it selects for the Sprint Backlog within the Sprint. However, if any Product Backlog Items are not completed by the end of the Sprint, they are not automatically added to the next Sprint Backlog. Instead, they are returned to the Product Backlog for reprioritization and consideration for future Sprints.
 
-There are several reasons why this is the case.
-
-Firstly, the Sprint is a timeboxed period of typically 2-4 weeks during which the team works to complete the items selected for the Sprint Backlog. The goal of the Sprint is to deliver a potentially releasable increment of the product. If the team fails to complete all the work in the Sprint Backlog, it means that the increment is not potentially releasable, which is not in line with the principles of Scrum.
-
-Secondly, returning unfinished work to the Product Backlog allows the team to reevaluate the priority of the items and potentially select a different set of items for the next Sprint. This helps to ensure that the team is working on the most valuable work and responding to changing business needs.
-
-Finally, by returning unfinished work to the Product Backlog, the team can take the time to reassess and adjust their estimates and capacity for future Sprints. This helps to ensure that they are setting realistic goals and commitments for each Sprint and continuously improving their performance over time.
 --
 
 [#ka]
