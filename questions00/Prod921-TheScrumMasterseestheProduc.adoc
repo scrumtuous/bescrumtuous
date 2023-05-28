@@ -19,10 +19,10 @@ What action would a certified Scrum Master take in these circumstances?
 [#list]
 --
 * [ ] A. Have the Product Owner extend the length of the current Sprint to have more time to order the Product Backlog before the next Sprint begins.
-* [ ] B. Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
+* [ ] B. Inform the Product owner that it is the development team's responsibility to order the Product Backlog.
 * [*] C. Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
 * [ ] D. The Scrum Master should provide the Product Owner with the Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.
-* [ ] E. Tell the Product Owner to work with the Development Team to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
+* [ ] E. Tell the Product Owner to work with the developers to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
 
 --
 ****
@@ -36,9 +36,8 @@ The Scrum Master is a coach and facilitator, and it is the Scrum Master's job to
 
 The Scrum Master has the responsibility to support and help the team, including the Product Owner, to maximize the value delivered by the product. If the Scrum Master sees the Product Owner struggling with the task of ordering the Product Backlog, there are several actions they can take to assist:
 
-Coach the Product Owner: The Scrum Master can provide coaching to the Product Owner on effective Product Backlog management practices, such as prioritization techniques, user story writing, and backlog refinement sessions. They can also guide how to involve stakeholders in the prioritization process and how to manage dependencies between Product Backlog items.
-
-Encourage Feedback: The Scrum Master can encourage the Product Owner to seek feedback from stakeholders and the development team on the order of the Product Backlog items. This feedback can help the Product Owner refine the prioritization and ensure that the team is aligned with the product vision.
+- Coach the Product Owner: The Scrum Master can provide coaching to the Product Owner on effective Product Backlog management practices, such as prioritization techniques, user story writing, and backlog refinement sessions. They can also guide how to involve stakeholders in the prioritization process and how to manage dependencies between Product Backlog items.
+- Encourage Feedback: The Scrum Master can encourage the Product Owner to seek feedback from stakeholders and the development team on the order of the Product Backlog items. This feedback can help the Product Owner refine the prioritization and ensure that the team is aligned with the product vision.
 
 Just remember, it's not the Scrum Master's job to do the work of the Product Owner. The order of the product backlog, which is critically important to ensure maximum value gets delivered during development, is the responsibility of the PO.
 
