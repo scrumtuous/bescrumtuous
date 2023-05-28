@@ -21,7 +21,7 @@ Who is best equipped to estimate the amount of time required to complete a Produ
 * [ ] B. The Scrum Master, after reading the description of the PBI.
 * [ ] C. The Project Manager, after assigning the PBI to the project.
 * [ ] D. The individual developer tasked with working on the PBI.
-* [*] E. The Development Team, after discussions with the Product Owner about the PBI.
+* [*] E. The team of Scrum Developers, after discussions with the Product Owner about the PBI.
 
 --
 ****
