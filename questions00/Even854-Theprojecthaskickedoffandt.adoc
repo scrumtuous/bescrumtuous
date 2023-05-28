@@ -34,6 +34,8 @@ C
 --
 All Scrum Events happen with a Sprint. Nothing happens 'outside of a Sprint'.
 
+When the Sprint Retrospective finishes, the current Sprint ends. The next Sprint begins immediately after.
+
 
 --
 
