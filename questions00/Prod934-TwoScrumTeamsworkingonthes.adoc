@@ -14,7 +14,7 @@ id: 934-63effea19ebbe935e4c16b27.
 --
 Two Scrum Teams working on the same product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
 
-What would you as a Scrum Master advise this team?
+How would you as a Scrum Master advise the team?
 --
 
 [#list]
