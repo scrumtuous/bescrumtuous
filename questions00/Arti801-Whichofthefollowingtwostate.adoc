@@ -34,7 +34,7 @@ AD
 --
 The Sprint Backlog is a key artifact in the Scrum framework. 
 
-The Sprint Backlog outlines the work that the Scrum Developers plans to complete during the current Sprint. It is created and managed by the Scrum Developers, who are responsible for delivering at least one product increment before the end of the Sprint.
+The Sprint Backlog outlines the work that the Scrum Developers plan to complete during the current Sprint. It is created and managed by the Scrum Developers, who are responsible for delivering at least one product increment before the end of the Sprint.
 
 The Sprint Backlog is managed by the Scrum Developers because they are the ones who are responsible for organizing, planning, and executing the work. The Developers have the technical knowledge and skills required to create the plan, estimate the work, and track the progress during the Sprint.
 
