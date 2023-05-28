@@ -17,7 +17,7 @@ How might a Scrum Master help the Scrum Team resolve an internal disagreement, w
 
 [#list]
 --
-* [*] A. Use various coaching and facilitation techniques, such as open feedback and active listening.
+* [*] A. Use various coaching and facilitation techniques such as open feedback and active listening.
 * [*] B. Involve everyone on the Development Team in forming a decision that is in line with the Scrum Values.
 * [ ] C. Ask an external consultant on the production team to determine the most sensible path forward.
 * [ ] D. Incorporate the Human Resources department to help resolve any inter-personal conflicts that have arisen.
