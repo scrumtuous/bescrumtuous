@@ -20,10 +20,10 @@ Which of the following topics and issues would be worthwhile for a Scrum Team to
 
 [#list]
 --
-* [ ] A. Whether the Definition of Done needs to be updated
-* [ ] B. Whether the length of the Sprint needs adjusting
-* [ ] C. How to better decompose Product Backlog Items during Sprint Planning
-* [ ] D. How to improve communication between on-site and remote workers
+* [ ] A. Whether the Definition of Done needs to be updated.
+* [ ] B. Whether the length of the Sprint needs adjusting.
+* [ ] C. How to better decompose Product Backlog Items during Sprint Planning.
+* [ ] D. How to improve communication between on-site and remote workers.
 * [*] E. All of the above.
 
 --
@@ -35,6 +35,8 @@ E
 [#explanation]
 --
 All of these topics are commonly discussed in the Sprint Retrospective.
+
+From the Scrum Guide: "[During the Sprint Retrospective,] the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work."
 --
 
 [#ka]
