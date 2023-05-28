@@ -36,7 +36,10 @@ ACD
 --
 Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity, and ownership of projects. 
 
-Additionally, team members can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility, and more effective problem-solving. Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.
+Additionally, self-organized teams can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility, and more effective problem-solving. 
+
+Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.
+
 --
 
 [#ka]
