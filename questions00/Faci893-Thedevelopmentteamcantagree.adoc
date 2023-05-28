@@ -22,7 +22,7 @@ How can the Scrum Master help the Scrum Team resolve an internal disagreement ab
 * [ ] A. Have the developers consult an external, impartial expert on the topic and agree to go with the external expert's decision.
 * [ ] B. Have the development team argue both sides to the Scrum Master and have the Scrum Master come to a final, impartial decision.
 * [*] C. Use coaching techniques like reflective listening and visualization to help guide the entire development team towards building a consensus.
-* [*] D. Teach the development team about collaboriate techniques to build consensus, such as actively listening to others
+* [*] D. Teach the development team about collaboriate techniques to build consensus, such as actively listening to others.
 
 --
 ****
