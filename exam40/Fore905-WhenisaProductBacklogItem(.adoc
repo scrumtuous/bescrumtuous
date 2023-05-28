@@ -1,1 +1,1 @@
-include::../questions00/Fore905-WhenisaProductBacklogItem.adoc[]
+include::../questions00/Fore905-WhenisaProductBacklogItem(.adoc[]
