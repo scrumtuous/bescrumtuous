@@ -17,7 +17,7 @@ Under what circumstances might the decision be made to prematurely terminate a S
 
 [#list]
 --
-* [ ] A. When a self-managed Development Team realizes the work committed to during Sprint planning cannot possibly be delivered by the end of the Sprint.
+* [ ] A. When a self-managed team of Scrum Developers realizes the work committed to during Sprint planning cannot possibly be delivered by the end of the Sprint.
 * [*] B. When the Sprint Goal no longer makes sense and becomes obsolete.
 * [ ] C. When the Scrum Development team's work needs to be redirected to new opportunities.
 * [ ] D. When the Product Owner reprioritized the Product Backlog and PBIs currently under development are no longer priorities.
@@ -31,15 +31,15 @@ B
 [#explanation]
 --
 
-When the Sprint Goal becomes obsolete, the Product Owner can canel the Sprint.
+When the Sprint Goal becomes obsolete the Product Owner can canel the Sprint.
 
 In Scrum, the Sprint Goal is a short statement that describes what the Development Team intends to achieve during the Sprint. It provides focus and direction to the team and helps to ensure that all members are working towards a common objective. The Sprint Goal is set during Sprint Planning and remains unchanged throughout the Sprint.
 
-If the Sprint Goal becomes obsolete, it means that the objective that the Development Team set for the Sprint is no longer relevant. This can happen for a variety of reasons, such as changes in the business environment or new information that makes the Sprint Goal irrelevant. Essentially, something happened that makes working towards the Sprint Goal a complete waste of time.
+If the Sprint Goal becomes obsolete, it means that the objective that the Scrum Developers set for the Sprint is no longer relevant. This can happen for a variety of reasons, such as changes in the business environment or new information that makes the Sprint Goal irrelevant. Essentially, something happened that makes working towards the Sprint Goal a complete waste of time.
 
-When the Sprint Goal becomes obsolete, the Scrum framework allows for the Sprint to be cancelled by the Product Owner. This is because the Sprint Goal is a fundamental aspect of the Scrum framework, and without a clear and achievable Sprint Goal, the work of the Development Team lacks direction and focus.
+When the Sprint Goal becomes obsolete, the Scrum framework allows for the Sprint to be cancelled by the Product Owner.
 
-It is important to note that cancelling a Sprint is not something that should be done lightly. If Sprints are cancelled frequently, it can indicate deeper problems with the project that need to be addressed.
+It is important to note that cancelling a Sprint is not a decision that should be taken lightly. If Sprints are cancelled frequently, it can indicate deeper problems with the project that need to be addressed.
 --
 
 [#ka]
