@@ -39,11 +39,11 @@ The Scrum Guide says teams working on the same Product must have:
 - The same Product Backlog
 - The same Definition of Done
 
-But should the teams start their Sprints on the same day? End them on the same day? Make their Sprints the same lenght?
+Should the teams start their Sprints on the same day? End Springs on the same day? Make their Sprints the same lenght?
 
-The Scrum Guide is silent on the issue. It's up to the team to decide what is best for them.
+The Scrum Guide is silent on the issue. It's up to the team to decide what is best.
 
-The Scrum self-identifies as an 'incomplete framework'. It's just a guide. It doesn't have all the answers.
+Scrum self-identifies as an 'incomplete framework'. It's just a guide. It doesn't have all the answers.
 
 
 --
