@@ -18,7 +18,7 @@ In the absence of a person with quality assurance (QA) training on the team, wha
 [#list]
 --
 * [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks.
-* [ ] B. Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
+* [ ] B. Complete each Product Backlog item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
 * [*] C. Have the development team train and learn the skills required to perform QA tasks.
 * [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done.
 
