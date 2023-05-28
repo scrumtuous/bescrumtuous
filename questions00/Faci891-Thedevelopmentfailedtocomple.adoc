@@ -31,9 +31,11 @@ B
 
 [#explanation]
 --
-There is no changing the Sprint length. And it's not uncommon for some Sprint Backlog items to go uncompleted. They just go back into the Product Backlog.
+There is no changing the Sprint length. 
 
-The team should also turn it into a learning experience and adapt accordingly.
+It's not uncommon for some Sprint Backlog items to go uncompleted. They just go back into the Product Backlog.
+
+The team should discuss why their estimates were off during the Sprint Retrospective. The Scrum Team should turn the situation into a learning experience and adapt accordingly.
 
 --
 
