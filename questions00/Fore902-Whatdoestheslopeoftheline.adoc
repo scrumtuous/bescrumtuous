@@ -20,7 +20,7 @@ What does the slope of the line in a burndown chart demonstrate?
 * [ ] A. The percentage of the budget consumed by the project over time.
 * [ ] B. The number of Story Ponts needed per Sprint needed to complete the project on time.
 * [ ] C. Changes in the team's velocity.
-* [*] D. The overall progress of the team over time which predicts when the project may end
+* [*] D. The amout of work has been completed compared to how much work needs to get done.
 
 --
 ****
