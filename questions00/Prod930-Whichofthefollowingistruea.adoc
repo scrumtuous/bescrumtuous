@@ -17,7 +17,7 @@ According to the Scrum Guide, which two of the following statements is true abou
 
 [#list]
 --
-* [*] A. The Product Owner may delegate the creation of Product Backlog Items to an associate.
+* [*] A. The Product Owner may delegate the creation of Product Backlog items to an associate.
 * [ ] B. The Product Owner may be a committee or collection of individuals who collaboratively perform the role.
 * [*] C. The organization must fully respect and trust the independent decisions of the Product Owner.
 * [ ] D. The Product Owner should coach the developers in self-management and cross-functionality.
@@ -31,11 +31,12 @@ AC
 
 [#explanation]
 --
-According to the Scrum Guide, the Product Owner may delegate work to others. However, the Product Owner must be one person who is fully trusted by the organization. The Product Owner job cannot be done by a committee.
 
-From the Scrum Guide:
+The Product Owner is allowed to delegate certain aspects of their job to others on the team, as the Scrum Guide indicates:
 
 "The Product Owner ... may delegate the responsibility to others. Regardless, the Product Owner remains accountable. For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review. The Product Owner is one person, not a committee."
+
+The organization must also fully trust the decisions of the Product Owner. They must be trusted to make quick decisions about the product so that developers can get fast responses and quickly resolve issues.
 
 --
 
