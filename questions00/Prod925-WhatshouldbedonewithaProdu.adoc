@@ -12,7 +12,7 @@ id: 925-63effbca9ebbe935e4c16ac4.
 
 [#query]
 --
-What should be done with a Product Backlog item (PBI) that did not meet the Scrum team's agreed upon Definition of Done by the end of a Sprint?
+What should be done with a Product Backlog item (PBI) that did not meet the Scrum Team's agreed upon Definition of Done by the end of a Sprint?
 --
 
 [#list]
@@ -20,7 +20,7 @@ What should be done with a Product Backlog item (PBI) that did not meet the Scru
 * [*] A. Return the item to the Product Backlog.
 * [ ] B. With the consent of the Product Owner and stakeholders, the PBI can be approved and released.
 * [ ] C. Automatically add the unfinished PBI to the next Sprint's backlog.
-* [*] D. Make sure the team knows this PBI will not be included in the current Sprint's Increment.
+* [*] D. Make sure the team knows that work on this PBI will not be included in the current Sprint's Increment.
 
 --
 ****
@@ -34,9 +34,9 @@ Incomplete PBIs not completed in a given Sprint are returned to the Product Back
 
 They are not automatically added to the next Sprint, as priorities may have changed since the prior round of Sprint Planning took place.
 
-And if the PBI is not completed, it definitely should not be added to the Increment. The Incrememt is only for completed work that meets the DoD.
+If a PBI is not completed, it definitely should not be added to the Increment. The Incrememt is only for completed work that meets the DoD.
 
-The Product Backlog is the prioritized list of features, requirements, and other work items that the development team plans to complete over the course of the project. During each Sprint, the team selects a subset of items from the Product Backlog to work on, creating a Sprint Backlog.
+The Product Backlog is the ordered list of features, requirements, and other work items that the development team plans to complete over the course of the project. During each Sprint, the team selects a subset of items from the Product Backlog to work on, creating a Sprint Backlog.
 
 One of the key principles of Scrum is that the team commits to completing the work it selects for the Sprint Backlog within the Sprint. However, if any Product Backlog items are not completed by the end of the Sprint, they are not automatically added to the next Sprint Backlog. Instead, they are returned to the Product Backlog for reprioritization and consideration for future Sprints.
 
