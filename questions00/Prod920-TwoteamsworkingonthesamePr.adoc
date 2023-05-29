@@ -30,7 +30,7 @@ B
 --
 This is false.
 
-Two teams working on the same project will work off the same Product Backlog. 
+Two teams working on the same product will work off the same Product Backlog. 
 
 They will also share the same Product Goal, Definition of Done and Product Owner.
 --
