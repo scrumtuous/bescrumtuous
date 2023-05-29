@@ -30,9 +30,10 @@ A
 
 [#explanation]
 --
-In the Scrum framework, the Product Owner is responsible for creating and maintaining the Product Backlog, which is a prioritized list of features, enhancements, and fixes that the Scrum Team will work on in order to deliver a product increment. 
+In the Scrum framework, the Product Owner is responsible for creating and maintaining the Product Backlog, which is an ordered list of features, enhancements, and fixes that the Scrum Team will work on in order to deliver a product Increment. 
 
-The Product Owner prioritizes the items in the Product Backlog based on the value they bring to the business. This means that items that are believed to provide the most value to the product's users and customers are placed at the top of the list, and those that are of lower priority are placed towards the bottom.
+The Product Owner prioritizes the items in the Product Backlog based on a variety of factors that relate to how the items bring value to the business. Generally speaking, items that are believed to provide the most value to the product's users and customers are placed at the top of the list, and those that are of lower priority are placed towards the bottom.
+
 --
 
 [#ka]
