@@ -3,14 +3,15 @@
 
 image::images/exam-sitting.jpg[""]
 
-
 <<<
+
+
 
 ==== Question 1
 
 --
 Every Sprint needs a Sprint Backlog. Which of the following two statements are true about the Sprint Backlog?
-(Choose 2.)
+(Choose 2)
 --
 
 
@@ -29,7 +30,7 @@ Every Sprint needs a Sprint Backlog. Which of the following two statements are t
 
 --
 The Sprint Goal is finalized during Sprint Planning and cannot be changed throughout the Sprint.
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -44,15 +45,15 @@ The Sprint Goal is finalized during Sprint Planning and cannot be changed throug
 
 --
 Which of the following is true about Sprint Planning in Scrum?
-(Choose 2.)
+(Choose 2)
 --
 
 
 --
 * [ ] A. The Sprint Goal must be finalized before the end of Sprint Planning and cannot change during the Sprint.
 * [ ] B. The Sprint Backlog must be finalized before the end of Sprint Planning and cannot change during the Sprint.
-* [ ] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event
-* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event
+* [ ] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event.
+* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event.
 
 --
 
@@ -61,16 +62,16 @@ Which of the following is true about Sprint Planning in Scrum?
 
 --
 Which of the following would be responsibilities a team's Scrum Master would fulfill?
-(Choose 2.)
+(Choose 2)
 --
 
 
 --
 * [ ] A. At the Sprint Review, the Scrum Master identifies which backlog items have met the Definition of Done and which have not.
-* [ ] B. The Scrum Master coaches Development Teams on the importance of keeping Scrum events within their time-box.
-* [ ] C. The Scrum Master helps to plan and advises on Scrum implementations within the organization.
-* [ ] D. The Scrum Master will assign tasks to Development Team members in order to maximize their utilization.
-* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA tickets or generating Sprint Burndown charts for the team.
+* [ ] B. The Scrum Master coaches the Scrum Team on the importance of keeping Scrum events within their timebox.
+* [ ] C. The Scrum Master helps to plan and advises on Scrum implementations within their organization.
+* [ ] D. The Scrum Master will assign tasks to development team members in order to maximize their utilization.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA and generating Sprint Burndown charts for the team.
 
 --
 
@@ -80,8 +81,8 @@ Which of the following would be responsibilities a team's Scrum Master would ful
 --
 A developer has come to you, the Scrum Master, expressing concerns about the lax attitudes the team has towards data privacy and security. The concerned developer believes there are serious security vulnerabilities in the existing code.
 
-How should the Scrum Master first respond to a Development Team member expressing such concerns?
-(Choose 1.)
+How should the Scrum Master first respond to a Scrum Developer expressing such concerns?
+(Choose 1)
 --
 
 
@@ -99,12 +100,12 @@ How should the Scrum Master first respond to a Development Team member expressin
 
 --
 What are the primary objectives served by the Definition of Done (DoD)?
-(Choose 4.)
+(Choose 4)
 --
 
 
 --
-* [ ] A. The DoD helps the Development Team estimate the number of Product Backlog items to select for the Sprint
+* [ ] A. The DoD helps the Scrum Developers estimate the number of Product Backlog items to select for the Sprint.
 * [ ] B. The DoD creates a common understanding across the team with regard to when development work is completed.
 * [ ] C. The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
 * [ ] D. The DoD describes the work that must be done before the Sprint is ended.
@@ -117,16 +118,16 @@ What are the primary objectives served by the Definition of Done (DoD)?
 ==== Question 7
 
 --
-In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
-(Choose 1.)
+In the absence of a person with quality assurance (QA) training on the team, what should a group of Scrum Developers do about all of the QA requirements that are part of the Definition of Done?
+(Choose 1)
 --
 
 
 --
-* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks
-* [ ] B. Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint
-* [ ] C. Have the development team train and learn the skills required to perform QA tasks
-* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
+* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks.
+* [ ] B. Complete each Product Backlog item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
+* [ ] C. Have the development team train and learn the skills required to perform QA tasks.
+* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done.
 
 --
 
@@ -136,7 +137,7 @@ In the absence of a person with Quality Assurance (QA) training on the team, wha
 --
 While they are no longer officially part of the Scrum Guide, there are three questions commonly answered by developers in the Daily Scrum. What are they?
 
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -155,8 +156,8 @@ While they are no longer officially part of the Scrum Guide, there are three que
 ==== Question 9
 
 --
-The Sprint Review is one of Scrum's time-boxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
-(Choose 1.)
+The Sprint Review is one of Scrum's timeboxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
+(Choose 1)
 --
 
 
@@ -174,7 +175,7 @@ The Sprint Review is one of Scrum's time-boxed events. According to the Scrum Gu
 
 --
 When three Scrum Teams work on the same product with the same Product Backlog, they must each have the same Sprint length.
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -189,7 +190,7 @@ When three Scrum Teams work on the same product with the same Product Backlog, t
 
 --
 Sprint Zero is the name the Scrum Guide gives to the first Sprint in a project.
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -204,12 +205,12 @@ Sprint Zero is the name the Scrum Guide gives to the first Sprint in a project.
 
 --
 According to the 2020 Scrum Guide, when does a Sprint officially come to an end?
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. When the predetermined length, or 'time box,' for the Sprint expires.
+* [ ] A. When the predetermined length, or 'timebox,' for the Sprint expires.
 * [ ] B. When all Product Backlog items are complete.
 * [ ] C. When all Product Backlog items selected for the Sprint are complete.
 * [ ] D. When a full increment that delivers value to the client is complete.
@@ -220,18 +221,18 @@ According to the 2020 Scrum Guide, when does a Sprint officially come to an end?
 ==== Question 13
 
 --
-A member of the development team has failed to integrate well with their peers.
+Despite ongoing coaching and facilitation, a member of the development team has failed to integrate well with their peers.
 
 The Scrum Developers have just informed you that the consensus is that the developer needs to be removed from the team.
 
 What should you do as a Scrum Master?
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. Facilitate team building activities to help the underperforming developer integrate better with the team.
-* [ ] B. Coach the development team on ways to improve communication between peers and help everyone on the team get along.
+* [ ] A. Continue to facilitate team building activities to help the underperforming developer integrate better with the team.
+* [ ] B. Continue to coach the development team on ways to improve communication between peers and help everyone on the team get along.
 * [ ] C. Help the team remove the unwanted developer and coach them on ways to do it in a manner that is fair and respectful.
 * [ ] D. Inform the development team that they do not have the authority to remove members from the team.
 
@@ -243,16 +244,16 @@ What should you do as a Scrum Master?
 --
 What techniques can a Scrum Master use to facilitate the prevention or removal of impediments in an organization?
 
-(Choose 3.)
+(Choose 3)
 --
 
 
 --
-* [ ] A. Coach management on how to use Scrum artifacts to achieve transparencey
-* [ ] B. Schedule Zoom calls for the development team
-* [ ] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox
-* [ ] D. Take notes for the developers during the Dailiy Scrum
-* [ ] E. Coach the developers on keeping the Daily Scrum within the timebox
+* [ ] A. Coach management on how to use Scrum artifacts to achieve transparency.
+* [ ] B. Schedule Zoom calls for the development team.
+* [ ] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox.
+* [ ] D. Take notes for the developers during the Daily Scrum.
+* [ ] E. Coach the developers on keeping the Daily Scrum within the timebox.
 
 --
 
@@ -265,7 +266,7 @@ The Product Owner is not attending Sprint Reviews and Sprint Retrospectives.
 The Product Owner also seems to have trouble ordering the Product Backlog in a way that maximizes its value. 
 
 What should the Scrum Master do in this situation?
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -275,7 +276,7 @@ What should the Scrum Master do in this situation?
 * [ ] C. Discuss the issue with the Product Owner and try to remove impediments to the PO attending Scrum events.
 * [ ] D. Coach the Product Owner on the importance of ordering the product backlog.
 * [ ] E. Replace the Product Owner with a senior member of the development team.
-* [ ] F. Remove the Product Owner from the Scrum Team
+* [ ] F. Remove the Product Owner from the Scrum Team.
 
 --
 
@@ -285,16 +286,16 @@ What should the Scrum Master do in this situation?
 --
 The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
 
-The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority Backlog Items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments and unfullfilled dependencies make the highest priority Backlog items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
 
 After 8 hours of Sprint Planning, the only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
-(Choose 3.)
+(Choose 3)
 --
 
 
 --
 * [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
-* [ ] B. Allow the development team to choose which Product Backlog items to make part of the development Sprint.
+* [ ] B. Trust the development team to choose which Product Backlog items to make part of the development Sprint.
 * [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
 * [ ] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
 * [ ] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
@@ -308,15 +309,16 @@ After 8 hours of Sprint Planning, the only thing the development team and the Pr
 Ten separate Scrum teams are developing a very complex and highly integrated product. 
 
 What role does the Scrum Master play in ensuring each team can successfully integrate their software together with other teams without merge conflicts or incompatible deployments?
-(Choose 1.)
+
+(Choose 1)
 --
 
 
 --
-* [ ] A. Have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog Items will be integrated together.
-* [ ] B. As the Scrum Master you should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
-* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task to help make integration easier.
-* [ ] D. The Product Owner(PO) is shared across all teams on the same project, so the PO should visit each team regularly to coordinate integrations.
+* [ ] A. The Scrum Master should have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog items will be integrated together.
+* [ ] B. The Scrum Master should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
+* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task. This will make integration easier.
+* [ ] D. Since the Product Owner (PO) is shared across all teams on the same project, the Scrum Master makes sure the PO visits each team regularly to coordinate integrations.
 
 --
 
@@ -324,19 +326,20 @@ What role does the Scrum Master play in ensuring each team can successfully inte
 ==== Question 18
 
 --
-You have been hired to be the Scrum Master for five separate Scrum Teams, all of whom are working to develop the same exact product. 
+You have been hired to be the Scrum Master for five separate Scrum Teams, all of which are working to develop the same exact product. 
 
-As a Scrum Master intent on facilitating and coaching around Scrum best practices, what would you recommend?
-(Choose 2.)
+As a Scrum Master intent on respecting the Scrum Guide and coaching around Scrum best practices, what would you recommend?
+
+(Choose 2)
 --
 
 
 --
-* [ ] A. There should be one Product Owner, shared across all teams.
-* [ ] B. There should be five Scrum Masters, with each one 100% dedicated to their team.
+* [ ] A. There should be one Product Owner shared across all teams.
+* [ ] B. There should be five Scrum Masters with each one 100% dedicated to their team.
 * [ ] C. There should be five Product Backlogs, one for each team.
 * [ ] D. There should be one Product Backlog shared across all teams.
-* [ ] E. There should be five Product Owners, with each one 100% dedicated to their team.
+* [ ] E. There should be five Product Owners with each one 100% dedicated to their team.
 * [ ] F. Multiple Scrum Teams cannot develop the same product at the same time.
 
 --
@@ -346,7 +349,7 @@ As a Scrum Master intent on facilitating and coaching around Scrum best practice
 
 --
 What is the number one, highest priority and responsibility of the Product Owner in Scrum?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -362,17 +365,17 @@ What is the number one, highest priority and responsibility of the Product Owner
 ==== Question 20
 
 --
-Two Scrum Teams working on the same Product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
+Two Scrum Teams working on the same product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
 
-What would you as a Scrum Master advise this team?
-(Choose 1.)
+How would you as a Scrum Master advise the team?
+(Choose 1)
 --
 
 
 --
 * [ ] A. Two teams working on the same project should have separate Product Backlogs, making this unnecessary.
 * [ ] B. Two separate Scrum Teams should not be openly discussing their development work with each other.
-* [ ] C. The Product Owner should be selecting Product Backlog Items for each team, so the joint meeting is unnecessary.
+* [ ] C. The Product Owner should be selecting Product Backlog items for each team, so the joint meeting is unnecessary.
 * [ ] D. Explain to the teams that Scrum forbids shared planning meetings.
 * [ ] E. Encourage the teams to be self-managed, encourage them to introduce new processes like the one they suggested, and have them introspect during the Sprint Retrospective and adapt accordingly.
 
@@ -387,17 +390,17 @@ Before the end of every Sprint, the Scrum Team must produce a usable, valuable I
 
 But what exactly constitutes a usable and valuable Increment?
 
-What is the extent of work a Development Team needs to perform on a Product Backlog item for it to be considered ready to be part of an Increment?
+How much work do the Scrum Developers need to perform on a Product Backlog item for it to be considered a full-fledged Increment?
 
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. The Development Team does as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
-* [ ] B. The Development Team does an proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
-* [ ] C. The Development Team works on a Product Backlog Item until the Scrum Master says it meets the Definition of Done
-* [ ] D. The Development Team works on a Product Backlog Item until it meets the agreed upon Definition of Done.
+* [ ] A. The Scrum Developers do as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
+* [ ] B. The Scrum Developers do  a proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
+* [ ] C. The Scrum Developers work on a Product Backlog item until the Scrum Master says it meets the Definition of Done
+* [ ] D. The Scrum Developers work on a Product Backlog item until it meets the agreed upon Definition of Done.
 
 --
 
@@ -405,10 +408,10 @@ What is the extent of work a Development Team needs to perform on a Product Back
 ==== Question 22
 
 --
-The Scrum Team has been assembled, the Product Owner has the backlog prioritized and everyone is ready for their very first Sprint!
+The Scrum Team has been assembled, the Product Owner has the backlog ordered and everyone is ready for their very first Sprint!
 
-What actions should a new Scrum Development Team take during the initial Sprint when starting a new project?
-(Choose 2.)
+What actions should a new Scrum  Team take during the initial Sprint when starting a new project?
+(Choose 2)
 --
 
 
@@ -425,21 +428,21 @@ What actions should a new Scrum Development Team take during the initial Sprint 
 ==== Question 23
 
 --
-Human resources have hired 75 new developers to work on a company-defining flagship product.
+Human resources (HR) has just hired 75 new developers to work on a company-defining flagship product.
 
-The head of Human Resources has asked you, the Scrum Master, to help with dividing these new hires into Scrum Teams.
+The head of HR has asked you, the Scrum Master, to help with dividing these new hires into development teams.
 
-What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple Development Teams?
+What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple development teams?
 
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. Assign 7-10 trusted developers to be team leads and let the team leaders perform team allocation based on the skills their teams will require.
-* [ ] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, Stakeholders, or outside party.
-* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority, and experience.
-* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority, and experience.
+* [ ] A. Nominate 7-10 trusted developers to be team leads and let the team leaders perform member allocation based on the skills their teams will require.
+* [ ] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, stakeholders or outside party.
+* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority and experience.
+* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority and experience.
 
 --
 
@@ -448,21 +451,21 @@ What is the best way to divide a group of 75 new developers, of varying skills a
 
 --
 
-The product under development is very advanced, and will likely be fairly complicated for new users. 
+The product under development is very advanced and will likely be fairly complicated for new users. 
 
-Part of the product backlog includes the creation of extensive user documentation, including screen-shots, how-to guides and even video demos.
+Part of the Product Backlog includes the creation of extensive user documentation including screen-shots, how-to guides and even video demos.
 
 According to the Scrum Guide, who is responsible for the delivery of technical documentation required for a software product?
 
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. The Scrum Master creates all the technical documentation with oversight from the Development Team.
-* [ ] B. Technical documentation is typically done by a specialized team external to the Development Team.
-* [ ] B. Technical documentation is done by a specialized sub-team inside the Development Team.
-* [ ] D. If it's a Product Backlog item, the Development Team will need to find the time to create the technical documentation themselves.
+* [ ] A. The Scrum Master creates all the technical documentation with oversight from the development team.
+* [ ] B. Technical documentation is typically done by a specialized team external to the development team.
+* [ ] B. Technical documentation is done by a specialized sub-team inside the Scrum Team.
+* [ ] D. If it's a Product Backlog item, the Scrum Developers will need to find the time to create the technical documentation themselves.
 * [ ] E. The creation of technical documentation is not a concern of a Scrum Team doing software development.
 
 --
@@ -477,14 +480,14 @@ There are three roles, or as the Scrum Guide puts it, 'accountabilities' in Scru
 - The Product Owner
 - The Developers
 
-What are two key characteristics and responsibilities of the Product Owner?
+What are key characteristics and responsibilities of the Product Owner?
 
-(Choose 2.)
+(Choose 2)
 --
 
 
 --
-* [ ] A. The Product Owner the the one who orders and puts the the Product Backlog in a prioritized sequence.
+* [ ] A. The Product Owner is the one who orders the Product Backlog.
 * [ ] B. The Product Owner is a single person and the role cannot be shared.
 * [ ] C. The Product Owner commits 100% of their time to their Scrum Team.
 * [ ] D. Multiple individuals with product knowledge can share the Product Owner role on a Scrum Team.
@@ -526,11 +529,11 @@ The correct answers are A and D.
 --
 The Sprint Backlog is a key artifact in the Scrum framework. 
 
-The Sprint Backlog outlines the work that the Development Team plans to complete during the current Sprint. It is created and managed by the Scrum Developers, who are responsible for delivering at least one product increment before the end of the Sprint.
+The Sprint Backlog outlines the work that the Scrum Developers plan to complete during the current Sprint. It is created and managed by the Scrum Developers, which makes sense because it is the developers who are responsible for delivering at least one product Increment before the end of the Sprint.
 
-The Sprint Backlog is managed by the Scrum Developers because they are the ones who are responsible for organizing, planning, and executing the work. The Developers have the technical knowledge and skills required to create the plan, estimate the work, and track the progress during the Sprint.
+The Sprint Backlog is managed by the Scrum Developers because they are the ones who are responsible for organizing, planning, and executing the work. The Developers have the technical knowledge and skills required to create the plan, estimate the work and track the progress during the Sprint.
 
-You can assume that the Product Owner has a vision, but has absolutely no clue how to build it. Only the developers have that knowledge.
+You can always assume that the Product Owner has a vision, but has absolutely no clue how to build it. Only the developers have that knowledge.
 
 --
 
@@ -564,7 +567,7 @@ This is true.
 
 The Sprint Goal is finalized during Sprint Planning and remains constant throughout the Sprint. 
 
-Changes can be made to the Sprint Plan and the Sprint Backlog during a Sprint, but the Sprint Goal remainds constant.
+Changes can be made to the Sprint Plan and the Sprint Backlog during a Sprint, but the Sprint Goal remains constant.
 
 "The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning."
 --
@@ -585,8 +588,8 @@ Which of the following is true about Sprint Planning in Scrum?
 --
 * [*] A. The Sprint Goal must be finalized before the end of Sprint Planning and cannot change during the Sprint.
 * [ ] B. The Sprint Backlog must be finalized before the end of Sprint Planning and cannot change during the Sprint.
-* [*] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event
-* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event
+* [*] C. Scrum Teams working on the same Product Backlog may attend another team's Scrum Planning event.
+* [ ] D. Scrum Teams working on the same Product Backlog may not attend another team's Scrum Planning event.
 
 --
 ****
@@ -617,10 +620,10 @@ Which of the following would be responsibilities a team's Scrum Master would ful
 [#list]
 --
 * [ ] A. At the Sprint Review, the Scrum Master identifies which backlog items have met the Definition of Done and which have not.
-* [*] B. The Scrum Master coaches Development Teams on the importance of keeping Scrum events within their time-box.
-* [*] C. The Scrum Master helps to plan and advises on Scrum implementations within the organization.
-* [ ] D. The Scrum Master will assign tasks to Development Team members in order to maximize their utilization.
-* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA tickets or generating Sprint Burndown charts for the team.
+* [*] B. The Scrum Master coaches the Scrum Team on the importance of keeping Scrum events within their timebox.
+* [*] C. The Scrum Master helps to plan and advises on Scrum implementations within their organization.
+* [ ] D. The Scrum Master will assign tasks to development team members in order to maximize their utilization.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA and generating Sprint Burndown charts for the team.
 
 --
 ****
@@ -631,9 +634,9 @@ The correct answers are B and C.
 
 [#explanation]
 --
-The Scrum Master is responsible for ensuring that the Scrum framework is followed by the team and that the team is continuously improving. Two key aspects of this responsibility are facilitating time-boxed meetings and coaching people on Scrum values.
+The Scrum Master is responsible for ensuring the Scrum framework is followed by the team and that the team is continuously improving. Two key aspects of this responsibility are facilitating timeboxed meetings and coaching people on Scrum values.
 
-The Scrum Master is also responsible for helping the organization they work for to plan for Scrum adoption and advise on how to implement Scrum successfully.
+The Scrum Master is also responsible for helping their organization to plan for Scrum adoption and advise on how to implement Scrum successfully.
 
 From the Scrum Guide:
 
@@ -657,7 +660,7 @@ The Scrum Master serves the organization in several ways, including:
 --
 A developer has come to you, the Scrum Master, expressing concerns about the lax attitudes the team has towards data privacy and security. The concerned developer believes there are serious security vulnerabilities in the existing code.
 
-How should the Scrum Master first respond to a Development Team member expressing such concerns?
+How should the Scrum Master first respond to a Scrum Developer expressing such concerns?
 --
 
 [#list]
@@ -677,15 +680,8 @@ The correct answer is E.
 
 [#explanation]
 --
-A Scrum Developer should discuss security concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so, for the following reasons:
 
-Security Risks Can Be Immediate: Security risks can be serious and immediate, and they require immediate attention. Waiting until a Sprint Review or Sprint Retrospective to raise security concerns could leave the product and organization vulnerable to security breaches.
-
-Collaboration and Problem-Solving: By discussing security concerns with the development team immediately, the team can collaborate and work together to find a solution to the problem. This approach helps to prevent the security risk from escalating and ensures that everyone is aware of the issue.
-
-Agile Values: The Agile Manifesto emphasizes the importance of individuals and interactions over processes and tools. By discussing security concerns immediately with the development team, the Scrum Developer is demonstrating a commitment to this Agile value and promoting collaboration and communication within the team.
-
-Continuous Improvement: Agile methodologies emphasize continuous improvement, and this requires a culture of transparency and openness. By raising security concerns immediately, the Scrum Developer is contributing to this culture and encouraging the team to identify areas for improvement.
+A Scrum Developer should discuss major concerns immediately with their development team rather than waiting for a Sprint Review or Sprint Retrospective to do so.
 
 If the developer does not feel comfortable discussing the issue with the team, that points to an even deeper problem with team dynamics, which is an impediment to transparency. This would be an impediment the Scrum Master would be interested in coaching around.
 
@@ -706,7 +702,7 @@ What are the primary objectives served by the Definition of Done (DoD)?
 
 [#list]
 --
-* [*] A. The DoD helps the Development Team estimate the number of Product Backlog items to select for the Sprint
+* [*] A. The DoD helps the Scrum Developers estimate the number of Product Backlog items to select for the Sprint.
 * [*] B. The DoD creates a common understanding across the team with regard to when development work is completed.
 * [ ] C. The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
 * [ ] D. The DoD describes the work that must be done before the Sprint is ended.
@@ -722,13 +718,13 @@ The correct answers are A, B, E and F.
 
 [#explanation]
 --
-Scrum's "Definition of Done" is a shared understanding among the Scrum Team of what it means for a Product Backlog item to be considered complete. It is an agreed-upon set of criteria that a product backlog item (PBI), or a decomposition of a PBI, must meet before it can be considered "complete."
+Scrum's "Definition of Done" is a shared understanding among the Scrum Team of what it means for a Product Backlog item to be considered complete. It is an agreed-upon set of criteria that a Product Backlog item (PBI), or a decomposition of a PBI, must meet before it can be considered "complete."
 
-By establishing a clear "Definition of Done," Scrum increases transparency by providing a shared understanding of what constitutes a completed product backlog item. This shared understanding helps ensure that everyone involved in the development process has the same expectations of what is expected in the final product.
+By establishing a clear "Definition of Done," Scrum increases transparency by providing a shared understanding of what constitutes a completed Product Backlog item. This shared understanding helps ensure that everyone involved in the development process has the same expectations of what is expected in the final product.
 
-The "Definition of Done" also helps developers estimate how much work to add to the Sprint Backlog. Because the team has a clear understanding of what constitutes a completed product backlog item, they can more accurately estimate how much work needs to be done to achieve that level of completeness. This can help the team better plan their work for the sprint and avoid over-committing to work they may not be able to complete.
+The "Definition of Done" also helps developers estimate how much work to add to the Sprint Backlog. Because the team has a clear understanding of what constitutes a completed product backlog item, they can more accurately estimate how much work needs to be done to achieve that level of completeness. This can help the team better plan their work for the Sprint and avoid over-committing to work they may not be able to complete.
 
-Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a product backlog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
+Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a Product Bvacklog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
 
 It's also stated in the Scrum Guide that when multiple teams work on the same Product, they should all share the same Definition of Done so they are all working within the same guidelines.
 
@@ -746,15 +742,15 @@ It's also stated in the Scrum Guide that when multiple teams work on the same Pr
 
 [#query]
 --
-In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
+In the absence of a person with quality assurance (QA) training on the team, what should a group of Scrum Developers do about all of the QA requirements that are part of the Definition of Done?
 --
 
 [#list]
 --
-* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks
-* [ ] B. Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint
-* [*] C. Have the development team train and learn the skills required to perform QA tasks
-* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
+* [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks.
+* [ ] B. Complete each Product Backlog item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
+* [*] C. Have the development team train and learn the skills required to perform QA tasks.
+* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done.
 
 --
 ****
@@ -765,9 +761,9 @@ The correct answer is C.
 
 [#explanation]
 --
-The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
+The Scrum development team must be cross-functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
-In this case, if QA is required to meet the definition of done, then someone, or everyone, on the development team must learn QA.
+In this case, if QA is required to meet the definition of done, then someone, or everyone on the development team must learn QA.
 --
 
 
@@ -802,9 +798,9 @@ The correct answers are B, D and F.
 
 [#explanation]
 --
-At the Daily Scrum, the Development Team commonly shares what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do until the next Daily Scrum.
+At the Daily Scrum, the Scrum Developers commonly share what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do until the next Daily Scrum.
 
-Also known as the '3 Daily Scrum' questions, these questions were included in previous version of the Scrum Guide, but were removed in the 2020 Scrum Guide, not because they are bad, but because Developers should be free to run the Daily Scrum in any manner they like.
+Also known as the '3 Daily Scrum questions', these questions were included in previous version of the Scrum Guide, but were removed in the 2020 Scrum Guide update, not because they are bad, but because developers should be free to run the Daily Scrum in any manner they like.
 --
 
 
@@ -816,7 +812,7 @@ Also known as the '3 Daily Scrum' questions, these questions were included in pr
 
 [#query]
 --
-The Sprint Review is one of Scrum's time-boxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
+The Sprint Review is one of Scrum's timeboxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
 --
 
 [#list]
@@ -887,11 +883,11 @@ The Scrum Guide says teams working on the same Product must have:
 - The same Product Backlog
 - The same Definition of Done
 
-But should the teams start their Sprints on the same day? End them on the same day? Make their Sprints the same lenght?
+Should the teams start their Sprints on the same day? End Springs on the same day? Make their Sprints the same lenght?
 
-The Scrum Guide is silent on the issue. It's up to the team to decide what is best for them.
+The Scrum Guide is silent on the issue. It's up to the team to decide what is best.
 
-The Scrum self-identifies as an 'incomplete framework'. It's just a guide. It doesn't have all the answers.
+Scrum self-identifies as an 'incomplete framework'. It's just a guide. It doesn't have all the answers.
 
 
 --
@@ -924,11 +920,11 @@ The correct answer is B.
 --
 There is no such thing as a 'Sprint Zero' according to the Scrum Guide. 
 
-There is no such thing as a 'Release Sprint,' 'Integration Sprint' or an 'Infrastructure Sprint' according to the Scrum Guide. 
+Furthermore, the Scrum Guide makes no references to a 'Release Sprint,' 'Integration Sprint' or an 'Infrastructure Sprint.'
 
 These phrases on the Scrum Master Certification exam will almost always be red herrings that point to an incorrect answer.
 
-Scrum just has Sprints. And every Sprint must create a usable and valuable Increment of work. There are no Sprints in Scrum where you 'just set things up' or 'just get the infrastructure working.' 
+Scrum just has Sprints - plain, ordinary Sprints that must create a usable and valuable Increment of work. There are no Sprints in Scrum where you 'just set things up' or 'just get the infrastructure working.' 
 
 --
 
@@ -946,7 +942,7 @@ According to the 2020 Scrum Guide, when does a Sprint officially come to an end?
 
 [#list]
 --
-* [*] A. When the predetermined length, or 'time box,' for the Sprint expires.
+* [*] A. When the predetermined length, or 'timebox,' for the Sprint expires.
 * [ ] B. When all Product Backlog items are complete.
 * [ ] C. When all Product Backlog items selected for the Sprint are complete.
 * [ ] D. When a full increment that delivers value to the client is complete.
@@ -964,9 +960,11 @@ A Sprint expires when the predetermined length for the Sprint expires.
 
 A Sprint may be two weeks, three weeks or four weeks. That's up to the team to decide.
 
-One the time allotted for the Sprint is met, the Sprint ends and a new Sprint begins.
+Once the time allotted for the Sprint expires, the Sprint ends and a new Sprint begins.
 
 Even if Product Backlog items are not finished, or even if the team failed to deliver any Increment of value, the Sprint is not extended. When the allotted time-box is met, the Sprint ends.
+
+To answer this question even more concisely, the Sprint ends at the end of the Sprint Retrospective. The Sprint Retrospective is the last event in Scrum, and when this event finishes, a new Sprint begins. 
 
 --
 
@@ -979,7 +977,7 @@ Even if Product Backlog items are not finished, or even if the team failed to de
 
 [#query]
 --
-A member of the development team has failed to integrate well with their peers.
+Despite ongoing coaching and facilitation, a member of the development team has failed to integrate well with their peers.
 
 The Scrum Developers have just informed you that the consensus is that the developer needs to be removed from the team.
 
@@ -988,8 +986,8 @@ What should you do as a Scrum Master?
 
 [#list]
 --
-* [ ] A. Facilitate team building activities to help the underperforming developer integrate better with the team.
-* [ ] B. Coach the development team on ways to improve communication between peers and help everyone on the team get along.
+* [ ] A. Continue to facilitate team building activities to help the underperforming developer integrate better with the team.
+* [ ] B. Continue to coach the development team on ways to improve communication between peers and help everyone on the team get along.
 * [*] C. Help the team remove the unwanted developer and coach them on ways to do it in a manner that is fair and respectful.
 * [ ] D. Inform the development team that they do not have the authority to remove members from the team.
 
@@ -1029,11 +1027,11 @@ What techniques can a Scrum Master use to facilitate the prevention or removal o
 
 [#list]
 --
-* [*] A. Coach management on how to use Scrum artifacts to achieve transparencey
-* [ ] B. Schedule Zoom calls for the development team
-* [*] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox
-* [ ] D. Take notes for the developers during the Dailiy Scrum
-* [*] E. Coach the developers on keeping the Daily Scrum within the timebox
+* [*] A. Coach management on how to use Scrum artifacts to achieve transparency.
+* [ ] B. Schedule Zoom calls for the development team.
+* [*] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox.
+* [ ] D. Take notes for the developers during the Daily Scrum.
+* [*] E. Coach the developers on keeping the Daily Scrum within the timebox.
 
 --
 ****
@@ -1049,9 +1047,11 @@ One of the responsibilities of the Scrum Master is to coach the organization in 
 
 When it comes to removing impediments, those impediments deal specifically with issues related to Scrum and the inappropriate application of Scrum.
 
-So if an impediment is that a team is being micromanaged, the Scrum Master would remove that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
+If an impediment is that a team is being micromanaged, the Scrum Master would remove that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
 
-For the Scrum Team itself, the Scrum Master's job is to coach them on the proper application of the Scrum Guide. The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help remove that impediment.
+For the Scrum Team itself, the Scrum Master's job is to coach them on the proper application of the Scrum Guide. 
+
+The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help remove that impediment.
 
 
 
@@ -1080,7 +1080,7 @@ What should the Scrum Master do in this situation?
 * [*] C. Discuss the issue with the Product Owner and try to remove impediments to the PO attending Scrum events.
 * [*] D. Coach the Product Owner on the importance of ordering the product backlog.
 * [ ] E. Replace the Product Owner with a senior member of the development team.
-* [ ] F. Remove the Product Owner from the Scrum Team
+* [ ] F. Remove the Product Owner from the Scrum Team.
 
 --
 ****
@@ -1093,9 +1093,9 @@ The correct answers are A, C and D.
 --
 It is the Scrum Master's job to work with team members and help them understand Scrum theory and practice.
 
-Coaching the Product Owner on why Scrum Events are important and facilitating ways the Product Owner can get more value out of these Scrum Events is one of the Scrum Master's jobs.
+Coaching the Product Owner on why Scrum events are important and facilitating ways the Product Owner can get more value out of these Scrum events is one of the Scrum Master's jobs.
 
-The Scrum Master should also coach this Product Owner on the fact that the PO is the one who maximizes the value generated by the Scrum Team, and the primary way that happens is by ordering the Product Backlog by priority.
+The Scrum Master should also coach this Product Owner on the fact that the PO is the one who maximizes the value generated by the Scrum Team, and the primary way that happens is by properly ordering the Product Backlog.
 
 "The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization."
 --
@@ -1111,7 +1111,7 @@ The Scrum Master should also coach this Product Owner on the fact that the PO is
 --
 The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
 
-The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority Backlog Items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments and unfullfilled dependencies make the highest priority Backlog items impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. 
 
 After 8 hours of Sprint Planning, the only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
 --
@@ -1119,7 +1119,7 @@ After 8 hours of Sprint Planning, the only thing the development team and the Pr
 [#list]
 --
 * [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
-* [*] B. Allow the development team to choose which Product Backlog items to make part of the development Sprint.
+* [*] B. Trust the development team to choose which Product Backlog items to make part of the development Sprint.
 * [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
 * [*] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
 * [*] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
@@ -1137,9 +1137,9 @@ You don't ever extend a Scrum event beyond its timebox.
 
 Disagreements will happen. When they do, move forward and start development. 
 
-A Sprint will only last a month at most. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
+A Sprint will only last a month at most, at most. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
 
-The development team must be trusted to choose what is right in terms of what to develop over the short term. And the term is 'short', and adaptation happens daily, so if the Sprint Goal goes out of focus, the team can change to bring the goal back on target.
+The development team must be trusted to choose what is right in terms of what to develop over the short term. 
 --
 
 
@@ -1154,14 +1154,15 @@ The development team must be trusted to choose what is right in terms of what to
 Ten separate Scrum teams are developing a very complex and highly integrated product. 
 
 What role does the Scrum Master play in ensuring each team can successfully integrate their software together with other teams without merge conflicts or incompatible deployments?
+
 --
 
 [#list]
 --
-* [ ] A. Have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog Items will be integrated together.
-* [*] B. As the Scrum Master you should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
-* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task to help make integration easier.
-* [ ] D. The Product Owner(PO) is shared across all teams on the same project, so the PO should visit each team regularly to coordinate integrations.
+* [ ] A. The Scrum Master should have the Product Owner coordinate with a designated team lead from each Scrum Team and reach an agreement on when Product Backlog items will be integrated together.
+* [*] B. The Scrum Master should coach the ten teams on how to be self-managed and have the teams come up with their own solutions on how to integrate code together.
+* [ ] C. The Scrum Master should visit each team at the start of their Sprints to ensure no two teams are working on the same task. This will make integration easier.
+* [ ] D. Since the Product Owner (PO) is shared across all teams on the same project, the Scrum Master makes sure the PO visits each team regularly to coordinate integrations.
 
 --
 ****
@@ -1174,7 +1175,7 @@ The correct answer is B.
 --
 If you think a Scrum Master or a Product Owner is going to be able to figure out how to integrate code across 10 separate teams working on a complicated project, they you've never met a Scrum Master or a Product Owner.
 
-The Product Owner manages the Product Backlog, and the Scrum Master coaches and facilitates, but they can't solve technical issues for the development teams. 
+The Product Owner manages the Product Backlog and the Scrum Master coaches and facilitates, but they can't solve technical issues for the development teams. 
 
 All a Scrum Master can do is coach those teams and help them discover their own solutions that work within the intentionally incomplete framework known as Scrum.
 
@@ -1190,18 +1191,19 @@ All a Scrum Master can do is coach those teams and help them discover their own 
 
 [#query]
 --
-You have been hired to be the Scrum Master for five separate Scrum Teams, all of whom are working to develop the same exact product. 
+You have been hired to be the Scrum Master for five separate Scrum Teams, all of which are working to develop the same exact product. 
 
-As a Scrum Master intent on facilitating and coaching around Scrum best practices, what would you recommend?
+As a Scrum Master intent on respecting the Scrum Guide and coaching around Scrum best practices, what would you recommend?
+
 --
 
 [#list]
 --
-* [*] A. There should be one Product Owner, shared across all teams.
-* [ ] B. There should be five Scrum Masters, with each one 100% dedicated to their team.
+* [*] A. There should be one Product Owner shared across all teams.
+* [ ] B. There should be five Scrum Masters with each one 100% dedicated to their team.
 * [ ] C. There should be five Product Backlogs, one for each team.
 * [*] D. There should be one Product Backlog shared across all teams.
-* [ ] E. There should be five Product Owners, with each one 100% dedicated to their team.
+* [ ] E. There should be five Product Owners with each one 100% dedicated to their team.
 * [ ] F. Multiple Scrum Teams cannot develop the same product at the same time.
 
 --
@@ -1213,24 +1215,15 @@ The correct answers are A and D.
 
 [#explanation]
 --
-In Scrum, the Product Backlog is the single, prioritized list of items that define what needs to be done to achieve the project's goal. The Product Owner is responsible for managing the Product Backlog, ensuring that it is constantly refined and prioritized, and that the development team has a clear understanding of what needs to be built and why.
+In Scrum, the Product Backlog is the single, ordered list of items that define what needs to be done to complete the project. The Product Owner is responsible for managing the Product Backlog, ensuring that it is constantly refined and ordered, and that the development team has a clear understanding of what needs to be built and why.
 
-When multiple teams are building the same project, they must share:
+When multiple teams are building the same product, they must share:
 
 - A common Product Backlog
 - The same Product Owner
 - A common Product Goal
 - The same Definition of Done
 
-There are several reasons why the Scrum Guide requires this:
-
-Consistency: By having a common Product Backlog and Product Owner, all teams are working towards the same set of goals and priorities. This ensures that everyone is on the same page and working towards the same objectives.
-
-Collaboration: By sharing a common Product Backlog and Product Owner, teams can collaborate more easily and share information more effectively. They can work together to refine and prioritize the backlog, ensuring that it reflects the needs of all stakeholders.
-
-Alignment: By having a common backlog and Product Owner, the entire organization is more likely to work towards the same objectives.
-
-Efficiency: A common backlog and Product Owner helps to improve the efficiency of the development process. Teams can work together to identify dependencies and plan their work more effectively, avoiding duplication of effort and ensuring that everyone is working on the most important tasks.
 
 --
 
@@ -1268,9 +1261,10 @@ The answer to this question comes right out of the Scrum Guide:
 
 The Scrum Guide does not mention the term "use cases" or "user stories" so any reference to them on the Scrum certification exam is normally an _incorrect_ answer.
 
-"Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum.
+"Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to the Scrum Guide, not the Product Owner.
 
 Note that the _Developers_ select Product Backlog Items to work on during the Sprint, not the Scrum Master or the Product Owner.
+
 --
 
 
@@ -1282,16 +1276,16 @@ Note that the _Developers_ select Product Backlog Items to work on during the Sp
 
 [#query]
 --
-Two Scrum Teams working on the same Product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
+Two Scrum Teams working on the same product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
 
-What would you as a Scrum Master advise this team?
+How would you as a Scrum Master advise the team?
 --
 
 [#list]
 --
 * [ ] A. Two teams working on the same project should have separate Product Backlogs, making this unnecessary.
 * [ ] B. Two separate Scrum Teams should not be openly discussing their development work with each other.
-* [ ] C. The Product Owner should be selecting Product Backlog Items for each team, so the joint meeting is unnecessary.
+* [ ] C. The Product Owner should be selecting Product Backlog items for each team, so the joint meeting is unnecessary.
 * [ ] D. Explain to the teams that Scrum forbids shared planning meetings.
 * [*] E. Encourage the teams to be self-managed, encourage them to introduce new processes like the one they suggested, and have them introspect during the Sprint Retrospective and adapt accordingly.
 
@@ -1308,7 +1302,8 @@ Scrum is self-described as an incomplete framework. That means there is a great 
 
 Generally speaking, if Scrum doesn't explicitly forbid it, then teams are free to explore it. 
 
-Shared Sprint Planning meetings might be a great process for the team to implement. Many large companies do exactly that!
+Shared Sprint Planning meetings might be a great process for the teams to implement. Many large companies do exactly that! The Scrum Master should encourage such experimentation.
+
 --
 
 
@@ -1325,16 +1320,16 @@ Before the end of every Sprint, the Scrum Team must produce a usable, valuable I
 
 But what exactly constitutes a usable and valuable Increment?
 
-What is the extent of work a Development Team needs to perform on a Product Backlog item for it to be considered ready to be part of an Increment?
+How much work do the Scrum Developers need to perform on a Product Backlog item for it to be considered a full-fledged Increment?
 
 --
 
 [#list]
 --
-* [ ] A. The Development Team does as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
-* [ ] B. The Development Team does an proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
-* [ ] C. The Development Team works on a Product Backlog Item until the Scrum Master says it meets the Definition of Done
-* [*] D. The Development Team works on a Product Backlog Item until it meets the agreed upon Definition of Done.
+* [ ] A. The Scrum Developers do as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
+* [ ] B. The Scrum Developers do  a proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
+* [ ] C. The Scrum Developers work on a Product Backlog item until the Scrum Master says it meets the Definition of Done
+* [*] D. The Scrum Developers work on a Product Backlog item until it meets the agreed upon Definition of Done.
 
 --
 ****
@@ -1346,9 +1341,9 @@ The correct answer is D.
 [#explanation]
 --
 
-During Sprint Planning, the Developers pick Product Backlog items they believe the can complete before the end of the Sprint.
+During Sprint Planning, the Scrum Developers pick Product Backlog items they believe the can completed before the end of the Sprint.
 
-When a work meets the Definition of Done, the Product Backlog item is said to be complete, the work becomes part of the Increment, and the results are shared with stakeholders at the Sprint Review.
+When a selected item meets the Definition of Done, the feature is said to be complete, the work becomes part of the Increment, and the results are shared with stakeholders at the Sprint Review.
 
 If developers fail to complete the Product Backlog item during the Sprint, the item returns to the Product Backlog. It may or may not be selected for the next Sprint. That's up for the team to decide at the next Sprint planning event.
 
@@ -1363,9 +1358,9 @@ If developers fail to complete the Product Backlog item during the Sprint, the i
 
 [#query]
 --
-The Scrum Team has been assembled, the Product Owner has the backlog prioritized and everyone is ready for their very first Sprint!
+The Scrum Team has been assembled, the Product Owner has the backlog ordered and everyone is ready for their very first Sprint!
 
-What actions should a new Scrum Development Team take during the initial Sprint when starting a new project?
+What actions should a new Scrum  Team take during the initial Sprint when starting a new project?
 --
 
 [#list]
@@ -1385,11 +1380,11 @@ The correct answers are A and E.
 
 [#explanation]
 --
-Every Sprint in Scrum must produce a valuable, usable increment of work, and this increment of work must be something that becomes part of the final product.
+Every Sprint in Scrum must produce a valuable, usable Increment of work and this Increment of work must be something that becomes part of the final product.
 
 There is no Sprint Zero in Scrum. There is no 'initial setup Sprint' in Scrum where teams can focus on designs or infrastructure. 
 
-Every Sprint must produce something of value. Every Sprint must produce an increment of work that will incrementally, over time, lead to a complete and finished product.
+Every Sprint must produce something of value. Every Sprint must produce an Increment of work that will incrementally, over time, lead to a complete and finished product.
 
 --
 
@@ -1402,20 +1397,20 @@ Every Sprint must produce something of value. Every Sprint must produce an incre
 
 [#query]
 --
-Human resources have hired 75 new developers to work on a company-defining flagship product.
+Human resources (HR) has just hired 75 new developers to work on a company-defining flagship product.
 
-The head of Human Resources has asked you, the Scrum Master, to help with dividing these new hires into Scrum Teams.
+The head of HR has asked you, the Scrum Master, to help with dividing these new hires into development teams.
 
-What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple Development Teams?
+What is the best way to divide a group of 75 new developers, of varying skills and experience, into multiple development teams?
 
 --
 
 [#list]
 --
-* [ ] A. Assign 7-10 trusted developers to be team leads and let the team leaders perform team allocation based on the skills their teams will require.
-* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, Stakeholders, or outside party.
-* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority, and experience.
-* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority, and experience.
+* [ ] A. Nominate 7-10 trusted developers to be team leads and let the team leaders perform member allocation based on the skills their teams will require.
+* [*] B. The 75 developers should be allowed to divide themselves into teams on their own without direct intervention from the Scrum Master, Product Owner, stakeholders or outside party.
+* [ ] C. Have the Scrum Master and Product Owner work together to create teams that balance skills, seniority and experience.
+* [ ] D. Have an external, impartial party like the Human Resources department create teams that balance skills, seniority and experience.
 
 --
 ****
@@ -1426,19 +1421,17 @@ The correct answer is B.
 
 [#explanation]
 --
-Dividing a group of 100 developers into multiple development teams can be a complex process that requires careful consideration of many factors, including the developers' skills and experience, the nature of the project, and the organizational structure of the company.
+Dividing a group of 75 developers into multiple development teams can be a complex process that requires careful consideration of many factors including the developers' skills, experience and the nature of the project.
 
-One of the best and most Agile ways to divide the group is to use a self-organizing approach, which allows the developers to organize themselves into teams based on their skills and experience. This approach has several benefits:
+One of the best and most Agile ways to divide a group is to use a self-organizing approach, which allows the developers to organize themselves into teams based on their skills and experience. This approach has several benefits:
 
-Empowerment: When developers are allowed to organize themselves, they feel empowered and are more likely to take ownership of their work and be motivated to succeed.
-
-Autonomy: Self-organizing teams have the autonomy to make decisions about how to approach their work, which can lead to more innovative solutions and increased productivity.
-
-Flexibility: The self-organizing approach allows for flexibility in team composition and size, which can be adjusted as the project evolves.
+- Empowerment: When developers are allowed to organize themselves, they feel empowered and are more likely to take ownership of their work and be motivated to succeed.
+- Autonomy: Self-organizing teams have the autonomy to make decisions about how to approach their work, which can lead to more innovative solutions and increased productivity.
+- Flexibility: The self-organizing approach allows for flexibility in team composition and size, which can be adjusted as the project evolves.
 
 To implement this approach, the company can provide guidelines and support for the developers to form their teams. Giving the developers insight into the product, what is being built and the skill required would be helpful as well. Informed decisions are the best decisions, but there should not be direct intervention from any outside parties.
 
-This also comes with the understanding that the teams will be allowed to self-organize again in the future if the teams believe it is necessary to do so.
+This also comes with the understanding that the teams will be allowed to re-organize again in the future if the teams believe it is necessary to do so.
 
 --
 
@@ -1452,9 +1445,9 @@ This also comes with the understanding that the teams will be allowed to self-or
 [#query]
 --
 
-The product under development is very advanced, and will likely be fairly complicated for new users. 
+The product under development is very advanced and will likely be fairly complicated for new users. 
 
-Part of the product backlog includes the creation of extensive user documentation, including screen-shots, how-to guides and even video demos.
+Part of the Product Backlog includes the creation of extensive user documentation including screen-shots, how-to guides and even video demos.
 
 According to the Scrum Guide, who is responsible for the delivery of technical documentation required for a software product?
 
@@ -1462,10 +1455,10 @@ According to the Scrum Guide, who is responsible for the delivery of technical d
 
 [#list]
 --
-* [ ] A. The Scrum Master creates all the technical documentation with oversight from the Development Team.
-* [ ] B. Technical documentation is typically done by a specialized team external to the Development Team.
-* [ ] B. Technical documentation is done by a specialized sub-team inside the Development Team.
-* [*] D. If it's a Product Backlog item, the Development Team will need to find the time to create the technical documentation themselves.
+* [ ] A. The Scrum Master creates all the technical documentation with oversight from the development team.
+* [ ] B. Technical documentation is typically done by a specialized team external to the development team.
+* [ ] B. Technical documentation is done by a specialized sub-team inside the Scrum Team.
+* [*] D. If it's a Product Backlog item, the Scrum Developers will need to find the time to create the technical documentation themselves.
 * [ ] E. The creation of technical documentation is not a concern of a Scrum Team doing software development.
 
 --
@@ -1483,13 +1476,13 @@ Option D is correct.
 
 A Scrum Team is responsible for the creation of an increment that meets the Definition of Done, and it is the developers who do the work. 
 
-If Technical Documentation is a Product Backlog item, or it is included in the Definition of Done, the developers on the Scrum Team are expected to have the skills and time to create it.
+If technical documentation is a Product Backlog item, or it is included in the Definition of Done, the developers on the Scrum Team are expected to have the skills and time to create it.
 
 "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."
 
 Furthermore, there are no 'special teams' in Scrum. The Scrum Guide clearly states: "Within a Scrum Team, there are no sub-teams or hierarchies."
 
-In Scrum, the Development Team is responsible for creating a potentially releasable product Increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the Development Team must find a way to produce it.
+In Scrum, the Scrum Developers are responsible for creating a potentially releasable product Increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the team of developers must find a way to produce it.
 
 "The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."
 
@@ -1510,13 +1503,13 @@ There are three roles, or as the Scrum Guide puts it, 'accountabilities' in Scru
 - The Product Owner
 - The Developers
 
-What are two key characteristics and responsibilities of the Product Owner?
+What are key characteristics and responsibilities of the Product Owner?
 
 --
 
 [#list]
 --
-* [*] A. The Product Owner the the one who orders and puts the the Product Backlog in a prioritized sequence.
+* [*] A. The Product Owner is the one who orders the Product Backlog.
 * [*] B. The Product Owner is a single person and the role cannot be shared.
 * [ ] C. The Product Owner commits 100% of their time to their Scrum Team.
 * [ ] D. Multiple individuals with product knowledge can share the Product Owner role on a Scrum Team.
@@ -1531,18 +1524,19 @@ The correct answers are A and B.
 [#explanation]
 --
 
-The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. They maintain the product backlog, ensure it is prioritized, and convey their product vision to the team. 
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Scrum Developers. The PO maintains the product backlog and ensures Product Backlog items are ordered. 
 
-The Product Owner is the champion of the project who is the sole person responsible for managing the product backlog. They also ensure that the development team, stakeholders, and others understand the product vision.
+The Product Owner is the champion of the project and the sole person responsible for managing the Product Backlog. They also ensure that the development team, stakeholders and others understand the product vision.
 
-The Product Owner is the single point of accountability for the success of the product, and is responsible for making decisions about the priority of work items and ensuring that the team is delivering value to the stakeholders.
+The Product Owner is the single point of accountability for the success of the product and is responsible for making decisions about the priority of work items. They ensure the work of the team delivers the most value to the stakeholders.
 
-One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for defining the product backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make decisions and communicate them to the team. Having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
+One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for ordering the Product Backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make product-related decisions and communicate them to the team. Having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
 
-Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that everyone in the team is working towards the same Product Goal.
+Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that everyone on the team is working towards the same Product Goal.
 
-Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
+Having a single person responsible for the Product Owner accountability in Scrum helps to ensure clear accountability, consistency in the product vision and effective communication with the team.
 
 --
+
 
 

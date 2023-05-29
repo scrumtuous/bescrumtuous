@@ -6,13 +6,15 @@ image::images/exam-sitting.jpg[""]
 
 <<<
 
+
+
 ==== Question 1
 
 --
 According to the Scrum Guide, the Sprint Backlog is composed of three interdependent parts.
 
 Which three of the following items together make up the Sprint Backlog?
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -29,8 +31,8 @@ Which three of the following items together make up the Sprint Backlog?
 ==== Question 2
 
 --
-According to the Scrum Guide, what is the purpose of the Sprint Backlog, and what is its composition?
-(Choose 2.)
+According to the Scrum Guide, what is the purpose of the Sprint Backlog?
+(Choose 2)
 --
 
 
@@ -39,7 +41,7 @@ According to the Scrum Guide, what is the purpose of the Sprint Backlog, and wha
 * [ ] B. The Sprint Backlog is a list of all work the team hopes to complete in the current Sprint.
 * [ ] C. The Sprint Backlog is a list of all work the team hopes to complete in the next Sprint. 
 * [ ] D. The Sprint Backlog is the Development Team's actionable plan for the Sprint.
-* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner.
+* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner to maximize the developer productivity.
 
 --
 
@@ -47,8 +49,8 @@ According to the Scrum Guide, what is the purpose of the Sprint Backlog, and wha
 ==== Question 3
 
 --
-What should a Scrum Master do, if the Development Team is missing the necessary skills, tools, and infrastructure needed to complete the highest-priority backlog items?
-(Choose 2.)
+What should a Scrum Master do if the Development Team is missing the necessary skills, tools and infrastructure needed to complete the highest-priority backlog items?
+(Choose 2)
 --
 
 
@@ -56,8 +58,8 @@ What should a Scrum Master do, if the Development Team is missing the necessary 
 
 * [ ] A. Dissolve the Sprint and inform management that the Development Team is not ready to use the Scrum framework.
 * [ ] B. Instruct the Product Owner to accept partially Done Increments for this Sprint.
-* [ ] C. Change the priority of the current Sprint to improving the Development Team's skills and acquiring the necessary infrastructure instead of delivering an increment.
-* [ ] D. Coach the Development Team on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important backlog items.
+* [ ] C. Change the priority of the current Sprint to improving the Development Team's skills and acquiring the necessary infrastructure instead of delivering an Increment.
+* [ ] D. Coach the Development Team on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important Backlog Items.
 * [ ] E. Discuss adjusting the Definition of Done in the upcoming retrospective to address the tooling issue.
 
 --
@@ -67,7 +69,7 @@ What should a Scrum Master do, if the Development Team is missing the necessary 
 
 --
 Who is responsible for removing barriers between stakeholders and Scrum Teams?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -84,12 +86,12 @@ Who is responsible for removing barriers between stakeholders and Scrum Teams?
 
 --
 How much effort must the Scrum developers put into completing Sprint Backlog items chosen for the Sprint?
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
-* [ ] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlot items as possible in conformance with the Definition of Done.
+* [ ] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlog items as possible in conformance with the Definition of Done.
 * [ ] B. The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
 * [ ] C. The developers must commit to delivering core functionality but testing and quality assurance is not required.
 * [ ] D. The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
@@ -101,7 +103,7 @@ How much effort must the Scrum developers put into completing Sprint Backlog ite
 
 --
 What is the best way for the Product Owner to ensure that the Scrum developers transparently deliver high-quality, releasable increments of work that meet the needs of the stakeholders?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -118,7 +120,7 @@ What is the best way for the Product Owner to ensure that the Scrum developers t
 
 --
 Which of the following is the most accurate description of Scrum as defined by the Scrum Guide?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -137,7 +139,7 @@ Which of the following is the most accurate description of Scrum as defined by t
 A feedback loop is an opportunity for a team or group to discuss, inspect and most importantly, adapt. 
 
 Which of these Scrum events provide feedback loops?
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -157,7 +159,7 @@ Which of these Scrum events provide feedback loops?
 The management and development of a key product feature is handled by an external team. 
 
 Who represents the progress of this external feature in the Daily Scrum?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -176,7 +178,7 @@ Who represents the progress of this external feature in the Daily Scrum?
 The Sprint Planning meeting is one of Scrum's time-boxed events.
 
 What is the time-box for the Sprint Planning meeting?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -193,7 +195,7 @@ What is the time-box for the Sprint Planning meeting?
 
 --
 Sprints are kept to 30 days or less because:
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -211,7 +213,7 @@ Sprints are kept to 30 days or less because:
 
 --
 When should new work or additional information about work be added to the Sprint Backlog?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -228,7 +230,7 @@ When should new work or additional information about work be added to the Sprint
 
 --
 What effects would be observed on the original Scrum Team when two additional Scrum Teams are included in the development process for the same product?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -245,7 +247,7 @@ What effects would be observed on the original Scrum Team when two additional Sc
 
 --
 Which of the following statements is true about project and Sprint cancellations?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -262,7 +264,7 @@ Which of the following statements is true about project and Sprint cancellations
 
 --
 Who is best equipped to estimate the amount of time required to complete a Product Backlog Item(PBI)?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -271,7 +273,7 @@ Who is best equipped to estimate the amount of time required to complete a Produ
 * [ ] B. The Scrum Master, after reading the description of the PBI.
 * [ ] C. The Project Manager, after assigning the PBI to the project.
 * [ ] D. The individual developer tasked with working on the PBI.
-* [ ] E. The Development Team, after discussions with the Product Owner about the PBI.
+* [ ] E. The team of Scrum Developers, after discussions with the Product Owner about the PBI.
 
 --
 
@@ -280,7 +282,7 @@ Who is best equipped to estimate the amount of time required to complete a Produ
 
 --
 Three Scrum Teams are working on the same product. Each team produces an increment of work by the end of their Sprint. When should the increment from a given team be integrated into the project?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -297,13 +299,13 @@ Three Scrum Teams are working on the same product. Each team produces an increme
 
 --
 What should the Scrum Team do with a Product Backlog item that was added to the Sprint Backlog if it does not meet the Definition of Done at the end of a Sprint?
-(Choose 2.)
+(Choose 2)
 --
 
 
 --
 * [ ] A. The Product Owner can release it with the permission of the stakeholders.
-* [ ] B. Return it to the Product Backlog and let the Product Owner reprioritize it.
+* [ ] B. Return it to the Product Backlog and let the Product Owner reorder it.
 * [ ] C. Award partial points for the work done so velocity is recorded and return what remains to the Product Backlog.
 * [ ] D. Do not present the progress made on the incomplete item to the Stakeholders or customers
 
@@ -316,16 +318,16 @@ What should the Scrum Team do with a Product Backlog item that was added to the 
 The Scrum Master sees the Product Owner (PO) struggle with the task of ordering the Product Backlog. 
 
 What action would a certified Scrum Master take in these circumstances?
-(Choose 1.)
+(Choose 1)
 --
 
 
 --
 * [ ] A. Have the Product Owner extend the length of the current Sprint to have more time to order the Product Backlog before the next Sprint begins.
-* [ ] B. Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
+* [ ] B. Inform the Product owner that it is the development team's responsibility to order the Product Backlog.
 * [ ] C. Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
 * [ ] D. The Scrum Master should provide the Product Owner with the Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.
-* [ ] E. Tell the Product Owner to work with the Development Team to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
+* [ ] E. Tell the Product Owner to work with the developers to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
 
 --
 
@@ -334,7 +336,7 @@ What action would a certified Scrum Master take in these circumstances?
 
 --
 According to the Scrum Guide, which of the following is true about the Increment?
-(Choose 3.)
+(Choose 3)
 --
 
 
@@ -342,7 +344,7 @@ According to the Scrum Guide, which of the following is true about the Increment
 * [ ] A. Each new Increment gets added to all the prior Increments
 * [ ] B. An Increment doesn't have to be usable.
 * [ ] C. Only one Increment can be created per Sprint.
-* [ ] D. An Increment must be compatible with and work with all previous increments.
+* [ ] D. An Increment must be compatible with and work with all previous Increments.
 * [ ] E. An Increment can be seen as a concrete stepping stone toward the Product Goal.
 
 --
@@ -354,14 +356,14 @@ According to the Scrum Guide, which of the following is true about the Increment
 The DevOps team is putting software into production that fails in terms of performance and security. The development team says they only deal with functional requirements, not non-functional requirements like security and performance. 
 
 What's the best way for the Scrum Master to deal with this?
-(Choose 2.)
+(Choose 2)
 --
 
 
 --
 * [ ] A. Share stories from the help desk about the issues the software is having.
 * [ ] B. Make sure non-functional requirements are clearly articulated in the Definition of Done.
-* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployemnt.
+* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployment.
 * [ ] D. Ask the Product Owner to add new Product Backlog items that deal specifically with performance and security.
 * [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requrements are not part of the development team's planning tasks.
 
@@ -372,7 +374,7 @@ What's the best way for the Scrum Master to deal with this?
 
 --
 You have just acquired a new company, and two of their Scrum teams will be added to your project to help build the company's flagship product. How should the teams be organized?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -391,17 +393,17 @@ You have just acquired a new company, and two of their Scrum teams will be added
 The Scrum Guide demands that management allows teams to be self-managed and self-organzied.
 
 What advantages does self-organization offer to Scrum Teams and the team's members?
-(Choose 3.)
+(Choose 3)
 --
 
 
 --
 
-* [ ] A. Increased personal accountability with regards to the work developers perform
-* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates
-* [ ] C. Increased personal commitment to the team and the project
+* [ ] A. Increased personal accountability with regards to the work developers perform.
+* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates.
+* [ ] C. Increased personal commitment to the team and the project.
 * [ ] D. Increased ingenuity and motivation to solve problems.
-* [ ] E. Increased ability to comply with industry regulation, rules and guidelines
+* [ ] E. Increased ability to comply with industry regulation, rules and guidelines.
 
 --
 
@@ -412,7 +414,7 @@ What advantages does self-organization offer to Scrum Teams and the team's membe
 Sometimes a team has too many developers. Other times a developer just might not be the right fit for a development team.
 
 Who has the power to remove an underperforming developer from a Scrum team?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -420,7 +422,7 @@ Who has the power to remove an underperforming developer from a Scrum team?
 * [ ] A. Only someone in management or Human Resources can remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
 * [ ] B. The Scrum Master can remove underperforming developers from a Scrum team.
 * [ ] C. The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
-* [ ] D. The Development Team has the final say over who is allowed to be a member of the development team.
+* [ ] D. The team of Scrum Developers has the final say over who is allowed to be a member of the development team.
 
 --
 
@@ -429,7 +431,7 @@ Who has the power to remove an underperforming developer from a Scrum team?
 
 --
 In Scrum, testers, QA personnel, and business analysts on a Scrum Team are considered developers.
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -444,7 +446,7 @@ In Scrum, testers, QA personnel, and business analysts on a Scrum Team are consi
 
 --
 Who holds developers accountable for creating a plan, instilling quality, and adhering to the Definition of Done?
-(Choose 1.)
+(Choose 1)
 --
 
 
@@ -490,7 +492,7 @@ The correct answers are A, C and D.
 
 [#explanation]
 --
-Th question is right out of the Scrum Guide:
+The answer to this question is pulled right out of the Scrum Guide:
 
 "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."
 
@@ -508,7 +510,7 @@ They are not automatically added to the next Sprint. You will get tested on that
 
 [#query]
 --
-According to the Scrum Guide, what is the purpose of the Sprint Backlog, and what is its composition?
+According to the Scrum Guide, what is the purpose of the Sprint Backlog?
 --
 
 [#list]
@@ -517,7 +519,7 @@ According to the Scrum Guide, what is the purpose of the Sprint Backlog, and wha
 * [*] B. The Sprint Backlog is a list of all work the team hopes to complete in the current Sprint.
 * [ ] C. The Sprint Backlog is a list of all work the team hopes to complete in the next Sprint. 
 * [*] D. The Sprint Backlog is the Development Team's actionable plan for the Sprint.
-* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner.
+* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner to maximize the developer productivity.
 
 --
 ****
@@ -532,7 +534,7 @@ According to the Scrum Guide, "The Sprint Backlog is composed of the Sprint Goal
 
 During Sprint Planning, the development team plans the work that will be done during the current sprint. 
 
-Note that all events happen within the Sprint. So Sprint Planning happens for the current Sprint, not the 'next' Sprint. Sprint Planning, development, the Sprint Review and the Sprint Retrospective all happen with the boundaries of the same Sprint.
+Note that all events happen _within_ the Sprint. So Sprint Planning happens for the current Sprint, not the 'next' Sprint. Sprint Planning, development, the Sprint Review and the Sprint Retrospective all happen with the boundaries of the same Sprint.
 
 One of the primary outcomes of Sprint Planning is the creation of the Sprint Backlog, which is a list of tasks that the team plans to complete during the sprint.
 
@@ -558,7 +560,7 @@ Remember why, what and how!
 
 [#query]
 --
-What should a Scrum Master do, if the Development Team is missing the necessary skills, tools, and infrastructure needed to complete the highest-priority backlog items?
+What should a Scrum Master do if the Development Team is missing the necessary skills, tools and infrastructure needed to complete the highest-priority backlog items?
 --
 
 [#list]
@@ -566,8 +568,8 @@ What should a Scrum Master do, if the Development Team is missing the necessary 
 
 * [ ] A. Dissolve the Sprint and inform management that the Development Team is not ready to use the Scrum framework.
 * [ ] B. Instruct the Product Owner to accept partially Done Increments for this Sprint.
-* [ ] C. Change the priority of the current Sprint to improving the Development Team's skills and acquiring the necessary infrastructure instead of delivering an increment.
-* [*] D. Coach the Development Team on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important backlog items.
+* [ ] C. Change the priority of the current Sprint to improving the Development Team's skills and acquiring the necessary infrastructure instead of delivering an Increment.
+* [*] D. Coach the Development Team on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important Backlog Items.
 * [*] E. Discuss adjusting the Definition of Done in the upcoming retrospective to address the tooling issue.
 
 --
@@ -581,9 +583,9 @@ The correct answers are D and E.
 --
 The Scrum Developers are expected to have all of the skills required to complete all the Product Backlog items. If those skills do not exist, the developers must acquire them as they work on other Product Backlog items.
 
-It is also possible to adjust the Definition of Done to make the delivery of an increment possible. For example, if the Definition of Done says every product must be tested by flying it to Mars and back, but you don't have a spaceship that can fly to Mars, it wouldn't be unreasonable to remove that requirement from the Definition of Done.
+It is also possible to adjust the Definition of Done to make the delivery of an Increment possible. For example, if the Definition of Done says every product must be tested by flying it to Mars and back, but you don't have a spaceship that can fly to Mars, it wouldn't be unreasonable to remove that requirement from the Definition of Done.
 
-Every Sprint must provide a real, tangible increment of work. There are no 'infrastructure sprints' in Scrum or 'Sprint Zeros.' Every Sprint must have the delivery of an increment of work as its goal.
+Every Sprint must provide a real, tangible increment of work. There are no 'infrastructure Sprints' in Scrum or 'Sprint Zeros.' Every Sprint must have the delivery of an increment of work as its goal.
 --
 
 
@@ -639,7 +641,7 @@ How much effort must the Scrum developers put into completing Sprint Backlog ite
 
 [#list]
 --
-* [*] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlot items as possible in conformance with the Definition of Done.
+* [*] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlog items as possible in conformance with the Definition of Done.
 * [ ] B. The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
 * [ ] C. The developers must commit to delivering core functionality but testing and quality assurance is not required.
 * [ ] D. The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
@@ -659,9 +661,9 @@ When it comes to how much effort the team puts into a Product Backlog item, the 
 "Working in Sprints at a sustainable pace improves the Scrum Teamâ€™s focus and consistency."
 -The Scrum Guide.
 
-When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their capacity and their understanding of the requirements of the selected item. The team considers various factors, such as their velocity, capacity, and any dependencies or risks associated with the item. They then commit to completing the work that they believe is achievable in the upcoming Sprint.
+When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their capacity and their understanding of the requirements of the selected item. The team considers various factors such as their velocity, capacity and any dependencies or risks associated with the item. They then commit to completing the work that they believe is achievable in the upcoming Sprint.
 
-The concept of the "Definition of Done" is also closely related to the amount of work a Development Team commits to during a Sprint. The "Definition of Done" is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. The definition of done typically includes criteria related to functionality, quality, and usability, among other things.
+The concept of the "Definition of Done" is also closely related to the amount of work the developers commit to during a Sprint. The "Definition of Done" is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. The Definition of Done typically includes criteria related to functionality, quality and usability, among other things.
 
 
 --
@@ -694,13 +696,13 @@ The correct answer is B.
 
 [#explanation]
 --
-The Product Owner needs the Development Team to adhere to the Definition of Done because it helps ensure that the team delivers high-quality Increments of work that meet the needs of the stakeholders.
+The Product Owner needs everyone to adhere to the Definition of Done because it helps ensure that the team delivers high-quality Increments of work that meet the needs of the stakeholders.
 
-The Definition of Done is a shared understanding between the Product Owner and the Development Team about what it means for a product backlog item to be considered complete. It includes a set of criteria that must be met for each item, such as passing tests, meeting performance standards, and conforming to coding standards.
+The Definition of Done is a shared understanding between the Product Owner, stakeholders and the developers about what it means for a Product Backlog item to be considered complete. It includes a set of criteria that must be met for each item, such as passing tests, meeting performance standards and conforming to coding standards.
 
-By adhering to the Definition of Done, the Development Team ensures that they are producing work that is of high quality and meets the expectations of the Product Owner. This, in turn, helps the Product Owner manage stakeholder expectations, as they can rely on the Development Team to consistently deliver work that meets the agreed-upon criteria.
+By adhering to the Definition of Done, the development team ensures that they are producing work that is of high quality and meets the expectations of the Product Owner. This, in turn, helps the Product Owner manage stakeholder expectations, as they can rely on the Scrum Developers to consistently deliver work that meets the agreed-upon criteria.
 
-Moreover, adhering to the Definition of Done promotes transparency and accountability. The Development Team commits to delivering work that meets the agreed-upon criteria, which helps to ensure that they take ownership of the quality of their work. The Product Owner can also track progress more accurately, as they can trust that items that meet the Definition of Done are truly complete.
+Moreover, adhering to the Definition of Done promotes transparency and accountability. The developers commit to delivering work that meets the agreed-upon criteria, which helps to ensure that they take ownership of the quality of their work. The Product Owner can also track progress more accurately as they can trust that items that meet the Definition of Done are truly complete.
 
 
 --
@@ -965,7 +967,7 @@ Disruption to processes: Introducing new team members can also disrupt establish
 
 Team dynamics: Finally, adding new members can disrupt team dynamics and the relationships between team members, leading to potential conflicts and interpersonal issues that can negatively impact productivity.
 
-To mitigate these issues, it's important to onboard new team members effectively, including providing adequate training and support and communicating clearly with the team about the changes and the expectations for the team going forward. It's also important to ensure that new team members are a good fit for the team culture and to actively work to manage team dynamics during the transition period.
+
 --
 
 
@@ -1021,7 +1023,7 @@ Who is best equipped to estimate the amount of time required to complete a Produ
 * [ ] B. The Scrum Master, after reading the description of the PBI.
 * [ ] C. The Project Manager, after assigning the PBI to the project.
 * [ ] D. The individual developer tasked with working on the PBI.
-* [*] E. The Development Team, after discussions with the Product Owner about the PBI.
+* [*] E. The team of Scrum Developers, after discussions with the Product Owner about the PBI.
 
 --
 ****
@@ -1071,17 +1073,13 @@ If code changes are not integrated, how does anyone know that the changes and up
 
 Multiple Scrum teams working on the same project should continuously integrate their increments of work for several reasons:
 
-Ensure overall project coherence: By integrating their work regularly, the teams can ensure that their contributions are compatible and consistent with the larger project goals. This helps to avoid potential conflicts, misalignments, or integration issues that might arise when each team works in isolation.
 
-Early detection of integration issues: Continuous integration enables early detection and resolution of integration issues. This approach promotes collaboration and feedback among the teams, allowing them to identify and address integration issues quickly before they become larger problems.
+- Early detection of integration issues
+- Improved transparency
+- Teams will collboarate and communicate more often
 
-Faster time to market: Continuous integration enables the teams to deliver working software at a more rapid pace than if they worked in isolation. This approach helps teams to identify and address integration issues early on, which results in a faster delivery of a high-quality product.
+If something works and meets the definition of done, it should be integrated right away. Waiting makes no sense. Waiting is certainly not in like with Scrum's commitment to lean thinking.
 
-Improved transparency: When teams integrate their work frequently, it promotes transparency among the teams. This approach enables them to monitor each other's progress, which leads to a better understanding of the overall project status and helps to identify any issues that need to be addressed.
-
-Foster a sense of ownership and collaboration: By integrating their work continuously, the teams feel more invested in the project as a whole. It fosters a sense of collaboration, responsibility and ownership, and helps to align everyone towards a common goal.
-
-In summary, continuous integration of work across multiple Scrum teams is essential for ensuring that the project is coherent, of high quality, and completed on time. It also fosters a sense of collaboration and shared ownership among team members.
 --
 
 
@@ -1099,7 +1097,7 @@ What should the Scrum Team do with a Product Backlog item that was added to the 
 [#list]
 --
 * [ ] A. The Product Owner can release it with the permission of the stakeholders.
-* [*] B. Return it to the Product Backlog and let the Product Owner reprioritize it.
+* [*] B. Return it to the Product Backlog and let the Product Owner reorder it.
 * [ ] C. Award partial points for the work done so velocity is recorded and return what remains to the Product Backlog.
 * [*] D. Do not present the progress made on the incomplete item to the Stakeholders or customers
 
@@ -1136,10 +1134,10 @@ What action would a certified Scrum Master take in these circumstances?
 [#list]
 --
 * [ ] A. Have the Product Owner extend the length of the current Sprint to have more time to order the Product Backlog before the next Sprint begins.
-* [ ] B. Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
+* [ ] B. Inform the Product owner that it is the development team's responsibility to order the Product Backlog.
 * [*] C. Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
 * [ ] D. The Scrum Master should provide the Product Owner with the Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.
-* [ ] E. Tell the Product Owner to work with the Development Team to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
+* [ ] E. Tell the Product Owner to work with the developers to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
 
 --
 ****
@@ -1154,9 +1152,8 @@ The Scrum Master is a coach and facilitator, and it is the Scrum Master's job to
 
 The Scrum Master has the responsibility to support and help the team, including the Product Owner, to maximize the value delivered by the product. If the Scrum Master sees the Product Owner struggling with the task of ordering the Product Backlog, there are several actions they can take to assist:
 
-Coach the Product Owner: The Scrum Master can provide coaching to the Product Owner on effective Product Backlog management practices, such as prioritization techniques, user story writing, and backlog refinement sessions. They can also guide how to involve stakeholders in the prioritization process and how to manage dependencies between Product Backlog items.
-
-Encourage Feedback: The Scrum Master can encourage the Product Owner to seek feedback from stakeholders and the development team on the order of the Product Backlog items. This feedback can help the Product Owner refine the prioritization and ensure that the team is aligned with the product vision.
+- Coach the Product Owner: The Scrum Master can provide coaching to the Product Owner on effective Product Backlog management practices, such as prioritization techniques, user story writing, and backlog refinement sessions. They can also guide how to involve stakeholders in the prioritization process and how to manage dependencies between Product Backlog items.
+- Encourage Feedback: The Scrum Master can encourage the Product Owner to seek feedback from stakeholders and the development team on the order of the Product Backlog items. This feedback can help the Product Owner refine the prioritization and ensure that the team is aligned with the product vision.
 
 Just remember, it's not the Scrum Master's job to do the work of the Product Owner. The order of the product backlog, which is critically important to ensure maximum value gets delivered during development, is the responsibility of the PO.
 
@@ -1181,7 +1178,7 @@ According to the Scrum Guide, which of the following is true about the Increment
 * [*] A. Each new Increment gets added to all the prior Increments
 * [ ] B. An Increment doesn't have to be usable.
 * [ ] C. Only one Increment can be created per Sprint.
-* [*] D. An Increment must be compatible with and work with all previous increments.
+* [*] D. An Increment must be compatible with and work with all previous Increments.
 * [*] E. An Increment can be seen as a concrete stepping stone toward the Product Goal.
 
 --
@@ -1193,7 +1190,7 @@ The correct answers are A, ,, D, , and E.
 
 [#explanation]
 --
-An increment must be usable and multiple increments can be created per Sprint, which makes those two options wrong.
+An Increment must be usable and multiple Increments can be created per Sprint, which makes those two options wrong.
 
 The correct options come directly out of the Scrum Guide's definition of a Sprint:
 
@@ -1218,7 +1215,7 @@ What's the best way for the Scrum Master to deal with this?
 --
 * [ ] A. Share stories from the help desk about the issues the software is having.
 * [*] B. Make sure non-functional requirements are clearly articulated in the Definition of Done.
-* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployemnt.
+* [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployment.
 * [*] D. Ask the Product Owner to add new Product Backlog items that deal specifically with performance and security.
 * [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requrements are not part of the development team's planning tasks.
 
@@ -1233,7 +1230,7 @@ The correct answers are B and D.
 --
 Developers must address both functional and non-functional requirements if they are an expected part of the product they are building.
 
-To make sure an increment is not released without non-functional requirements being addressed, just add the non-functional requirements to the definition of done. That way an increment is not considered complete unless all functional and non-functional requirements have been dealt with.
+To make sure an increment is not released without non-functional requirements being addressed, just add the non-functional requirements to the Definition of Done. That way an increment is not considered complete unless all functional and non-functional requirements have been dealt with.
 
 Furthermore, having the Product Owner add non-functional requirements as backlog items gives them visibility and makes the Product Owner aware of them.
 
@@ -1295,11 +1292,11 @@ What advantages does self-organization offer to Scrum Teams and the team's membe
 [#list]
 --
 
-* [*] A. Increased personal accountability with regards to the work developers perform
-* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates
-* [*] C. Increased personal commitment to the team and the project
+* [*] A. Increased personal accountability with regards to the work developers perform.
+* [ ] B. Increased accuracy in estimating Product Backlog Item completion dates.
+* [*] C. Increased personal commitment to the team and the project.
 * [*] D. Increased ingenuity and motivation to solve problems.
-* [ ] E. Increased ability to comply with industry regulation, rules and guidelines
+* [ ] E. Increased ability to comply with industry regulation, rules and guidelines.
 
 --
 ****
@@ -1310,9 +1307,12 @@ The correct answers are A, C and D.
 
 [#explanation]
 --
-Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity, and ownership of projects. 
+Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity and ownership of projects. 
 
-Additionally, team members can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility, and more effective problem-solving. Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.
+Additionally, self-organized teams can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility and more effective problem-solving. 
+
+Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.
+
 --
 
 
@@ -1334,7 +1334,7 @@ Who has the power to remove an underperforming developer from a Scrum team?
 * [ ] A. Only someone in management or Human Resources can remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
 * [ ] B. The Scrum Master can remove underperforming developers from a Scrum team.
 * [ ] C. The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
-* [*] D. The Development Team has the final say over who is allowed to be a member of the development team.
+* [*] D. The team of Scrum Developers has the final say over who is allowed to be a member of the development team.
 
 --
 ****
@@ -1378,7 +1378,7 @@ The correct answer is A.
 
 [#explanation]
 --
-Everyone on a Scrum Team that is contributing towards building out Product Backlog items and helping to meet the Definition of Done is considered a developer.
+Everyone on a Scrum Team that contributes to building Product Backlog items and helping them to meet the Definition of Done is considered a developer.
 --
 
 
@@ -1411,14 +1411,14 @@ The correct answer is D.
 --
 This question comes right out of the Scrum Guide:
 
-The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
+"The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
 
 - Creating a plan for the Sprint, the Sprint Backlog;
 - Instilling quality by adhering to a Definition of Done;
 - Adapting their plan each day toward the Sprint Goal; and,
-- *Holding each other accountable as professionals.*
---
+- *Holding each other accountable as professionals.* "
 
+--
 
 
 
