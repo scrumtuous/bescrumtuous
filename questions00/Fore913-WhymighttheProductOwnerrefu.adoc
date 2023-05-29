@@ -18,10 +18,10 @@ Why might a Product Owner refuse to immediately release an Increment into produc
 
 [#list]
 --
-* [ ] A. Increments are automatically released into production so it is not possible to refuse a release
-* [ ] B. The Product Owner needs confirmation from the Scrum Master in order to release an increment into production
-* [*] C. The immediate timing of the release does not make sense for customers or stakeholders
-* [ ] D. The Product Owner never refuses to release an increment into production
+* [ ] A. Increments are automatically released into production so it is not possible to refuse a release.
+* [ ] B. The Product Owner needs confirmation from the Scrum Master in order to release an increment into production.
+* [*] C. The immediate timing of the release does not make sense for customers or stakeholders.
+* [ ] D. The Product Owner never refuses to release an Increment into production.
 
 --
 ****
@@ -31,11 +31,11 @@ C
 
 [#explanation]
 --
-If the timing of the release of an increment is not in the best interest of users or stakeholders, the Product Owner does not need to release it immediately.
+If the timing of the release of an Increment is not in the best interest of users or stakeholders, the Product Owner does not need to release it immediately.
 
-In the context of agile software development, the Product Owner is responsible for defining and prioritizing the features of the product being developed. An "increment" refers to a small, functional improvement or enhancement made to the product during the development process.
+For example, a Christmas Theme for the website might be completed in late October. You wouldn't publish the website's Christmas theme two months before Christmas.
 
-The Product Owner should be responsible for deciding when each incremental change or improvement to the product is ready to be released to users or customers. This decision should be based on various factors, such as the overall impact of the increment on the product's functionality, the level of quality and stability of the increment, and the potential benefits and risks of releasing the increment at a particular time.
+Increments don't need to be released or published immediately. They can be released when they make the most sense for the organization, stakeholders and customers.
 
 --
 
