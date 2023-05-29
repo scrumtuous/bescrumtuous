@@ -17,7 +17,7 @@ What are the two primary responsibilities of a new Product Owner when taking own
 
 [#list]
 --
-* [*] A. Ensuring that the development teams know which Product Backlog Items provide the greatest value and should be developed first
+* [*] A. Ensuring that the development teams know which Product Backlog items provide the greatest value and should be developed first
 * [ ] B. Describing and fully decomposing product features in Use Case and story form.
 * [ ] C. Providing detailed development specs and guidelines to the development team.
 * [*] D. Interacting with stakeholders to learn how to represent their needs in the Product Backlog.
@@ -31,7 +31,7 @@ AD
 
 [#explanation]
 --
-The Product Owner must prioritize the Product Backlog so that developers know which items provide the most value. If possible, the Product Owner will negotiate with the team to ensure these items get developed first.
+The Product Owner must order the Product Backlog so that developers know which items provide the most value. If possible, the Product Owner will negotiate with the team to ensure these items get developed first.
 
 Also, according to the Scrum Guide, "The Product Owner may represent the needs of many stakeholders in the Product Backlog." So interacting with and collaborating with stakeholders is important.
 --
