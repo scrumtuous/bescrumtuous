@@ -38,6 +38,8 @@ According to the Scrum Guide, a Sprint Planning meeting addresses these three qu
 - What can be Done this Sprint?
 - How will the chosen work get done?
 
+Always remember that _why, what and how_ are the questions answered by the end of Sprint Planning.
+
 --
 
 [#ka]
