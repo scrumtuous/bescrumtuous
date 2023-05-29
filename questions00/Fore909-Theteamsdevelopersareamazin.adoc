@@ -22,9 +22,9 @@ What should the Scrum Master do?
 [#list]
 --
 * [ ] A. End the Sprint and reconvene a new Sprint Planning meeting.
-* [ ] B. Have the Product Owner add new Product Backlog Items to the Sprint Backlog.
+* [ ] B. Have the Product Owner add new Product Backlog items to the Sprint Backlog.
 * [ ] C. Create a more rigorous Definition of Done so that quality will improve and it will require more work to complete the items currently in the Sprint Backlog
-* [*] D. Have the developers adapt their Sprint Plan, preferably with the help of the Product Owner, and add additional, high-value Product Backlog Items to the Sprint Backlog.
+* [*] D. Have the developers adapt their Sprint Plan, preferably with the help of the Product Owner, and add additional, high-value Product Backlog items to the Sprint Backlog.
 
 --
 ****
@@ -34,13 +34,14 @@ D
 
 [#explanation]
 --
-If developers complete Product Backlog Items quickly and become underutilized, they should adapt and add new Product Backlog Items to the Sprint Backlog.
+If developers complete Sprint Backlog items quickly and become underutilized, they should adapt and add new Product Backlog items to the Sprint Backlog.
 
-Scrum is pragmatic. Its rules allow for simple solutions to problems that arise.
+Scrum is pragmatic. Scrum's rules allow for simple solutions to problems that arise.
 
-If developers didn't select enough work, then let them select more work! It's really that simple.
+If developers didn't select enough work, then let them select more work. It's really that simple.
 
 Never overcomplicate Scrum.
+
 --
 
 [#ka]
