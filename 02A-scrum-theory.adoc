@@ -24,7 +24,7 @@ Empiricism also ties in tightly with the Scrum Pillars of transparency, inspecti
 Empirical analysis of your current situation is a more effective way to make decisions than following a plan written up six months ago, or making decisions based on trendlines on a historical chart.
 
 
-TIP: The word _empiric_ is Latin meaning 'based on observations formed during medical treatments.' The _piric_ part of _empiric_ is Latin for 'trial or test.'
+
 
 
 === Empirical Example
@@ -33,7 +33,9 @@ Here's an example of the application of empiricism.
 
 Imagine you have a burndown chart that says you are completing 10 items Sprint. How many items do you think you'll complete in the next Sprint?
 
-You'd probably say 10, but that's an answer based on a chart. Charts don't have five senses. Charts may be predictive, but they're not empirical.
+You'd probably say 10, but that's an answer based on a chart. 
+
+Charts don't have five senses. Charts may be predictive, but they're not empirical.
 
 Now, say you know half the developers have taken time-off to be with their families during the next Sprint?
 
@@ -102,8 +104,7 @@ ____
 
 '''
 
-.Charts and trends are no replacement for first-hand knowledge and empiricism.
-image::images/bet-the-habs.jpg["There are many learning modalities. "]
+
 
 
 ==== Test Yourself
@@ -116,7 +117,7 @@ Which of the following are characteristics of lean thinking? +
 * [ ] A) A focus on waste reduction and efficiency
 * [ ] B) A command and control approach to problem-solving
 * [ ] C) A minimalist approach that removes unnecessary steps
-* [ ] D) A methodology that is made up of individualized, compartmental steps that flow into each other.
+* [ ] D) A methodology made up of individualized, compartmental steps that flow into each other.
 
 ****
 
@@ -132,7 +133,7 @@ The last option describes the Waterfall methodology, which is the antithesis of 
 
 Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comfortable with these two terms and understand their basic meaning to score a few easy marks on the Scrum Master certification exam.
 
-
+image::images/bet-the-habs.jpg["There are many learning modalities. "]
 
 
 === Predictability and Risk
@@ -151,9 +152,16 @@ Scrum is iterative because it describes a set of steps that get repeated over an
 3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
 4. Repeat
 
+<<<
+
+=== The Incremental Nature of Scrum
+
 Scrum is incremental. That's referenced in the second step of the iterative process:
 
+[quote, 2020 Scrum Guide page 3]
+____
 "The Scrum Team turns a selection of the work into an Increment of value during a Sprint."
+____
 
 The idea of Scrum being incremental means that small victories, small units of value, and small pieces of the final product get created and added together slowly over time until the product is finally finished. 
 
@@ -179,10 +187,16 @@ This is another extremely loaded statement. Understanding this paragraph will go
 Scrum assumes that the Scrum Team has all the skills required to build the product being developed.
 
 - Does your project need testers? Then those people are on the Scrum team.
+- Does your project need someone to document the product? That person is on the Scrum team.
 - Does your project need an architect? That person is on the Scrum team.
+- Does your project need people to do quality assurance(QA)? Then those QA people are developers on the Scrum Team.
 - Does your project need a performance or security specialist? Then a person with those skills must be on the Scrum team.
 
 And what if your Scrum team doesn't have those skills? Then your team acquires them.
+
+TIP: The word _empiric_ is Latin meaning 'based on observations formed during medical treatments.' The _piric_ part of _empiric_ is Latin for 'trial or test.'
+
+<<<
 
 ==== Test Yourself
 
@@ -196,9 +210,7 @@ Which one of the following options is the best way for the team to move forward?
 * [ ] C) Explain to the Product Owner that you don't have the skills to build a spaceship to Mars
 * [ ] D) Get the team to start learning about how to build a spaceship to Mars
 ****
-Option D is correct.
-
-This question is silly to the extreme, but it makes a point. 
+Option D is correct, and yes, this question is silly to the extreme, but it makes an important point.
 
 According to Scrum, all of the skills required to build a project under development exist on your team, or your team will take it upon themselves to acquire the skills needed. If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it's no longer part of the Scrum process. 
 
@@ -232,17 +244,20 @@ There is no buffer time between when one Sprint ends and the next Sprint starts 
 
 Don't get tripped up on any questions that ask what happens before or after a Sprint. 
 
+.The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
+image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
+
 ==== Inspection and Adaption
 
 Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning meeting, and the Daily Scrum is to 'inspect and adapt.'
-
-.The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
-image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
 
 [quote, 2020 Scrum Guide page 3]
 ____
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
 ____
+
+
+<<<
 
 You will often get questions on the Scrum certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the listed options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
 
@@ -342,6 +357,9 @@ That's also why you'll often find me repeating myself about certain topics throu
 - Scrum is a framework, it's not a process or a methodology.
 - Scrum is not just for software development but for the development of _any product_.
 
+.With lean thinking and focus, we're going to get you past the Scrum Master certification finish line. (Image: Joshbdork, GFDL1.2)
+image::images/finish-line.jpg["Scrum Master certification finish line. Credit: Joshbdork at the English Wikipedia"]
+
 === Forget Everything You Think You Know
 
 Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide. 
@@ -363,8 +381,7 @@ Imma try my very best to keep you focused, not waste your time on topics that ar
 That's how we're going to get you past the Scrum Master certification finish line!
 
 
-.With lean thinking and focus, we're going to get you past the Scrum Master certification finish line. (Image: Joshbdork, GFDL1.2)
-image::images/finish-line.jpg["Scrum Master certification finish line. Credit: Joshbdork at the English Wikipedia"]
+
 
 
 

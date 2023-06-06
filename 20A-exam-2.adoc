@@ -43,6 +43,7 @@ Their first task? Get a team of developers to go to shore and build a survival c
 .The following set of questions frame Scrum in a life-or-death survival scenario where castaways from a shipwreck must build a survival shelter.
 image::images/shipwreck2.jpg["Reframe all exam questions in a survival camp."]
 
+<<<
 
 === Questions
 
@@ -163,6 +164,9 @@ How should the Scrum team proceed?
 * [ ] B.	Have the developers cancel the Sprint and begin a new Sprint Planning meeting
 * [ ] C.	Have the developers put time aside during the next Daily Scrum to adjust the Sprint Goal
 * [ ] D.	Tell the developers the Sprint Plan cannot be changed and they should continue with their original plan
+
+
+<<<
 
 
 == Answers

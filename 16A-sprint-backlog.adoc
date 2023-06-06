@@ -1,5 +1,20 @@
 == Chapter 16: The Sprint Backlog
 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} +
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} +
+
 If you're ever asked about the Sprint Backlog on the Scrum Master certification exam, there's a good chance the answer is 'The Developers.' The Developers own the Sprint Backlog.
 
 [quote, 2020 Scrum Guide page 11]
@@ -27,6 +42,9 @@ The 'why' is the Sprint Goal, which acts as a target for the team to aim at duri
 
 The 'how' is the Development team's plan for delivering at least one, and hopefully multiple, usable and valuable Increments of work during the Sprint.
 
+
+<<<
+
 === Who Owns the Sprint Backlog?
 
 The Developers on the Scrum Team completely control the Sprint Backlog.
@@ -43,7 +61,7 @@ Other than a responsibility to guide the team and organization on how to properl
 
 On a really well experienced Scrum Team, the Scrum Master has very little work to do. In mature organizations that have been doing Scrum for a long time, a Scrum Master can easily split their efforts across multiple teams. A great Scrum Master eventually coaches themselves out of a job, as the organization becomes so good at Scrum, they hardly neet the Scrum Master at all.
 
-<<<
+ 
 
 ==== Test Yourself
 
@@ -78,6 +96,8 @@ Every team must be given the freedom to change their plans when necessary.
 
 What can't change? The Sprint Goal. 
 
+=== The Sprint Goal Never Changes After Planning
+
 The Sprint Goal is never allowed to change throughout the Sprint. Once that's finalized in the Sprint Planning meeting, it remains unchanged until the Sprint is over.
 
 [quote, 2020 Scrum Guide page 11]
@@ -89,9 +109,8 @@ Consequently, the Sprint Backlog is updated throughout the Sprint as more is lea
 It should have enough detail so that they can inspect their progress in the Daily Scrum.
 ____
 
-TIP: The developers wholly control the Sprint Backlog. Only the Scrum Developers can add to it or delete from it. However, the Sprint Goal, which is part of the Sprint Backlog is formulated through the consensus of the Scrum Team. The Sprint Goal is the one part of the Sprint Backlog that is a collective teams effort.
 
-<<<
+ 
 
 === Transparency, Inspection, and Adaptation
 
@@ -119,7 +138,7 @@ The Sprint Backlog should be an up-to-date reflection of what is being done and 
 
 It should be updated regularly.
 
-'''
+<<<
 
 
 
@@ -204,5 +223,6 @@ Option A is correct.
 
 Any time the developers need to scale back on their work or break down Product Backlog items into smaller pieces, it's always wise to speak with the Product Owner for clarification. The Product Owner can also help developers understand which product features should be included in order to not to put the Sprint Goal at risk.
 
+TIP: Developers wholly control the Sprint Backlog. Only the Scrum Developers can add to it or delete from it. However, the Sprint Goal can't change during the Sprint.
 
 

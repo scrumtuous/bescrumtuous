@@ -2,9 +2,7 @@
 
 == Chapter 3: Scrum Pillars and Values
 
-'Scrum values' is one of the 13 categories upon which the Scrum Master certification exam is graded.
-
-The 'Scrum Pillars' don't constitute a specific category, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifact is important.
+'Scrum values' is one of the 13 categories upon which the Scrum Master certification exam is graded. The 'Scrum Pillars' don't constitute a specific category, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifact is important.
 
 Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Master certification exam.
 
@@ -33,9 +31,7 @@ It can't be emphasized enough. The three pillars of Scrum are:
 - Inspection
 - Adaptation
 
-Everything that happens in Scrum harks back to the values and pillars. 
-
-The question as to why a particular event happens or why a particular artifact is required typically refers back to the Scrum pillars, with the Scrum values providing further support.
+Everything that happens in Scrum harks back to the values and pillars. The question as to why a particular event happens or why a particular artifact is required typically refers back to the Scrum pillars, with the Scrum values providing further support.
 
 <<<
 
@@ -59,13 +55,11 @@ Which three of the following are Scrum pillars?
 * [ ] A) Commitment
 * [ ] B) Inspection
 * [ ] C) Openness
-* [ ] D) Focus
+* [ ] D) Transparency
 * [ ] E) Adaptation
-* [ ] F) Respect
-* [ ] G) Transparency
 ****
 
-Options B, E and G are correct.
+Options B, D and E are correct.
 
 The Scrum pillars are transparency, inspection, and adaptation.
 
@@ -75,13 +69,13 @@ The Scrum pillars are transparency, inspection, and adaptation.
 
 The Scrum Pillars feed into each other. It's a feedback loop that drives the entire Scrum framework.
 
-Transparency allows all participants to honestly inspect progress. 
+- Transparency allows all participants to honestly inspect progress. 
 
-Inspection can reveal flaws in the plan. This leads to adaptation.
+- Inspection can reveal flaws in the plan. This leads to adaptation.
 
-As teams adapt, they must be open about how well the adaptation has worked. This requires the team to be transparent, which then leads to inspection and adaptation. It's a constant loop.
+- As teams adapt, they must be open about how well the adaptation has worked. This requires the team to be transparent, which then leads to inspection and adaptation. It's a constant loop.
 
-<<<
+
 
 === Inspection
 
@@ -107,7 +101,7 @@ Inspection is all about taking a look at what you and your team are doing so you
 
 - Why do we do the Sprint Retrospective? We do it to _inspect_ how well the team worked together during the Sprint.
 
-- Why do we have Scrum Artifacts? So people can _inspect_ them and use them as a basis for adaptation.
+- Why do we have Scrum Artifacts? So people can _inspect_ them and adapt accordingly.
 
 The need for inspection throughout a Sprint is a common justification for Scrum events and artifacts. Events and artifacts enable the feedback loop that is built upon the Scrum Pillars.
 
@@ -130,13 +124,11 @@ Options A) and C) are correct.
 
 Inspection is done frequently to detect potential problems and to identify any undesirable variances so that the team can address them.
 
-The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. 
-
-In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt.
+The concept that anything could ever be done to ensure variances never occur, as option D suggests, is just wishful thinking. In the real world, undesirable variances will always occur. Scrum recognizes that reality and helps teams deal with them early and adapt.
 
 
 
-<<<
+
 
 === Transparency 
 
@@ -169,8 +161,8 @@ Like inspection, the Scrum pillar of transparency is woven into all of the Scrum
 ==== Test Yourself 
 
 ****
-Which of the following problems will occur if product development lacks transparency?
-(Choose 1)
+Which one of the following problems will occur if product development lacks transparency?
+
 
 * [ ] A) Technical debt will embed itself in deliverables
 * [ ] B) Product delivery dates will be difficult to estimate
@@ -190,7 +182,7 @@ The state of progress of the Scrum Team must be transparent to all, otherwise th
 
 === Adaptation
 
-Things never go according to plan. That's one of the reasons we don't spend months planning things in Scrum. 
+Things never go according to plan. That's why we don't spend months planning things in Scrum. 
 
 It's more important to produce something of value than it is to waste time planning because nothing ever goes according to plan.
 
@@ -207,9 +199,7 @@ Adaptation becomes more difficult when the people involved are not empowered or 
 A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 ____
 
-It's understood that in the world of software development, things change quickly.
-
-Things also change quickly in the field of construction, manufacturing, banking, etc.
+It's understood that in the world of software development, things change quickly. Things also change quickly in the field of construction, manufacturing, banking, which is why Scrum has become popular in those domains as well.
 
 The ability for teams to quickly adjust and change their plan when things go sideways is a core tenant of Scrum. It's one of the reasons we have the Daily Scrum - it allows developers to collectively discuss problems and adapt as needed.
 
@@ -219,9 +209,7 @@ The ability for teams to quickly adjust and change their plan when things go sid
 
 The Scrum Guide describes several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak, and adapt.
 
-If a problem comes up during the day, a Developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a Developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
-
-If a problem arises, teams are encouraged to inspect and adapt immediately.
+If a problem comes up during the day, a Developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a Developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers. If a problem arises, teams are encouraged to inspect and adapt immediately.
 
 If the team's war room catches fire, don't wait until tomorrow's Daily Scrum to leave the building. Ongoing inspection and adaption are requirements in Scrum. 
 

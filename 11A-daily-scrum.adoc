@@ -3,7 +3,6 @@
 == Chapter 11: The Daily Scrum
 
 {nbsp} + 
-{nbsp} + 
 
 Some frameworks and methodologies have a _Daily Standup_.
 
@@ -26,7 +25,7 @@ ____
 .The purpose of the Daily Scrum is for the developers to metaphorically get the ball moving again.
 image::images/daily-scrum-ball-moving.jpg["The Daily Scrum gets the ball moving again."]
 
-<<<
+ 
 
 === Adapting to Change
 
@@ -55,6 +54,11 @@ ____
 
 All Scrum events are supposed to be held at the same time and in the same location. This applies to the Daily Scrum as well.
 
+This particular point is more salient when developers work in the same office building. You don't want the developers wasting 10 minutes every day trying to figure out which conference room to go to.
+
+In the post-COVID age where teams are largely remote, 'the same time and location' now equates to a Zoom or Microsoft Teams call that takes place at the same time every day.
+
+ 
 
 === Demystifying the Daily Scrum
 
@@ -87,12 +91,14 @@ What did you all do for the first 15 minutes when you got together?
 - You discussed what you managed to get done
 - You talked about what you didn't get done
 - You asked others for help with things you couldn't manage
-- You talked about things that were blocking your progress
-- You offered help to others
+- You talked about things that were blocking your progress and you offered help to others
 
 You'd have a pretty dysfunctional team if y'all didn't chat casually about these types of things when you got together.
 
 The Daily Scrum is simply trying to capture the natural energy and enthusiasm highly motivated teams should already have when working collaboratively on a project.
+
+ 
+
 
 === Rules of the Daily Scrum
 
@@ -100,28 +106,23 @@ The basic rules of the Daily Scrum are as follows:
 
 - The Daily Scrum should take place at the same time every workday
 - The Daily Scrum should take place in the same location every day
-- During the Daily Scrum developers talk about their work, not yesterday's Joe Rogan podcast
+- During the Daily Scrum developers talk about their work, not last night's hockey game
 - The Daily Scrum should never last longer than 15 minutes
 
 === Daily Scrum Time and Location
 
 When I think about developers chatting about their work, their progress and their blockers, I envision them doing it when they all get into the office in the morning. However, the Daily Scrum doesn't have to take place in the morning. It can take place at lunch-hour or even at the end of the day.
 
-In fact, with modern teams distributed across the globe, what might be the start of the day for some members of the team might be the afternoon for others. So the Scrum Guide doesn't say what time the Daily Scrum needs to take place, only that it should take place every workday - not every day, just every _workday._
+In fact, with modern teams distributed across the globe, what might be the start of the day for some members of the team might be the afternoon for others. 
 
-=== Does Scrum Really Have Too Many Meetings?
+The Scrum Guide doesn't say what time the Daily Scrum needs to take place, only that it should take place every workday - not every day, just every _workday._
 
-When people say Scrum has too many meetings, I ask them which ones they think should be removed?
+.The Daily Scrum is for the developers and managed by the developers. If the Scrum Master or the Product Owner attends, they do so at the behest of the developers.
+image::images/developers-in-scrum.jpg["The Daily Scrum is for the developers. Neither the Scrum Master nor the Product Owner is required to attend."]
 
-- Should there be no planning?
-- Should there be no product reviews with  clients?
-- Should there be no retrospective to reflect on the Sprint?
 
-Or is the Daily Scrum the problem? Do they think having developers talking to each other in the Daily Scrum for a few minutes every day is too much?
 
-If a team of six or seven developers is working on a project that burns through $250,000 worth of budget money a month, I'd say it was a problem if those developers didn't talk to each other for a few minutes every day.
-
-Scrum doesn't have too many meetings. Scrum gets it just about right.
+ 
 
 ==== Test Yourself
 
@@ -151,8 +152,7 @@ These questions were removed from the 2020 Scrum Guide. They can be asked if the
 
 '''
 
-.The Daily Scrum is for the developers and managed by the developers. If the Scrum Master or the Product Owner attends, they do so at the behest of the developers.
-image::images/developers-in-scrum.jpg["The Daily Scrum is for the developers. Neither the Scrum Master nor the Product Owner is required to attend."]
+
 
 ==== Test Yourself
 
@@ -287,3 +287,16 @@ Any time an issue comes up it should be addressed as soon as possible. If a crit
 
 Don't ever let the Scrum Guide and the various Scrum events and artifacts impede pragmatic thinking. If a problem arises that needs to be taken care of immediately, take care of it immediately. Don't wait for the next Scrum event to adapt.
 
+=== Does Scrum Really Have Too Many Meetings?
+
+When people say Scrum has too many meetings, I ask them which ones they think should be removed?
+
+- Should there be no planning?
+- Should there be no product reviews with  clients?
+- Should there be no retrospective to reflect on the Sprint?
+
+Or is the Daily Scrum the problem? Do they think having developers talking to each other in the Daily Scrum for a few minutes every day is too much?
+
+If a team of six or seven developers is working on a project that burns through $250,000 worth of budget money a month, I'd say it was a problem if those developers didn't talk to each other for a few minutes every day.
+
+Scrum doesn't have too many meetings. Scrum gets it just about right.

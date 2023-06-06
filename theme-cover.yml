@@ -1,0 +1,59 @@
+extends: default-with-fallback-font
+
+page:
+  size: [8.5in, 11in]
+cover:
+  front:
+    image: image:images/book-cover-cartoon.png[page=2]
+font:
+  catalog:
+    merge: true 
+    Verdana:
+      normal: verdana-normal.ttf
+      italic: verdana-italic.ttf
+      bold: verdana-bold.ttf
+      bold_italic: verdana-bold_italic.ttf
+    Arial:
+      normal: arial-normal.ttf
+      italic: arial-italic.ttf
+      bold: arial-bold.ttf
+      bold_italic: arial-bold_italic.ttf
+base:
+  font_color: #111111
+heading:
+  font_family: Arial
+quote:
+  font_family: Arial
+  font_size: 11
+
+heading:
+  font_family: Arial
+
+  h1-font-size: $base-font-size * 1.7
+  h1-margin-bottom: 10
+  h1-margin-page-top: 1
+
+  h2-font-size: $base-font-size * 1.5
+
+
+  h3-font-size: $base-font-size * 1.4
+
+header:
+  height: 0.55in
+  line-height: 1
+  recto:
+    right:
+      content: 'Scrum Master Certification Guide by Darcy DeClute'
+  verso:
+    left:
+      content: 'Be @Scrumtuous.'
+footer:
+  height: 0.55in
+  line-height: 1
+  recto:
+    right:
+      content: '{chapter-title} | {page-number}'
+  verso:
+    left:
+      content: '{page-number} | {section-or-chapter-title}'
+  

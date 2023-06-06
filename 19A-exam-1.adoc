@@ -1,7 +1,6 @@
 
 = PART II: THE EXAM QUESTIONS
 
-
 The second part of this book is all about testing your knowledge of the Scrum Guide, and possibly introducing you to some of the unexpected ways the exam tests your knowledge.
 
 - The last exam is 40 questions, and I believe it is slightly harder than the actual exam.
@@ -146,6 +145,8 @@ What guidance would you, as the Scrum Master, provide to the team?
 * [ ] C.	Have the developers dedicate time during the next Daily Scrum to update the Sprint Goal
 * [ ] D.	Tell the developers the Sprint Plan cannot change and have them continue working as planned towards the Sprint Goal
 
+
+<<<
 
 == Answers to the First Practice Exam
 

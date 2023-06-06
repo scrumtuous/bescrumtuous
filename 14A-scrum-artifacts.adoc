@@ -30,12 +30,12 @@ Stakeholders get angry and upset when they don't have answers to these questions
 .Each Scrum artifact, namely the Product Backlog, Sprint Backlog and the Increment, has a corresponding Scrum commitment. The Product Goal, Sprint Goal and the Increment are the Scrum commitments.
 image::images/artifacts-commitments.jpg["Each of the three Scrum artifacts has a corresponding Scrum commitment."]
 
-<<<
+ 
 
 ==== Test Yourself
 
 ****
-The stakeholders are waiting on a new feature to be released and they want to know if it's being actively developed during this Sprint. Where would the stakeholders look to find this information? (Select 1)
+Stakeholders are waiting on a new feature and they want to know if it's being actively developed this Sprint. Where would stakeholders go to find this information? (Select 1)
 
 * [ ] A) The Product Backlog
 * [ ] B) The Sprint Backlog
@@ -66,13 +66,65 @@ Each artifact contains a commitment to ensure it provides information that enhan
 These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 ____
 
-Every arrow needs a target. Each Scrum commitment act as a target for their corresponding artifact.
+Every arrow needs a target.
+
+Without a target, an archer doesn’t know where to aim. Nor would they know if they ever hit their mark.
+
+In Scrum, artifacts are the arrows. Scrum commitments are the targets.
+
+The Scrum Guide demands that work revolves around the following three artifacts:
+
+- A product backlog that represents every feature to be developed;
+- A list of backlog items selected for the Sprint; and
+- Increments of progress that stakeholders can regularly review
+
+=== Why do we need Scrum commitments?
+
+A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance an Agile Scrum developer’s focus as the project progresses.
+
+Here's how the three Scrum commitments match up to the three Scrum artifacts mentioned above:
+
+- The product backlog’s Scrum commitment is to the product goal.
+- The sprint backlog ‘s Scrum commitment is to the sprint goal.
+- The increment’s Scrum commitment is to to the definition of done.
+
+Agile practitioners don’t like plans. In fact, "responding to change over following a plan" is one of the four declared values stated in the Agile Manifesto.
+
+Plans aren’t inherently bad. In Scrum, every sprint begins with a sprint planning session. Planning is a requirement of the sprint framework. Not planning is definitely an Agile anti-pattern.
+
+The problem is that when conscientious people get a plan, they do their best to follow it. Sometimes that is counter-productive, especially when conditions change, which they inevitably do.
 
 .Scrum commitments are the targets for the Scrum artifacts to aim at.
 image::images/darts.jpg["Scrum commitments are targets for artifacts."]
 
+=== Scrum commitments, goals and plans
 
-A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance a Scrum Developer’s focus as the project progresses.
+Compared to a plan, a Scrum commitment is a higher-order calling to which team members aspire. Goal-driven work is just a better motivator than plan-driven work.
+
+The main purpose of the three commitments is to provide a clear, shared, and agreed upon goal that guides all work. The commitments also encourage participants to constantly evaluate how effectively their planned work will help the team follow through on a given commitment.
+
+If the work, plan and commitment are misaligned, developers should sound the alarm and change the plan, because the commitment represents a higher calling than the plan.
+
+=== Empiricism and the Scrum Commitments
+
+The Scrum framework’s three pillars of empiricism are:
+
+- Transparency
+- Inspection 
+- Adaptation
+
+With a clear product goal, well-defined sprint goal and a concise definition of done, the software development process is more transparent and becomes more Agile.
+
+This allows stakeholders to objectively inspect the project’s progress, and immediately change and adapt when individual efforts don’t align with the team’s greater commitments.
+
+Before an archer pulls back her bow, she aims at a target.
+
+For Scrum practitioners, the Scrum commitment is the target to which their artifacts aim.
+
+
+
+
+
 
 
 ==== Test Yourself

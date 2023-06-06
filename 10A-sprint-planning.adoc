@@ -29,9 +29,7 @@ ____
 
 Harking back to a theme we've crowed about before: Sprint Planning happens within the Sprint, not before the Sprint begins.
 
-Many questions on the Scrum Master certification exam will suggest that Sprint Planning happens before the Sprint, but that's always a red herring.
-
-None of the Scrum events happen _before_ or _after_ a Sprint. Every Scrum event takes place _within_ the Sprint.
+Many questions on the Scrum Master certification exam will suggest that Sprint Planning happens before the Sprint, but that's always a red herring. None of the Scrum events happen _before_ or _after_ a Sprint. Every Scrum event takes place _within_ the Sprint.
 
 === Product Backlog Items and the Product Goal
 
@@ -70,18 +68,17 @@ Or better yet, if you know that certain Product Backlog items have dependencies 
 
 The fewer the dependencies your work has on other teams, the better.
 
-<<<
+ 
 ==== Test Yourself
 
 ****
 The Scrum Developers might want to invite someone outside the Scrum Team to attend the Sprint Planning meeting to discuss pertinent issues.
 
-Which of the following is true about people from outside the Scrum Team participating in the Sprint Planning event?
-(Choose 1)
+Which one of the following is true about people not on the Scrum Team and Sprint Planning?
 
 * [ ] A) Outsiders can discuss how Product Backlog items align with corporate strategy and business goals
 * [ ] B) Outsiders can discuss how certain Product Backlog items may be of importance to customers
-* [ ] C) Outsiders can discuss dependencies on other Product Backlog items under development by other teams
+* [ ] C) Outsiders can discuss dependencies on other items other teams are developing
 * [ ] D) Outsiders can discuss risks or problems that might be encountered in the current Sprint
 * [ ] E) All of the above are true.
 
@@ -116,7 +113,7 @@ The Product Owner owns the Product Backlog. Duties related to the Product Backlo
 
 
 
-<<<
+ 
 
 === Answering Why, What, and How
 
@@ -130,16 +127,12 @@ Sprint Planning addresses the following topics:
 - Topic Two: What can be Done in this Sprint?
 - Topic Three: How will the chosen work get done?
 
-Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. 
-
-For shorter Sprints, the event is usually shorter.
+Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
 ____
 
 === Time Boxing Sprint Planning to 8 Hours
 
-To pass the Scrum certification exam you have to know the timeboxes for Scrum events like you know the back of your hand.
-
-Memorize these:
+To pass the Scrum certification exam you have to know the timeboxes for Scrum events like you know the back of your hand. Memorize these:
 
 - Sprint Planning is timeboxed to a maximum of 8 hours for a one-month Sprint
 - The Daily Scrum is timeboxed to a maximum of 15 minutes
@@ -165,7 +158,7 @@ The answer to this question is C, Sprint Planning.
 
 Sprint Planning is timeboxed to a maximum of 8 hours. Hopefully, your team can get it done a bit faster.
 
-<<<
+ 
 
 === Why is the Sprint valuable?
 [quote, 2020 Scrum Guide page 8]
@@ -192,7 +185,7 @@ Figuring out exactly what's required to implement a Product Backlog item is know
 .The Developers will negotiate with the Product Owner over which PBIs can feasibly be selected for the Sprint.
 image::images/negotiate-backlog.jpg["The PO and developers negotiate over the Sprint Backlog."]
 
-<<<
+ 
 
 ==== Test Yourself
 
@@ -231,7 +224,12 @@ It is the Product Owner who presents a list of Product Backlog items they would 
 
 This becomes the starting point for negotiations, suggestions, decomposition and compromises during Sprint Planning.
 
-<<<
+'''
+
+
+NOTE: The term _epic_ is used by some Agile practitioners to describe large Product Backlog items that will take multiple Sprints to complete. While most people in the Agile community are familiar with the term, it is not a term that is ever used in the Scrum Guide.
+
+ 
 
 === Sprint Planning and the Sprint Goal
 
@@ -273,7 +271,7 @@ Nothing ever gets automatically rolled over from one Sprint into the next. Each 
 
 The only exception to this rule is when suggestions on how to improve team practices made during the Sprint Retrospective get added to the next Sprint's Sprint Backlog. Other than that one corner case, items in the Sprint Backlog are never carried over from one Sprint to the next.
 
-<<<
+ 
 
 ==== Test Yourself
 
@@ -295,24 +293,7 @@ The Scrum Team as a whole creates the Sprint Goal.
 
 '''
 
-==== Test Yourself
 
-****
-
-Who is allowed to view the Sprint Goal? (Choose 1)
-
-* [ ] A) The Scrum Master
-* [ ] B) The Scrum Developers
-* [ ] C) Only members of the Scrum Team 
-* [ ] D) The Scrum Team and stakeholders
-
-****
-
-Option D is correct.
-
-The Sprint Goal helps to build transparency into the development process by allowing stakeholders to know what the team is trying to achieve during the current Sprint.
-
-'''
 
 
 === Product Backlog Item Selection
@@ -344,7 +325,7 @@ The Scrum Master certification exam will often provide an incorrect option that 
 ==== Test Yourself
 
 ****
-The Product Owner selects which Product Backlog items the developers will work on during the Sprint.
+The Product Owner selects the Product Backlog items developers will work on during the Sprint.
 
 * [ ] True
 * [ ] False
@@ -373,7 +354,7 @@ The Product Owner should always be available to answer questions about the produ
 
 Conversations between the Product Owner, the developers, the Scrum Master, and the stakeholders should happen freely and openly. Nothing in the Scrum Guide forbids it.
 
-'''
+ 
 
 === What can be Done in this Sprint?
 
@@ -415,28 +396,9 @@ Option C is correct.
 
 The Developers are the ones who select how many Product Backlog items to include in the Sprint. The Developers are the ones who are estimating how much they believe can be accomplished.
 
-<<<
+ 
+ 
 
-==== Test Yourself
-
-****
-
-Which of the following are the most _empirical_ measures of how much the Scrum Developers can accomplish in a given Sprint?
-(Choose 2)
-
-* [ ] A) Burndown charts
-* [ ] B) Past performance
-* [ ] C) Burnup charts
-* [ ] D) Upcoming capacity
-
-****
-
-Options B and D are correct.
-
-Upcoming capacity and knowledge of past performance are more empirical measures than burndown or burnup charts.
-
-
-'''
 
 === How will the chosen work get done?
 
@@ -470,7 +432,8 @@ The Scrum Master certification exam is testing you on Scrum, not peripheral proc
 
 ****
 
-What is the best way for a developer to approach a complicated Product Backlog item? (Choose 1)
+What is the best way for a developer to approach a complicated Product Backlog item? + 
+(Choose 1)
 
 * [ ] A) Have the development team break the Product Backlog item down into smaller user stories.
 * [ ] B) Have the Product Owner break the Product Backlog item down into smaller user stories.
@@ -485,7 +448,7 @@ The term 'user story' is never mentioned once in the Scrum Guide. Neither is 'po
 
 Given an epic Product Backlog item, the Scrum Developers should try to decompose it into multiple, smaller work items that will take a day or less for a developer to complete.
 
-By the way, the previous sentence used the term 'epic.' This is a common term in the world of Agile development, but the term 'epic' never appears once in the Scrum Guide.
+
 
 '''
 
@@ -517,7 +480,47 @@ The Sprint Backlog consists of the Product Backlog items selected for the Sprint
 
 
 
+==== Test Yourself
 
+****
+
+Who is allowed to view the Sprint Goal? (Choose 1)
+
+* [ ] A) The Scrum Master
+* [ ] B) The Scrum Developers
+* [ ] C) Only members of the Scrum Team 
+* [ ] D) The Scrum Team and stakeholders
+
+****
+
+Option D is correct.
+
+The Sprint Goal helps to build transparency into the development process by allowing stakeholders to know what the team is trying to achieve during the current Sprint.
+
+'''
+
+
+
+==== Test Yourself
+
+****
+
+Which of the following are the most _empirical_ measures of how much the Scrum Developers can accomplish in a given Sprint?
+(Choose 2)
+
+* [ ] A) Burndown charts
+* [ ] B) Past performance
+* [ ] C) Burnup charts
+* [ ] D) Upcoming capacity
+
+****
+
+Options B and D are correct.
+
+Upcoming capacity and knowledge of past performance are more empirical measures than burndown or burnup charts.
+
+
+'''
 
 
 

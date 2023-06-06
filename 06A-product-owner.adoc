@@ -1,5 +1,9 @@
 == Chapter 6: The Product Owner
 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+
 It all starts with the Product Owner (PO).
 
 Seriously, the whole idea of Scrum is for a team to work toward the creation of a product that makes stakeholders and customers happy. 
@@ -35,7 +39,9 @@ The Product Owner knows all about the Product, but what is the Product Owner mos
 
 Interestingly, the Scrum Guide doesn't make it clear how the Product Owner goes about doing that. Fortunately, I can help you out here.
 
-_How do POs Maximize Value?_
+<<<
+
+=== How do Product Owners Maximize Value?
 
 The PO maximizes the value of the work done by the Scrum Team by convincing the developers to work on the most important and valuable features of the product first.
 
@@ -47,7 +53,7 @@ That's how the PO maximizes the value of the stuff the developers are delivering
 
 === Product Backlog Management
 
-Effective Product Backlog management is the key to maximizing the work done by the development team. 
+Effective Product Backlog management is the key to maximizing the work done by developers. 
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -65,13 +71,11 @@ There is a great deal of nuance to the responsibilities, or _accountabilities,_ 
 
 === Product Owner Accountabilities
 
-For example, the exam will assert in a True or False question that the _stakeholders_ or _customers_ are responsible for communicating the Product Goal to the team. On the surface, that almost sounds like it makes sense. 
+For example, the exam will assert in a True or False question that the _stakeholders_ or _customers_ are responsible for communicating the Product Goal to the team. 
 
-After all, the product is for the customers, right? So shouldn't they communicate the Product Goal? 
+On the surface, that almost sounds like it makes sense. After all, the product is for the customers, right? So shouldn't they communicate the Product Goal? 
 
-Don't fall for the trick. The Product Owner communicates the Product Goal, not the stakeholders or the customers.
-
-The same trick goes for communicating Product Backlog items (PBIs). 
+Don't fall for the trick. The Product Owner communicates the Product Goal, not the stakeholders or the customers. The same trick goes for communicating Product Backlog items (PBIs). 
 
 It sounds logical that a customer or stakeholder might be the one creating or communicating details about Product Backlog items, after all, the Product Backlog represent features and functionality that the customers want, right?
 
@@ -118,12 +122,16 @@ Notice in the question above the term 'accountable' was used.
 
 The Product Owner can delegate any of the work they are accountable for to anyone they deem fit. However, the Product Owner remains fully accountable for the results, regardless of who does the work.
 
-'''
+<<<
 
 ==== Test Yourself
 
 ****
-True or False: It is the job of the Scrum Master to ensure that items in the Product Backlog are properly understood by both stakeholders and team members.
+It is the job of the Scrum Master to ensure that items in the Product Backlog are properly understood by both stakeholders and team members.
+
+* [ ] True
+* [ ] False
+
 ****
 
 This is false. It is stated quite clearly in the Scrum Guide that it is the job of the _Product Owner_ to make sure "that the Product Backlog is transparent, visible and _understood._"
@@ -170,9 +178,8 @@ When developers have questions about the work they're doing, they need answers t
 
 If someone else in the organization keeps overriding the decisions of the PO, the team will quickly lose trust in the Product Owner, and the whole Scrum framework falls apart.
 
-NOTE: Notice how the Scrum pillars of transparency, inspection and adaptation always arise when talking about Scrum events, accountabilities and artifacts. 
 
-<<<
+ 
 
 
 
@@ -214,7 +221,7 @@ The entire organization must respect the PO's decisions. These decisions are vis
 Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
 ____
 
-
+<<<
 
 ==== Test Yourself
 
@@ -252,11 +259,11 @@ There is only one Product Owner on a Scrum Team, and that one Product Owner repr
 
 '''
 
+NOTE: Notice how the Scrum pillars of transparency, inspection and adaptation always arise when talking about Scrum events, accountabilities and artifacts. 
+
 === Trust, Transparency, and the Product Backlog
 
-The PO must have the complete and total trust of the organization concerning product ownership, but trust is a two-way street. 
-
-If the Product Owner is to be trusted, the Product Owner must also be transparent about what they are doing.
+The PO must have the complete and total trust of the organization concerning product ownership, but trust is a two-way street. If the Product Owner is to be trusted, the Product Owner must also be transparent about what they are doing.
 
 So how does the Product Owner make their decisions transparent? They do so by making the Product Backlog visible and available to all stakeholders.
 
@@ -268,15 +275,12 @@ So how does the Product Owner make their decisions transparent? They do so by ma
 
 The Prodcut Backlog is the key to making the decisions of the Product Owner transparent.
 
-<<<
+ 
 
 === Inspection of the Increment
 
 
-
-If a stakeholder wants to know what needs to be done, they look at the Product Backlog. 
-
-If a stakeholder wants to know what's being done, they look at the Product Backlog items that are part of the current Sprint's backlog.
+If a stakeholder wants to know what needs to be done, they look at the Product Backlog. If a stakeholder wants to know what's being done, they look at the Product Backlog items that are part of the current Sprint's backlog.
 
 At the end of every Sprint, a Sprint Review takes place where stakeholders inspect the Product Backlog items that have met the Definition of Done to produce a product Increment.
 
@@ -340,4 +344,5 @@ If the CEO needs a feature prioritized, the CEO has to go through the Product Ow
 
 Nobody has the right to add features to the Product Backlog other than the Product Owner, and nobody can inform the developers about which items are the highest priority other than the Product Owner.
 
-'''
+
+

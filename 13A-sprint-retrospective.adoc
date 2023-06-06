@@ -1,6 +1,16 @@
 
 == Chapter 13: Sprint Retrospective
 
+{nbsp} + 
+
+{nbsp} + 
+
+{nbsp} + 
+
+{nbsp} + 
+
+{nbsp} + 
+
 
 When the work is done, and the Sprint Review is complete, it's time for the Scrum Team to circle the wagons and chat a bit about what went right, what went wrong, and what they want to change when the next Sprint begins.
 
@@ -24,6 +34,7 @@ ____
 .The Sprint Retrospective is the last Scrum event to take place within the Sprint.
 image::images/chart-sprint-retrospective.jpg["The Sprint Retrospective is the last Scrum event to take place within the Sprint."]
 
+<<<
 
 === Updating the Sprint Length and the DoD
 
@@ -32,6 +43,8 @@ One question that comes up regularly on the Scrum Master certification exam is _
 It's not stated explicitly, but the Sprint Retrospective is also the right time to discuss changing the Sprint length if that's desired. That way if a change is agreed upon, the change can be applied to the next Sprint that starts when the retrospective ends.
 
 The Scrum Guide also indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum framework are best discussed during the Sprint Retrospective.
+
+==== Scrum Never Stifles Communication
 
 If the certification exam ever asks when developers should talk about how well their tools are working, or how well they have applied the Scrum framework, the correct answer will be the Sprint Retrospective, not the Daily Scrum. 
 
@@ -49,6 +62,7 @@ The developers are not happy with how the Sprint framework has been implemented.
 * [ ] B) During the Daily Scrum
 * [ ] C) During Sprint Planning
 * [ ] D) During the Sprint Retrospective
+* [ ] E) During their annual review
 
 ****
 
@@ -56,7 +70,7 @@ Option D is correct.
 
 Discussions about how things are working, how various processes are being implemented, and even discussions about how to do Scrum better should happen during the Sprint Retrospective.
 
-'''
+<<<
 
 === The 80/20 Principle
 
@@ -124,7 +138,6 @@ Option C is correct.
 
 During the Sprint Retrospective, the Scrum Team may add strategies for improvement to the next Sprint's Backlog.
 
-<<<
 
 ==== Test Yourself
 
@@ -142,7 +155,7 @@ Option D is correct.
 
 According to the Scrum Guide, great ideas that come out in the Sprint Retrospective can be placed in the Sprint Backlog of the next Sprint.
 
-'''
+<<<
 
 
 === The Conclusion of the Sprint
@@ -173,7 +186,6 @@ Once the Sprint Retrospective ends, the Sprint is over and the next Sprint begin
 
 Every event happens within the scope of a Sprint in Scrum. When one Sprint ends, the next one starts immediately. The end of the Sprint Retrospective is the official end of the Sprint.
 
-<<<
 
 ==== Test Yourself
 
@@ -191,7 +203,7 @@ Option C is correct.
 
 The final event in the Sprint is the Sprint Retrospective.
 
-'''
+<<<
 
 ==== Test Yourself
 
@@ -229,7 +241,7 @@ Option B is correct.
 
 The Daily Scrum was left out of these options. It is the shortest of all Scrum Events at 15 minutes.
 
-<<<
+
 
 ==== Test Yourself
 

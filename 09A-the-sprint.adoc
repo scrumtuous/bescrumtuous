@@ -39,11 +39,9 @@ Another key point here is the fact that a Sprint is a month or less.
 - It's not 30 days
 - It's not 4 weeks
 
-The length of a Sprint is one month or less. 
+The length of a Sprint is one month or less.  You'll be tested on that, so commit it to memory.
 
-You'll be tested on that, so commit it to memory.
-
-<<<
+ 
 
 === The Start of the Sprint
 
@@ -74,6 +72,7 @@ This means there are technically two correct answers when asked when a new Sprin
 .All of the Scrum events happen within the scope of a Sprint. When one Sprint ends, a new immediately begins.
 image::images/sprint-container.jpg["The Sprint contains all the Scrum events."]
 
+{nbsp} +
 
 ==== Test Yourself
 
@@ -82,6 +81,8 @@ Sprint Zero can last for up to 49 days.
 * [ ] True
 * [ ] False
 ****
+
+ 
 
 This is false for two reasons.
 
@@ -99,20 +100,6 @@ Secondly, this statement is false because the maximum length of a Sprint in Scru
 
 '''
 
-==== Test Yourself
-A Sprint can be any length a team decides is best, so long as it is less than a month.
-****
-* [ ] True
-* [ ] False
-****
-
-This is true.
-
-The Scrum Guide doesn't specify the minimum length of a Sprint. When the Scrum Guide doesn't explicitly define something, it's up to the Scrum Teams to figure things out for themselves.
-
-I couldn't imagine fitting a Sprint Planning meeting, Sprint Retrospective, and Sprint Review into a 24-hour Sprint, but nothing in the Scrum Guide forbids it.
-
-'''
 
 === What Happens During the Sprint?
 
@@ -136,6 +123,11 @@ Here are two things that are not allowed to change during the Sprint:
 2. No changes are made to decrease the quality of the existing product
 
 The Scrum Guide doesn't have many hard and fast rules, but those are two of them.
+
+
+TIP: Some organizations declare a _Sprint Zero_ at the start of the project to get the team organized. This is not a Scrum endorsed concept. When mentioned on the exam, it is typically an incorrect option.
+
+<<<
 
 ==== Test Yourself
 
@@ -162,6 +154,24 @@ Sprints are a fixed length, so they can't ever be extended, which makes B incorr
 And the Scrum Guide makes zero references to user stories, so any talk of user stories on the Scrum Master certification exam will likely be a red herring.
 
 '''
+
+
+
+
+==== Test Yourself
+A Sprint can be any length a team decides is best, so long as it is less than a month.
+****
+* [ ] True
+* [ ] False
+****
+
+This is true.
+
+The Scrum Guide doesn't specify the minimum length of a Sprint. When the Scrum Guide doesn't explicitly define something, it's up to the Scrum Teams to figure things out for themselves.
+
+I couldn't imagine fitting a Sprint Planning meeting, Sprint Retrospective, and Sprint Review into a 24-hour Sprint, but nothing in the Scrum Guide forbids it.
+
+<<<
 
 === Why do we have Short Sprints in Scrum?
 
@@ -195,34 +205,7 @@ A short Sprint makes it easier to manage risk. If the team is doing something wr
 
 It's also arguably easier to estimate work for two weeks, as opposed to three or four, and the project is less likely to go completely sideways in two weeks as opposed to two months.
 
-==== Test Yourself
 
-****
-
-The development team is working with a new technology which has introduced a great deal of risk and uncertainty into the project. The Product Owner wants to reduce the Sprint time down to 2 or 3 weeks from the current Sprint length of one month. 
-
-What should the Scrum Master do?
-(Choose 1)
-
-* [ ] A) Act on the Product Owner's recommendation and reduce the Sprint length to 2 weeks
-* [ ] B) Coach the Scrum Team on how shorter Sprints reduce risk and ask them to consider reducing the Sprint length to 2 or 3 weeks.
-* [ ] C) Explain to the Product Owner that the Sprint length cannot be changed after development has started.
-* [ ] D) Plan a week-long 'learning Sprint' where developers learn the new technology and don't try to deliver an Increment.
-* [ ] E) Assign work with the new technology to an external Scrum Team that specializes in it.
-
-****
-
-The correct answer is B. 
-
-As a Scrum Master, your job is to teach people about Scrum practices and Scrum Theory and coach them on how to apply Scrum in a manner that works best for them.
-
-Neither the Scrum Master nor the Product Owner can arbitrarily set the length of a Sprint in Scrum. This is a decision that must come about through the consensus of the team.
-
-C is incorrect because the length of future Sprint can be changed if the team agrees a change is needed. However, the Sprint length cannot be changed mid-sprint.
-
-D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of a valuable and useful Increment. 
-
-E is incorrect because Scrum Teams should be cross-functional and be able to learn new technologies as required.
 
 
 === Empiricism Trumps Scrum Metrics
@@ -250,29 +233,35 @@ What's more, the guide kinda throws shade on them, saying that while they are us
 
 Still, for the exam, you do need to know what each of these charts does. You don't need to understand them in depth, but questions will arise about what they can tell you.
 
-=== Non-Empirical Scrum Metrics
+==== Test Yourself
 
-NOTE: I queried ChatGPT so you don't have to! I got ChatGPT to generate these descriptions. ChatGPT gets a lot of stuff about Scrum wrong, but I thought these descriptions were better than I could do on my own.
+****
+
+The development team is working with a new technology which has introduced a great deal of risk and uncertainty into the project. The Product Owner wants to reduce the Sprint time down to 2 or 3 weeks from the current Sprint length of one month. 
+
+What should the Scrum Master do?
+(Choose 1)
+
+* [ ] A) Act on the Product Owner's recommendation and reduce the Sprint length to 2 weeks
+* [ ] B) Coach the Scrum Team on how shorter Sprints reduce risk and ask them to consider reducing the Sprint length to 2 or 3 weeks.
+* [ ] C) Explain to the Product Owner that the Sprint length cannot be changed after development has started.
+* [ ] D) Plan a week-long 'learning Sprint' where developers learn the new technology and don't try to deliver an Increment.
+* [ ] E) Assign work with the new technology to an external Scrum Team that specializes in it.
+
+****
+
+The correct answer is B. 
+
+As a Scrum Master, your job is to teach people about Scrum practices and Scrum Theory and coach them on how to apply Scrum in a manner that works best for them. Neither the Scrum Master nor the Product Owner can arbitrarily set the length of a Sprint in Scrum. This is a decision that must come about through the consensus of the team.
+
+C is incorrect because the length of future Sprint can be changed if the team agrees a change is needed. However, the Sprint length cannot be changed mid-sprint.
+
+D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of a valuable and useful Increment. 
+
+E is incorrect because Scrum Teams should be able to learn new technologies as required.
 
 
-*Burn-Down Chart:*
-A burn-down chart is a graphical representation of the amount of work remaining in a project versus time. It tracks the progress of a project by showing the remaining work that needs to be completed on the vertical axis and the time on the horizontal axis. The chart starts with the total amount of work to be completed at the beginning of the project, and as work is completed, the line on the chart gradually moves down until it reaches zero at the end of the project.
-
-Burn-down charts are useful because they help teams track progress over time and adjust their approach as necessary. For example, if the team is falling behind schedule, they can identify this early on and make changes to get back on track.
-
-*Burn-Up Chart:*
-A burn-up chart is similar to a burn-down chart but shows progress differently. Rather than showing the remaining work on the vertical axis, a burn-up chart shows the amount of work completed over time. The chart starts with zero completed work at the beginning of the project, and as work is completed, the line on the chart moves up until it reaches the total amount of work to be completed at the end of the project.
-
-Burn-up charts are useful because they show progress towards a goal and can help teams identify whether they are on track to complete the project on time.
-
-*Cumulative Flow Chart:*
-A cumulative flow chart is a graphical representation of the flow of work in a project. It shows the amount of work in progress at any given time, as well as the rate at which work is being completed. The chart has a horizontal axis representing time and a vertical axis representing the number of tasks.
-
-The chart starts with a backlog of tasks at the beginning of the project and shows how tasks move through different stages of completion over time. For example, a task might start in the "to do" column, move to "in progress", and then finally move to "completed".
-
-Cumulative flow charts are useful because they help teams identify bottlenecks in their workflow and optimize their processes to increase efficiency. By tracking the rate of completion over time, teams can also identify whether they are on track to complete the project on time.
-
-
+<<<
 
 === Scrum Can't Predict the Future
 
@@ -317,6 +306,9 @@ A Sprint could be canceled if the Sprint Goal becomes obsolete.
 
 Only the Product Owner has the authority to cancel the Sprint.
 ____
+
+<<<
+
 
 These two points surprise people for the following three reasons:
 
@@ -384,6 +376,25 @@ Scrum doesn't provide any guidance on these topics. It's assumed your team will 
 
 Scrum wants you to figure out what's best for you. It just wants you to do that within the confines of the incomplete framework it provides.
 
+=== Non-Empirical Scrum Metrics
+
+NOTE: I queried ChatGPT so you don't have to! I got ChatGPT to generate these descriptions. ChatGPT gets a lot of stuff about Scrum wrong, but I thought these descriptions were better than I could do on my own.
 
 
+*Burn-Down Chart:*
+A burn-down chart is a graphical representation of the amount of work remaining in a project versus time. It tracks the progress of a project by showing the remaining work that needs to be completed on the vertical axis and the time on the horizontal axis. The chart starts with the total amount of work to be completed at the beginning of the project, and as work is completed, the line on the chart gradually moves down until it reaches zero at the end of the project.
+
+Burn-down charts are useful because they help teams track progress over time and adjust their approach as necessary. For example, if the team is falling behind schedule, they can identify this early on and make changes to get back on track.
+
+*Burn-Up Chart:*
+A burn-up chart is similar to a burn-down chart but shows progress differently. Rather than showing the remaining work on the vertical axis, a burn-up chart shows the amount of work completed over time. The chart starts with zero completed work at the beginning of the project, and as work is completed, the line on the chart moves up until it reaches the total amount of work to be completed at the end of the project.
+
+Burn-up charts are useful because they show progress towards a goal and can help teams identify whether they are on track to complete the project on time.
+
+*Cumulative Flow Chart:*
+A cumulative flow chart is a graphical representation of the flow of work in a project. It shows the amount of work in progress at any given time, as well as the rate at which work is being completed. The chart has a horizontal axis representing time and a vertical axis representing the number of tasks.
+
+The chart starts with a backlog of tasks at the beginning of the project and shows how tasks move through different stages of completion over time. For example, a task might start in the "to do" column, move to "in progress", and then finally move to "completed".
+
+Cumulative flow charts are useful because they help teams identify bottlenecks in their workflow and optimize their processes to increase efficiency. By tracking the rate of completion over time, teams can also identify whether they are on track to complete the project on time.
 

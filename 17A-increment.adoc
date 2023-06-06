@@ -8,9 +8,7 @@ But how is Scrum incremental?
 
 === Iterative and Incremental
 
-In Scrum, we add to the product every Sprint. Every Sprint is supposed to deliver an Increment that is _useful_ and _valuable._
-
-You never do a Sprint that doesn't try to create something useful.
+In Scrum, we add to the product every Sprint. Every Sprint is supposed to deliver an Increment that is _useful_ and _valuable._ You never do a Sprint that doesn't try to create something useful.
 
 There are no 'infrastructure Sprints' in Scrum where you just make sure everyone has the right software installed and access to the JIRA board.
 
@@ -30,16 +28,14 @@ To provide value, the Increment must be usable.
 
 ____
 
-.Like steps in a staircase, each increment builds on top of previous increments. In Scrum, we move forward by iteratively creating valuable and usable increments that take us progressively closer to achieving the Product Goal.
+.Like steps in a staircase, each Increment builds on top of previous increments. We move forward by iteratively creating valuable and usable increments that take us progressively closer to the Product Goal.
 image::images/increment-steps.jpg["Increments of value in Scrum.."]
 
-<<<
+ 
 
 === Integrated Increments
 
-An Increment must be added to what's already been done, and it must be able to fully integrate and work with all previous increments.
-
-If an Increment isn't compatible with past Increments, then it's not a valid Increment. If an Increment stands alone and doesn't increase the value of the product built to date, then it's not valid.
+An Increment must be added to what's already been done, and it must be able to fully integrate and work with all previous increments. If an Increment isn't compatible with past Increments, then it's not a valid Increment. If an Increment stands alone and doesn't increase the value of the product built to date, then it's not valid.
 
 On the certification exam, there will be many questions about _integration,_ which is intimidating, because there is no talk in the Scrum Guide about integration. 
 
@@ -64,7 +60,7 @@ No, a door sitting on the roof of your car that is supposed to go on the house y
 
 When the door is put on its hinges, attached to the house, and it can swing open and closed freely then it can be considered _integrated._ When integrated, it becomes a useful, valuable Increment. 
 
-By putting the door on the house, you have integrated your work into the product you are building, and you have added a valuable Increment of work that stakeholders can see, touch, feel, and even criticize.
+By putting the door on the house, you have integrated your work into the product and you have added a valuable Increment of work that stakeholders can see, touch, feel, and even criticize.
 
 
 === A Poorly Integrated Increment
@@ -75,9 +71,14 @@ Now imagine you took the door off the roof of your car, tried to attach it to th
 - The hinges are incompatible
 - You realize the door is the wrong color
 
+<<<
+
 You've done work on the door, there's no arguing about that. But has that work been integrated?
 
 Did you just create a usable Increment of work that adds to the existing project? No, you didn't, because your door is useless.
+
+.If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
+image::images/house-door.jpg["Integrate immediately into the product."]
 
 === When to Integrate
 
@@ -90,10 +91,8 @@ Don't get flustered. Get pragmatic.
 When you think about integration pragmatically, the questions answer themselves.
 
 
-.If a house needs a door, and you have the door at the ready, you don't wait a week to integrate it.
-image::images/house-door.jpg["Integrate immediately into the product."]
 
-<<<
+ 
 
 === The Right Time to Integrate
 
@@ -102,6 +101,7 @@ So, when should you integrate your work into the existing product?
 - During the Daily Scrum?
 - During the Sprint Review?
 - During the Sprint Retrospective?
+- During the Sprint Planning?
 - Right now?
 
 'Right now' is the correct answer. 
@@ -111,6 +111,8 @@ If you've got the perfect door ready to be put on your new house's hinges, you d
 It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
 
 As soon as your work is done you integrate your work. Then you move on to the next piece of work that needs to be done. You keep doing that over and over and over again until it's time for the Sprint Review.
+
+Scrum prides itself on being based on _lean principles._ Waiting around is not lean. Doing something right away is lean. On the Scrum Master exam, a lean approach to product building is the correct approach.
 
 
 ==== Test Yourself
@@ -128,9 +130,9 @@ Option C is correct.
 
 Scrum is iterative in that a set of steps get repeated each Sprint, and it is incremental in that each Sprint produces Increments of work that get added to all past increments.
 
-'''
-
 <<<
+
+ 
 
 === Multiple Increments
 
@@ -156,9 +158,7 @@ ____
 
 Some people get the impression that the only time stakeholders should be allowed to see what developers have done is at the Sprint Review.
 
-If developers create an Increment they want the stakeholders to see, nothing is stopping them from presenting it to them at any time throughout the Sprint.
-
-And why should a developer wait to show off their amazing work? 
+If developers create an Increment they want the stakeholders to see, nothing is stopping them from presenting it to them at any time throughout the Sprint. And why should a developer wait to show off their amazing work? 
 
 If the developers have created something they are proud of, and the stakeholders are anxious to see it, why would the development team wait  until the Sprint Review to show it to them?
 
@@ -210,9 +210,9 @@ If there is a quality metric that the product must support, it is the developmen
 
 Remember that there are no sub-teams in Scrum, and there is no talk anywhere about DevOps, UAT, or QA teams in the Scrum Guide.
 
-'''
-
 <<<
+
+ 
 
 === Scrum Pillars, Transparency, and 'Done'
 
@@ -257,7 +257,7 @@ Option E is correct.
 
 The Scrum Guide is clear. If a feature does not meet the Definition of Done, it is not presented at the Sprint Review, and it is returned to the Product Backlog.
 
-'''
+<<<
 
 === Organizational Standards
 
@@ -371,3 +371,7 @@ When multiple teams work on the same project together:
 
 
 '''
+
+
+
+

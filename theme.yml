@@ -1,7 +1,13 @@
 extends: default-with-fallback-font
-cover:
-  front:
-    image: image:images/book-cover-cartoon.png[page=2]
+
+page:
+  size: [8.5in, 11in]
+  
+sidebar:
+    background-color: #FAFAFA
+    border-color: #222222
+    border-width: 1
+    
 font:
   catalog:
     merge: true 

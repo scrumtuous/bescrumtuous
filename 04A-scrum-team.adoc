@@ -18,15 +18,11 @@ The fundamental unit of Scrum is a small team of people, a Scrum Team.
 The Scrum Team consists of one Scrum Master, one Product Owner, and Developers.
 ____
 
-Take note of the fact that a Scrum team is made up of three _things:_ one Scrum Master, one Product Owner, and multiple Developers.
+Take note of the fact that a Scrum team is made up of three _things:_ one Scrum Master, one Product Owner, and multiple Developers. Notice how I called them 'things.' 
 
-Notice how I called them 'things.' 
+People like to call them 'roles.' The Scrum Guide never uses the term 'role' once. Technically, these are not roles.  The Scrum Guide later refers to them as 'accountabilities.' They are technically not 'roles.'
 
-People like to call them 'roles.' The Scrum Guide never uses the term 'role' once. Technically, these are not roles. 
-
-The Scrum Guide later refers to them as 'accountabilities.' They are technically not 'roles.'
-
-.A Scrum Teams has one Product Owner, one Scrum Master and developers. What does your Scrum Team look like?
+.A Scrum Team must have one Product Owner, one Scrum Master and some Developers to do the work. What does your Scrum Team look like?
 image::images/scrum-team.jpg["A Scrum Teams has one Product Owner, one Scrum Master and developers."]
 
 ==== Test Yourself
@@ -51,9 +47,8 @@ You will often see the term _Project Manager_ appear in certification questions 
 There are also no:
 
 - Testers 
-- Architects
 - Engineers
-- Plumbers
+- Architects
 - Carpenters
 - Rocket Scientists
 - Heavy Equipment Operators or
@@ -87,26 +82,42 @@ Option D is correct.
 
 This question is a typical example of a Scrum Master certification question describing how many software development teams who say they are doing Scrum behave in an attempt to get you to incorrectly answer the question.
 
-Many Scrum Master certification exam questions will talk about professions like QAs, business analysts, or engineers who are not on the Scrum team. Anyone doing work as part of product development must be _on_ a Scrum Team. Regardless of what their skills are, they are simply seen as a Developer in the eyes of the Scrum Guide.
+Many Scrum Master certification exam questions will talk about professions like QAs, business analysts, or engineers who are not on the Scrum team. 
 
-Options on the Scrum Certification exam where they start talking about specific professions are usually wrong because a Scrum Team only has three accountabilities: one Scrum Master, one Product Owner, and Scrum Developers.
+Anyone doing work as part of product development must be _on_ a Scrum Team. Regardless of what their skills are, they are simply seen as a Developer in the eyes of the Scrum Guide.
+
+Options on the Scrum Certification exam where they start talking about specific professions are usually wrong because a Scrum Team only has three accountabilities: 
+
+- One Scrum Master
+- One Product Owner
+- Scrum Developers
 
 '''
 
-=== Subteams are Radioactive in Scrum
+TIP: You will often see questions on the Scrum Master certification exam where options include a reference to a _manager_ or a _Project Manager._ The Scrum Guide never once mentions the terms _Project Manager_ or _manager_. Options that refer to these positions are most likely wrong.
+
+
+<<<
+
+=== There are no Subteams in Scrum
 
 In Scrum, the development team is a collection of 'equals', regardless of their skills or experience.
-
-In Scrum Team, there are no separate 'QA Teams' or 'Testing Teams', nor is there even a team lead. 
-
-Everyone pitches in to do the required work, and with the team's cross-functional skills, they can accomplish any specified testing or QA requirements.
 
 [quote, 2020 Scrum Guide page 5]
 ____
 Within a Scrum Team, there are no subteams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
 ____
 
+
+
+In Scrum Team, there are no separate 'QA Teams' or 'Testing Teams', nor is there even a team lead. 
+
+Everyone pitches in to do the required work, and with the team's cross-functional skills, they can accomplish any specified testing or QA requirements.
+
+
 The topic of subteams and hierarchies will be at the heart of seven or eight questions on the 80 question Scrum Master certification exam. They're easy to get right if you just remember that there are no sub-teams and there are no hierarchies in Scrum.
+
+==== Subteams are Radioactive in Scrum
 
 What does it mean to say there are no subteams in Scrum?
 
@@ -114,7 +125,9 @@ What does it mean to say there are no subteams in Scrum?
 
 - It means there is no testing team to check for bugs. The development team does that.
 
-- It means here is no performance team to do load testing. The development team does that.
+- It means there is no performance team to do load testing. The development team does that.
+
+- It means there is no team of technical writers to do documentation. The development team does that.
 
 If bugs need to be fixed, if quality needs to be assured, or if performance needs to be tested, then the people doing that work are part of the development team. 
 
@@ -123,9 +136,11 @@ To be without hierarchies means developers aren't given titles like 'Team Lead' 
 .The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (Credit: USS Albacore, US Navy)
 image::images/subteam.jpg["The only time you have a subteam in Scrum is if there is literally a team of developers working on a sub. (USS Albacore, credit: US Navy)"]
 
+
+
 ==== Test Yourself
 
-Here's the structure of a prototypical Scrum Master certification exam question that tests you on hierarchies and subteams:
+Here's a prototypical Scrum exam question that tests you on hierarchies and subteams:
 
 ****
 There is an issue. What should you do? (Choose 1)
@@ -143,13 +158,13 @@ You should immediately identify the first three options as being wrong because t
 
 Scrum doesn't have subteams or hierarchies. If there's ever an issue that falls on the shoulders of the Scrum Master to solve, the solution is typically for the Scrum Master coach around it.
 
-<<<
 
 
 
 
 
-<<<
+
+
  
 === Cross-functional Scrum Teams
 
@@ -162,9 +177,7 @@ ____
 
 The cross-functional aspect of a Scrum Team confuses a lot of test takers.
 
-If you bake a cake, you need all the ingredients before you begin, right?
-
-And if you want to build a product, you need a team of developers who have all of the skills needed to build that product.
+If you bake a cake, you need all the ingredients before you begin, right? And if you want to build a product, you need a team of developers who have all of the skills needed to build that product.
 
 If your team is going to build, test, secure and load test an application, then your team has to have developers on it with all of those skills.
 
@@ -175,7 +188,9 @@ A Scrum team doesn't outsource their work, nor do they hand their work over to a
 ==== Test Yourself
 
 ****
-The next feature required by the Product Owner is a Mars orbiter, but nobody on your team knows how to build a Mars orbiter. What should you, the Scrum Master, advise the team to do? (Choose 1)
+The next feature required by the Product Owner is a Mars orbiter, but nobody on your team knows how to build a Mars orbiter. 
+
+What should you, the Scrum Master, advise the team to do? (Choose 1)
 
 * [ ] A) Tell the dev team the Mars Orbiter will be removed from the required features list.
 * [ ] B) Cancel the Sprint until the team finds someone who can build a Mars orbiter.
@@ -185,14 +200,20 @@ The next feature required by the Product Owner is a Mars orbiter, but nobody on 
 
 Option D is correct.
 
-This may sound like a silly question, but what would happen if you were on a team that needed to build a Mars Orbiter?  You'd have to research how to do it and figure it out. And if you were hired to build a Mars Orbiter, the assumption is that you are indeed someone smart enough to figure out how to solve that impossible problem.
+This may sound like a silly question, but what would happen if you were on a team that needed to build a Mars Orbiter?  
+
+You'd have to research how to do it and figure it out. 
+
+And if you were hired to build a Mars Orbiter, the assumption is that you are indeed someone smart enough to figure out how to solve that impossible problem.
 
 
 === Cross-Functional and Self-managed
 
 [quote, 2020 Scrum Guide page 5]
 ____
-In Scrum, the developers are assumed to be cross-functional, and as a group, they will possess all of the skills needed to produce the product being built. That's what it means to have a cross-functional team.
+In Scrum, the developers are assumed to be cross-functional, and as a group, they will possess all of the skills needed to produce the product being built. 
+
+That's what it means to have a cross-functional team.
 
 Scrum Teams are also self-managing, meaning they internally decide who does what, when, and how.
 ____
@@ -201,8 +222,11 @@ Scrum self-describes as an 'incomplete framework.' That means it doesn't have a 
 
 Scrum practitioners are encouraged to 'find their path' and do what works for them. The developers should be allowed to manage themselves as much as possible.
 
-.A cross-functional Scrum Team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)
-image::images/cross-functional-teams.jpg["A cross-functional team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)"]
+'''
+
+TIP: There is no reference to a 'Sprint 0', 'infrastructure Sprint' or 'release Sprint' in the Scrum Guide. Options that reference these concepts on the exam are typically wrong.
+
+<<<
 
 ==== Test Yourself
 
@@ -215,9 +239,11 @@ Your company just hired 50 new developers. How should they be put into teams? (C
 * [ ] D) Let the developers split themselves up into any number of groups in any way they like.
 ****
 
-In this case, option D would be the correct answer. If the teams are truly self-managed, they should be allowed to group in whichever way they see fit. Scrum does limit the size of a team to 10 individuals, so that is the only hard constraint that would be put on the grouping.
+In this case, option D would be the correct answer. 
 
-<<< 
+If the teams are truly self-managed, they should be allowed to group in whichever way they see fit. Scrum does limit the size of a team to 10 individuals, so that is the only hard constraint that would be put on the grouping.
+
+'''
 
 ==== Test Yourself
 
@@ -239,7 +265,7 @@ In this case, the development team wants to split up into two groups. If that's 
 
 The development team is a group of self-motivated, highly motivated individuals with one overarching objective - to achieve the Product Goal. If the developers believe two teams would be more productive, then that's their decision. They get to self-organize in any way they see fit.
 
-'''
+<<<
 
 ==== Test Yourself
 
@@ -252,6 +278,7 @@ Who has the right to remove a Developer from a Scrum Team? (Choose 1)
 * [ ] B) The Product Owner
 * [ ] C) The Scrum Master
 * [ ] D) The Development Team
+* [ ] E) The stakeholders
 ****
 Option D is correct.
 
@@ -259,16 +286,22 @@ Again, the development team is self-managing. If there is a Developer that they 
 
 That doesn't mean the Developer should be fired. Maybe they were under-utilized. Or maybe they somehow impeded progress. But if the development team believes that removing an individual from the team would better serve the Product Goal, then that's a decision the team should be allowed to make.
 
+.A cross-functional Scrum Team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)
+image::images/cross-functional-teams.jpg["A cross-functional team has all the skills needed to complete a Product Backlog item from beginning to end. (Credit: Pierre Selim)"]
+
+'''
+
+TIP: Daily reports, status meetings, and allowing managers to attend the Daily Scrum are all practices that run counter to the principles of Scrum. If you ever see options on the exam that suggest such practices, immediately discount them because they are wrong.
+
+<<<
 
 === Why only 10 to a Scrum team?
 
-The maximum size of a Scrum Team, including the Scrum Master and Product Owner, is 10. Here's why:
+A Scrum Team's maximum size, including the Scrum Master and Product Owner, is 10. Here's why:
 
 [quote, 2020 Scrum Guide page 5]
 ____
-The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. 
-
-In general, we have found that smaller teams communicate better and are more productive.
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive.
 ____
 
 You'll be tested on the maximum size of a Scrum Team: it's 10 or fewer.
@@ -286,15 +319,17 @@ People often wonder if a Scrum Master can also be a Developer, or if a Scrum Mas
 
 If a Product Owner has amazing skills with regards to the development of a Product Backlog item or two, why not allow them to contribute to the Increment? Again, there's nothing in the Scrum Guide that forbids a Product Owner or Scrum Master from doing working on Product Backlog items.
 
-It's nice to think of the Scrum Master and Product Owner as dedicated roles. But on small startups, where there may only be five people in the entire company, you may have all of them doing some sort of development during a Sprint. In that case, the person who took on the Scrum Master accountability also takes on accountabilities as a Developer. 
-
-There's absolutely nothing in the Scrum Guide that says a Scrum Master can't also do development, and pragmatically speaking, for many small companies, it's a reality. But regardless of how many people are wearing multiple hats, the total number of people on a Scrum Team should be 10 or less.
-
-
 .One person may wear different hats and assume multiple roles on a Scrum Team.
 image::images/different-hats.jpg["A single person may wear different hats and assume multiple roles or accountabilities on a Scrum Team."]
 
-<<<
+
+It's nice to think of the Scrum Master and Product Owner as dedicated roles. But on small startups, where there may only be five people in the entire company, you may have all of them doing some sort of development during a Sprint. In that case, the person who took on the Scrum Master accountability also takes on accountabilities as a Developer. 
+
+There's absolutely nothing in the Scrum Guide that says a Scrum Master can't also do development, and pragmatically speaking, for many small companies, it's a reality.
+
+
+
+
 
 ==== Test Yourself
 
@@ -304,12 +339,15 @@ What is the optimal size of a Scrum team? (Choose 1)
 * [ ] A) 3-9 people
 * [ ] B) 7 plus or minus 2
 * [ ] C) 10 people or less
-* [ ] D) Scrum lets self-managed teams determine their own size
+* [ ] D) At least 5 people
+* [ ] E) Scrum lets self-managed teams determine their own size
 ****
 
 Option C is correct.
 
-Normally, Scrum allows self-managed teams to decide what is best for them. But when it comes to team size, Scrum recommends teams are made up of 10 people or less. I believe SAFe uses 7 plus or minus 2 as the team-size standard, and the old Scrum Guide said 3-9, but this isn't a SAFe certification guide, and you're not being tested on what the old Scrum Guide said. 
+Normally, Scrum allows self-managed teams to decide what is best for them. But when it comes to team size, Scrum recommends teams are made up of 10 people or less. 
+
+I believe SAFe uses 7 plus or minus 2 as the team-size standard, and the old Scrum Guide said 3-9, but this isn't a SAFe certification guide, and you're not being tested on what the old Scrum Guide said. 
 
 10 people or less is the correct size of a Scrum Team on the 2020 Scrum Certification exam.
 
@@ -323,9 +361,12 @@ The Scrum team is kept small because:
 * [ ] B) Small teams communicate better
 * [ ] C) Small teams are more productive
 * [ ] D) Small teams demand fewer employee benefits
+* [ ] E) Small teams have lower maintencance costs
 ****
 
-Options B and C are correct. According to the Scrum Guide, small teams communicate better and are more productive.
+Options B and C are correct. 
+
+According to the Scrum Guide, small teams communicate better and are more productive.
 
 '''
 
@@ -337,14 +378,20 @@ The Scrum Guide doesn't say much about the issue, but it does outline a few impo
 
 [quote, 2020 Scrum Guide page 5]
 ____
-If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
+If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share:
+
+- The same Product Goal
+- The same Product Backlog
+- The same Product Owner
 ____
 
 You can expect 5 or 6 questions about this one paragraph on the Scrum Master certification exam. It's significant.
 
 The first takeaway from this paragraph is that you can have multiple Scrum Teams working on the same product. 
 
-Scrum advises you to break up your teams if they become too big, and that doesn't even mean if they are over 10 people. 
+==== Keep Your Teams Small
+
+Another takeaway is that Scrum advises you to break up your teams if they become too big, and that doesn't necessarily mean if they are over 10 people. 
 
 Maybe 9 people on the Scrum Team is too large to be nimble and productive? In that case, if the self-managed team thinks splitting into two groups of 4 and 5 developers makes sense, then they should be encouraged to do it.
 
@@ -368,7 +415,7 @@ Options A, C, and D are true, which makes option B the incorrect answer.
 
 When multiple teams work on the same product, they share the same Product Owner, Product Goal, and the same Product Backlog. 
 
-'''
+<<<
 
 === To Share or Not to Share a Scrum Master?
 
@@ -398,9 +445,7 @@ Furthermore, there is no rule in the Scrum Guide that says a Scrum Master must b
 
 You will often see questions on the Scrum Master certification exam about who should be responsible for maintenance or research or user acceptance testing (UAT) or quality assurance (QA). 
 
-An 'incorrect answer' will suggest a subteam or external resource should do UAT or QA. That's wrong.
-
-If QA or UAT is part of a Product Backlog item or it's part of the Definition of Done, then the Scrum Team is responsible for it. 
+An 'incorrect answer' will suggest a subteam or external resource should do UAT or QA. That's wrong. If QA or UAT is part of a Product Backlog item or it's part of the Definition of Done, then the Scrum Team is responsible for it. 
 
 [quote, 2020 Scrum Guide page 5]
 ____
@@ -415,6 +460,7 @@ The Scrum Team is responsible for all product-related activities including:
 - and anything else that might be required.
 ____
 
+=== End-to-End Feature Development
 
 This statement reinforces the idea that a Scrum Team is cross-functional. 
 
@@ -423,9 +469,9 @@ Every skill required to build your product, at least within the scope of your Sc
 There are no separate research or development or quality assurance teams in Scrum. The Scrum team is responsible for all of the work on its plate.
 
 
-TIP: Daily reports, status meetings, and allowing managers to attend the Daily Scrum are all practices that run counter to the principles of Scrum. If you ever see options on the exam that suggest such practices, immediately discount them because they are wrong.
 
-<<<
+
+
 
 ==== Test Yourself 
 
@@ -449,7 +495,9 @@ There are no external teams in Scrum. All of the skills required to incrementall
 
 [quote, 2020 Scrum Guide page 5]
 ____
-They are structured and empowered by the organization to manage their work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+They are structured and empowered by the organization to manage their work. 
+
+Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
 ____
 
 This section is interesting because it speaks to the responsibilities an organization has to the Scrum Team:
@@ -457,7 +505,9 @@ This section is interesting because it speaks to the responsibilities an organiz
 - The organization allows the Scrum Team to manage their work
 - The Scrum team is allowed to work at a sustainable pace
 
-These points will arise on the Scrum Master certification exam in questions like these:
+The best way for the organization to empower a Scrum Team is to leave them alone and allow them to manage themselves. That's an important concept in Scrum. If the organization isn't committed to Scrum, the Scrum Team will inevitibly encounter needless impediments that the Scrum Master will have to resolve.
+
+<<<
 
 === Test Yourself
 
@@ -474,7 +524,7 @@ Option D is correct.
 
 The best thing an organization can do to help manage a Scrum Team is to not manage a Scrum Team. The other three options are all Scrum anti-patterns. 
 
-<<<
+
 
 ==== Test Yourself
 
@@ -502,7 +552,7 @@ ____
 
 In every Sprint, the Scrum Team must create an Increment that is valuable and useful. Well, they must try to. That is always the goal.
 
-The implication of needing to create a valuable Increment during every single sprint is that you can't have an 'infrastructure sprint' that just gets things organized. There is no such thing as a 'Sprint Zero' in Scrum.
+The implication of needing to create a useful Increment in every single sprint is that you can't have an 'infrastructure sprint' that just gets things organized. There is no such thing as a 'Sprint Zero' in Scrum.
 
 Even if the increment is small and minor, each Sprint should try to create something that is valuable and will be used in the final product.
 
@@ -518,7 +568,6 @@ An Increment must be something 'useful.' The means simply setting up infrastruct
 
 Furthermore, the Scrum Guide says the entire team is responsible for the creation of at least one, valuable, useful Increment each Sprint - not the Scrum Master, not the Product Owner, and not the developers alone, but the whole Scrum Team is responsible for the creation of a useful increment.
 
-<<<
 
 ==== Test Yourself
 
@@ -548,10 +597,7 @@ The Scrum Guide never mentions the term 'role' or 'job.' When it comes to the De
 
 The term 'role' is not found in the 2020 Scrum Guide even once.
 
-[quote, 2020 Scrum Guide page 5]
-____
-Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
-____
+
 
 
 ==== Test Yourself
@@ -566,7 +612,18 @@ Be as exact as possible when you answer this question. The Scrum Guide defines:
 * [ ] D) 4 Accountabilities
 ****
 
-The answer to this question is C. Scrum defines 3 accountabilities, not roles. 
+The answer to this question is C. 
+
+The Scrum Guide defines 3 accountabilities, not roles. 
+
+[quote, 2020 Scrum Guide page 5]
+____
+Scrum defines three specific accountabilities within the Scrum Team: 
+
+- The Developers
+- The Product Owner
+- The Scrum Master
+____
 
 Throughout this book I hope you'll allow me to use the terms 'roles' and 'accountabilities' interchangeably. 'Roles' just sounds more natural. Just be aware of the distinction on the exam.
 

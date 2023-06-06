@@ -1,5 +1,19 @@
 == Chapter 8: Scrum Events
 
+
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+
+{nbsp} + 
+{nbsp} + 
+
+
 The are four events in Scrum that occur within the confines of a Sprint:
 
 - The Sprint Planning event
@@ -11,9 +25,6 @@ The are four events in Scrum that occur within the confines of a Sprint:
 ____
 The Sprint is a container for all other events.
 ____
-
-
-
 
 
 === The Sprint Container
@@ -38,11 +49,10 @@ All the work necessary to achieve the Product Goal, including:
 - The Sprint Retrospective, happen _within_ Sprints.
 ____
 
-.The four Scrum events all take placed within a fifth event known as the Sprint. Each event is timeboxed, which means it cannot exceed the maximum amount of time allotted to it.
-image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
 
 
 <<<
+ 
 
 ==== Test Yourself
 
@@ -70,9 +80,7 @@ Don't be caught off guard by the fact that this question is talking about the De
 
 === The Importance of the Scrum Events
 
-The pillars of Scrum are transparency, inspection and adaptation.
-
-The Scrum events are like feedback loops that happen at regular intervals which allow inspection and adaptation to happen. 
+The pillars of Scrum are transparency, inspection and adaptation. The Scrum events are like feedback loops that happen at regular intervals which allow inspection and adaptation to happen. 
 
 For the inspection that happens and the adaptations that result to be beneficial, full transparency with regards to the team's progress, which is shown through Scrum artifacts like the Increment and the Product Backlog, is required.
 
@@ -87,7 +95,7 @@ Inspection and adaptation are important concepts in the Scrum framework. The Scr
 
 Any time a Scrum Team recognizes a change that demands a response, the team should respond and adapt immediately. If it's possible to adapt and change the plan prior to a scheduled event, the team should do so. 
 
-<<<
+ 
 
 ==== Test Yourself
 
@@ -109,6 +117,11 @@ There is never a bad time to adapt your plan if it helps your team achieve the S
 
 '''
 
+
+.The four Scrum events all take placed within a fifth event known as the Sprint. Each event is timeboxed, which means it cannot exceed the maximum amount of time allotted to it.
+image::images/scrum-events-times.jpg["Know the timebox of each Scrum Event."]
+
+
 === Regularity and consistency
 
 Scrum doesn't place restrictive controls over how development takes place, but it does request that certain patterns be followed, and it requires that those patterns happen with predictable regularity.
@@ -117,6 +130,8 @@ Scrum doesn't place restrictive controls over how development takes place, but i
 ____
 Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
 ____
+
+=== Every Scrum Event Serves a Purpose
 
 Many people complain that Scrum has too many meetings. It doesn't.
 
@@ -129,12 +144,9 @@ That doesn't sound like too many meetings to me.
 
 The meetings that Scrum has are intended to have maximum effectiveness on transparency, while at the same time eliminating the need for other meetings.
 
-Teams that complain about Scrum having too many meetings probably aren't doing Scrum properly. Scrum has exactly the right number of meetings.
+Teams that complain about Scrum having too many meetings probably aren't doing Scrum properly. Scrum has exactly the right number of meetings. 
 
-
-WARNING: Every event in Scrum is required. You can never allow any Scrum event to be skipped. Doing so is ScrumBut. You know, 'We do Scrum, BUT we don't to retrospectives.' Avoid ScrumBut at all costs.  
-
-<<<
+ 
 
 ==== Test Yourself
 
@@ -154,6 +166,8 @@ When stakeholders attempt to manage the Scrum Developers, it is often because th
 Scrum already provides enough meetings, in the form of events, to allow for transparent inspection of progress. Scrum artifacts like the Product Backlog and the Increment provide further transparency. If a stakeholder is concerned about transparency, a Scrum Master should coach them on how to use existing events and artifacts to get the transparency they need.
 
 '''
+
+WARNING: Every event in Scrum is required. You can never allow any Scrum event to be skipped. If you skip any events, you're not doing Scrum.
 
 === Same Time, Same Place
 
@@ -192,8 +206,6 @@ How do you respond as the Scrum Master? (Choose 1)
 Option C is correct.
 
 Since the Daily Scrum is a Scrum Event, and since Scrum Events are supposed to take place at the same time and location every time they occur, the Scrum Master would need to explain to the team that it can't arbitrarily change the time the Daily Scrum takes place on Fridays.
-
-'''
 
 
 

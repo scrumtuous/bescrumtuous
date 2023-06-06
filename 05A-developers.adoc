@@ -1,4 +1,12 @@
 == Chapter 5: The Developers
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
+{nbsp} + 
 
 Scrum has its roots in software development, but the stewards of the framework have worked hard to push Scrum into other domains including:
 
@@ -28,6 +36,8 @@ According to Scrum, the term 'developer' refers to anyone on the team who is add
 As you read this section about the 'developer', it is easy to fall into the trap of thinking that Scrum is specifically talking about a 'software developer.' They're not. 
 
 Quite often, framing a scenario or exam question outside the world of software development will help you see things more clearly and choose the correct answer.
+
+<<<
 
 === Feature Development vs. Overall Accountability
 
@@ -66,7 +76,9 @@ The remaining verbiage about the Scrum Developers outlines the key tasks they ar
 [quote, 2020 Scrum Guide - Developer Section]
 ____
 
-The specific skills needed by the Developers are often broad and will vary with the domain of the work. However, the Developers are always accountable for:
+The specific skills needed by the Developers are often broad and will vary with the domain of the work. 
+
+However, the Developers are always accountable for:
 
 - Creating a plan for the Sprint, the Sprint Backlog;
 - Instilling quality by adhering to a Definition of Done;
@@ -141,7 +153,7 @@ The answer is D. The Definition of Done is the quality gate all increments must 
 
 NOTE: The Scrum Guide uses a maddening set of rules for capitalization. They always capitalize 'Developer.' I just can't do that. I capitalize 'Scrum Developer', but other references to developer I leave lower case.
 
-<<<
+
 
 === Daily Adaptation
 
@@ -168,7 +180,7 @@ Option A is correct.
 
 If the developers see an opportunity to adapt to changes, they are encouraged to update their plans immediately. In Scrum, the Sprint Backlog is the developer's plan. The developers can update the Sprint Backlog anytime during the Sprint if they feel it is necessary.
 
-'''
+<<<
 
 === Interpersonal Accountability
 [quote, 2020 Scrum Guide page 5]
@@ -180,29 +192,20 @@ You are guaranteed to get a question on the Scrum Certification exam about who h
 
 The answer is the developers. The developers hold each other accountable.
 
-People new to Scrum will often think the 'Scrum Master', by virtue of their official sounding name, holds the developers accountable for their work. That's not the case. The Scrum Master is really just a coach and facilitator.
+People new to Scrum will often think the 'Scrum Master', by virtue of their official sounding name, holds the developers accountable for their work. 
 
-It might also be understandable if you thought the whole team keeps the Scrum Developers accountable. Again, that's not the case, which makes sense, because the Scrum Master or the Product Owner might not interact with the developers every day. On the other hand, the developers interact with each other at least once during the Daily Scrum.
+==== The Role of the Scrum Master
+
+That's not the case. The Scrum Master is really just a coach and facilitator.
+
+It might also be understandable if you thought the whole team keeps the Scrum Developers accountable.
+
+Again, that's not the case, which makes sense, because the Scrum Master or the Product Owner might not interact with the developers every day. On the other hand, the developers interact with each other at least once during the Daily Scrum.
 
 In Scrum, the developers hold each other accountable for what they do and how they perform.
 
-<<<
-
-==== Test Yourself
-
-****
-Who holds the Scrum Developers accountable for their work?
-
-* [ ] A) The Scrum Master
-* [ ] B) The Product Owner
-* [ ] C) The Management Team
-* [ ] D) The Development Team as a whole
-****
-
-The answer is D. The Scrum Developers on the development team holds each other accountable for their actions.
 
 
-'''
 
 === What's not said about Developers
 
@@ -238,6 +241,25 @@ The Scrum Certification exam might talk about budget money or internships or som
 
 In terms of Scrum, developers can be added to a project any time they are needed. They can be removed at any time too.
 
+==== Test Yourself
+
+****
+Who holds the Scrum Developers accountable for their work?
+
+* [ ] A) The Scrum Master
+* [ ] B) The Product Owner
+* [ ] C) The Management Team
+* [ ] D) The Development Team as a whole
+* [ ] E) The stakeholders
+****
+
+The answer is D. 
+
+The Scrum Developers on the development team holds each other accountable for their actions.
+
+
+'''
+
 === The Impact of Adding Developers
 
 One reality of adding new developers to a team is that it temporarily slows the rest of the team down.
@@ -252,6 +274,7 @@ Just be aware of that fact on the Scrum Certification exam.
 
 .A new log thrown on a hot campfire will temporarily lower the fire's temperature. The same holds true for a new developer added to a hot project.
 image::images/wet-log.jpg["A new developer can temporarily slow down a development team."]
+
 
 
 

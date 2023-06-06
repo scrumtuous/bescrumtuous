@@ -28,6 +28,9 @@ Along with downloading it, you should also _read_ the Scrum Guide before you dig
 
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
+.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
+image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
+
 For example, the first paragraph in the Scrum Guide talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
 
 === We are Bound by the Scrum Guide
@@ -40,9 +43,8 @@ So please, read the Scrum Guide a few times before jumping deep into this book. 
 
 With that foundation, we'll be able to dig much deeper into the significance of these interesting and important terms. Now let's get started with the Scrum Guide!
 
-.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
-image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
+<<<
 
 == Chapter 1: What is Scrum?
 
@@ -59,8 +61,10 @@ ____
 
 Given what you know about Scrum, and taking into account any experiences you've had with Agile development, how would you rate this definition?
 
-.Scrum is a lightweight, incomplete framework that helps teams solve complex problems as they work towards a Product Goal.
-image::images/lightweight-framework3.jpg["Credit MidJourneyAI"]
+.Scrum is a lightweight, incomplete framework that helps teams solve complex problems as they work towards a Product Goal. Scrum advocates downplay the terms 'process' and 'methodology.'
+image::images/lightweightx-00bw.jpg["Credit MidJourneyAI"]
+
+<<<
 
 === The Definition of Scrum
 
@@ -71,6 +75,10 @@ Whoever crafted that definition tried to make it as general and all-encompassing
 - The term 'adaptive solutions' sounds like marketing gibberish
 
 But this is the definition we have, and this is the definition you will be tested on.
+
+
+
+
 
 ==== The Words Not Spoken
 
@@ -103,12 +111,13 @@ You'll get beaten with a stick if any of the Scrum gatekeepers ever hear you cal
 
 Scrum doesn't try to solve all of your project management problems. It just helps you to get started, to keep going and to minimize risks along the way.
 
-'''
 
+NOTE: While the authors of the Scrum Guide both signed the Agile Manifesto, the word _Agile_ never appears once in the 2020 Scrum Guide.
 
-TIP: It often helps to think about certification exam questions outside of the domain of software development. Reframe an exam question in terms of an isolated team building a shelter on a deserted island and answers may become more clear.
 
 <<<
+
+
 
 === Scrum is a Framework
 
@@ -156,7 +165,7 @@ Option C is correct.
 
 The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
 
-<<<
+
 
 image::images/scrum-incomplete.jpg["Scrum is an incomplete framework."]
 
@@ -175,6 +184,9 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 . Repeat
 ____
 
+
+=== What's in a name? 
+
 The name 'Scrum Master' sounds intimidating.
 
 People think that since the term 'master' is in the name, the Scrum Master controls everything.
@@ -183,7 +195,7 @@ The Scrum Master controls very little.
 
 The Scrum Master's only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
 
-<<<
+
 
 === Scrum is Simple
 
@@ -226,9 +238,9 @@ Scrum is also an incremental framework, which means it constantly tries to deliv
 
 That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
 
-TIP: Waterfall gets its name from the fact that isolated development phases like planning and design flow into each other, in only one direction, just like water in a waterfall.
 
-<<<
+
+
 
 === It's a Guide. It's not an Instruction Manual
 
@@ -239,6 +251,8 @@ It's a guide, not a rulebook.
 The Scrum Guide even promises __not__ to be heavy on rules, saying that it promises _not_ to 'provide people with detailed instructions.'
 
 There are very few actual rules in the 13-page Scrum Guide. Outside of the few rules Scrum does have, the framework encourages people to discover strategies that work best for them.
+
+TIP: It often helps to think about certification exam questions outside of the domain of software development. Reframe an exam question in terms of an isolated team building a shelter on a deserted island and answers may become more clear.
 
 ==== Test Yourself
 
@@ -259,7 +273,7 @@ This fact seems counter-intuitive to many. After all:
 
 The incomplete nature of Scrum is actually what makes it so attractive. Scrum provides only enough direction to be useful, but not so much direction that it is restrictive. Scrum teams are given all the leeway they need to find the processes and frameworks that work best for them.
 
-'''
+<<<
 
 === Exposing Efficacy 
 
@@ -299,6 +313,11 @@ Scrum is not a process nor is it a methodology, and because of that, it can be u
 The Scrum Certification Exam will not test you on the intricacies of Lean Manufacturing or Kanban. It's sufficient just to know that these are two processes commonly used in manufacturing and software development.
 
 '''
+
+TIP: Waterfall gets its name from the fact that isolated development phases like planning and design flow into each other, in only one direction, just like water in a waterfall.
+
+
+<<<
 
 ==== Test Yourself
 
