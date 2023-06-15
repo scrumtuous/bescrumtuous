@@ -20,7 +20,7 @@ The scenario used for the next set of quetsions is that of a shipwreck where a s
 - The rediculousness makes the questions a bit more interesting. 
 
 
-I think you'll find the next set of questions to be a bit more fun to answer than they prototypical Scrum Master certification exam questions. You’ll also find that they’ll give you a deeper understanding of the Scrum framework as well.
+I think you'll find the next set of questions to be a bit more fun to answer than the prototypical Scrum Master certification exam questions. You’ll also find that they’ll give you a deeper understanding of the Scrum framework as well.
 
 
 
@@ -33,12 +33,12 @@ A party boat from a popular tech conference was blown off course by a surprise t
 
 The ship is marooned on rocky coral, stranded about 30 meters from the island's shore, and most of the survivors are too injured to make it to dry land.
 
-Nobody knows what to do. Fortunately, one developer took a Scrum courses and has a copy of the 2020 Scrum Guide with them. 
+Nobody knows what to do. Fortunately, one developer took a Scrum course and has a copy of the 2020 Scrum Guide with them. 
 
 The castaways are going to make it through this ordeal, and a Scrum based approach to survival will guide them through it.
 
 Their first task? Get a team of developers to go to shore and build a survival camp.
-10 Scrum Master exam questions
+
 
 .The following set of questions frame Scrum in a life-or-death survival scenario where castaways from a shipwreck must build a survival shelter.
 image::images/shipwreck2.jpg["Reframe all exam questions in a survival camp."]
@@ -46,6 +46,11 @@ image::images/shipwreck2.jpg["Reframe all exam questions in a survival camp."]
 <<<
 
 === Questions
+
+On the actual Scrum Master certification exam, some questions may have multiple correct answers. You will be told how many options to select.
+
+On this practice test, each question has only one answer.
+
 
 ==== Question 1
 

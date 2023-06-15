@@ -1,7 +1,9 @@
 
 = PART II: THE EXAM QUESTIONS
 
-The second part of this book is all about testing your knowledge of the Scrum Guide, and possibly introducing you to some of the unexpected ways the exam tests your knowledge.
+The second part of this book is all about testing your knowledge of the Scrum Guide and possibly introducing you to some of the unexpected ways the exam tests your knowledge.
+
+There are five practice exams in this section.
 
 - The last exam is 40 questions, and I believe it is slightly harder than the actual exam.
 - The two exams prior to that are 25 questions long and are a good approximation to the Scrum Master certification exam's difficulty
@@ -18,7 +20,7 @@ There's a trick to answering the toughest questions on the Scrum Master exam, bu
 
 The questions in the first practice exam fall on the harder side of what to expect on the Scrum Master certification exam, so don't get discouraged if they seem difficult. That's intentional.
 
-When you complete the first practice exam, I'll reveal the trick to you and test you on a set of questions similar to those in the first exam, but with the trick applied. 
+When you complete the first practice exam, I'll reveal the trick and test you on a set of questions similar to those in the first exam, but with the trick applied. 
 
 I think you'll find it makes a big difference.
 
@@ -26,6 +28,10 @@ Now get started with the practice exams. Good luck!
 
 
 == Ten Tough Scrum Master Practice Exam Questions
+
+On the actual Scrum Master certification exam, some questions may have multiple correct answers. You will be told how many options to select.
+
+On this practice test, each question has only one answer.
 
 ==== Question 1
 
@@ -41,7 +47,7 @@ Which of the following statements are true about the Scrum Master role?
 
 * [ ] A.	The Scrum Master cannot be one of the developers on the team
 * [ ] B.	The Scrum Master cannot also be the team's Product Owner
-* [ ] C.	The Scrum Master cannot be one of the product's stakeholder
+* [ ] C.	The Scrum Master cannot be one of the product's stakeholders
 * [ ] D.	The Scrum Master can be a stakeholder and a developer at the same time
 
 
@@ -68,7 +74,7 @@ When should the developer integrate their work into the product?
 
 * [ ] A.	During the Daily Scrum, after achieving consensus with the other developers
 * [ ] B.	After the development Sprint finishes with the consent of the Scrum Master
-* [ ] C.	Immediately so long as the work meets the team's definition of done
+* [ ] C.	Immediately so long as the work meets the team's Definition of Done
 * [ ] D.	During the Sprint Review so stakeholders can witness the integration
 
 
@@ -80,7 +86,7 @@ A developer has identified a troublesome and worrying security vulnerability in 
 
 What guidance should you provide the developer on this topic?
 
-* [ ] A.	Have the developer make this issue as a top priority item in tomorrow's Daily Scrum
+* [ ] A.	Have the developer make this issue a top priority item in tomorrow's Daily Scrum
 * [ ] B.	Have the developer discuss the issue with the Product Owner and plan to fix the issue in the next Sprint
 * [ ] C.	Have the developer discuss the issue with developers right away
 * [ ] D.	Have the developer raise the issue as a priority item during the next Sprint Planning meeting
@@ -90,16 +96,16 @@ What guidance should you provide the developer on this topic?
 
 Under which circumstance are developers allowed to discuss product development directly with stakeholders?
 
-* [ ] A.	Developers can speak directly with stakeholders during the Sprint Retrospective
-* [ ] B.	Developers can speak directly with stakeholders so long as the Product Owner is present
-* [ ] C.	Developers can speak directly with stakeholders with permission from the Scrum Master
+* [ ] A.	Developers can only speak directly with stakeholders during the Sprint Retrospective
+* [ ] B.	Developers can only speak directly with stakeholders if the Product Owner is present
+* [ ] C.	Developers can only speak directly with stakeholders with permission from the Scrum Master
 * [ ] D.	Developers are not allowed speak directly with stakeholders
 * [ ] E.	Developers can speak directly with stakeholders at any time
 
 
 ==== Question 7
 
-Human Resources has just hired the three new programmers that were required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
+Human Resources has just hired the three new programmers that are required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
 
 As the Scrum Master, when do you advise these programmers be added to the development effort?
 
@@ -123,14 +129,14 @@ Given a well-functioning team of 4 developers, what impact will the addition of 
 
 ==== Question 9
 
-Developers have become frustrated with the fact that peripheral tasks like quality control, user acceptance testing and documentation have taken away from their core development efforts, subsequently putting the project at risk.
+Developers have become frustrated with the fact that peripheral tasks like quality control (QA), user acceptance testing (UAT) and documentation have taken away from their core development efforts, subsequently putting the project at risk.
 
 How would you advise the team to move forward?
 
-* [ ] A.	Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
+* [ ] A.	Have the Scrum team create a sub-team dedicated to QA, UAT testing and documentation
 * [ ] B.	Have the Scrum team outsource QA, UAT and documentation to a third party
-* [ ] C.	Have the Product Owner remove quality control, testing and documentation from the definition of done
-* [ ] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product increment
+* [ ] C.	Have the Product Owner remove quality control, testing and documentation from the Definition of Done
+* [ ] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product Increment
 
 
 
@@ -166,7 +172,7 @@ This is false for three reasons:
 
 1. Scrum is not a process or a methodology. Scrum is a lightweight framework.
 2. Scrum can be used to develop any product, not just a software product.
-3. Scrum self-describes as an incomplete framework. 
+3. Scrum self-describes as an _incomplete_ framework. 
 
 "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete."  - The Scrum Guide, page 3.
 
@@ -178,14 +184,14 @@ Which of the following statements are true about the Scrum Master role?
 
 * [ ] A.	The Scrum Master cannot be one of the developers on the team
 * [ ] B.	The Scrum Master cannot also be the team's Product Owner
-* [ ] C.	The Scrum Master cannot be one of the product's stakeholder
+* [ ] C.	The Scrum Master cannot be one of the product's stakeholders
 * [*] D.	The Scrum Master can be a stakeholder and a developer at the same time
 
 ****
 
 Option D is correct.
 
-There are no rules in the Scrum Guide that say a person cannot take on multiple roles or accountabilities at the same time. 
+There are no rules in the Scrum Guide that say a person cannot take on multiple roles or _accountabilities_ at the same time. 
 
 In fact, on small startups, it's not uncommon for the Scrum Master to also be a stakeholder while also helping out with development. Furthermore, if the Product Owner got sick, that person might even take on Product Owner accountabilities temporarily as well.
 
@@ -216,9 +222,11 @@ Option B is correct.
 
 There is no such thing as an infrastructure Sprint or a Sprint 0 in Scrum.
 
-Every Sprint must attempt to develop and increment of value that will be part of the final product.
+Every Sprint must attempt to develop an Increment of value that will be part of the final product.
 
-No organization is ever sufficiently prepared for development to begin. If Scrum teams waited for all of the tools they require to be provisioned and available before they started to work, it's unlikely that any work would ever get done.
+No organization is ever sufficiently prepared for development to begin. 
+
+If Scrum teams waited for all of the tools they require to be provisioned and available before they started to work, it's unlikely that any work would ever get started.
 
 
 
@@ -226,22 +234,22 @@ No organization is ever sufficiently prepared for development to begin. If Scrum
 
 ****
 
-A developer has completed a feature that when integrated into the codebase will create a valuable and usable increment. Completion of the Sprint Goal depends upon it.
+A developer has completed a feature that, when integrated into the codebase, will create a valuable and usable increment. Completion of the Sprint Goal depends upon it.
 
 When should the developer integrate their work into the product?
 
 * [ ] A.	During the Daily Scrum, after achieving consensus with the other developers
 * [ ] B.	After the development Sprint finishes with the consent of the Scrum Master
-* [*] C.	Immediately so long as the work meets the team's definition of done
+* [*] C.	Immediately so long as the work meets the team's Definition of Done
 * [ ] D.	During the Sprint Review so stakeholders can witness the integration
 
 ****
 
 Option C is correct.
 
-If a developer completes any work that meets the definition of done, it should be immediately integrated into the product.
+If a developer completes any work that meets the Definition of Done, it should be immediately integrated into the product.
 
-If work cannot be integrated into the product being built, it is not useful and it does not create a valid increment. Integration, and ensuring that work does indeed integrate, is essential.
+If work cannot be integrated into the product being built, it is not useful and it does not create a valid Increment. Integration, and ensuring that work does indeed integrate, is essential.
 
 A developer doesn't need anyone's permission to integrate their work into the product.
 
@@ -255,7 +263,7 @@ A developer has identified a troublesome and worrying security vulnerability in 
 
 What guidance should you provide the developer on this topic?
 
-* [ ] A.	Have the developer make this issue as a top priority item in tomorrow's Daily Scrum
+* [ ] A.	Have the developer make this issue a top priority item in tomorrow's Daily Scrum
 * [ ] B.	Have the developer discuss the issue with the Product Owner and plan to fix the issue in the next Sprint
 * [*] C.	Have the developer discuss the issue with developers right away
 * [ ] D.	Have the developer raise the issue as a priority item during the next Sprint Planning meeting
@@ -266,7 +274,7 @@ Option C is correct.
 
 If there is a serious security flaw in the codebase, it's an issue that should be raised immediately with the development team.
 
-Scrum provides a number of events, such as the Daily Scrum and the Sprint Retrospective, to encourage discussion. However, the existence of these events should never stand in the way of pragmatic or essential discussions between members of the team.
+Scrum provides a number of events, such as the Daily Scrum and the Sprint Retrospective, to encourage discussion and act as feedback loops. However, the existence of these events should never stand in the way of pragmatic or essential discussions between team members taking place.
 
 If an emergency arises, it should be addressed immediately. Don't wait for a scheduled Scrum event to adapt to changing conditions.
 
@@ -276,9 +284,9 @@ If an emergency arises, it should be addressed immediately. Don't wait for a sch
 
 Under which circumstance are developers allowed to discuss product development directly with stakeholders?
 
-* [ ] A.	Developers can speak directly with stakeholders during the Sprint Retrospective
-* [ ] B.	Developers can speak directly with stakeholders so long as the Product Owner is present
-* [ ] C.	Developers can speak directly with stakeholders with permission from the Scrum Master
+* [ ] A.	Developers can only speak directly with stakeholders during the Sprint Retrospective
+* [ ] B.	Developers can only speak directly with stakeholders if the Product Owner is present
+* [ ] C.	Developers can only speak directly with stakeholders with permission from the Scrum Master
 * [ ] D.	Developers are not allowed speak directly with stakeholders
 * [*] E.	Developers can speak directly with stakeholders at any time
 
@@ -286,9 +294,11 @@ Under which circumstance are developers allowed to discuss product development d
 
 Option E is correct.
 
-There are no rules in Scrum that restricts a developer talking to a stakeholder.
+There are no rules in Scrum that restricts a developer from talking to a stakeholder.
 
-One of the Scrum pillars is transparency. One of the Scrum values is openness. What does it say about transparency and openness of an organization put rules and restrictions around when a developer might be allowed to talk to a stakeholder?
+One of the Scrum pillars is transparency. One of the Scrum values is openness. 
+
+What does it say about the transparency and openness of an organization that puts rules and restrictions around when a developer might be allowed to talk to a stakeholder?
 
 The Product Owner is responsible for speaking with stakeholders and discovering which features and functionality they value most. 
 
@@ -298,7 +308,7 @@ However, in terms of speaking with developers about the Sprint Backlog, Product 
 
 ****
 
-Human Resources has just hired the three new programmers that were required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
+Human Resources has just hired the three new programmers that are required in order to keep development progressing at a sustainable pace. However, these programmers have arrived right in the middle of a four week Sprint.
 
 As the Scrum Master, when do you advise these programmers be added to the development effort?
 
@@ -313,7 +323,9 @@ Option A is correct.
 
 If your project needs programmers to assist in the development effort, why would you wait even one minute to add them to the team and get them contributing to the development effort?
 
-Note that there is no delay in Scrum between the time when one Sprint ends and the next Sprint begins. When one Sprint ends, the next Sprint starts immediately.
+With regards to option B, remember that there is no delay in Scrum between the time when one Sprint ends and the next Sprint begins. When one Sprint ends, the next Sprint starts immediately.
+
+>>>
 
 ==== Question 8
 
@@ -342,10 +354,10 @@ Developers have become frustrated with the fact that peripheral tasks like quali
 
 How would you advise the team to move forward?
 
-* [ ] A.	Have the Scrum team create a sub-team dedicates to QA, UAT testing and documentation
+* [ ] A.	Have the Scrum team create a sub-team dedicated to QA, UAT testing and documentation
 * [ ] B.	Have the Scrum team outsource QA, UAT and documentation to a third party
-* [ ] C.	Have the Product Owner remove quality control, testing and documentation from the definition of done
-* [*] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product increment
+* [ ] C.	Have the Product Owner remove quality control, testing and documentation from the Definition of Done
+* [*] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product Increment
 
 ****
 
@@ -353,17 +365,18 @@ Option D is correct.
 
 There are no sub-teams in Scrum, nor are their any hierarchies of developers.
 
-"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals." - The Scrum Guide, page 5.
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals." {nbsp} + 
+- The Scrum Guide, page 5.
 
-If there is a backlog item that requires documentation to be generated, or the definition of done requires a set of user acceptance tests (UAT) to e performed, then it is the job of the individuals of the development team to get those tasks done.
+If there is a backlog item that requires documentation to be generated, or the Definition of Done requires a set of user acceptance tests (UAT) to be performed, then it is the job of the individuals on the development team to get those tasks done.
 
-The developers of the Scrum Team are responsible for the end-to-end development of all features in the Product Backlog with full compliance to any non-functional requirements the definition of done may demand.
+The developers on the Scrum Team are responsible for the end-to-end development of all features in the Product Backlog with full compliance to any non-functional requirements the Definition of Done may demand.
 
 ==== Question 10
 
 ****
 
-Unforeseen circumstances have reduced developer productivity and half-way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
+Unforeseen circumstances have reduced developer productivity, and half-way through the Sprint it is clear that the Sprint Plan must change drastically in order for the Sprint Goal to be achieved.
 
 What guidance would you, as the Scrum Master, provide to the team?
 
@@ -378,10 +391,10 @@ Option B is correct.
 
 If circumstances change and the developers need to update their plan, they should update their plan immediately. 
 
-During the Sprint, the Sprint Goal cannot change, nor can a Sprint be cancelled on the whim of the Scrum Master or the developers.
+During the Sprint, the Sprint Goal cannot change, nor can a Sprint be cancelled on the whim of the Scrum Master or the developers. Only a Product Owner can cancel a Sprint, and only if the Sprint Goal has become obsolete.
 
-What can change is the Sprint Plan, and it's expected to be updated throughout the sprint as conditions change and more is learned about the product being developed.
+What _can_ change during the Sprint is the Sprint Plan. It's actually expected to be updated throughout the Sprint as conditions change and more is learned about the product being developed.
 
 Developers should certainly not wait for a scheduled event like the Daily Scrum to adapt their plan if it's necessary.
 
-"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or replanning." –The Scrum Guide, page 9.
+"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or replanning." {nbsp} + –The Scrum Guide, page 9.
