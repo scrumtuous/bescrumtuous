@@ -1,0 +1,55 @@
+== Foreward
+
+I felt a little nervous when Darcy asked me to write the foreword to this book.
+
+You see, I'm not the biggest advocate for the Scrum Master role.
+
+In fact, in many of the Agile transformations I've led, one of our success metrics is how close we come to making the Scrum Master completely unnecessary.
+
+That's not to say I'm against Scrum. I believe Scrum is the best Agile framework to use when starting a new project and seeing it through to completion.
+
+=== The role of the Scrum Master
+
+I advocate for Scrum, but I also advocate for teams that evolve to such an advanced level of Agile understanding that they don't really need a Scrum Master at all.
+
+The role of the Scrum Master is to teach, coach, and mentor others in the ways of Scrum, while acting as a leader who serves the team during an Agile transition.
+
+But here's the thing about transitions: they eventually reach completion.
+
+When an organization truly completes an Agile transition, the need for professionals to coach them on cross-functional teams, self-management, and the importance of reviews and retrospectives disappears. These Agile practices eventually become second nature.
+
+Successful Agile teams don't need coaching on how to do these things because they naturally incorporate them into their work. It becomes odd for them not to.
+
+=== Measuring Agile Tranformation Success
+
+That's when you know your Agile transformation was a success. That's when you know the team has achieved Agile enlightenment.
+
+Of course, you can't do Scrum without a Scrum Master. Scrum without a Scrum Master isn't Scrum.
+
+However, over time, a team's dependence on a Scrum Master diminishes.
+
+At the beginning of an Agile transformation, each development team might require its own dedicated Scrum Master.
+
+Well-coached teams will rely less and less on the Scrum Master for leadership. As Agile transformations succeed, a Scrum Master will divide their time across multiple teams because individual teams become less dependent on their guidance.
+
+Once enlightenment is achieved, a single, underutilized Scrum Master can be shared among multiple teams throughout the organization.
+
+There's a recurring meme in Agile circles that jokes about never asking a Scrum Master what they do because you'll find out they don't do much.
+
+I love that meme because it's not only funny but also true if your organization is practicing Agile correctly.
+
+=== Keeping Scrum Working
+
+On teams where developers and the Product Owner truly understand how Scrum works, the role of the Scrum Master becomes almost ceremonial. If your teams are building amazing products while the Scrum Master is searching for things to do, you're probably implementing Scrum exceptionally well.
+
+And that's why I was nervous about reviewing this book and contributing a foreword.
+
+I was concerned that this Scrum Master Certification Guide would, like many other books about Scrum, exaggerate the role of the Scrum Master. 
+
+But that nervousness I mentioned at the start quickly turned into enthusiasm.
+
+As I read through the text, I often felt as though Darcy was reflecting my thoughts about Scrum and Agile back to me. Miss DeClute strikes just the right balance between recognizing the importance of the Scrum Master's role within an organization while emphasizing that with highly motivated, self-managed teams, reliance on the Scrum Master role should gradually diminish over time.
+
+So, enjoy this certification guide.
+
+It will not only help you pass the Scrum Master certification exam but also provide you with a strong understanding of how Scrum should work and what the role of a Scrum Master should be once they have successfully coached an organization through its Agile transformations.

@@ -2,6 +2,9 @@
 :doctype: book
 :toc:
 
+
+include::00A-sal-foreward.adoc[]
+
 include::01A-definition-of-scrum.adoc[]
 
 include::02A-scrum-theory.adoc[]
