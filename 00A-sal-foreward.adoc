@@ -61,3 +61,90 @@ Darcy gets it right.
 Enjoy this certification guide.
 
 It will not only help you pass the Scrum Master certification exam but it will also provide you with a strong understanding of how Scrum _should_ work once an enterprise successfully completes an Agile transformation.
+
+== A Note from the Author
+
+
+
+I'm Darcy Declute.
+
+As I write this I'm filled with a mix of conflicting and confusing emotions that range from humility to prive to embarassment to enthusiasm
+
+.At home on native land. Baffin Island, Canada
+image::images/darcy-blubber.jpg["At home on native land. Baffin Island, Canada",250,250, float="right", align="center"]
+
+It's incredibly humbling to me to know that you're reading this book.
+
+If you're reading a book about certification, you're obviously interested in acquiring a Scrum Master certification, which means you're a highly-motivated professional intent on learning, resume building and career advancement.
+
+And you've put our faith in me to guide you on a learning journey. That's humbling.
+
+As overwhelming as it is to know you've put your faith in me, I'm equally proud of the book I've written here. 
+
+I think this book delivers on what it promises. I think this book will play a key role in getting you past the post when it comes time to sit for the Scrum Master certification exam.
+
+A number of students have read this book and then passed the Scrum Master exam, with a few even garnering a perfect score. I know this book played a key role in their success and I'm confident it will play a key role in your success as well. That makes me beam with pride.
+
+=== So many people to thank...
+
+I'm also embarassed when I see this book with my name on the cover, because I feel like an imposter taking credit for this.
+
+When I mentioned to some of my peers and mentors that I wanted to write a Scrum Master certification guide to fill what I thought was a void in the market, my friends encouraged and inspired me.
+
+Some friends on Twitter donated their own free time to proofread, edit, criticize and add corrections.
+
+Other friends add paragraphs and extended the text when they thought a chapter was light or a topic needed clarification.
+
+Other people helped to generate images with MidJourney promps and fixed issues with my book cover.
+
+So when I see my name on the front cover of this book, I feel as though I'm stealing credit, because this was completely a team effort. 
+
+I can't help the people who helped me get this book past the finish line enough. I love all of you.
+
+=== I'm @Scrumtuous everywhere!
+
+.Please come find me on Twitter. I'm @Scrumtuous!
+image::images/darcy-twitter.jpg["Please come find me on Twitter. I'm @Scrumtuous on all platforms.",350,350, float="right", align="center"]
+
+This book is self-published.
+
+There's an old saying that say the biggest problem with self-published books is the person who publishes them. Having read some really low-quality self-published tripe in my life, I don't completely disagree with that sentiment.
+
+However, since I do self-publish, I have the benefit of being able to make updates and changes at a moments notice.
+
+If you do find something in this book that is unclear, missspellled, confusing or even incorrect, please find me on Twitter or LinkedIn and let me know. I'm @Scrumtuous everywhere.
+
+Or better yet, just email me:
+
+darcydeclute@gmail.come
+
+As I mentioned before, people have put a lot of faith in me to help them get certified and drive their career forward. I want to do everything I can to make that possible. Any help you can provide would be apprecaited not only by me, but by everone who reads this book.
+
+Oh, and one last thing. If you do enjoy the book, please leave a 5-star review on Amazon. It would not only put a giant smile on my fact, but it would also help to get this book in front of other people who need it.
+
+Thanks again for reading this book. I really hope you enjoy it. 
+
+Love Darcy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
