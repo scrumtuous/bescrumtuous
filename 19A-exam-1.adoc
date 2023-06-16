@@ -33,12 +33,15 @@ On the actual Scrum Master certification exam, some questions may have multiple 
 
 On this practice test, each question has only one answer.
 
+---
+
 ==== Question 1
 
 Scrum is a proven and complete software development process.
 
 * [ ] True
 * [ ] False
+
 
 ==== Question 2
 
@@ -64,7 +67,7 @@ How would you as the Scrum Master recommend the team proceed?
 * [ ] C.	Declare this an infrastructure Sprint where developers simply configure their tools and software
 * [ ] D.	Delay the start of the Sprint until the organization can properly provision the required tools and infrastructure
 
-
+<<<
 
 ==== Question 4 
 
@@ -77,7 +80,7 @@ When should the developer integrate their work into the product?
 * [ ] C.	Immediately so long as the work meets the team's Definition of Done
 * [ ] D.	During the Sprint Review so stakeholders can witness the integration
 
-
+{nbsp} +
 
 ==== Question 5
 
@@ -91,6 +94,7 @@ What guidance should you provide the developer on this topic?
 * [ ] C.	Have the developer discuss the issue with developers right away
 * [ ] D.	Have the developer raise the issue as a priority item during the next Sprint Planning meeting
 
+{nbsp} +
 
 ==== Question 6
 
@@ -101,6 +105,9 @@ Under which circumstance are developers allowed to discuss product development d
 * [ ] C.	Developers can only speak directly with stakeholders with permission from the Scrum Master
 * [ ] D.	Developers are not allowed speak directly with stakeholders
 * [ ] E.	Developers can speak directly with stakeholders at any time
+
+
+<<<
 
 
 ==== Question 7
@@ -114,7 +121,7 @@ As the Scrum Master, when do you advise these programmers be added to the develo
 * [ ] C.	At the following day's Daily Scrum
 * [ ] D.	During the next Sprint Planning event
 
-
+{nbsp} +
 
 ==== Question 8
 
@@ -125,7 +132,7 @@ Given a well-functioning team of 4 developers, what impact will the addition of 
 * [ ] C.	Individual productivity will decrease permanently
 * [ ] D.	Individual productivity will decrease over the short term
 
-
+{nbsp} +
 
 ==== Question 9
 
@@ -138,7 +145,7 @@ How would you advise the team to move forward?
 * [ ] C.	Have the Product Owner remove quality control, testing and documentation from the Definition of Done
 * [ ] D.	Advise the Scrum Team they are responsible for all aspects of delivering a product Increment
 
-
+<<<
 
 ==== Question 10
 
@@ -174,7 +181,8 @@ This is false for three reasons:
 2. Scrum can be used to develop any product, not just a software product.
 3. Scrum self-describes as an _incomplete_ framework. 
 
-"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete."  - The Scrum Guide, page 3.
+"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete."  {nbsp} + 
+- The Scrum Guide, page 3.
 
 ==== Question 2
 
@@ -278,6 +286,9 @@ Scrum provides a number of events, such as the Daily Scrum and the Sprint Retros
 
 If an emergency arises, it should be addressed immediately. Don't wait for a scheduled Scrum event to adapt to changing conditions.
 
+
+<<<
+
 ==== Question 6
 
 ****
@@ -325,7 +336,7 @@ If your project needs programmers to assist in the development effort, why would
 
 With regards to option B, remember that there is no delay in Scrum between the time when one Sprint ends and the next Sprint begins. When one Sprint ends, the next Sprint starts immediately.
 
->>>
+<<<
 
 ==== Question 8
 
@@ -397,4 +408,5 @@ What _can_ change during the Sprint is the Sprint Plan. It's actually expected t
 
 Developers should certainly not wait for a scheduled event like the Daily Scrum to adapt their plan if it's necessary.
 
-"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or replanning." {nbsp} + –The Scrum Guide, page 9.
+"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or replanning." {nbsp} + 
+–The Scrum Guide, page 9.

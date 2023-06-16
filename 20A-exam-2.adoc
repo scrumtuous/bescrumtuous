@@ -1,28 +1,33 @@
 
 == A Simple Trick
 
-Here's a simple trick to correctly answering some of the hardest questions you'll face on the Scrum Master certification exam. I've alluded to it throughout the book, but I really want to drive the idea home with the next mock Scrum Master exam.
+Here's a simple trick to help you correctly answer some of the hardest questions you'll face on the Scrum Master certification exam. 
+
+I've alluded to this trick throughout the book, but I really want to drive the idea home with the next set of practice exam questions.
 
 === A Hack to Help You Pass the Exam
 
 Most people who take the Scrum Master exam come from the world of software development. That can really clutter your mind when answering a certification exam question.
 
-So instead of thinking about how a given exam question applies to the field of software development, reframe the question in a completely different domain. 
+Instead of thinking about how a given exam question applies to the field of software development, reframe the question in a completely different domain. 
 
-.Reframing exam questions  outside of software development makes them easier to answer.
+.Reframing exam questions outside of software development makes them easier to answer.
 image::images/shipwreck.jpg["Reframe all exam questions in a survival camp."]
 
-The following exam questions are a mirror image of the first set of questions you were just asked, but reframed in a much more rediculous and extreme scenario. 
+The following exam questions are a mirror image of the first set of questions you were just asked, but reframed in a much more rediculous and extreme manner. 
 
 The scenario used for the next set of quetsions is that of a shipwreck where a survivors from a marooned party boat are forced to build a survival camp as they await rescue.
 
-- The life-and-death scenario in which the questions are framed help simplify the interpretation of Scrum
+- The extreme, life-and-death predicament helps to simplify the interpretation of Scrum
 - The rediculousness makes the questions a bit more interesting. 
 
 
-I think you'll find the next set of questions to be a bit more fun to answer than the prototypical Scrum Master certification exam questions. You’ll also find that they’ll give you a deeper understanding of the Scrum framework as well.
+I think you'll find the next set of questions to be a bit more fun to answer than any of the others previously asked in this book. 
+
+You’ll also find they give you a deeper understanding of the Scrum framework as well.
 
 
+<<<
 
 
 
@@ -33,7 +38,9 @@ A party boat from a popular tech conference was blown off course by a surprise t
 
 The ship is marooned on rocky coral, stranded about 30 meters from the island's shore, and most of the survivors are too injured to make it to dry land.
 
-Nobody knows what to do. Fortunately, one developer took a Scrum course and has a copy of the 2020 Scrum Guide with them. 
+Nobody knows what to do. 
+
+Fortunately, one developer took a Scrum course and has a copy of the 2020 Scrum Guide with them. 
 
 The castaways are going to make it through this ordeal, and a Scrum based approach to survival will guide them through it.
 
@@ -43,13 +50,17 @@ Their first task? Get a team of developers to go to shore and build a survival c
 .The following set of questions frame Scrum in a life-or-death survival scenario where castaways from a shipwreck must build a survival shelter.
 image::images/shipwreck2.jpg["Reframe all exam questions in a survival camp."]
 
-<<<
+
 
 === Questions
 
 On the actual Scrum Master certification exam, some questions may have multiple correct answers. You will be told how many options to select.
 
 On this practice test, each question has only one answer.
+
+Good luck!
+
+<<<
 
 
 ==== Question 1
@@ -84,7 +95,7 @@ Whose approach is most in line with the ethos of the Scrum Guide?
 * [ ] C.	Jeff wants to spend the first Sprint searching the island for edible food and clean water
 * [ ] D.	Jessica wants to build a simple communication system from the camp to the ship using mirrors she salvaged
 
-
+<<<
 
 ==== Question 4
 
@@ -108,8 +119,8 @@ Tina has just spotted a poisonous snake on the outskirts of the camp. When shoul
 * [ ] B.	The development team should be informed at the next Daily Scrum
 * [ ] C.	The development team should be informed during the Sprint Retrospective
 * [ ] D.	The development team should be informed during the Sprint Review
-* [ ] E.	The development team should be informed after discussing the deadly snake with the Scrum Master
-* [ ] F.	The development team should be informed after discussing the deadly snake the Product Owner
+* [ ] E.	The development team should be informed after Tina talks about the deadly snake with the Scrum Master
+* [ ] F.	The development team should be informed after Tina talks about the deadly snake the Product Owner
 
 
 
@@ -158,6 +169,7 @@ The Product Owner has decided the survival camp needs a canoe. However, nobody o
 * [ ] C.	Tell the Product Owner building a canoe is not possible
 * [ ] D.	Figure out how to build a canoe
 
+<<<
 
 ==== Question 10
 
@@ -192,9 +204,7 @@ This is false.
 
 Scrum is a way to help teams get started on the development of a product and help those teams iteratively solve complex problems until product development is complete.
 
-Scrum is a lightweight, incomplete framework for product development. 
-
-Scrum is not a process or a methodology, and it is definitely not to exclusively tied to the domain of software development.
+Scrum is a lightweight, incomplete framework for product development. Scrum is _not_ a process or a methodology, and it is definitely not to exclusively tied to the domain of software development.
 
 ==== Question 2
 
@@ -217,7 +227,7 @@ Option C is correct.
 
 There's no rule that says a Scrum Master can't also be a developer.
 
-Could you imagine a life or death survival situation where a Scrum Master refuses to offer assistance just because they have the title as 'Scrum Master?' The idea is preposterous.
+Could you imagine a life or death survival situation where a Scrum Master refuses to offer assistance just because they have the title of 'Scrum Master?' The idea is preposterous.
 
 Both a Scrum Master and the Product Owner can participate as developers on a Scrum Team. The only rule is that when doing product development, a PO or Scrum Master must attend the Daily Scrum and participate as unbiased developers.
 
@@ -234,7 +244,7 @@ Whose approach is most in line with the ethos of the Scrum Guide?
 
 * [ ] A.	Jim wants to declare a 'Sprint 0' where time is spent planning and designing the survival camp
 * [ ] B.	Julie wants to spend the first Sprint searching the island for tools they can use to build the survival camp
-* [ ] C.	Jeff wants to spend the first Sprint searching the island for edible food and clean water
+* [ ] C.	Jeff wants to spend the first Sprint searching to see if there is any edible food or clean water on the island
 * [*] D.	Jessica wants to build a simple communication system from the camp to the ship using mirrors she salvaged
 
 
@@ -245,7 +255,7 @@ Option D is correct.
 
 In Scrum, every Sprint must attempt to deliver some piece of usable and valuable functionality that will be part of the final product. 
 
-Setting up infrastructure, configuring tools, planning, design and even finding food to eat are all noble tasks, but they all must occur in the background as the Scrum team focuses on the delivery of at least one increment of value before the end of the current Sprint.
+Setting up infrastructure, configuring tools, planning, designing and even looking to see if there are edible foods around are all noble tasks, but they all must occur in the background as the Scrum team focuses on the delivery of at least one increment of value before the end of the current Sprint.
 
 
 ==== Question 4
@@ -258,7 +268,7 @@ Bob dug a trench to divert water from a nearby stream to the survival camp. Alan
 
 The two trenches need to be joined. When is the best time to integrate these two trenches?
 
-* [*] A.	Integration should happen immediately assuming both trenches meet the definition of done
+* [*] A.	Integration should happen immediately assuming both trenches meet the Definition of Done
 * [ ] B.	Integration should be coordinated with the rest of the team during the Daily Scrum
 * [ ] C.	Integration should happen during the Sprint Review so stakeholders can be present
 * [ ] D.	Integration should happen after approval is obtained from the Scrum Master
@@ -269,13 +279,15 @@ The two trenches need to be joined. When is the best time to integrate these two
 
 Option A is correct.
 
-If two developers have worked on a feature that is complete and meets the definition of done, they should integrate their work immediately.
+If two developers have worked on a feature that is complete and meets the Definition of Done, they should integrate their work immediately.
 
 Scrum prides itself on being based on lean thinking. How lean would it be to have developers wait around for a Scrum Master or Product Owner to tell them it's okay to integrate their work? 
 
 If the work is done, it should be integrated immediately. After all, if the work does not successfully integrate, then it's not really 'done', is it?
 
-Scrum doesn't put 'red tape', ceremony and procedure around the development process. Instead, Scrum is pragmatic and lean. When work is done, integrate it immediately and then move on to the next thing that needs to be built.
+Scrum doesn't put 'red tape', ceremony and procedure around the development process. 
+
+Instead, Scrum is pragmatic and lean. When work is done, integrate it immediately and then move on to the next thing that needs to be built.
 
 
 ==== Question 5
@@ -288,8 +300,8 @@ Tina has just spotted a poisonous snake on the outskirts of the camp. When shoul
 * [ ] B.	The development team should be informed at the next Daily Scrum
 * [ ] C.	The development team should be informed during the Sprint Retrospective
 * [ ] D.	The development team should be informed during the Sprint Review
-* [ ] E.	The development team should be informed after discussing the deadly snake with the Scrum Master
-* [ ] F.	The development team should be informed after discussing the deadly snake the Product Owner
+* [ ] E.	The development team should be informed after Tina talks about the deadly snake with the Scrum Master
+* [ ] F.	The development team should be informed after Tina talks about the deadly snake the Product Owner
 
 ****
 
@@ -299,8 +311,9 @@ Obviously if something threatens the people working on the product, the existenc
 
 On the Scrum Master exam, they will ask you what should happen if a developer identifies a dangerous security flaw that threatens the project. People often stumble on this question, thinking maybe it's something to discuss at the Sprint Retrospective, or something to raise at the next Daily Scrum.
 
-Scrum is pragmatic. If there's a serious problem, it should be addressed immediately. The Scrum Events should never act as an excuse to postpone important discussions about the health of the project.
+If there's a serious problem, it should be addressed immediately. The Scrum Events should never act as an excuse to postpone important discussions about the health of the project.
 
+<<<
 
 ==== Question 6
 
@@ -323,12 +336,15 @@ Could you imagine how much fear, uncertainty and distrust it would create in thi
 
 Furthermore, the idea that developers should not be allowed to talk to stakeholders in this scenario is asinine and paradoxical, because every one of the developers is a stakeholders. Everyone in this problem domain is a stakeholder.
 
-People think Scrum has a whole set of rules that regulate when a developer is allowed to talk to a stakeholder or the product owner or a customer. It doesn’t. 
+People think Scrum has a whole set of rules that regulate when a developer is allowed to talk to a stakeholder or the Product Owner or a customer. It doesn’t. 
 
 Scrum doesn't advocate secrecy and silence. Scrum advocates for transparency and openness.
-If your organization has some rules about developers not talking to stakeholders, that's an entirely different issue. It's also an issue the Scrum Master might want to address. 
+
+If your organization has some rules about developers not talking to stakeholders, that's an entirely different issue. It's also an impediment the Scrum Master might want to address. 
 
 Rules that limit transparency and communication do not coincide the Scrum values and pillars.
+
+<<<
 
 ==== Question 7
 
@@ -349,9 +365,7 @@ Option A is correct.
 
 If you were in a life or death situation, and three people showed up who could potentially help save you, would you ask them to sit on the sidelines for two weeks until the next Sprint Planning meeting, or would you get them to work right away?
 
-Which approach is more pragmatic and lean? Having developers sit on the sidelines doing nothing, or having them get to work right away?
-
-If new developers become available, have them join the team and get to work immediately.
+Which approach is more pragmatic and lean? Having developers sit on the sidelines doing nothing, or having them get to work right away? If new developers become available, have them join the team and get to work immediately.
 
 ==== Question 8
 
@@ -389,9 +403,11 @@ The Product Owner has decided the survival camp needs a canoe. However, nobody o
 
 Option D is correct.
 
-It is assumed that all of the skills required to build out the various product backlog items exist within the team of Scrum developers, and if they don’t, the team will acquire them.
+It is assumed that all of the skills required to build out the various Product Backlog items exist within the team of Scrum developers, and if they don’t, the team will acquire them.
 
-There are no sub-teams or hierarchies in scrum, and there’s certainly nobody to outsource to on a deserted island. When you take the Scrum Master certification exam, assume each test question is talking about an isolated team of developers unless the question states otherwise.
+There are no sub-teams or hierarchies in Scrum, and there’s certainly nobody to outsource to on a deserted island. 
+
+When you take the Scrum Master certification exam, assume each test question is talking about an isolated team of developers unless the question states otherwise.
 
 If one of the Product Backlog items is a canoe, then the team better learn how to carve out a canoe.
 
@@ -414,7 +430,9 @@ Option A is correct.
 
 When circumstances change, developers should adapt immediately.
 
-Scrum provides a number of scheduled events to ensure communication happens regularly, but those events are not the only times developers are allowed to communicate with each other. If something dramatic happens, developers should immediately adapt. Adaptation should be perpetual throughout a Sprint.
+Scrum provides a number of scheduled events to ensure communication happens regularly, but those events are not the only times developers are allowed to communicate with each other. 
+
+If something dramatic happens, developers should immediately adapt. Adaptation should be perpetual throughout a Sprint.
 
 Note that while the Sprint Plan can change, the Sprint Goal cannot. The Sprint Goal is finalized at the end of Sprint Planning and cannot be changed throughout the Sprint.
 
