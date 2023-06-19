@@ -11,47 +11,47 @@ The process is going to go something like this:
 
 When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Master Certification exam.
 
-If you've ever worked with Scrum in a professional setting, and you want to ace the Scrum Master certificatione exam, the first thing you need to do is forget everything you think you know about Scrum.
 
-- Forget about use cases
-- Forget about story points
-- Forget about poker plannig
-- Forget about daily standups
+=== Forget Everything You Know
 
-These concepts have nothing to do with Scrum. 
+If you've ever worked with Scrum in a professional setting and you want to ace the Scrum Master certification exam, the first thing you need to do is forget everything you think you know about Scrum.
+
+Forget about use cases.
+Forget about story points.
+Forget about poker planning.
+Forget about daily standups.
+These concepts have nothing to do with Scrum.
 
 They are never mentioned in the Scrum Guide, and references to them on the certification exam are only there to distract you and trick unprepared test-takers into selecting incorrect answers.
 
 On the Professional Scrum Master certification exam, you'll be tested almost exclusively on concepts within the Scrum Guide. If it's not in the Scrum Guide, it's likely not a correct answer on the certification exam.
 
-The difinitive source of truth with regards to Scrum comes exclusively from the Scrum Guide. That's what we'll cover in depth during this guide. But before we do, I want to give you a quick overview of what I believe Scrum to be all about.
-
-Now remember, on the Scrum Master exam you will be tested on what the Scrum Guide's definition of Scrum, not mine, but I think my abridged description of what Scrum is will help put the rest of this book into perspective.
+The definitive source of truth regarding Scrum comes exclusively from the Scrum Guide. That's what we'll cover in-depth during this guide. But before we do, I want to give you a quick overview of what I believe Scrum is all about.
 
 === So what is Scrum?
 
 Scrum is a lightweight, incomplete framework that helps development teams get started and keep going.
 
-- Does someone have a product vision? 
+- Does someone have a product vision?
 - Do you have a team of developers who are anxious to get building?
 
-If that's the case, Scrum says you should start a development Sprint _right now._
+If that's the case, Scrum says you should start a development Sprint right now.
 
-Don't waste a lot of time planning, because your plans are going to change.
+Don't waste a lot of time planning because your plans are going to change.
 
-And don't waste a lot of time designing, because your initial designs might not work.
+And don't waste a lot of time designing because your initial designs might not work.
 
-Instead, start developing. 
+Instead, start developing.
 
 === Get Developing!
 
-Start a development Sprint now. A development sprint is short period of time in which developers focus on building a few important features that will become part of the final product.
+Start a development Sprint now. A development sprint is a short period of time in which developers focus on building a few important features that will become part of the final product.
 
 A development Sprint can never last more than a month. Make them shorter if you want to minimize risk.
 
 As I said before, teams shouldn't waste a lot of time planning, but Scrum doesn't say you shouldn't plan at all.
 
-The first thing a Scrum Team does when their devleopment Sprint starts is spend some time planning.
+The first thing a Scrum Team does when their development Sprint starts is spend some time planning.
 
 Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. Short sprints are better than long ones.
 
@@ -59,21 +59,21 @@ Not too much time planning. Never more than 8 hours, and never plan too far into
 
 During Sprint planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
 
-The Product Owner also has an ordered list of features that need to get developed. That's called the Product Backlog. 
+The Product Owner also has an ordered list of features that need to get developed. That's called the Product Backlog.
 
 During planning, Scrum Developers select Product Backlog items they think they can complete before the end of the Sprint.
 
-At the end of Sprint Planning, the develoepers walk away with:
+At the end of Sprint Planning, the developers walk away with:
 
-- A list of features they are going to work hard to complete
-- A plan to get those features finished
+- A list of features they are going to work hard to complete.
+- A plan to get those features finished.
 - An overarching Sprint Goal that keeps the team focused.
 
 Then the work begins!
 
-=== The Daily Scrum 
+=== The Daily Scrum
 
-Every workday the developers meet for a few minutes in something called a Daily Scrum.
+Every workday, the developers meet for a few minutes in something called a Daily Scrum.
 
 - It's not a standup meeting.
 - It's not a status meeting.
@@ -83,27 +83,27 @@ It's just a chance for the developers to quickly catch up and get the ball rolli
 
 === An Incremental Framework
 
-Every Sprint has to create something useful. 
+Every Sprint has to create something useful.
 
-Every Sprint must create something that will become part of the final product. 
+Every Sprint must create something that will become part of the final product.
 
-In Scrum, we call that an Increment. Products get build incrementally.
+In Scrum, we call that an Increment. Products get built incrementally.
 
 At the end of the Sprint, there's a Sprint Review where the Scrum Team gives stakeholders a chance to play around with the new features. 
 
-Stakeholders are only shown features that are done - not partially done or almost done, but done. 
+Stakeholders are only shown features that are done - not partially done or almost done, but done.
 
-Techncially speaking, stakeholders are shown features that meet the "Definition of Done", which is a quality standard everyone on the project has agreed upon.
+Technically speaking, stakeholders are shown features that meet the "Definition of Done," which is a quality standard everyone on the project has agreed upon.
 
 === Reviews and Retrospectives
 
-Product reviews at the end of every Sprint make sure stakeholders get to see what's being developed at least once every month. It keeps everyone in the loop. Feedback loops are an essential part of Scrum.
+Product reviews at the end of every Sprint ensure stakeholders get to see what's being developed at least once every month. It keeps everyone in the loop. Feedback loops are an essential part of Scrum.
 
-After the Sprint Review, the Scrum Team does a Sprint Retrospective where they talk about what worked and what they need to do better. 
+After the Sprint Review, the Scrum Team holds a Sprint Retrospective where they discuss what worked and what they need to do better.
 
-When the Sprint Retrospective ends, a new Sprint begins, which means another short planning meeting, daily Scrums and finally a Sprint Review and Retrospective. 
+When the Sprint Retrospective ends, a new Sprint begins, which means another short planning meeting, daily Scrums, and finally a Sprint Review and Retrospective.
 
-That's why Scrum is said to be iterative. You just keep doing Sprint after Sprint after Sprint until the work is done.
+That's why Scrum is said to be iterative. You just keep doing Sprints until the work is done.
 
 And that's Scrum.
 
@@ -117,17 +117,16 @@ And regularly take time to talk about team dynamics and how to improve things.
 
 And all of this is accomplished by a team that is made up of:
 
-- One Product Owner who defines the Product Goal and manages the product backlog.
-- The developers who know how to build the product.
-- And one Scrum Master, who doesn't do much.
-
-As Sal Pece said in the foreword, that's sorta an ongoing joke in Scrum - that the Scrum Master doesn't do anything. But the fact is, on a really well run team, a Scrum Master doesn't have much to do.
+One Product Owner who defines the Product Goal and manages the product backlog.
+The developers who know how to build the product.
+And one Scrum Master, who doesn't do much.
+As Sal Pece said in the foreword, that's sort of an ongoing joke in Scrum - that the Scrum Master doesn't do anything. But the fact is, on a really well-run team, a Scrum Master doesn't have much to do.
 
 The Scrum Master just makes sure the Scrum is applied properly.
 
-- They don't manage the team. 
-- They don't manage the project. 
-- They don't schedule zoom calls.
+- They don't manage the team.
+- They don't manage the project.
+- They don't schedule Zoom calls.
 - They don't book conference rooms.
 - They don't manage finances.
 - They don't update JIRA tickets.
@@ -142,8 +141,6 @@ Scrum just describes the best practices any team should be doing if they want to
 
 It may not work for everyone, but everyone should at least give it a try.
  
-
-
 
 === The Best Ways to Learn
 
