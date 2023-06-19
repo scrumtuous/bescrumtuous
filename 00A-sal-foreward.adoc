@@ -1,10 +1,10 @@
-== A Note from the Author
+== A note from the author
 
 
 
-Hi! I'm Darcy Declute.
+Hi! I'm Darcy DeClute.
 
-As I write this note I'm filled with a mix of conflicting and confusing emotions that range from humility to pride to embarassment to enthusiasm
+As I write this note I'm filled with a mix of conflicting and confusing emotions that range from humility to pride to embarassment.
 
 .At home on native land. Baffin Island, Canada
 image::images/darcy-blubber.jpg["At home on native land. Baffin Island, Canada",250,250, float="right", align="center"]
@@ -23,7 +23,7 @@ A number of students have read this book and then passed the Scrum Master exam, 
 
 === So many people to thank...
 
-I'm also embarassed when I see this book with my name on the cover, because I feel like an imposter taking credit for this.
+I'm also embarassed when I see this book with my name on the cover, because I feel like an imposter taking the title credit.
 
 When I mentioned to some of my peers and mentors that I wanted to write a Scrum Master certification guide to fill what I thought was a void in the market, my friends encouraged and inspired me.
 
@@ -33,7 +33,7 @@ Other friends helped to generate images with MidJourney promps and fixed issues 
 
 So when I see my name on the front cover of this book, I feel as though I'm stealing credit, because this was completely a team effort. 
 
-I can't help the people who helped me get this book past the finish line enough. I love all of you.
+I can't thank the people who helped me get this book past the finish line enough. I love all of you.
 
 === I'm @Scrumtuous everywhere!
 
@@ -42,7 +42,7 @@ image::images/darcy-twitter.jpg["Come find me on social media. I'm @Scrumtuous o
 
 This book is self-published.
 
-There's an old saying that say the biggest problem with self-published books is the person who publishes them. Having read some really low-quality self-published tripe in my life, I don't completely disagree with that sentiment.
+There's an old saying that say the biggest problem with self-published books is the person who publishes them. Having read some really low-quality, self-published tripe, I don't completely disagree with that sentiment.
 
 However, since I do self-publish, I have the benefit of being able to make updates and changes at a moments notice.
 
@@ -52,7 +52,7 @@ I'm @Scrumtuous everywhere.
 
 Or better yet, just email me:
 
-darcydeclute@gmail.come
+darcydeclute@gmail.com
 
 As I mentioned before, people have put a lot of faith in me to help them get certified and drive their career forward. I want to do everything I can to make that possible. Any help you can provide would be apprecaited not only by me, but by everone who reads this book in the future.
 
