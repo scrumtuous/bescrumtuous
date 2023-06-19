@@ -16,10 +16,11 @@ When you’ve finished this book, my goal is for you to be 100% ready to schedul
 
 If you've ever worked with Scrum in a professional setting and you want to ace the Scrum Master certification exam, the first thing you need to do is forget everything you think you know about Scrum.
 
-Forget about use cases.
-Forget about story points.
-Forget about poker planning.
-Forget about daily standups.
+- Forget about use cases.
+- Forget about story points.
+- Forget about poker planning.
+- Forget about daily standups.
+
 These concepts have nothing to do with Scrum.
 
 They are never mentioned in the Scrum Guide, and references to them on the certification exam are only there to distract you and trick unprepared test-takers into selecting incorrect answers.
