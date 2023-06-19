@@ -43,7 +43,7 @@ And don't waste a lot of time designing because your initial designs might not w
 
 Instead, start developing.
 
-=== Get Developing!
+=== Don't Wait to Get Started
 
 Start a development Sprint now. A development sprint is a short period of time in which developers focus on building a few important features that will become part of the final product.
 
@@ -55,7 +55,7 @@ The first thing a Scrum Team does when their development Sprint starts is spend 
 
 Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. Short sprints are better than long ones.
 
-=== One Product Owner Per Scrum Team
+=== The Product Owner
 
 During Sprint planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
 
@@ -117,9 +117,12 @@ And regularly take time to talk about team dynamics and how to improve things.
 
 And all of this is accomplished by a team that is made up of:
 
-One Product Owner who defines the Product Goal and manages the product backlog.
-The developers who know how to build the product.
-And one Scrum Master, who doesn't do much.
+- One Product Owner who defines the Product Goal and manages the product backlog.
+- The developers who know how to build the product.
+- And one Scrum Master, who doesn't do much.
+
+=== The Scrum Master
+
 As Sal Pece said in the foreword, that's sort of an ongoing joke in Scrum - that the Scrum Master doesn't do anything. But the fact is, on a really well-run team, a Scrum Master doesn't have much to do.
 
 The Scrum Master just makes sure the Scrum is applied properly.
