@@ -56,7 +56,7 @@ The first thing a Scrum Team does when their development Sprint starts is spend 
 
 Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. Short sprints are better than long ones.
 
-=== The Product Owner
+=== Build Your Product
 
 During Sprint planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
 
@@ -82,7 +82,7 @@ Every workday, the developers meet for a few minutes in something called a Daily
 
 It's just a chance for the developers to quickly catch up and get the ball rolling again, nothing more.
 
-=== An Incremental Framework
+=== Progress Incrementally Over Time
 
 Every Sprint has to create something useful.
 
@@ -96,7 +96,7 @@ Stakeholders are only shown features that are done - not partially done or almos
 
 Technically speaking, stakeholders are shown features that meet the "Definition of Done," which is a quality standard everyone on the project has agreed upon.
 
-=== Reviews and Retrospectives
+=== Reviews and Reflect
 
 Product reviews at the end of every Sprint ensure stakeholders get to see what's being developed at least once every month. It keeps everyone in the loop. Feedback loops are an essential part of Scrum.
 
@@ -137,7 +137,7 @@ The Scrum Master just makes sure the Scrum is applied properly.
 
 They just coach teams and organizations on how to properly apply the Scrum framework while behaving as a leader who serves the team. That's the Scrum Master's job.
 
-=== Simple, Lean and Pragmatic
+=== Scrum's Simple, Lean and Pragmatic
 
 Scrum describes itself as a simple, lean, incomplete framework, and that's a good description.
 
