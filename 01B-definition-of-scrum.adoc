@@ -11,6 +11,8 @@ The process is going to go something like this:
 
 When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Master Certification exam.
 
+.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
+image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
 === Forget Everything You Know
 
@@ -163,8 +165,7 @@ Along with downloading it, you should also _read_ the Scrum Guide before you dig
 
 I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
-.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
-image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
+
 
 For example, the first paragraph in the Scrum Guide talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages. I don't like that.
 
