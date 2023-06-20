@@ -1,6 +1,6 @@
 
 == Chapter 0: Getting Started
-I’m going to get you Scrum Certified. I hope you’re ready.
+I’m going to get you Scrum Certified. I hope you’re ready. 
 
 The process is going to go something like this:
 
@@ -9,9 +9,9 @@ The process is going to go something like this:
  - We'll discuss how ideas in the Scrum Guide translate into exam questions
  - We'll iteratively and incrementally test you on what you’ve learned
 
-When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Master Certification exam.
+When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the exam.
 
-.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book as well. I think you'll find the Scrum Guide makes a lot more sense after completing this study guide.
+.Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book too. The Scrum Guide is the sole source of truth for any Scrum Certification exam.
 image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
 === Forget Everything You Know
