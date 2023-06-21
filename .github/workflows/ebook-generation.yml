@@ -36,7 +36,7 @@ jobs:
           asciidoctor-pdf -a media=prepress -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts _first-four-chapters.adoc -o _first-four-chapters.pdf
           
           git add .
-          git commit -m "firstfour generated"
+          git commit -m "firstfour 2qw generated"
           git push
 
           asciidoctor-pdf -a media=prepress -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts _ebook.adoc -o _ebook.pdf
