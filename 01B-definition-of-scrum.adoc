@@ -1,5 +1,6 @@
 
 == Chapter 0: Getting Started
+
 I’m going to get you Scrum Certified. I hope you’re ready. 
 
 The process is going to go something like this:
@@ -40,25 +41,25 @@ Scrum is a lightweight, incomplete framework that helps development teams get st
 
 If that's the case, Scrum says you should start a development Sprint right now.
 
-Don't waste a lot of time planning because your plans are going to change.
+- Don't waste a lot of time planning because your plans are going to change.
 
-And don't waste a lot of time designing because your initial designs might not work.
+- Don't waste a lot of time designing because your initial designs might not work.
 
-Instead, start developing.
+Instead, start developing. Start a development Sprint now. 
 
-=== Don't Wait to Get Started
-
-Start a development Sprint now. A development sprint is a short period of time in which developers focus on building a few important features that will become part of the final product.
+A development sprint is a short period of time in which developers focus on building a few important features that will become part of the final product.
 
 A development Sprint can never last more than a month. Make them shorter if you want to minimize risk.
 
-As I said before, teams shouldn't waste a lot of time planning, but Scrum doesn't say you shouldn't plan at all.
 
-The first thing a Scrum Team does when their development Sprint starts is spend some time planning.
+<<<
 
-Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. Short sprints are better than long ones.
+=== Do a little planning. Do a lot of building.
 
-=== Build Your Product
+As I said before, teams shouldn't waste a lot of time planning, but Scrum doesn't say you shouldn't plan at all. The first thing a Scrum Team does when their development Sprint starts is plan.
+
+Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. That's why short Sprints are often better than long ones.
+
 
 During Sprint planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
 
@@ -74,8 +75,6 @@ At the end of Sprint Planning, the developers walk away with:
 
 Then the work begins!
 
-=== The Daily Scrum
-
 Every workday, the developers meet for a few minutes in something called a Daily Scrum.
 
 - It's not a standup meeting.
@@ -84,7 +83,7 @@ Every workday, the developers meet for a few minutes in something called a Daily
 
 It's just a chance for the developers to quickly catch up and get the ball rolling again, nothing more.
 
-=== Progress Incrementally Over Time
+=== Incremental Progress Over Time
 
 Every Sprint has to create something useful.
 
@@ -98,7 +97,7 @@ Stakeholders are only shown features that are done - not partially done or almos
 
 Technically speaking, stakeholders are shown features that meet the "Definition of Done," which is a quality standard everyone on the project has agreed upon.
 
-=== Reviews and Reflect
+=== Review and Reflect
 
 Product reviews at the end of every Sprint ensure stakeholders get to see what's being developed at least once every month. It keeps everyone in the loop. Feedback loops are an essential part of Scrum.
 
@@ -110,25 +109,27 @@ That's why Scrum is said to be iterative. You just keep doing Sprints until the 
 
 And that's Scrum.
 
-It's a simple framework that says plan, but don't plan too much.
+It's a simple framework that says:
 
-Work hard to develop something usable and valuable.
+- Plan, but don't plan too much.
 
-Regularly review your work with stakeholders.
+- Work hard at a sustainable pace to develop something usable and valuable.
 
-And regularly take time to talk about team dynamics and how to improve things.
+- Regularly review your work with stakeholders.
+
+- And regularly take time to talk about team dynamics and how to improve things.
 
 And all of this is accomplished by a team that is made up of:
 
 - One Product Owner who defines the Product Goal and manages the product backlog.
 - The developers who know how to build the product.
-- And one Scrum Master, who doesn't do much.
+- One Scrum Master, who doesn't do much.
 
 === The Scrum Master
 
 As Sal Pece said in the foreword, that's sort of an ongoing joke in Scrum - that the Scrum Master doesn't do anything. But the fact is, on a really well-run team, a Scrum Master doesn't have much to do.
 
-The Scrum Master just makes sure the Scrum is applied properly.
+The Scrum Master just makes sure Scrum is applied properly.
 
 - They don't manage the team.
 - They don't manage the project.
@@ -139,18 +140,17 @@ The Scrum Master just makes sure the Scrum is applied properly.
 
 They just coach teams and organizations on how to properly apply the Scrum framework while behaving as a leader who serves the team. That's the Scrum Master's job.
 
-=== Scrum's Simple, Lean and Pragmatic
-
 Scrum describes itself as a simple, lean, incomplete framework, and that's a good description.
 
 Scrum just describes the best practices any team should be doing if they want to work efficiently and effectively.
 
 It may not work for everyone, but everyone should at least give it a try.
- 
 
-=== The Best Ways to Learn
+=== Get The Scrum Guide
 
-Before you read too far ahead, let me recommend that you download and print out a couple of copies of the 2020 Scrum Guide.
+That's my quick description of Scrum, and I think it's a good one. 
+
+Having said that, the Scrum Master certification exam doesn't test you on what I think Scrum is all about, it tests you on what the Scrum Guide says Scrum is all about, which is why I want you to download and print out a couple of copies of the 2020 Scrum Guide.
 
 The Scrum Guide is only 13 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
@@ -161,21 +161,11 @@ Grab a highlighter as well and markup that printed copy as we go along. It'll he
 
 === Read the Scrum Guide
 
-Along with downloading it, you should also _read_ the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. It behooves you to do so.
+Along with downloading it, you should also _read_ the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. That way you'll have a better idea of what phrases like _the Sprint Goal_ and _a usable Increment_ mean.
 
-I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
+With that foundation, we'll be able to dig much deeper into the significance of these interesting and important terms. 
 
-
-
-For example, the first paragraph in the Scrum Guide talks about the _Product Owner_ and _Product Backlog items._ Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages. I don't like that.
-
-=== We are Bound by the Scrum Guide
-
-Having said that, this certification guide dissects the Scrum Guide, one line at a time, from the beginning to the end. That forces me to follow the layout of the guide, despite the fact that if it was up to me, I would have written it a bit differently.
-
-So please, read the Scrum Guide a few times before jumping deep into this book. That way you'll have a better idea of what phrases like _the Sprint Goal_ and _a usable Increment_ mean.
-
-With that foundation, we'll be able to dig much deeper into the significance of these interesting and important terms. Now let's get started with the Scrum Guide!
+Now let's get started with the Scrum Guide!
 
 
 <<<

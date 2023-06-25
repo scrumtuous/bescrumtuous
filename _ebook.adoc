@@ -5,7 +5,7 @@
 
 include::00A-sal-foreward.adoc[]
 
-include::01B-definition-of-scrum.adoc[]
+include::01B-definition-of-scrum.adoc[] 
 
 include::02A-scrum-theory.adoc[]
 
@@ -50,7 +50,6 @@ include::exam25A/file/exam20A.adoc[]
 include::exam25B/file/exam20B.adoc[]
 
 include::exam40/file/exam40.adoc[]
-
 
 // include::focused/fq-artifacts.adoc[]
 
