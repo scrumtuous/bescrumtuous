@@ -30,14 +30,16 @@ B
 
 [#explanation]
 --
+The Scrum Master is responsible for removing barriers between stakeholders and Scrum Teams.
+
 This question is pulled directly out of the Scrum Guide:
 
-The Scrum Master serves the organization in several ways, including:
+"The Scrum Master serves the organization in several ways, including:
 
 - Removing barriers between stakeholders and Scrum Teams.
-- Leading, training, and coaching the organization in its Scrum adoption;
-- Planning and advising Scrum implementations within the organization;
-- Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+- Leading, training, and coaching the organization in its Scrum adoption.
+- Planning and advising Scrum implementations within the organization.
+- Helping employees and stakeholders understand and enact an empirical approach for complex work."
 
 --
 

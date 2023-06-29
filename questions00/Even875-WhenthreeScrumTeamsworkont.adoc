@@ -28,18 +28,18 @@ B
 
 [#explanation]
 --
-There is nothing in the Scrum Guide that requires teams working on the same project to have the same Sprint length.
+There is nothing in the Scrum Guide that requires teams working on the same product to have the same Sprint length.
 
-When the Scrum Guide does not directly address a topic, then there are no specific rules about it.
+If the Scrum Guide does not directly address a topic, then there are no specific rules about it.
 
-The Scrum Guide says teams working on the same Product must have:
+The Scrum Guide says teams working on the same product must have:
 
 - The same Product Owner
 - The same Product Goal
 - The same Product Backlog
 - The same Definition of Done
 
-Should the teams start their Sprints on the same day? End Springs on the same day? Make their Sprints the same lenght?
+Should the teams start their Sprints on the same day? End Springs on the same day? Make their Sprints the same length?
 
 The Scrum Guide is silent on the issue. It's up to the team to decide what is best.
 

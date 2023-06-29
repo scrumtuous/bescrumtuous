@@ -30,13 +30,14 @@ They are never mentioned in the Scrum Guide, and references to them on the certi
 
 On the Professional Scrum Master certification exam, you'll be tested almost exclusively on concepts within the Scrum Guide. If it's not in the Scrum Guide, it's likely not a correct answer on the certification exam.
 
-The definitive source of truth regarding Scrum comes exclusively from the Scrum Guide. That's what we'll cover in-depth during this guide. But before we do, I want to give you a quick overview of what I believe Scrum is all about.
+The definitive source of truth regarding Scrum comes exclusively from the Scrum Guide. That's what we'll cover in-depth during this guide.
 
 === So what is Scrum?
 
+(((what is Scrum?)))
 Scrum is a lightweight, incomplete framework that helps development teams get started and keep going.
 
-- Does someone have a product vision?
+- Does someone have a product vision?(((Product vision)))
 - Do you have a team of developers who are anxious to get building?
 
 If that's the case, Scrum says you should start a development Sprint right now.
@@ -54,14 +55,15 @@ A development Sprint can never last more than a month. Make them shorter if you 
 
 <<<
 
-=== Do a little planning. Do a lot of building.
 
-As I said before, teams shouldn't waste a lot of time planning, but Scrum doesn't say you shouldn't plan at all. The first thing a Scrum Team does when their development Sprint starts is plan.
+=== Do a little planning. Do a lot of building. (((planning)))
 
-Not too much time planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. That's why short Sprints are often better than long ones.
+As I said before, teams shouldn't waste a lot of time planning. However, Scrum doesn't say teams shouldn't plan at all. The very first thing a Scrum Team does when their development Sprint starts is plan.
+
+Not too much time should be spent planning. Never more than 8 hours, and never plan too far into the future. The further you look into the future, the wider the cone of uncertainty becomes. That's why short Sprints are often better than long ones.
 
 
-During Sprint planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
+During Sprint Planning, the developers talk to the Product Owner about what to build. The Product Owner is the person on the Scrum Team who has the product vision and knows what stakeholders want.
 
 The Product Owner also has an ordered list of features that need to get developed. That's called the Product Backlog.
 
@@ -74,7 +76,7 @@ At the end of Sprint Planning, the developers walk away with:
 - An overarching Sprint Goal that keeps the team focused.
 
 Then the work begins!
-
+(((standup meeting))) (((status meeting)))
 Every workday, the developers meet for a few minutes in something called a Daily Scrum.
 
 - It's not a standup meeting.
@@ -136,7 +138,7 @@ The Scrum Master just makes sure Scrum is applied properly.
 - They don't schedule Zoom calls.
 - They don't book conference rooms.
 - They don't manage finances.
-- They don't update JIRA tickets.
+- They don't update JIRA tickets. (((scrum master))) (((jira)))
 
 They just coach teams and organizations on how to properly apply the Scrum framework while behaving as a leader who serves the team. That's the Scrum Master's job.
 
@@ -146,7 +148,7 @@ Scrum just describes the best practices any team should be doing if they want to
 
 It may not work for everyone, but everyone should at least give it a try.
 
-=== Get The Scrum Guide
+=== Get The Scrum Guide (((scrum guide)))
 
 That's my quick description of Scrum, and I think it's a good one. 
 
@@ -169,12 +171,11 @@ Now let's get started with the Scrum Guide!
 
 
 <<<
-
-== Chapter 1: What is Scrum?
+== Chapter 1: What is Scrum?  (((definition of scrum)))
 
 How would you define Scrum?
 
-To be successful on the Scrum Master certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning the biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
+To be successful on the Scrum Master certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning the biases and misconceptions you may have adopted over years of seeing Scrum implemented in a less than pure manner.
 
 Here's the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must 100% commit to right now if you want to pass the Scrum Master certification exam.)
 
@@ -190,9 +191,9 @@ image::images/lightweightx-00bw.jpg["Credit MidJourneyAI"]
 
 <<<
 
-=== The Definition of Scrum
+=== The Definition of Scrum 
 
-Whoever crafted that definition tried to make it as general and all-encompassing as possible, almost to the point where the definition doesn't provide much value.
+Whoever crafted that definition tried to make it as general and all-encompassing as possible, almost to the point where the definition doesn't provide much value. (((complex problems)))
 
 - The term 'generate value' is very generic
 - The term 'complex problems' could apply to anything
@@ -200,13 +201,9 @@ Whoever crafted that definition tried to make it as general and all-encompassing
 
 But this is the definition we have, and this is the definition you will be tested on.
 
+==== The Words Not Spoken 
 
-
-
-
-==== The Words Not Spoken
-
-The Scrum Guide say a lot in its brief 13 pages, but sometimes it's more interesting to focus on what the Scrum Guide _doesn't_ say. Notice how:
+The Scrum Guide say a lot in its brief 13 pages, but sometimes it's more interesting to focus on what the Scrum Guide _doesn't_ say. Notice how: (((process))) (((methodology)))
 
 - The official definition of Scrum never mentions software development
 - The official definition calls Scrum a _framework,_ not a process or methodology
@@ -241,9 +238,7 @@ NOTE: While the authors of the Scrum Guide both signed the Agile Manifesto, the 
 
 <<<
 
-
-
-=== Scrum is a Framework
+=== Scrum is a Framework (((framework)))
 
 Feel free to debate whether you believe Scrum is a process or a methodology on Twitter or in your favorite online forum. I know I have. On the Scrum Certification exam? Scrum is a framework.
 
@@ -253,8 +248,7 @@ If you ever see an option on the certification exam that asserts Scrum works exc
 
 '''
 
-
-==== Test Yourself
+==== Test Yourself (((lightweight)))
 
 Here's the type of trick question you'll see on the Scrum certification exam that attempts to trip you up on the incorrectly held belief that Scrum is only used in software development:
 
@@ -289,12 +283,10 @@ Option C is correct.
 
 The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
 
-
-
 image::images/scrum-incomplete.jpg["Scrum is an incomplete framework."]
 
 
-=== Iterative and Incremental
+=== Iterative and Incremental (((iterative))) (((incremental)))
 
 According to the Scrum Guide, here's a high-level overview of how Scrum is supposed to work.
 
@@ -362,11 +354,7 @@ Scrum is also an incremental framework, which means it constantly tries to deliv
 
 That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
 
-
-
-
-
-=== It's a Guide. It's not an Instruction Manual
+=== It's a Guide. It's not an Instruction Manual (((guide))) (((manual)))
 
 People often look to the Scrum Guide for definitive answers to things. The Scrum Guide doesn't contain many definitive answers.
 
@@ -399,7 +387,7 @@ The incomplete nature of Scrum is actually what makes it so attractive. Scrum pr
 
 <<<
 
-=== Exposing Efficacy 
+=== Exposing Efficacy (((efficacy)))
 
 One of the funny things about Scrum is that because it's so simple, it can expose practices and processes that are wasteful and non-productive. It also allows developers to focus on the practices that make them most productive.
 
@@ -420,7 +408,7 @@ For example, people often think Kanban is a competitor to Scrum, but there is no
 
 If you're not familiar with Kanban, don't worry. Kanban is never mentioned in the Scrum Guide, and for the Scrum Master certification exam, all you need to know is that it's an alternate development strategy.
 
-==== Test Yourself
+==== Test Yourself (((kanban))) (((lean)))
 
 ****
 Scrum can be used alongside various processes and methodologies including Kanban and Lean.

@@ -20,7 +20,7 @@ In the absence of a person with quality assurance (QA) training on the team, wha
 * [ ] A. Have the organization form an external team of QA analysts who will take care of QA tasks.
 * [ ] B. Complete each Product Backlog item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
 * [*] C. Have the development team train and learn the skills required to perform QA tasks.
-* [ ] D. Have the Product Owner remove the Quality Assurance requirements from the Definition of Done.
+* [ ] D. Have the Product Owner remove the quality assurance requirements from the Definition of Done.
 
 --
 ****
@@ -32,7 +32,7 @@ C
 --
 The Scrum development team must be cross-functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
-In this case, if QA is required to meet the definition of done, then someone, or everyone on the development team must learn QA.
+In this case, if QA is required to meet the Definition of Done, then someone, or everyone on the development team, must learn QA.
 --
 
 [#ka]

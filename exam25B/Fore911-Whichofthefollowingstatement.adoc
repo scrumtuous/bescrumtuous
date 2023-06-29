@@ -1,1 +1,0 @@
-include::../questions00/Fore911-Whichofthefollowingstatement.adoc[]

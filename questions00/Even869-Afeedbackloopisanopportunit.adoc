@@ -15,7 +15,7 @@ id: 869-63effcfa9ebbe935e4c16af5.
 --
 A feedback loop is an opportunity for a team or group to discuss, inspect and most importantly, adapt. 
 
-Which of these Scrum events provide feedback loops?
+Which of these events provide feedback loops in Scrum?
 --
 
 [#list]
@@ -36,11 +36,11 @@ ACE
 --
 In Scrum, the Sprint Review, Sprint Retrospective, and Daily Scrum are considered feedback loops because they provide opportunities for the Scrum Team to inspect and adapt their work.
 
-The Daily Scrum, which is held every day during the Sprint, is a short meeting where the Development Team plans its work for the next 24 hours. During this meeting, the team members share what they have accomplished since the last meeting, what they plan to accomplish today, and any obstacles that may prevent them from achieving their goals. This daily feedback loop allows the team to adjust its plan for the Sprint based on the progress made and the obstacles encountered.
+The Daily Scrum, which is held every day during the Sprint, is a brief gathering where the developers discuss their progress towards the Sprint Goal. During this meeting, the team members share what they have accomplished since the last meeting, what they plan to accomplish today and any obstacles that may prevent them from achieving their goals. This daily feedback loop allows the team to adjust its plan for the Sprint based on the progress made and any obstacles encountered.
 
-The Sprint Review is the 2nd last event of the Sprint, and it is an opportunity for the Scrum Team to review and discuss the work that was completed during the Sprint. The Product Owner presents the completed Product Backlog items, and stakeholders provide feedback on the work that was done. The team uses this feedback to adjust for the next Sprint.
+The Sprint Review is the 2nd last event of the Sprint. It is an opportunity for the Scrum Team to review and discuss the work that was completed during the Sprint. Stakeholders get to see completed Product Backlog items that have met the Definition of Done and subsequently provide feedback on that work. The team uses this feedback to adjust for the next Sprint.
 
-The Sprint Retrospective is held at the end of the Sprint, and it is an opportunity for the Scrum Team to reflect on its performance during the Sprint. During this meeting, the team discusses what went well, what did not go well, and how they can improve their process for the next Sprint. The team uses this feedback to make adjustments to its process to improve its performance in future Sprints.
+The Sprint Retrospective is held at the end of the Sprint, and it is an opportunity for the Scrum Team to reflect on its performance during the Sprint. During this meeting, the team discusses what went well, what did not go well, and how they can improve in the next Sprint. The team uses this feedback loop to make adjustments to its processes which should help improve performance in future Sprints.
 
 --
 

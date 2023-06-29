@@ -12,7 +12,9 @@ id: 834-63effbb29ebbe935e4c16ac0.
 
 [#query]
 --
-How much effort must the Scrum developers put into completing Sprint Backlog items chosen for the Sprint?
+During Sprint Planning, Scrum Developers choose the various Product Backlog items them believe they can transform into a usable and valuable Increment before the Sprint ends.
+
+What level of effort and resolve must Scrum developers put into completing the Sprint Backlog items they have chosen for the Sprint?
 --
 
 [#list]
@@ -20,7 +22,7 @@ How much effort must the Scrum developers put into completing Sprint Backlog ite
 * [*] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlog items as possible in conformance with the Definition of Done.
 * [ ] B. The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
 * [ ] C. The developers must commit to delivering core functionality but testing and quality assurance is not required.
-* [ ] D. The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
+* [ ] D. The developers must complete the selected Backlog Items in accordance with the Definition of Done, and also provide unit testing, technical documentation and also pass any QA routines.
 
 --
 ****
@@ -31,14 +33,19 @@ A
 [#explanation]
 --
 
-When it comes to how much effort the team puts into a Product Backlog item, the two key concepts are working at a sustainable pace, and meeting the Definition of Done.
+When it comes to how much effort the team puts into completing Product Backlog item selected for the Sprint, the two key concepts are:
+
+- Working at a sustainable pace.
+- Meeting the Definition of Done.
 
 "Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency."
 -The Scrum Guide.
 
-When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their capacity and their understanding of the requirements of the selected item. The team considers various factors such as their velocity, capacity and any dependencies or risks associated with the item. They then commit to completing the work that they believe is achievable in the upcoming Sprint.
+When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their understanding of their own capacity along with their understanding of how much effort is required to meet the agreed upon Definition of Done.
 
-The concept of the "Definition of Done" is also closely related to the amount of work the developers commit to during a Sprint. The "Definition of Done" is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. The Definition of Done typically includes criteria related to functionality, quality and usability, among other things.
+The concept of the Definition of Done is very closely related to the amount of work the developers commit to during a Sprint. The Definition of Done is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. 
+
+The Definition of Done typically includes criteria related to functionality, quality and usability, among other things. The Increment is complete when the PBI meets the Definition of Done. If unit testing or QA routines are required for a PBI to be complete, those items must be included in the Definition of Done. They are not tasks that are to be completed _after_ the Definition of Done has been achieved.
 
 
 --

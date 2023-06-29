@@ -37,7 +37,6 @@ D
 
 [#explanation]
 --
-Option D is correct. 
 
 "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."
 
@@ -51,7 +50,7 @@ Furthermore, there are no 'special teams' in Scrum. The Scrum Guide clearly stat
 
 In Scrum, the Scrum Developers are responsible for creating a potentially releasable product Increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the team of developers must find a way to produce it.
 
-"The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."
+"The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development and anything else that might be required."
 
 --
 

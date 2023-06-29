@@ -18,11 +18,11 @@ According to the Scrum Guide, what is the purpose of the Sprint Backlog?
 
 [#list]
 --
-* [ ] A. The Sprint Backlog is designed to help user stories get estimated in either hours or story points.
+* [ ] A. The Sprint Backlog is designed to help user stories get estimated in story points.
 * [*] B. The Sprint Backlog is a list of all work the team hopes to complete in the current Sprint.
 * [ ] C. The Sprint Backlog is a list of all work the team hopes to complete in the next Sprint. 
-* [*] D. The Sprint Backlog is the Development Team's actionable plan for the Sprint.
-* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner to maximize the developer productivity.
+* [*] D. The Sprint Backlog is the Scrum Developers' actionable plan for the Sprint.
+* [ ] E. The Sprint Backlog is ordered and arranged by the Product Owner to maximize the developer's productivity.
 
 --
 ****
@@ -34,23 +34,11 @@ BD
 --
 According to the Scrum Guide, "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."
 
-During Sprint Planning, the development team plans the work that will be done during the current sprint. 
+Remember that the Sprint Backlog is all about why, what and how!
 
 Note that all events happen _within_ the Sprint. So Sprint Planning happens for the current Sprint, not the 'next' Sprint. Sprint Planning, development, the Sprint Review and the Sprint Retrospective all happen with the boundaries of the same Sprint.
 
-One of the primary outcomes of Sprint Planning is the creation of the Sprint Backlog, which is a list of tasks that the team plans to complete during the sprint.
 
-The Sprint Backlog is created during Sprint Planning to ensure that the development team has a clear understanding of what needs to be done during the sprint. It is a living document that is updated throughout the sprint as progress is made and new information is discovered.
-
-The three elements of the Sprint Backlog are:
-
-The Sprint Goal (Why): The Sprint Goal is a high-level objective that the development team hopes to achieve during the sprint. It provides guidance and direction for the team as they work on the Sprint Backlog.
-
-The Product Backlog Items (What): The Product Backlog Items (PBIs) are the individual user stories, features, or other work items that have been selected for the sprint. They are taken from the Product Backlog and broken down into specific tasks that can be completed during the sprint.
-
-An actionable plan to deliver the Sprint (How)
-
-Remember why, what and how!
 --
 
 [#ka]

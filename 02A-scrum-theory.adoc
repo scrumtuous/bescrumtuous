@@ -1,4 +1,4 @@
-== Chapter 2: Scrum Theory
+== Chapter 2: Scrum Theory (((theory))) (((empiricism))) (((lean)))
 
 Scrum boasts of being built around the concepts of 'empiricism and lean thinking.'
 
@@ -43,9 +43,9 @@ You'll probably reduce your projection by 50 percent. That decision is based on 
 
 <<<
 
-=== Lean Thinking
+=== Lean Thinking 
 
-Lean thinking is also an important concept in Scrum. 
+Lean thinking is also an important concept in Scrum. (((lean)))
 
 The idea of lean thinking comes from productivity enhancements Toyota discovered in the 1950s and 60s. Obviously Toyota was building cars, but the lessons of lean thinking are universal to all product development domains.
 
@@ -68,9 +68,9 @@ Just looking at this list you can see how:
 Avoid waste and embrace minimalist thinking when you're working on a Scrum project. That's _lean thinking._
 
 
-=== Empiricism and Lean Thinking
+=== Empiricism and Lean Thinking 
 
-You are guaranteed to get five or six questions from this section on the Scrum Master certification exam. They are easy marks if you just understand what 'empiricism' and 'lean thinking' means.
+You are guaranteed to get five or six questions from this section on the Scrum Master certification exam. They are easy marks if you just understand what 'empiricism' and 'lean thinking' means. (((empiricism)))
 
 ==== Test Yourself
 
@@ -136,14 +136,14 @@ Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comf
 image::images/bet-the-habs.jpg["There are many learning modalities. "]
 
 
-=== Predictability and Risk
+=== Predictability and Risk  
 
 [quote, 2020 Scrum Guide page 3]
 ____
 Scrum employs an iterative, incremental approach to optimize predictability and control risk.
 ____
 
-This one sentence is a lot to unpack. 
+This one sentence is a lot to unpack. (((risk))) (((iterative))) (((incremental)))
 
 Scrum is iterative because it describes a set of steps that get repeated over and over again. The iterative sequence of steps as outlined in the first section of the Scrum Guide are:
 
@@ -172,13 +172,13 @@ By getting these small increments into the hands of stakeholders, and getting im
 
 
 
-=== Cross-Functional Teams
+=== Cross-Functional Teams  
 
-The idea that teams should be cross-functional and self-managed is a key concept in Scrum, and it's one that you'll be tested on multiple times when you sit for the Scrum Certification exam.
+The idea that teams should be cross-functional and self-managed is a key concept in Scrum, and it's one that you'll be tested on multiple times when you sit for the Scrum Certification exam. (((cross-functional))) (((self-managed))) (((skills))) (((subteams))) (((qa)))
 
 [quote, 2020 Scrum Guide page 3]
 ____
-Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed. 
 ____
 
 
@@ -198,10 +198,10 @@ TIP: The word _empiric_ is Latin meaning 'based on observations formed during me
 
 <<<
 
-==== Test Yourself
-
+==== Test Yourself  
 ****
-One of the items under development as part of your project is a spaceship to Mars, but nobody on your team knows how to build a spaceship to Mars. 
+One of the items under development as part of your project is a spaceship to Mars, but nobody on your team knows how to build a spaceship to Mars. (((mars))) (((spaceship)))
+
 
 Which one of the following options is the best way for the team to move forward?
 
@@ -217,8 +217,7 @@ According to Scrum, all of the skills required to build a project under developm
 That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
 
 
-==== The All-Encompassing Sprint
-
+==== The All-Encompassing Sprint 
 [quote, 2020 Scrum Guide page 3]
 ____
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
@@ -228,7 +227,8 @@ This statement is the source of the most commonly asked trick questions on the S
 
 - Which events happen after the Sprint finishes?
 - Which events happen before a Sprint begins?
-- When a Sprint ends, when does the next Sprint begin?
+- When a Sprint ends, when does the next Sprint begin? (((sprint))) (((time-box)))
+
 
 Scrum has four time-boxed events that happen within a fifth Scrum event known as a Sprint. Sprint Planning, the Daily Scrum, the Sprint Review, and the Sprint Retrospective all happen within the confines of a Sprint.
 
@@ -247,9 +247,9 @@ Don't get tripped up on any questions that ask what happens before or after a Sp
 .The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
 image::images/timebox-bw.jpg["All Scrum events occur within a Sprint. "]
 
-==== Inspection and Adaption
+==== Inspection and Adaption 
 
-Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning meeting, and the Daily Scrum is to 'inspect and adapt.'
+Notice how the Scrum Guide states that the higher purpose of the different Scrum Events, such as the Review, Retrospective, Planning meeting, and the Daily Scrum is to 'inspect and adapt.' (((inspection))) (((adaptation))) (((events))) (((feedback)))
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -257,16 +257,7 @@ Scrum combines four formal events for inspection and adaptation within a contain
 ____
 
 
-<<<
-
 You will often get questions on the Scrum certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the listed options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
-
-
-
-
-
-
-
 
 ==== Test Yourself
  
@@ -292,6 +283,7 @@ The Sprint Retrospective concludes the Sprint.
 ____
 
 
+(((daily scrum)))
 
 ==== Test Yourself
 
@@ -317,7 +309,7 @@ If a computer hosting the Git repo catches fire, you don't wait until tomorrow's
 
 '''
 
-=== A Word About Being Lean
+=== A Word About Being Lean (((lean)))
 
 One of the early reviewers of this book pointed out that while I go deeply into the topic of empiricism in this chapter, my coverage of lean is, well, _lean_.
 
@@ -360,7 +352,7 @@ That's also why you'll often find me repeating myself about certain topics throu
 .With lean thinking and focus, we're going to get you past the Scrum Master certification finish line. (Image: Joshbdork, GFDL1.2)
 image::images/finish-line.jpg["Scrum Master certification finish line. Credit: Joshbdork at the English Wikipedia"]
 
-=== Forget Everything You Think You Know
+=== Forget Everything You Think You Know (((forget))) (((Agile))) (((story points))) (((points)))
 
 Part of passing the Scrum Master certification exam is to first forget everything you _think_ you know about Scrum, and then focus on the core concepts contained within the Scrum Guide. 
 
@@ -374,7 +366,7 @@ My goal is to get you Scrum Master certified. A _lean approach_ to doing so is t
 
 NOTE: A _red herring_ is something that misleads or distracts. The term comes from a story where a strong-smelling fish was used to distract dogs chasing a lovable rabbit.
 
-One of the Scrum values is focus. 
+One of the Scrum values is focus.
 
 Imma try my very best to keep you focused, not waste your time on topics that aren't heavily tested on the exam, and at the same time, constantly re-inforce topics that I know will be tested heavily. 
 

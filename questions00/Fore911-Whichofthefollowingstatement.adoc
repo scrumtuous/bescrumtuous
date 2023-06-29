@@ -17,10 +17,10 @@ Which of the following statements is true about project and Sprint cancellations
 
 [#list]
 --
-* [ ] A. Only the Scrum Master can cancel a Sprint
-* [*] B. Only the Product Owner can cancel a Sprint
-* [ ] C. Only the Scrum Master can cancel the project
-* [ ] D. Only the Product Owner can cancel the project
+* [ ] A. Only the Scrum Master can cancel a Sprint.
+* [*] B. Only the Product Owner can cancel a Sprint.
+* [ ] C. Only the Scrum Master can cancel the project.
+* [ ] D. Only the Product Owner can cancel the project.
 
 --
 ****
@@ -32,7 +32,7 @@ B
 --
 Only the Product Owner can cancel a Sprint. 
 
-Neither the Scrum Master nor Product Owner has the authority to cancel a project.
+Neither the Scrum Master nor Product Owner has the authority to cancel a _project._ The Scrum Guide talks about _product_ development, not _project_ management. 
 
 "A Sprint could be canceled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint."
 --

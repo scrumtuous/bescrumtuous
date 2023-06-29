@@ -33,17 +33,17 @@ ACE
 [#explanation]
 --
 
-One of the responsibilities of the Scrum Master is to coach the organization in the proper application of Scrum. Another responsibility is to remove impediments from the team.
+One of the responsibilities of the Scrum Master is to coach the organization in the proper application of Scrum. Another responsibility is to cause the removal of impediments from the team.
 
-When it comes to removing impediments, those impediments deal specifically with issues related to Scrum and the inappropriate application of Scrum.
+When it comes to causing the removal of impediments, those impediments deal specifically with issues related to Scrum and the inappropriate application of Scrum.
 
-If an impediment is that a team is being micromanaged, the Scrum Master would remove that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
+If an impediment is that a team is being micromanaged, the Scrum Master would cause the removal of that impediment by coaching management on the importance of self-management and respecting the autonomy of the Scrum Development team.
 
 For the Scrum Team itself, the Scrum Master's job is to coach them on the proper application of the Scrum Guide. 
 
-The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help remove that impediment.
+The Scrum Guide doesn't have a lot of rules, but some of the rules that it does have revolve around how long meetings can last. Coaching the team on how to keep Scrum Events within their timebox is definitely a responsibility of a Scrum Master, and if meetings are going too long, helping to keep them short will help cause the removal of that impediment.
 
-
+"The Scrum Master serves the Scrum Team in several ways, including causing the removal of impediments to the Scrum Team’s progress."
 
 --
 

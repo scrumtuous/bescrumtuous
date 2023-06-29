@@ -1,0 +1,1 @@
+include::../questions00/Even873-Themanagementanddevelopmento.adoc[]

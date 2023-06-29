@@ -12,7 +12,7 @@ id: 882-63effed89ebbe935e4c16b2d.
 
 [#query]
 --
-When should new work or additional information about work be added to the Sprint Backlog?
+When should newly identified work or additional information about work be added to the Sprint Backlog?
 --
 
 [#list]
@@ -31,6 +31,9 @@ A
 [#explanation]
 --
 Any time new information that impacts the Sprint Plan is discovered, it should be added to the Sprint Backlog immediately.
+
+Scrum prides itself on _lean thinking._ Waiting to add new details to the Sprint Plan or the Sprint Backlog is not lean. Why wait? It's more lean to do it right now.
+
 --
 
 [#ka]

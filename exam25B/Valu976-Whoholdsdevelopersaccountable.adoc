@@ -1,1 +1,0 @@
-include::../questions00/Valu976-Whoholdsdevelopersaccountable.adoc[]

@@ -12,7 +12,7 @@ id: 912-63effe619ebbe935e4c16b20.
 
 [#query]
 --
-Who is best equipped to estimate the amount of time required to complete a Product Backlog Item(PBI)?
+Who is best equipped to estimate the amount of time required to complete a Product Backlog item(PBI)?
 --
 
 [#list]

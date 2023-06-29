@@ -1,1 +1,0 @@
-include::../questions00/Done832-Whatarethethreeprimaryobjec.adoc[]

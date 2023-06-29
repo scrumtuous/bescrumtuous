@@ -14,7 +14,7 @@ id: 934-63effea19ebbe935e4c16b27.
 --
 Two Scrum Teams working on the same product want to do Sprint Planning together so they can coordinate the items they pull from the common Product Backlog. 
 
-How would you as a Scrum Master advise the team?
+How would you as a Scrum Master advise the teams?
 --
 
 [#list]
@@ -33,11 +33,11 @@ E
 
 [#explanation]
 --
-Scrum is self-described as an incomplete framework. That means there is a great deal of flexibility and creatively allowed within the bounds of what constitutes Scrum.
+Scrum is self-described as an incomplete framework. That means there is a great deal of flexibility and creativity allowed within the bounds of what constitutes Scrum.
 
 Generally speaking, if Scrum doesn't explicitly forbid it, then teams are free to explore it. 
 
-Shared Sprint Planning meetings might be a great process for the teams to implement. Many large companies do exactly that! The Scrum Master should encourage such experimentation.
+Shared Sprint Planning meetings might be a great process for the teams to implement. Many large companies do exactly that. The Scrum Master should encourage such experimentation.
 
 --
 

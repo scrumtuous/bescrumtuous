@@ -51,6 +51,9 @@ include::exam25B/file/exam20B.adoc[]
 
 include::exam40/file/exam40.adoc[]
 
+[index]
+== Index
+
 // include::focused/fq-artifacts.adoc[]
 
 // include::focused/fq-coaching.adoc[]

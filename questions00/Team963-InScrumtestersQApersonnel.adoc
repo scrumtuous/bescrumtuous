@@ -29,6 +29,13 @@ A
 [#explanation]
 --
 Everyone on a Scrum Team that contributes to building Product Backlog items and helping them to meet the Definition of Done is considered a developer.
+
+According to the Scrum Guide:
+
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal. Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."
+
+Terms like _Quality Assurance Teams_, _testers_, _team leads_, _business analysts_ and _technical writers_ never appear at all in the Scrum Guide. If people with these skills are required to complete a PBI and create an Increment that meets the Definition of Done, these people are simply considered developers.
+
 --
 
 [#ka]

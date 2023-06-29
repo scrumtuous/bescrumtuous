@@ -31,13 +31,15 @@ ACE
 
 [#explanation]
 --
-Sprints in Scrum are kept to 30 days or less for several reasons related to risk, complexity, and the validity of the sprint goal:
+Sprints in Scrum are kept to 30 days or less for several reasons related to risk, complexity, and the validity of the Sprint Goal:
 
-Risk: The longer a sprint runs, the more risk there is that the team will encounter unforeseen issues that may derail the sprint. By keeping sprints short, the team can identify and mitigate risks more quickly, reducing the likelihood of a major issue causing a significant delay or complete failure of the sprint.
+Risk: The longer a Sprint runs, the more risk there is that the team will encounter unforeseen issues that may derail the Sprint. By keeping Sprints short, the team can identify and mitigate risks more quickly, reducing the likelihood of a major issue causing a significant delay or complete failure of the Sprint.
 
-Complexity: As the complexity of a sprint increases, it becomes more difficult to accurately estimate the amount of work that can be completed within a given timeframe. By keeping sprints short, the team can more accurately estimate the amount of work they can complete, reducing the risk of overcommitting and failing to deliver on the sprint goal.
+Complexity: As the complexity of a Sprint increases, it becomes more difficult to accurately estimate the amount of work that can be completed within a given timeframe. By keeping Sprints short, the team can more accurately estimate the amount of work they can complete, reducing the risk of overcommitting and failing to deliver on the Sprint Goal.
 
-Validity of Sprint Goal: The sprint goal is a critical element of any sprint, and it serves as the guiding focus for the team's work during the sprint. If the sprint runs for too long, the sprint goal may become less relevant or may even become invalid as the team learns new information or requirements change. By keeping sprints short, the team can more effectively focus on achieving the sprint goal before it becomes outdated.
+Validity of Sprint Goal: The Sprint Goal is a critical element of any Sprint, and it serves as the guiding focus for the team's work during the Sprint. If the Sprint runs for too long, the Sprint Goal may become less relevant or may even become invalid as the team learns new information or requirements change. 
+
+By keeping Sprints short, the team can more effectively focus on achieving the Sprint Goal before it becomes outdated.
 
 --
 

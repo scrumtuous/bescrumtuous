@@ -19,11 +19,11 @@ What's the best way for the Scrum Master to deal with this?
 
 [#list]
 --
-* [ ] A. Share stories from the help desk about the issues the software is having.
+* [ ] A. Share stories from the help desk about the issues the deployed software is having.
 * [*] B. Make sure non-functional requirements are clearly articulated in the Definition of Done.
 * [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployment.
 * [*] D. Ask the Product Owner to add new Product Backlog items that deal specifically with performance and security.
-* [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requrements are not part of the development team's planning tasks.
+* [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requirements are not part of the development team's planning tasks.
 
 --
 ****
@@ -33,7 +33,7 @@ BD
 
 [#explanation]
 --
-Developers must address both functional and non-functional requirements if they are an expected part of the product they are building.
+Developers must address both functional and non-functional requirements if they are part of the product they are building.
 
 To make sure an increment is not released without non-functional requirements being addressed, just add the non-functional requirements to the Definition of Done. That way an increment is not considered complete unless all functional and non-functional requirements have been dealt with.
 

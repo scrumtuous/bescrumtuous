@@ -1,1 +1,0 @@
-include::../questions00/Arti810-Whichofthefollowingistruea.adoc[]

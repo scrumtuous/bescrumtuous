@@ -34,6 +34,8 @@ D
 --
 Work produced by external teams is not a topic Scrum Developers should focus on during the Daily Scrum. The Scrum Developers should only be focused on their own product-related activities, the Sprint Goal and how they can adapt their current plan to meet the Sprint Goal.
 
+_Focus_ is one of the five Scrum values.
+
 Something created and developed outside the Scrum Team should not be part of their backlog as they have no control over it. 
 
 The Scrum Team is not subject to external management but is instead empowered to self-manage.

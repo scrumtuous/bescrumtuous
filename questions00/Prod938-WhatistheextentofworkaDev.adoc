@@ -16,13 +16,13 @@ Before the end of every Sprint, the Scrum Team must produce a usable, valuable I
 
 But what exactly constitutes a usable and valuable Increment?
 
-How much work do the Scrum Developers need to perform on a Product Backlog item for it to be considered a full-fledged Increment?
+How much work do the Scrum Developers need to perform on a Product Backlog item, or a decomposed Product Backlog item, for it to be considered a full-fledged Increment?
 
 --
 
 [#list]
 --
-* [ ] A. The Scrum Developers do as much work as the they can complete in the current Sprint, after which their work becomes part of the Increment.
+* [ ] A. The Scrum Developers do as much work as they can complete in the current Sprint, after which their work becomes part of the Increment.
 * [ ] B. The Scrum Developers do  a proportional amount of time on analysis, engineering, QA, programming, testing, and documentation.
 * [ ] C. The Scrum Developers work on a Product Backlog item until the Scrum Master says it meets the Definition of Done
 * [*] D. The Scrum Developers work on a Product Backlog item until it meets the agreed upon Definition of Done.
@@ -36,11 +36,11 @@ D
 [#explanation]
 --
 
-During Sprint Planning, the Scrum Developers pick Product Backlog items they believe the can completed before the end of the Sprint.
+During Sprint Planning, the Scrum Developers pick Product Backlog items they believe they can complete before the end of the Sprint.
 
 When a selected item meets the Definition of Done, the feature is said to be complete, the work becomes part of the Increment, and the results are shared with stakeholders at the Sprint Review.
 
-If developers fail to complete the Product Backlog item during the Sprint, the item returns to the Product Backlog. It may or may not be selected for the next Sprint. That's up for the team to decide at the next Sprint planning event.
+If developers fail to complete the Product Backlog item during the Sprint, the item returns to the Product Backlog. It may or may not be selected for the next Sprint. That's up to the team to decide at the next Sprint planning event.
 
 --
 

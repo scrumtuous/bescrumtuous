@@ -3,6 +3,8 @@
 
 image::images/exam-sitting.jpg[""]
 
+=== Good Luck!
+
 <<<
 
 
@@ -758,14 +760,14 @@ Scrum practitioners are encouraged to focus on the current Sprint, and while the
 ****
 
 
-[#query]
+[.query]
 --
 Half way through the Sprint the development team has become uncomfortable with the Sprint Goal and feels a change needs to be made to bring it in line with the Sprint Plan.
 
 According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Sprint Goal can be changed or adjusted any time the Product Goal is changed or adjusted.
 * [ ] B. The Sprint Goal can be changed or adjusted any time during the Daily Scrum.
@@ -776,11 +778,11 @@ According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 --
 The Sprint Goal must be finalized before the end of Sprint Planning and it cannot be changed throughout the Sprint.
 
@@ -794,14 +796,14 @@ According to the Scrum Guide, "the whole Scrum Team then collaborates to define 
 ****
 
 
-[#query]
+[.query]
 --
 As the Scrum Master, it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted and new items aren't added. 
 
 In Scrum, who has the right to add items to the Sprint Backlog?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Product Owner prioritizes Product Backlog items and has the authority to add items to the Sprint Backlog.
 * [*] B. The development team owns the Sprint Backlog and can add items to it at any time during the Sprint.
@@ -811,11 +813,11 @@ In Scrum, who has the right to add items to the Sprint Backlog?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is B.
 
-[#explanation]
+[.explanation]
 --
 The development team has full control over the Sprint Backlog. Only the development team has the authority to add or remove Sprint Backlog items.
 
@@ -829,12 +831,12 @@ Anyone can discuss the Sprint Backlog with the development team and relay any co
 ****
 
 
-[#query]
+[.query]
 --
 How might a Scrum Master help the Scrum Team resolve an internal disagreement that has caused inter-personal conflicts between team members.
 --
 
-[#list]
+[.list]
 --
 * [*] A. Use various coaching and facilitation techniques such as open feedback and active listening.
 * [*] B. Involve everyone on the team of Scrum Developers in forming a resolution that is in line with the Scrum values.
@@ -844,11 +846,11 @@ How might a Scrum Master help the Scrum Team resolve an internal disagreement th
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, B and E.
 
-[#explanation]
+[.explanation]
 --
 A Scrum Team is expected to be cross-functional and have all the skills needed to address issues that arise. The team should be able to make independent decisions without consulting external specialists.
 
@@ -864,12 +866,12 @@ A Scrum Master coaches and facilitates in order to help the development team com
 ****
 
 
-[#query]
+[.query]
 --
 Accodring to the Scrum Guide, which of the following are duties of a Scrum Master?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Participating as an equal member of the Scrum team while also acting as a leader who serves.
 * [ ] B. Assigning action items for team members to complete during the Sprint.
@@ -880,11 +882,11 @@ Accodring to the Scrum Guide, which of the following are duties of a Scrum Maste
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is A.
 
-[#explanation]
+[.explanation]
 --
 The Scrum Guide says the Scrum Master is a leader who serves. Note that it does not say the Scrum Master is a 'servant-leader.' 
 
@@ -899,7 +901,7 @@ The Scrum Guide says the Scrum Master is a leader who serves. Note that it does 
 ****
 
 
-[#query]
+[.query]
 --
 The development team bit off more than it could chew during Sprint Planning. 
 
@@ -908,7 +910,7 @@ They've just told you, the Scrum Master, that there's no way they are even going
 What should you, as the Scrum Master, do?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Change the Definition of Done and negotiate the quality standard with the Product Owner to ensure all Sprint Backlog items are completed before the end of the Sprint.
 * [*] B. While the Sprint is ongoing, have the Product Owner and the developers negotiate the scope of the work being done so as not to endanger the Sprint Goal.
@@ -918,11 +920,11 @@ What should you, as the Scrum Master, do?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is B.
 
-[#explanation]
+[.explanation]
 --
 It's not unusual to have a Sprint go sideways. When that happens, the Scrum Team has to adapt.
 
@@ -944,14 +946,14 @@ During the Sprint:
 ****
 
 
-[#query]
+[.query]
 --
 The Scrum team needs to hire an outside specialist, external to the Scrum team, to deliver wireframes needed to meet the Definition of Done. Some of the developers have complained to you in confidence about the outside specialist. 
 
 What are your main concerns in this situation?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. You are concerned that this may impact the velocity of software development.
 * [*] B. You are concerned that team members are coming to you with complaints rather than figuring out a solution themselves within the team.
@@ -961,11 +963,11 @@ What are your main concerns in this situation?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are B and C.
 
-[#explanation]
+[.explanation]
 --
 The Scrum Team should have all the skills required to meet the Definition of Done (DoD). If the DoD depends on work performed outside of the team, there is no control over it and it jeopardizes the team's ability to create a full Increment.
 
@@ -979,12 +981,12 @@ The development team should also be self-organized and self-managed. Openness an
 ****
 
 
-[#query]
+[.query]
 --
 If the company you work for does not have an organizational standard that defines the Definition of Done, whose responsibility is it to provide a definition before development begins?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The development team
 * [ ] B. The Product Owner
@@ -994,11 +996,11 @@ If the company you work for does not have an organizational standard that define
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 According to the Scrum Guide:
 
@@ -1019,12 +1021,12 @@ Ultimately, the Definition of Done should be agreed upon by the entire Scrum Tea
 ****
 
 
-[#query]
+[.query]
 --
 Under which circumstance can the Scrum Master extend the length of the Sprint once the Sprint has started?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Sprint can be extended equal to the number of days a Product Owner is absent
 * [ ] B. The Sprint can be extended equal to the number of holidays that occurred during the Sprint
@@ -1035,11 +1037,11 @@ Under which circumstance can the Scrum Master extend the length of the Sprint on
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 -- 
 Once a Sprint has started, the Sprint length cannot be changed.
 
@@ -1056,12 +1058,12 @@ The best time to discuss changing the length of the Sprint is during the Sprint 
 ****
 
 
-[#query]
+[.query]
 --
 Which of the following Scrum events are time-boxed to limit the amount of time spent on them?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Standup Meetings.
 * [ ] B. The Release Sprint.
@@ -1074,11 +1076,11 @@ Which of the following Scrum events are time-boxed to limit the amount of time s
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are C, D and G.
 
-[#explanation]
+[.explanation]
 --
 The Sprint Retrospective is a time-boxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. 
 
@@ -1096,12 +1098,12 @@ Options A, B, E, and F are not correct because they are not Scrum events. They m
 ****
 
 
-[#query]
+[.query]
 --
 Which of the following is true about the Product Owner's attendance at the Daily Scrum?
 --
 
-[#list]
+[.list]
 --
 * [ ] B. The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Sprint Goal
 * [ ] B. The Product Owner must always attend the Daily Scrum so they can quickly answer any questions the Scrum Developers have about items they are working on.
@@ -1111,11 +1113,11 @@ Which of the following is true about the Product Owner's attendance at the Daily
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 --
 The Product Owner does not participate in the the Daily Scrum, nor are they required to attend it. They only participate in the Daily Scrum at the behest of the Scrum Developers.
 
@@ -1133,14 +1135,14 @@ Unless the Scrum Master or Product Owner is actually doing development for some 
 ****
 
 
-[#query]
+[.query]
 --
 The project has kicked off and the first Sprint was a great success.
 
 According to the Scrum Guide, when does the second Sprint begin?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Immediately after the Sprint Review for the first Sprint is completed.
 * [ ] B. Immediately after Sprint Planning for the second Sprint is completed.
@@ -1150,11 +1152,11 @@ According to the Scrum Guide, when does the second Sprint begin?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 All Scrum Events happen with a Sprint. Nothing happens 'outside of a Sprint'.
 
@@ -1170,12 +1172,12 @@ When the Sprint Retrospective finishes, the current Sprint ends. The next Sprint
 ****
 
 
-[#query]
+[.query]
 --
 Under what circumstances might the decision be made to prematurely terminate a Sprint?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. When a self-managed team of Scrum Developers realizes the work committed to during Sprint planning cannot possibly be delivered by the end of the Sprint.
 * [*] B. When the Sprint Goal no longer makes sense and becomes obsolete.
@@ -1185,11 +1187,11 @@ Under what circumstances might the decision be made to prematurely terminate a S
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is B.
 
-[#explanation]
+[.explanation]
 --
 
 When the Sprint Goal becomes obsolete the Product Owner can canel the Sprint.
@@ -1210,12 +1212,12 @@ It is important to note that cancelling a Sprint is not a decision that should b
 ****
 
 
-[#query]
+[.query]
 --
 Which of the following is not true of the Daily Scrum?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Daily Scrum is used to identify impediments.
 * [ ] B. The Daily Scrum eliminates the need for other meetings.
@@ -1225,11 +1227,11 @@ Which of the following is not true of the Daily Scrum?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 The Daily Scrum is time boxed to 15 minutes, not 30 minutes.
 
@@ -1245,7 +1247,7 @@ Daily Scrums improve communications, identify impediments, promote quick decisio
 ****
 
 
-[#query]
+[.query]
 --
 
 Teams sometimes struggle to come up with items to discuss during the Sprint Retrospective.
@@ -1254,7 +1256,7 @@ Which of the following topics and issues would be worthwhile for a Scrum Team to
 
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Whether the Definition of Done needs to be updated.
 * [ ] B. Whether the length of the Sprint needs adjusting.
@@ -1265,11 +1267,11 @@ Which of the following topics and issues would be worthwhile for a Scrum Team to
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is E.
 
-[#explanation]
+[.explanation]
 --
 All of these topics are commonly discussed in the Sprint Retrospective.
 
@@ -1283,12 +1285,12 @@ From the Scrum Guide: "[During the Sprint Retrospective,] the Scrum Team inspect
 ****
 
 
-[#query]
+[.query]
 --
 The development team failed to complete all the items in the Sprint Backlog before the end of the Sprint. What happens next?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Scrum Master extends future Sprints by the amount of time it would have required to complete all Sprint Backlog items.
 * [*] B. The length of the Sprint remains the same, Sprint Backlog items get returned to the Product Backlog, and the Scrum Team tries to learn and adapt from the experience.
@@ -1299,11 +1301,11 @@ The development team failed to complete all the items in the Sprint Backlog befo
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is B.
 
-[#explanation]
+[.explanation]
 --
 There is no changing the Sprint length. 
 
@@ -1320,12 +1322,12 @@ The team should discuss why their estimates were off during the Sprint Retrospec
 ****
 
 
-[#query]
+[.query]
 --
 Which of the following are key responsibilities of the Scrum Master on a Scrum Team?
 --
 
-[#list]
+[.list]
 --
 * [*] A. The Scrum Master helps employees and stakeholders understand and enact an empirical approach for complex work.
 * [ ] B. The Scrum Master assigns Product Backlog items to developers when they are idle.
@@ -1336,11 +1338,11 @@ Which of the following are key responsibilities of the Scrum Master on a Scrum T
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, C and D.
 
-[#explanation]
+[.explanation]
 --
 Key responsibilities of the Scrum Master include removing obstacles for the team of Scrum Developers, protecting the Scrum Team from external interruptions and helping the entire organization enact a lean, empirical approach to problem solving. 
 
@@ -1354,14 +1356,14 @@ Additionally the Scrum Master ensures that the Scrum process is being followed a
 ****
 
 
-[#query]
+[.query]
 --
 The development team can't agree whether to use Java or Python to develop microservices for their current project.
 
 How can the Scrum Master help the Scrum Team resolve an internal disagreement about whether to build in Java or Python?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Have the developers consult an external, impartial expert on the topic and agree to go with the external expert's decision.
 * [ ] B. Have the development team argue both sides to the Scrum Master and have the Scrum Master come to a final, impartial decision.
@@ -1371,11 +1373,11 @@ How can the Scrum Master help the Scrum Team resolve an internal disagreement ab
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are C and D.
 
-[#explanation]
+[.explanation]
 --
 Coaching and teaching are important parts of the Scrum Master's role as a servant-leader.
 
@@ -1404,14 +1406,14 @@ While active listening and open questioning are valuable techniques in communica
 ****
 
 
-[#query]
+[.query]
 --
 Corporate stakeholders are very busy, as multiple projects are going online this quarter.
 
 The stakeholders have asked to attend every-other Sprint Review to minimize the number of meetings on their calendars. How do you as a Scrum Master respond?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Coach the stakeholders and the team on how to make the meetings more productive and positive.
 * [ ] B. Agree with the request of the stakeholders, as reducing meetings is in line with Agile principles.
@@ -1421,11 +1423,11 @@ The stakeholders have asked to attend every-other Sprint Review to minimize the 
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A and C.
 
-[#explanation]
+[.explanation]
 --
 The Scrum Master should use this opportunity to explain the importance of a Sprint Review and the value the team receives from the stakeholders participating in it.
 
@@ -1442,12 +1444,12 @@ As the Scrum Guide states: "The Scrum framework is immutable. While implementing
 ****
 
 
-[#query]
+[.query]
 --
 Which of the following actions should the Scrum Master never do?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Tell the Scrum Developers how to manage their workloads.
 * [*] B. Extend the length of the Sprint.
@@ -1457,11 +1459,11 @@ Which of the following actions should the Scrum Master never do?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, B, C and E.
 
-[#explanation]
+[.explanation]
 --
 The Scrum Master is a leader who serves the team and as such, should never _tell_ the developers what to do. The Scrum Master coaches and facilitates and allows developers to discover solutions and solve problems themselves.
 
@@ -1479,12 +1481,12 @@ The Scrum Master does coach teams about the Scrum Framework, so coaching a team 
 ****
 
 
-[#query]
+[.query]
 --
 The developers are new to Scrum and they've asked you, an experienced Scrum Master, who should start, lead and manage the Daily Scrum. How do you respond?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Explain that the most senior developer on the team should start and lead the Daily Scrum
 * [ ] B. Explain that the most senior developer on the team leads the Daily Scrum while the most junior developer speaks first
@@ -1495,11 +1497,11 @@ The developers are new to Scrum and they've asked you, an experienced Scrum Mast
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are D and E.
 
-[#explanation]
+[.explanation]
 --
 It is up to the developers to decide how to run their Daily Scrum, which includes decisions about who starts it and how it proceeds.
 
@@ -1517,12 +1519,12 @@ According to the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hi
 ****
 
 
-[#query]
+[.query]
 --
 What does the slope of the line in a burndown chart demonstrate?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The percentage of the budget consumed by the project over time.
 * [ ] B. The number of Story Ponts needed per Sprint needed to complete the project on time.
@@ -1532,11 +1534,11 @@ What does the slope of the line in a burndown chart demonstrate?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 --
 A trend line through a release burndown chart indicates how fast work is being completed relative to the original plan, and can help visualize progress toward completion of the component being graphed, be it a Sprint or a decomposed Product Backlog item.
 
@@ -1552,12 +1554,12 @@ You don't need to be a burndown chart expert, but knowing what one is will keep 
 ****
 
 
-[#query]
+[.query]
 --
 When is a Product Backlog item (PBI) considered fully complete and ready for release?
 --
 
-[#list]
+[.list]
 --
 
 
@@ -1569,11 +1571,11 @@ When is a Product Backlog item (PBI) considered fully complete and ready for rel
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 A Product Backlog item is complete when all of its features are completed and it is not possible to create any further increments of work on it.
 
@@ -1587,14 +1589,14 @@ A Product Backlog item is not necessarily associated with a single Increment of 
 ****
 
 
-[#query]
+[.query]
 --
 
 What are the skills and capabilities the Developers on the Scrum Team should have in order to ensure effective performance throughout the Sprint?
 
 --
 
-[#list]
+[.list]
 --
 * [*] A. The ability to decompose Product Backlog items (PBIs) and progressively create Increments of Work until a functional release is possible.
 * [ ] B. The ability to perform all of the core software development work, with the exception of any specialized testing that would require additional tools and staging environments.
@@ -1604,11 +1606,11 @@ What are the skills and capabilities the Developers on the Scrum Team should hav
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is A.
 
-[#explanation]
+[.explanation]
 --
 The Scrum Development team must be able to decompose a PBI and create as many Increments of Work that are necessary to complete the PBI and make the item ready for release.
 
@@ -1633,14 +1635,14 @@ As the team progresses through the Sprint, they may discover additional details 
 ****
 
 
-[#query]
+[.query]
 --
 The Scrum Guide very briefly mentions burn-down and burn-up charts. 
 
 What does a trend line displayed on a burndown chart indicate about the team's progress?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. How quickly the team is 'burning through' money budgeted for the project.
 * [ ] B. How quickly other Scrum teams on the same project are 'burning through' Product Backlog items compared to your team.
@@ -1650,11 +1652,11 @@ What does a trend line displayed on a burndown chart indicate about the team's p
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 Don't worry too much about burn-down charts, as they are only briefly mentioned in the Scrum Guide. But they are used quite a bit by teams who use tools like JIRA for Scrum management.
 
@@ -1675,14 +1677,14 @@ It is important to note that the trend line is a projection based on past perfor
 ****
 
 
-[#query]
+[.query]
 --
 The Product Owner often has no idea how complicated or complex a Product Backlog item will be to build.
 
 Whose responsibility is it to decompose long, epic, Product Backlog items into work easily digestible work items that should take a day or less to complete?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. The Business Analysts
 * [ ] B. The Product Owner
@@ -1693,11 +1695,11 @@ Whose responsibility is it to decompose long, epic, Product Backlog items into w
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is E.
 
-[#explanation]
+[.explanation]
 --
 Breaking Product Backlog Items into smaller work items is the job of the developers on the team.
 
@@ -1715,7 +1717,7 @@ Noone else tells them how to turn Product Backlog items into Increments of value
 ****
 
 
-[#query]
+[.query]
 --
 The team's developers are amazing! Maybe too amazing?
 
@@ -1724,7 +1726,7 @@ It's not even half-way through the Sprint and the developers are telling you, th
 What should the Scrum Master do?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. End the Sprint and reconvene a new Sprint Planning meeting.
 * [ ] B. Have the Product Owner add new Product Backlog items to the Sprint Backlog.
@@ -1734,11 +1736,11 @@ What should the Scrum Master do?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 --
 If developers complete Sprint Backlog items quickly and become underutilized, they should adapt and add new Product Backlog items to the Sprint Backlog.
 
@@ -1757,14 +1759,14 @@ Never overcomplicate Scrum.
 ****
 
 
-[#query]
+[.query]
 --
 During every Sprint, the team attempts to create at least one Increment to present to stakeholders during the Sprint Review.
 
 Why might a Product Owner refuse to immediately release an Increment into production after a successful Sprint Review?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Increments are automatically released into production so it is not possible to refuse a release.
 * [ ] B. The Product Owner needs confirmation from the Scrum Master in order to release an increment into production.
@@ -1774,11 +1776,11 @@ Why might a Product Owner refuse to immediately release an Increment into produc
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 If the timing of the release of an Increment is not in the best interest of users or stakeholders, the Product Owner does not need to release it immediately.
 
@@ -1795,14 +1797,14 @@ Increments don't need to be released or published immediately. They can be relea
 ****
 
 
-[#query]
+[.query]
 --
 Sprint Planning is the first of the four time-boxed events to happen during the Sprint.
 
 According to the Scrum Guide, which topics are to be addressed by the Scrum Team during Sprint Planning?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Who on the team will be assigned various Product Backlog items?
 * [*] B. Why is the Sprint valuable?
@@ -1813,11 +1815,11 @@ According to the Scrum Guide, which topics are to be addressed by the Scrum Team
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, B and C.
 
-[#explanation]
+[.explanation]
 --
 According to the Scrum Guide, a Sprint Planning meeting addresses these three questions:
 
@@ -1836,12 +1838,12 @@ Always remember that _why, what and how_ are the questions answered by the end o
 ****
 
 
-[#query]
+[.query]
 --
 Two teams working on the same Product should maintain separate Product Backlogs.
 --
 
-[#list]
+[.list]
 --
 * [ ] A. True
 * [*] B. False
@@ -1849,11 +1851,11 @@ Two teams working on the same Product should maintain separate Product Backlogs.
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is B.
 
-[#explanation]
+[.explanation]
 --
 This is false.
 
@@ -1869,12 +1871,12 @@ They will also share the same Product Goal, Definition of Done and Product Owner
 ****
 
 
-[#query]
+[.query]
 --
 Who on the Scrum Team has the responsibility of ordering the Product Backlog?
 --
 
-[#list]
+[.list]
 --
 * [*] A. The Product Owner orders the Product Backlog, with the items that deliver the most value to the stakeholders at the top.
 * [ ] B. The Development Team orders the Product Backlog, with items listed chronologically according to what the development team should logically build first.
@@ -1884,11 +1886,11 @@ Who on the Scrum Team has the responsibility of ordering the Product Backlog?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is A.
 
-[#explanation]
+[.explanation]
 --
 In the Scrum framework, the Product Owner is responsible for creating and maintaining the Product Backlog, which is an ordered list of features, enhancements, and fixes that the Scrum Team will work on in order to deliver a product Increment. 
 
@@ -1903,12 +1905,12 @@ The Product Owner prioritizes the items in the Product Backlog based on a variet
 ****
 
 
-[#query]
+[.query]
 --
 What should be done with a Product Backlog item (PBI) that did not meet the Scrum Team's agreed upon Definition of Done by the end of a Sprint?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Return the item to the Product Backlog.
 * [ ] B. With the consent of the Product Owner and stakeholders, the PBI can be approved and released.
@@ -1918,11 +1920,11 @@ What should be done with a Product Backlog item (PBI) that did not meet the Scru
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A and D.
 
-[#explanation]
+[.explanation]
 --
 Incomplete PBIs not completed in a given Sprint are returned to the Product Backlog.
 
@@ -1943,12 +1945,12 @@ One of the key principles of Scrum is that the team commits to completing the wo
 ****
 
 
-[#query]
+[.query]
 --
 According to the Scrum Guide, which two of the following statements is true about the Product Owner?
 --
 
-[#list]
+[.list]
 --
 * [*] A. The Product Owner may delegate the creation of Product Backlog items to an associate.
 * [ ] B. The Product Owner may be a committee or collection of individuals who collaboratively perform the role.
@@ -1959,11 +1961,11 @@ According to the Scrum Guide, which two of the following statements is true abou
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A and C.
 
-[#explanation]
+[.explanation]
 --
 
 The Product Owner is allowed to delegate certain aspects of their job to others on the team, as the Scrum Guide indicates:
@@ -1981,14 +1983,14 @@ The organization must also fully trust the decisions of the Product Owner. They 
 ****
 
 
-[#query]
+[.query]
 --
 You are building a limo for a head of state, and security and protection of the occupant are two important, non-functional requirements that must be prioritized at every step in the development process. 
 
 What is the best way to ensure security and protection of the occupant are prioritized?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Outsource security and protection concerns to an external third party that specializes in these areas.
 * [ ] B. Add a Sprint prior to the release of the car that deals exclusively with security and protection.
@@ -1999,11 +2001,11 @@ What is the best way to ensure security and protection of the occupant are prior
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are D and E.
 
-[#explanation]
+[.explanation]
 --
 We don't outsource work in Scrum, nor do we create sub-teams. 
 
@@ -2019,12 +2021,12 @@ In Scrum, we deal with non-functional requirements by either adding Product Back
 ****
 
 
-[#query]
+[.query]
 --
 For an Increment of work to be demonstrated to the stakeholders at the Sprint Review, it must be:
 --
 
-[#list]
+[.list]
 --
 * [*] A. Valuable
 * [ ] B. Paid for
@@ -2035,11 +2037,11 @@ For an Increment of work to be demonstrated to the stakeholders at the Sprint Re
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, D and E.
 
-[#explanation]
+[.explanation]
 --
 An Increment must be both valuable, usable, additive and compatible with all past increments.
 --
@@ -2051,14 +2053,14 @@ An Increment must be both valuable, usable, additive and compatible with all pas
 ****
 
 
-[#query]
+[.query]
 --
 You, the Scrum Master, have been told that the quality assurance (QA) tests performed by an external team have been delayed, and due to this delay, it's unlikely the Definition of Done will be achieved before the end of this 3-week Sprint. However, if the Sprint was extended a week, the QA work would likely be done. 
 
 How would you proceed as a Scrum Master? (Choose 2)
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Extend the Sprint a week to allow QA team to complete their work.
 * [*] B. Investigate why the Scrum Team does not have all the cross-functional skills to achieve the Definition of Done without an external QA team
@@ -2069,11 +2071,11 @@ How would you proceed as a Scrum Master? (Choose 2)
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are B and D.
 
-[#explanation]
+[.explanation]
 --
 A Scrum Team must have all of the skills necessary to complete the Definition of Done. The Scrum Team cannot outsource work that is part of their Definition of Done and still have that work managed through Scrum.
 
@@ -2091,12 +2093,12 @@ Furthermore, the Definition of Done should not be changed midway through a Sprin
 ****
 
 
-[#query]
+[.query]
 --
 What are the two primary responsibilities of a new Product Owner when taking ownership of a product that is currently under development with a long history of multiple, successful Sprints?
 --
 
-[#list]
+[.list]
 --
 * [*] A. Ensuring that the development teams know which Product Backlog items provide the greatest value and should be developed first
 * [ ] B. Describing and fully decomposing product features in Use Case and story form.
@@ -2107,11 +2109,11 @@ What are the two primary responsibilities of a new Product Owner when taking own
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A and D.
 
-[#explanation]
+[.explanation]
 --
 The Product Owner must order the Product Backlog so that developers know which items provide the most value. If possible, the Product Owner will negotiate with the team to ensure these items get developed first.
 
@@ -2125,7 +2127,7 @@ Also, according to the Scrum Guide, "The Product Owner may represent the needs o
 ****
 
 
-[#query]
+[.query]
 --
 
 Scrum doesn't work if there isn't buy-in from the entire organization, including management.
@@ -2133,7 +2135,7 @@ Scrum doesn't work if there isn't buy-in from the entire organization, including
 How do members of the management group in an organization that sponsors a development project support a Scrum Team?
 --
 
-[#list]
+[.list]
 --
 * [*] A. The organization empowers the Scrum Team to manage their own work.
 * [ ] B. The organization responds quickly to daily status updates from the Scrum Master.
@@ -2143,11 +2145,11 @@ How do members of the management group in an organization that sponsors a develo
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answers are A, C and D.
 
-[#explanation]
+[.explanation]
 --
 Status updates are antithetical to the Scrum Framework. Scrum provides other artifacts and mechanisms to allow for transparency and openness into the progress of the Scrum Team.
 
@@ -2161,7 +2163,7 @@ Providing sufficient input and resources for the Scrum Team to improve, allowing
 ****
 
 
-[#query]
+[.query]
 --
 
 Self-organization and self-management are two important attributes of a Scrum Team.
@@ -2169,7 +2171,7 @@ Self-organization and self-management are two important attributes of a Scrum Te
 What is most important criteria for developers to think about when they self-organize into development teams?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Does each team have a strong and competent team lead?
 * [ ] B. Is there a good balance of senior and junior developers?
@@ -2179,11 +2181,11 @@ What is most important criteria for developers to think about when they self-org
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is D.
 
-[#explanation]
+[.explanation]
 --
 There are not subteams, titles or hierarchies on Scrum Teams.
 
@@ -2199,12 +2201,12 @@ From the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hierarchie
 ****
 
 
-[#query]
+[.query]
 --
 When should new developers be added to a Scrum team?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. During Sprint Zero the team size should be set for the duration of the project.
 * [ ] B. After the current Sprint ends but before the next Sprint begins.
@@ -2214,11 +2216,11 @@ When should new developers be added to a Scrum team?
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 A new developer can be added to a project at any point in time. There is no rule barring a developer from joining a Scrum team during Sprint Planning, the Sprint Retrospective or even half-way through a Sprint.
 
@@ -2234,12 +2236,12 @@ Just keep in mind that onboarding will sometimes reduce the team's productivity 
 ****
 
 
-[#query]
+[.query]
 --
 Scrum practitioners are encouraged to focus on the current Sprint, and while the Product Goal should always be 'top of mind', Scrum does not plan two or three Sprints into the future. This is an example of which Scrum value?
 --
 
-[#list]
+[.list]
 --
 * [ ] A. Courage.
 * [ ] B. Respect.
@@ -2250,11 +2252,11 @@ Scrum practitioners are encouraged to focus on the current Sprint, and while the
 --
 ****
 
-[#answer]
+[.answer]
 
 The correct answer is C.
 
-[#explanation]
+[.explanation]
 --
 One of the key principles of Scrum is to maintain a clear focus on the current Sprint and avoid distractions from other work that is not part of the Sprint. This principle of focusing on the Sprint is intended to ensure that the team can deliver high-quality work and achieve its Sprint Goal without being sidetracked by other priorities.
 

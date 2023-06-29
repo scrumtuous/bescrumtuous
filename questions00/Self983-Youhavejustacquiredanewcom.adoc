@@ -30,7 +30,7 @@ D
 
 [#explanation]
 --
-Breaking up teams and reassembling them can be disruptive, as it may require additional time for the new teams to get up to speed and establish a working relationship. This disruption can result in delays in project delivery, increased project costs, and decreased quality of work.
+Breaking up teams and reassembling them can be disruptive, as it may require additional time for the new teams to get up to speed and establish a working relationship. This disruption can result in delays in project delivery, increased project costs and decreased quality of work.
 
 There's no need to break the teams up right away. Let them get to know each other and allow them to self-organize over time.
 --

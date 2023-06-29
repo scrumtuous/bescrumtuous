@@ -23,7 +23,7 @@ What should the Scrum Master do in this situation?
 --
 * [*] A. Coach the Product Owner and help them understand Scrum theory and practice.
 * [ ] B. Report the issue to senior management.
-* [*] C. Discuss the issue with the Product Owner and try to remove impediments to the PO attending Scrum events.
+* [*] C. Discuss the issue with the Product Owner and try to cause the removal of impediments to the PO attending Scrum events.
 * [*] D. Coach the Product Owner on the importance of ordering the product backlog.
 * [ ] E. Replace the Product Owner with a senior member of the development team.
 * [ ] F. Remove the Product Owner from the Scrum Team.

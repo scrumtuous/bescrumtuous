@@ -12,17 +12,17 @@ id: 817-63effac69ebbe935e4c16aa2.
 
 [#query]
 --
-What should a Scrum Master do if the Development Team is missing the necessary skills, tools and infrastructure needed to complete the highest-priority backlog items?
+What should a Scrum Master do if the Scrum Developers are missing the necessary skills, tools and infrastructure needed to complete the highest-priority backlog items?
 --
 
 [#list]
 --
 
-* [ ] A. Dissolve the Sprint and inform management that the Development Team is not ready to use the Scrum framework.
+* [ ] A. Dissolve the Sprint and inform management that the Scrum Team is not ready to use the Scrum framework.
 * [ ] B. Instruct the Product Owner to accept partially Done Increments for this Sprint.
-* [ ] C. Change the priority of the current Sprint to improving the Development Team's skills and acquiring the necessary infrastructure instead of delivering an Increment.
-* [*] D. Coach the Development Team on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important Backlog Items.
-* [*] E. Discuss adjusting the Definition of Done in the upcoming retrospective to address the tooling issue.
+* [ ] C. Change the priority of the current Sprint to improving the development team's skills and acquiring the necessary infrastructure instead of delivering an Increment.
+* [*] D. Coach the Scrum Developers on how to spend time during the Sprint learning and improving their skills and acquiring tools they will need to complete important Backlog Items.
+* [*] E. Discuss adjusting the Definition of Done to address the tooling issue.
 
 --
 ****
@@ -34,9 +34,11 @@ DE
 --
 The Scrum Developers are expected to have all of the skills required to complete all the Product Backlog items. If those skills do not exist, the developers must acquire them as they work on other Product Backlog items.
 
-It is also possible to adjust the Definition of Done to make the delivery of an Increment possible. For example, if the Definition of Done says every product must be tested by flying it to Mars and back, but you don't have a spaceship that can fly to Mars, it wouldn't be unreasonable to remove that requirement from the Definition of Done.
+It is also possible to adjust the Definition of Done to make the delivery of an Increment possible. For example, if the Definition of Done says every product must be tested by flying it to Mars and back, but you don't have a spaceship that can fly to Mars, it wouldn't be unreasonable to remove that requirement.
 
-Every Sprint must provide a real, tangible increment of work. There are no 'infrastructure Sprints' in Scrum or 'Sprint Zeros.' Every Sprint must have the delivery of an increment of work as its goal.
+Note that adjusting the Definition of Done is not a task to be taken lightly. It should not be adjusted simply to make life easier for the developers or to allow lower-quality work to pass inspection. But if the Definition of Done includes criteria that makes the creation of an inspectable Increment impossible, then it is simply pragmatic to adjust it.
+
+Every Sprint must provide a real, tangible increment of work. There are no 'Infrastructure Sprints', 'Release Sprints' or 'Sprint Zeros' in Scrum. Every Sprint must have the delivery of an increment of work as its goal.
 --
 
 [#ka]

@@ -22,7 +22,7 @@ While they are no longer officially part of the Scrum Guide, there are three que
 * [*] B. What did you do yesterday?
 * [ ] C. Will you be working overtime this weekend?
 * [*] D. What will you do today?
-* [ ] E. Why is the status you would like to report back to management?
+* [ ] E. What is the status you would like to report back to management?
 * [*] F. What, if anything, is blocking your progress?
 * [ ] G. What Product Backlog items do you believe will need to be added to the next Sprint?
 
@@ -34,7 +34,7 @@ BDF
 
 [#explanation]
 --
-At the Daily Scrum, the Scrum Developers commonly share what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do until the next Daily Scrum.
+At the Daily Scrum, the Scrum Developers commonly share what was accomplished since the last Daily Scrum, any impediments they are facing, and what they plan to do between now and the next Daily Scrum.
 
 Also known as the '3 Daily Scrum questions', these questions were included in previous version of the Scrum Guide, but were removed in the 2020 Scrum Guide update, not because they are bad, but because developers should be free to run the Daily Scrum in any manner they like.
 --

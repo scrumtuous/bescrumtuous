@@ -30,19 +30,17 @@ A
 
 [#explanation]
 --
-The original Scrum Team might experience a period of reduced productivity as the teams become accustomed to working together, but over the medium term, the collective productivity of all the teams should increase.
+The original Scrum Team might experience a period of reduced productivity as the teams become accustomed to working together, but over the medium term, the collective productivity of all the teams should return to a normal baseline.
 
-There are several potential reasons why the productivity of a Scrum team might decrease when new members are added:
+There are several potential reasons why the productivity of a well-functioning Scrum team might decrease when new teams are added to the project:
 
-Forming and Storming: When new members are added to a Scrum team, the team must go through the "forming" and "storming" stages of group development, where they get to know each other and figure out how to work together effectively. This process can take time and can be disruptive to the team's productivity.
+Forming and Storming: When new teams are added to a project, the teams must go through the "forming" and "storming" stages of group development, where they get to know each other and figure out how to work together effectively. This process can take time and can be disruptive to the original team's productivity.
 
-Communication: Effective communication is essential for a successful Scrum team. When new members are added, the team's communication channels can become disrupted, leading to misunderstandings, delays, and other issues that can impact productivity.
+Communication: Effective communication is essential for multiple Scrum Teams working together to build the same product. When new Teams are added, the original team's communication channels can become disrupted, leading to misunderstandings, delays, and other issues that can impact productivity.
 
-Skill levels: New team members may not have the same level of skill and experience as existing team members, which can lead to imbalances in workload and delays as new members get up to speed. In some cases, existing team members may need to spend time coaching and training new members, taking away from their productivity.
+Disruption to processes: Introducing new teams to a product development effort can also disrupt established processes and ways of working, which can lead to confusion and delays.
 
-Disruption to processes: Introducing new team members can also disrupt established processes and ways of working, which can lead to confusion and delays.
-
-Team dynamics: Finally, adding new members can disrupt team dynamics and the relationships between team members, leading to potential conflicts and interpersonal issues that can negatively impact productivity.
+Adding multiple teams to assist in the development of a product is a significant change, especially if a single team working on the product had established processes and methodologies. Such a change is likely to hurt productivity in the short term, although in the long-term productivity levels should return to normal.
 
 
 --

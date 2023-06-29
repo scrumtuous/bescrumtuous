@@ -1,12 +1,12 @@
 == A note from the author
 
 
-
+(((declute))) 
 Hi! I'm Darcy DeClute.
 
 As I write this note I'm filled with a mix of conflicting and confusing emotions that range from humility to pride to embarassment.
 
-.At home on native land. Baffin Island, Canada
+.At home on native land. Baffin Island, Canada (((baffin island)))
 image::images/darcy-blubber.jpg["At home on native land. Baffin Island, Canada",250,250, float="right", align="center"]
 
 It humbles me to know you're reading this book.
@@ -35,7 +35,7 @@ So when I see my name on the front cover of this book, I feel as though I'm stea
 
 I can't thank the people who helped me get this book past the finish line enough. I love all of you.
 
-=== I'm @Scrumtuous everywhere!
+=== I'm @Scrumtuous everywhere! (((self-publishing)))
 
 .Please come find me on Twitter. I'm @Scrumtuous on all platforms!
 image::images/darcy-twitter.jpg["Come find me on social media. I'm @Scrumtuous on all platforms.",350,350, float="right", align="center"]
@@ -50,7 +50,7 @@ If you do find something in this book that is unclear, missspellled, confusing o
 
 I'm @Scrumtuous everywhere.
 
-Or better yet, just email me:
+Or better yet, just email me: (((email))) (((twitter))) (((linkedin)))
 
 darcydeclute@gmail.com
 
@@ -67,7 +67,7 @@ Love Darcy.
 
 
 
-== Foreword
+== Foreword (((forword)))
 
 I felt a little nervous when Darcy asked me to write this foreword.
 
@@ -77,7 +77,7 @@ In fact, in many of the Agile transformations I've led, one of our success metri
 
 That's not to say I'm against Scrum. I believe Scrum is the right Agile framework to use when starting a new project.
 
-=== The role of the Scrum Master
+=== The role of the Scrum Master (((Sal Pece)))
 
 .Sal Pece, Xennial CEO
 image::images/sal.jpg["Sal Pece Xennial CEO",200,200, float="right", align="center"]
@@ -93,7 +93,7 @@ When an organization truly achieves Agility, the need for a Scrum Master to coac
 
 Successful Agile teams don't need coaching on these practices because they naturally incorporate them into their work. It becomes odd for them not to.
 
-=== Measuring Agile Tranformation Success
+=== Measuring Agile Tranformation Success  (((Agile)))
 
 That's when you know your Agile transformation is a success. That's when you know the team has approached Agile enlightenment.
 
@@ -132,7 +132,7 @@ Enjoy this certification guide.
 It will not only help you pass the Scrum Master certification exam but it will also provide you with a strong understanding of how Scrum _should_ work once an enterprise successfully completes an Agile transformation.
 
 Sal Pece {nbsp} +
-CEO, Xennial Inc.
+CEO, Xennial Inc. (((Xennial)))
 
 
 

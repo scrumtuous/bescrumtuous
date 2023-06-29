@@ -12,15 +12,15 @@ id: 916-63efffcf9ebbe935e4c16b49.
 
 [#query]
 --
-Three Scrum Teams are working on the same product. Each team produces an increment of work by the end of their Sprint. When should the increment from a given team be integrated into the project?
+Three Scrum Teams are working on the same product. Each team produces an increment of work by the end of their Sprint. When should the Increment from a given team be integrated into the project?
 --
 
 [#list]
 --
 * [*] A. Teams should be doing continuous integration, and increments must be integrated with the work of other teams before the Sprint review.
 * [ ] B. Teams should be doing continuous integration, and increments must be integrated with the work of other teams after the Sprint review.
-* [ ] C. Three Scrum teams working on the same project should be independent of each other and not integrate their code.
-* [ ] D. The three teams should only integrate their code 
+* [ ] C. Three Scrum teams working on the same project should be independent of each other and not integrate their work.
+* [ ] D. The three teams should only integrate their code at the end of the project.
 
 --
 ****
@@ -36,12 +36,11 @@ If code changes are not integrated, how does anyone know that the changes and up
 
 Multiple Scrum teams working on the same project should continuously integrate their increments of work for several reasons:
 
-
 - Early detection of integration issues
 - Improved transparency
-- Teams will collboarate and communicate more often
+- Teams will collaborate and communicate more often
 
-If something works and meets the definition of done, it should be integrated right away. Waiting makes no sense. Waiting is certainly not in like with Scrum's commitment to lean thinking.
+If something works and meets the Definition of Done, it should be integrated right away. Waiting makes no sense. Waiting is certainly not in like with Scrum's commitment to lean thinking.
 
 --
 

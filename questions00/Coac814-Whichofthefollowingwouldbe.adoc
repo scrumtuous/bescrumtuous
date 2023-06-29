@@ -18,9 +18,9 @@ Which of the following would be responsibilities a team's Scrum Master would ful
 --
 * [ ] A. At the Sprint Review, the Scrum Master identifies which backlog items have met the Definition of Done and which have not.
 * [*] B. The Scrum Master coaches the Scrum Team on the importance of keeping Scrum events within their timebox.
-* [*] C. The Scrum Master helps to plan and advises on Scrum implementations within their organization.
+* [*] C. The Scrum Master helps to advise on and plan Scrum implementations within their organization.
 * [ ] D. The Scrum Master will assign tasks to development team members in order to maximize their utilization.
-* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA and generating Sprint Burndown charts for the team.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA and generating Sprint burn-down charts for the team.
 
 --
 ****
