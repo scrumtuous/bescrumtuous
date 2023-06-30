@@ -34,7 +34,7 @@ Incomplete PBIs not completed in a given Sprint are returned to the Product Back
 
 They are not automatically added to the next Sprint, as priorities may have changed since the prior round of Sprint Planning took place.
 
-If a PBI is not completed, it definitely should not be added to the Increment. The Incrememt is only for completed work that meets the DoD.
+If a PBI is not completed, it definitely should not be added to the Increment. The Increment is only for completed work that meets the DoD.
 
 The Product Backlog is the ordered list of features, requirements, and other work items that the development team plans to complete over the course of the project. During each Sprint, the team selects a subset of items from the Product Backlog to work on, creating a Sprint Backlog.
 

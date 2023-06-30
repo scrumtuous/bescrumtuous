@@ -51,8 +51,67 @@ include::exam25B/file/exam20B.adoc[]
 
 include::exam40/file/exam40.adoc[]
 
+<<<
+
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+'''
+[.text-center]
+When the student is _truly_ ready, the teacher will disappear. {nbsp} +
+_Tao Te Ching_
+
+'''
+
 [index]
 == Index
+
+<<<
+
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+'''
+[.text-center]
+When the student is _truly_ ready, the teacher will disappear. {nbsp} +
+_Tao Te Ching_
+
+'''
+
 
 // include::focused/fq-artifacts.adoc[]
 

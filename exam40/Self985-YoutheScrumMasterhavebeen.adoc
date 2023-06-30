@@ -1,1 +1,0 @@
-include::../questions00/Self985-YoutheScrumMasterhavebeen.adoc[]

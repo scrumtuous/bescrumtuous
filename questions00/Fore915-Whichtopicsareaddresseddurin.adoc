@@ -11,7 +11,7 @@ id: 915-63efff879ebbe935e4c16b41.
 
 [#query]
 --
-Sprint Planning is the first of the four time-boxed events to happen during the Sprint.
+Sprint Planning is the first of the four timeboxed events to happen during the Sprint.
 
 According to the Scrum Guide, which topics are to be addressed by the Scrum Team during Sprint Planning?
 --
@@ -35,7 +35,7 @@ ABC
 According to the Scrum Guide, a Sprint Planning meeting addresses these three questions:
 
 - Why is this Sprint valuable?
-- What can be Done this Sprint?
+- What can be done this Sprint?
 - How will the chosen work get done?
 
 Always remember that _why, what and how_ are the questions to be answered before the end of the Sprint Planning event.

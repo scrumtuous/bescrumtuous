@@ -1,0 +1,1 @@
+include::../questions00/Fore906-Whataretheskillsandcapabili.adoc[]

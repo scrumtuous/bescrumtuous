@@ -5,15 +5,15 @@ I’m going to get you Scrum Certified. I hope you’re ready.
 
 The process is going to go something like this:
 
- - We're going to go through the entire 2020 Scrum Guide together, one line at a time
- - Together we'll extract as much meaning as possible out of the Scrum Guide’s words
- - We'll discuss how ideas in the Scrum Guide translate into exam questions
- - We'll iteratively and incrementally test you on what you’ve learned
+ - We're going to go through the entire 2020 Scrum Guide together, one line at a time.
+ - Together we'll extract as much meaning as possible out of the Scrum Guide’s words.
+ - We'll discuss how ideas in the Scrum Guide translate into exam questions.
+ - We'll iteratively and incrementally test you on what you’ve learned.
 
 When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the exam.
 
 .Download and read the official Scrum Guide a few times before reading this book. Read it a few times after reading this book too. The Scrum Guide is the sole source of truth for any Scrum Certification exam.
-image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 13 pages long. "]
+image::images/read-guide.jpg["Please read the Scrum Guide a few times. It's only 14 pages long. "]
 
 === Forget Everything You Know
 
@@ -76,6 +76,7 @@ At the end of Sprint Planning, the developers walk away with:
 - An overarching Sprint Goal that keeps the team focused.
 
 Then the work begins!
+
 (((standup meeting))) (((status meeting)))
 Every workday, the developers meet for a few minutes in something called a Daily Scrum.
 
@@ -119,11 +120,11 @@ It's a simple framework that says:
 
 - Regularly review your work with stakeholders.
 
-- And regularly take time to talk about team dynamics and how to improve things.
+- Regularly take time to talk about team dynamics and how to improve things.
 
 And all of this is accomplished by a team that is made up of:
 
-- One Product Owner who defines the Product Goal and manages the product backlog.
+- One Product Owner who defines the Product Goal and manages the Product Backlog.
 - The developers who know how to build the product.
 - One Scrum Master, who doesn't do much.
 
@@ -154,7 +155,7 @@ That's my quick description of Scrum, and I think it's a good one.
 
 Having said that, the Scrum Master certification exam doesn't test you on what I think Scrum is all about, it tests you on what the Scrum Guide says Scrum is all about, which is why I want you to download and print out a couple of copies of the 2020 Scrum Guide.
 
-The Scrum Guide is only 13 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
+The Scrum Guide is only 14 pages long, and that includes the cover page, introduction and the table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
 .Try to hit as many learning modalities as you can whenever you learn something new.
 image::images/modalities.jpg["Hit as many learning modalities as you can."]
@@ -203,7 +204,7 @@ But this is the definition we have, and this is the definition you will be teste
 
 ==== The Words Not Spoken 
 
-The Scrum Guide say a lot in its brief 13 pages, but sometimes it's more interesting to focus on what the Scrum Guide _doesn't_ say. Notice how: (((process))) (((methodology)))
+The Scrum Guide say a lot in its brief 14 pages, but sometimes it's more interesting to focus on what the Scrum Guide _doesn't_ say. Notice how: (((process))) (((methodology)))
 
 - The official definition of Scrum never mentions software development
 - The official definition calls Scrum a _framework,_ not a process or methodology
@@ -361,7 +362,7 @@ It's a guide, not a rulebook.
 
 The Scrum Guide even promises __not__ to be heavy on rules, saying that it promises _not_ to 'provide people with detailed instructions.'
 
-There are very few actual rules in the 13-page Scrum Guide. Outside of the few rules Scrum does have, the framework encourages people to discover strategies that work best for them.
+There are very few actual rules in the 14-page Scrum Guide. Outside of the few rules Scrum does have, the framework encourages people to discover strategies that work best for them.
 
 TIP: It often helps to think about certification exam questions outside of the domain of software development. Reframe an exam question in terms of an isolated team building a shelter on a deserted island and answers may become more clear.
 

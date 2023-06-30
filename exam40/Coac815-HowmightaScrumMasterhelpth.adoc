@@ -1,1 +1,0 @@
-include::../questions00/Coac815-HowmightaScrumMasterhelpth.adoc[]

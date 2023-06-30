@@ -35,7 +35,7 @@ The development team has full control over the Sprint Backlog. Only the developm
 
 Anyone can discuss the Sprint Backlog with the development team and relay any concerns to them, but it is the development team that has the final say over what is added or removed.
 
-If anyone thinks the Sprint can be improved through the addition or deletion of the Sprint Backlog, they are welcome to discuss those thoughts with the developers. Whether they can convice the developers to act on those discussions is another story.
+If anyone thinks the Sprint can be improved through the addition or deletion of the Sprint Backlog, they are welcome to discuss those thoughts with the developers. Whether they can convince the developers to act on those discussions is another story.
 
 Developers own the Sprint Backlog.
 

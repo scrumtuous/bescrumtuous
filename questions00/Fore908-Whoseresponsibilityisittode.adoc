@@ -39,7 +39,7 @@ Breaking Product Backlog items into smaller work items is the job of the develop
 
 This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Scrum Developers. 
 
-Noone else tells them how to turn Product Backlog items into Increments of value."
+Nobody else tells them how to turn Product Backlog items into Increments of value."
 
 --
 

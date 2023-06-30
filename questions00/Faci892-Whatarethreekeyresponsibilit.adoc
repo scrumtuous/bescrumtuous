@@ -41,7 +41,7 @@ Additionally the Scrum Master ensures that the Scrum process is being followed a
 
 The Scrum Master should not be seen as a police officer or trailer-park supervisor enforcing rules and commanding others to act. They Scrum Master coaches, facilitates and acts as a leader who serves.
 
-However, there are rules in the Scrum Guide that do need to be respected, one of which is the time-box for Scrum events. There aren't a lot of rules in the Scrum Guide, but when the few rules that exist are violated, it's the job of the Scrum Master to coach the team on the importance on respecting the ethos of Scrum.
+However, there are rules in the Scrum Guide that do need to be respected, one of which is the timebox for Scrum events. There aren't a lot of rules in the Scrum Guide, but when the few rules that exist are violated, it's the job of the Scrum Master to coach the team on the importance on respecting the ethos of Scrum.
 
 --
 

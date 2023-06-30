@@ -1,0 +1,1 @@
+include::../questions00/Fore909-Theteamsdevelopersareamazin.adoc[]

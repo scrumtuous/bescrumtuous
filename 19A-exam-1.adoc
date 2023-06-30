@@ -336,7 +336,7 @@ If your project needs programmers to assist in the development effort, why would
 
 With regards to option B, remember that there is no delay in Scrum between the time when one Sprint ends and the next Sprint begins. When one Sprint ends, the next Sprint starts immediately.
 
-<<<
+
 
 ==== Question 8
 

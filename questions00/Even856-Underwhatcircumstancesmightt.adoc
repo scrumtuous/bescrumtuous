@@ -31,7 +31,7 @@ B
 [#explanation]
 --
 
-When the Sprint Goal becomes obsolete the Product Owner can canel the Sprint.
+When the Sprint Goal becomes obsolete the Product Owner can cancel the Sprint.
 
 In Scrum, the Sprint Goal is a short statement that describes what the Development Team intends to achieve during the Sprint. It provides focus and direction to the team and helps to ensure that all members are working towards a common objective. The Sprint Goal is set during Sprint Planning and remains unchanged throughout the Sprint.
 

@@ -27,9 +27,9 @@ I'm also embarassed when I see this book with my name on the cover, because I fe
 
 When I mentioned to some of my peers and mentors that I wanted to write a Scrum Master certification guide to fill what I thought was a void in the market, my friends encouraged and inspired me.
 
-Some people I follow on Twitter donated their own free time to proofread, edit, criticize and add corrections. My peers and mentors added paragraphs and extended the text when they thought a chapter was light or a topic needed clarification.
+Some people I follow on Twitter, people like Walker Boh, graciously donated their own free time to proofread, edit, criticize and add corrections. Other peers and mentors added paragraphs and extended the text when they thought a chapter was light or a topic needed clarification.
 
-Other friends helped to generate images with MidJourney promps and fixed issues with formatting.
+Some friends helped to generate images with MidJourney promps and fixed issues with formatting.
 
 So when I see my name on the front cover of this book, I feel as though I'm stealing credit, because this was completely a team effort. 
 
@@ -42,7 +42,7 @@ image::images/darcy-twitter.jpg["Come find me on social media. I'm @Scrumtuous o
 
 This book is self-published.
 
-There's an old saying that say the biggest problem with self-published books is the person who publishes them. Having read some really low-quality, self-published tripe, I don't completely disagree with that sentiment.
+There's an old saying that asserts the biggest problem with self-published books is the person who publishes them. Having read some really low-quality, self-published tripe, I don't completely disagree with that sentiment.
 
 However, since I do self-publish, I have the benefit of being able to make updates and changes at a moments notice.
 
@@ -56,7 +56,7 @@ darcydeclute@gmail.com
 
 As I mentioned before, people have put a lot of faith in me to help them get certified and drive their career forward. I want to do everything I can to make that possible. Any help you can provide would be apprecaited not only by me, but by everone who reads this book in the future.
 
-Oh, and one last thing. If you do enjoy the book, please leave a 5-star review on Amazon. It would not only put a giant smile on my fact, but it would also help to get this book in front of other people who need it.
+Oh, and one last thing. If you do enjoy the book, please leave a 5-star review on Amazon. It would not only put a giant smile on my face, but it would also help to get this book in front of other people who need it.
 
 Thanks again for reading this book. I really hope you enjoy it. 
 
@@ -85,7 +85,7 @@ image::images/sal.jpg["Sal Pece Xennial CEO",200,200, float="right", align="cent
 
 I advocate for Scrum, but I also advocate for teams to evolve to such an advanced level of Agile understanding that they don't really need a Scrum Master.
 
-The role of the Scrum Master is to teach, coach, and mentor others in the ways of Scrum, while acting as a leader who serves as the team during an Agile transition.
+The role of the Scrum Master is to teach, coach, and mentor others in the ways of Scrum, while acting as a leader who serves as the team goes through an Agile transition.
 
 But here's the thing about transitions: they eventually reach completion.
 
@@ -105,11 +105,11 @@ At the beginning of an Agile transformation, each development team might require
 
 Well-coached teams will rely less and less on the Scrum Master for leadership. As Agile transformations succeed, a Scrum Master will divide their time across multiple teams because individual teams become less dependent on their guidance.
 
-Once enlightenment is achieved, a single, underutilized Scrum Master will be shared among multiple teams throughout the organization.
+Once enlightenment is achieved, a single, underutilized Scrum Master will be shared across multiple teams throughout the organization.
 
-There's a recurring meme in Agile circles that jokes "never asking a Scrum Master what they do," because you'll find out that they don't do much.
+There's a recurring meme in Agile circles that jokes "never ask a Scrum Master what they do, because you'll find out that they don't do much."
 
-I love that meme because it's not only funny but because it should be true if your organization has implemented Scrum correctly.
+I love that meme because it's not only funny but because it should be true if your organization has implemented Scrum correctly. That meme is basically my goal during an Agile transformation.
 
 === Keeping Scrum Working
 
@@ -119,9 +119,9 @@ And that's why I was nervous about reviewing this book and contributing a forewo
 
 I was concerned that this Scrum Master Certification Guide would, like most other books about Scrum, overstate the role of the Scrum Master. 
 
-But that nervousness I mentioned earlier quickly turned into enthusiasm as I turned another page of this book.
+But my nervousness quickly turned into enthusiasm as I turned page after page of this book.
 
-As I read through the text, I felt Darcy was reflecting my thoughts about effective Scrum back to me. 
+As I read through the text, I felt Darcy was reflecting my thoughts about effective Scrum directly back to me. 
 
 Miss DeClute strikes just the right balance between recognizing the importance of the Scrum Master's role within an organization and emphasizing that with highly motivated, self-managed teams, reliance on the Scrum Master accountability should gradually diminish over time.
 
@@ -132,9 +132,36 @@ Enjoy this certification guide.
 It will not only help you pass the Scrum Master certification exam but it will also provide you with a strong understanding of how Scrum _should_ work once an enterprise successfully completes an Agile transformation.
 
 Sal Pece {nbsp} +
-CEO, Xennial Inc. (((Xennial)))
+CEO, Xennial Innovations Inc. (((Xennial)))
+
+<<<
 
 
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+'''
+[.text-center]
+When the student is ready, the teacher will appear. {nbsp} +
+_Tao Te Ching_
+
+'''
 
 
 

@@ -33,7 +33,7 @@ B
 --
 There is no changing the Sprint length during an active Sprint.
 
-During the Sprint Retrospective, a Scrum Team can discuss the Sprint length and possibly adjust the length of future Sprints, but the length of an active Sprint is fixed and cannot be changed. Sprint Reviews and Sprint Restrospectives will occur at their scheduled time and place.
+During the Sprint Retrospective, a Scrum Team can discuss the Sprint length and possibly adjust the length of future Sprints, but the length of an active Sprint is fixed and cannot be changed. Sprint Reviews and Sprint Retrospectives will occur at their scheduled time and place.
 
 It's not uncommon for some Sprint Backlog items to go uncompleted during a Sprint. When that happens, they just go back into the Product Backlog.
 

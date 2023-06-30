@@ -12,7 +12,7 @@ id: 818-63effaf39ebbe935e4c16aa7.
 
 [#query]
 --
-Accodring to the Scrum Guide, which of the following are duties of a Scrum Master?
+According to the Scrum Guide, which of the following are duties of a Scrum Master?
 --
 
 [#list]
@@ -35,7 +35,7 @@ The Scrum Guide says the Scrum Master is a leader who serves. Note that it does 
 
 'Leader who serves' is the new terminology.
 
-It is not the job of the Scrum Master to perform secretarial duties for the Scrum Team, nor is it the job of the Scrum Master to be a liason between management and the developers.
+It is not the job of the Scrum Master to perform secretarial duties for the Scrum Team, nor is it the job of the Scrum Master to be a liaison between management and the developers.
 
 The job of the Scrum Master is to:
 
@@ -51,7 +51,7 @@ A Scrum Master never expected to:
 - Disciplines developers
 - Run the Daily Scrum
 - Select Product Backlog items
-- Cancel a Sprint IOnly a PO can)
+- Cancel a Sprint (Only a PO can)
 - Override the decisions of the developers
 
 Coach, facilitate and behave as a leader who serves are the key responsibilities of the Scrum Master.

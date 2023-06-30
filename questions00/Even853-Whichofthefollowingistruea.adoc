@@ -30,7 +30,7 @@ D
 
 [#explanation]
 --
-The Product Owner does not participate in the the Daily Scrum, nor are they required to attend it. They only participate in the Daily Scrum at the behest of the Scrum Developers. For example, the developers might phone the Product Owner during a Daily Scrum to get clarification on a topic, or perhaps send them a text message. But the Product Owner is not required to attend the Daily Scrum, and they only participate if the developers need their input.
+The Product Owner does not participate in the Daily Scrum, nor are they required to attend it. They only participate in the Daily Scrum at the behest of the Scrum Developers. For example, the developers might phone the Product Owner during a Daily Scrum to get clarification on a topic, or perhaps send them a text message. But the Product Owner is not required to attend the Daily Scrum, and they only participate if the developers need their input.
 
 In fact, not even the Scrum Master is required to attend the Daily Scrum, and they are not allowed to actively participate in it. Like they Product Owner, a Scrum Master only participates in the Daily Scrum at the behest of the developers.
 

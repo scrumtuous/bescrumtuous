@@ -1,1 +1,0 @@
-include::../questions00/Coac821-TheScrumteamneedstohirean.adoc[]

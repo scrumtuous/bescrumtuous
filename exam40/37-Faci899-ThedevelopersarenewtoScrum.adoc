@@ -1,0 +1,1 @@
+include::../questions00/Faci899-ThedevelopersarenewtoScrum.adoc[]
