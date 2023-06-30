@@ -35,7 +35,7 @@ Once a Sprint has started, the Sprint length cannot be changed.
 
 Changes to the length of the Sprint should be agreed upon by a consensus of the team. 
 
-The best time to discuss changing the length of the Sprint is during the Sprint Retrospective. Any changes made to the Sprint length during a Sprint would apply only to future Sprints, not the current Sprint.
+The best time to discuss changing the length of the Sprint is during the Sprint Retrospective. Any changes made to the Sprint length during a Sprint would apply only to future Sprints, not the current Sprint. Once a Sprint starts, its length cannot be changed.
 
 --
 

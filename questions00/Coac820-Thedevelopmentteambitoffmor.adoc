@@ -36,14 +36,20 @@ B
 --
 It's not unusual to have a Sprint go sideways. When that happens, the Scrum Team has to adapt.
 
-It's acceptable to clarify and negotiate scope during a Sprint. According to the Scrum Guide:
+It's acceptable to clarify and negotiate scope during a Sprint. In fact, it would be difficult to imagine a Sprint where the PO and the developers don't spend some time negotiating the scope of the Sprint.
 
-During the Sprint:
+After all, some tasks will get completed faster than expected. Other tasks might take longer. When that happens, developers should sit down with the PO and figure out what items they might want to add to the Sprint Backlog or which items they might want to remove. 
+
+Open discussions like this will occur naturally on any healthy product development team. 
+
+According to the Scrum Guide:
+
+"During the Sprint:
 
 - No changes are made that would endanger the Sprint Goal;
 - Quality does not decrease;
 - The Product Backlog is refined as needed; and,
-- Scope may be clarified and renegotiated with the Product Owner as more is learned.
+- Scope may be clarified and renegotiated with the Product Owner as more is learned."
 
 --
 

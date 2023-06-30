@@ -12,7 +12,7 @@ id: 865-63effcaa9ebbe935e4c16ae9.
 
 [#query]
 --
-Which of the following is not true of the Daily Scrum?
+Which of the following is _not_ true of the Daily Scrum?
 --
 
 [#list]
@@ -32,9 +32,15 @@ C
 --
 The Daily Scrum is time boxed to 15 minutes, not 30 minutes.
 
-From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. 
+From the Scrum Guide: 
 
-Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings."
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrums:
+
+- Improve communications
+- Identify impediments
+- Promote quick decision-making
+- Consequently eliminate the need for other meetings."
+
 --
 
 [#ka]

@@ -33,13 +33,17 @@ CDG
 
 [#explanation]
 --
-The Sprint Retrospective is a time-boxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. 
+The Sprint Retrospective is a time-boxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. The Sprint Retrospective is time-boxed to a maximum of 3 hours.
 
-Sprint Planning is also time-boxed and occurs at the beginning of each Sprint, allowing the team to plan and prioritize their work for the upcoming Sprint. 
+Sprint Planning is also time-boxed and occurs at the beginning of each Sprint, allowing the team to plan and prioritize their work for the upcoming Sprint. Sprint Planning is time-boxed to a maximum of 8 hours.
 
-The Daily Scrum is another time-boxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day.
+The Daily Scrum is another time-boxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day. The Daily Scrum is time-boxed to a maximum of 15 minutes.
 
-Options A, B, E, and F are not correct because they are not Scrum events. They may be performed by some Scrum Teams, but they are not discussed at all in the Scrum Guide.
+The Sprint Review is also timeboxed to a maximum of 4 hours, although the Sprint Review was not mentioned in this question.
+
+Options A, B, E, and F are not correct because they are not Scrum events. On any Scrum exam, references to standup meetings, release Sprints, stakeholder meetings and Sprint Zero will likely be red herrings designed to trick you into selecting an incorrect answer. These topics are never mentioned at all in the Scrum Guide.
+
+
 --
 
 [#ka]

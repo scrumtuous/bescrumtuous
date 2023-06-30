@@ -35,6 +35,27 @@ The Scrum Guide says the Scrum Master is a leader who serves. Note that it does 
 
 'Leader who serves' is the new terminology.
 
+It is not the job of the Scrum Master to perform secretarial duties for the Scrum Team, nor is it the job of the Scrum Master to be a liason between management and the developers.
+
+The job of the Scrum Master is to:
+
+- Act as a leader first and a servant to the team second
+- Coach and facilitate the Scrum Team and the organization on the application of Scrum
+- Ensure the rules of Scrum are observed and coach around instances when they are violated
+- Cause the removal of impediments (_cause_ the removal, not actually _remove_)
+- Help to create a psychologically safe space for everyone involved
+
+A Scrum Master never expected to:
+
+- Assigns tasks
+- Disciplines developers
+- Run the Daily Scrum
+- Select Product Backlog items
+- Cancel a Sprint IOnly a PO can)
+- Override the decisions of the developers
+
+Coach, facilitate and behave as a leader who serves are the key responsibilities of the Scrum Master.
+
 --
 
 [#ka]

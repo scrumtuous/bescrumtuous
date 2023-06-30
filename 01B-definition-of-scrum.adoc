@@ -281,14 +281,13 @@ Which one of the following statements most accurately reflects the definition of
 
 Option C is correct. 
 
-The Guide describes Scrum as a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." Any references to Scrum being a methodology, a process, or a framework that only targets software development will always be a wrong answer on the Scrum Certification exam.
+Scrum is a "lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems." References to Scrum being a _methodology_ or a _process_ will always be a wrong option on the Scrum Certification exam. It's not just about software either.
 
 image::images/scrum-incomplete.jpg["Scrum is an incomplete framework."]
 
+=== Why is a Scrum Master required? 
 
-=== Iterative and Incremental (((iterative))) (((incremental)))
-
-According to the Scrum Guide, here's a high-level overview of how Scrum is supposed to work.
+Here's the Scrum Guide's high-level overview of how Scrum is supposed to work, along with a quick note about the role the Scrum Master plays in keeping Scrum working. (((iterative))) (((incremental)))
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -301,19 +300,19 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 ____
 
 
-=== What's in a name? 
+=== Don't Overstate the Role of the Scrum Master
 
 The name 'Scrum Master' sounds intimidating.
 
 People think that since the term 'master' is in the name, the Scrum Master controls everything.
 
-The Scrum Master controls very little. 
+They don't. The Scrum Master controls very little. In fact, the word 'control' is antithetical to what the Scrum Master is all about.
 
 The Scrum Master's only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
 
 
 
-=== Scrum is Simple
+=== Scrum is Simple, Pragmatic and Lean
 
 People tend to overthink Scrum. 
 

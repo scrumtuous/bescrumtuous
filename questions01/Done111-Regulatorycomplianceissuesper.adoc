@@ -37,3 +37,11 @@ Done
 
 '''
 
+
+
+Scrum is designed to:
+
+Organize teams
+Manage projects
+Solve complex problems
+Manage human resources

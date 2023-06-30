@@ -11,16 +11,16 @@ id: 821-63effb829ebbe935e4c16ab9
 
 [#query]
 --
-The Scrum team needs to hire an outside specialist, external to the Scrum team, to deliver wireframes needed to meet the Definition of Done. Some of the developers have complained to you in confidence about the outside specialist. 
+The Scrum team needs to hire an outside specialist, external to the Scrum team, to deliver wireframes needed in order to complete a Product Backlog item and meet the Definition of Done. Some of the developers have complained to you, the Scrum Master, in confidence about the outside specialist. 
 
 What are your main concerns in this situation?
 --
 
 [#list]
 --
-* [ ] A. You are concerned that this may impact the velocity of software development.
+* [ ] A. You are concerned that the external dependency may impact software development velocity.
 * [*] B. You are concerned that team members are coming to you with complaints rather than figuring out a solution themselves within the team.
-* [*] C. You are concerned about the ability of the development team to produce a fully integrated Increment when the Definition of Done depends on work produced by someone outside of the Scrum team.
+* [*] C. You are concerned about the ability of the development team to produce a fully integrated Increment when meeting the Definition of Done depends on work produced by someone outside of the Scrum Team.
 * [ ] D. You are worried that there will be software developers sitting idle while work is outsourced.
 
 --
@@ -33,7 +33,10 @@ BC
 --
 The Scrum Team should have all the skills required to meet the Definition of Done (DoD). If the DoD depends on work performed outside of the team, there is no control over it and it jeopardizes the team's ability to create a full Increment.
 
-The development team should also be self-organized and self-managed. Openness and transparency may be problematic if developers are complaining to the Scrum Master in confidence.
+The development team should also be self-organized and self-managed, which implies that they should be able to discuss and resolve concerns internally. Openness and transparency may be lacking if developers are complaining to the Scrum Master in secrecy.
+
+The Scrum Master should work hard to make the workplace a psychologically safe space where developers feel free to discuss their fears and concerns openly and honestly with each other. Secrecy is not consistent with the Scrum pillar of transparency.
+
 --
 
 [#ka]

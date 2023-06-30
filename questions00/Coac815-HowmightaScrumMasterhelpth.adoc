@@ -20,7 +20,7 @@ How might a Scrum Master help the Scrum Team resolve an internal disagreement th
 * [*] A. Use various coaching and facilitation techniques such as open feedback and active listening.
 * [*] B. Involve everyone on the team of Scrum Developers in forming a resolution that is in line with the Scrum values.
 * [ ] C. Ask an external consultant on the production team to determine the most sensible path forward.
-* [ ] D. Incorporate the Human Resources department to help resolve any inter-personal conflicts that have arisen.
+* [ ] D. Incorporate the Human Resources (HR) department to help resolve any inter-personal conflicts that have arisen.
 * [*] E. Coach the team on maintaining a psychologically safe environment for all participants.
 --
 ****
@@ -32,9 +32,11 @@ ABE
 --
 A Scrum Team is expected to be cross-functional and have all the skills needed to address issues that arise. The team should be able to make independent decisions without consulting external specialists.
 
-A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not a prescribed approach. The Scrum Guide never mentions the term "Human Resources.'
+A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not a prescribed approach. 
 
-A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and find paths to help them move forward.
+The Scrum Guide never once mentions the term "Human Resources,' nor is it even reasonable to assume that every team doing Scrum would have a Human Resources department. Avoid any options on a Scrum Master exam question that references HR.
+
+A Scrum Master _coaches and facilitates_ in order to help the development team come to their own conclusions and find paths to help them move forward.
 --
 
 [#ka]

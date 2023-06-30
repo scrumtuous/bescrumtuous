@@ -11,14 +11,14 @@ id: 811-63efff599ebbe935e4c16b3c.
 
 [#query]
 --
-As the Scrum Master, it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted and new items aren't added. 
+As the Scrum Master, it is clear to you that the Sprint Goal is not going to be achieved if the Sprint Backlog isn't adjusted and new Product Backlog items aren't added. 
 
-In Scrum, who has the right to add items to the Sprint Backlog?
+In Scrum, who has the right to add new Product Backlog items (PBIs) to the Sprint Backlog?
 --
 
 [#list]
 --
-* [ ] A. The Product Owner prioritizes Product Backlog items and has the authority to add items to the Sprint Backlog.
+* [ ] A. The Product Owner prioritizes Product Backlog items and has the authority to add PBIs to the Sprint Backlog.
 * [*] B. The development team owns the Sprint Backlog and can add items to it at any time during the Sprint.
 * [ ] C. Both the Scrum Master and the developers can add to the Sprint Backlog if  changes need to be made to keep the Sprint Goal in focus.
 * [ ] D. Anyone on the Scrum Team can add or remove items from the Sprint Backlog.
@@ -31,9 +31,14 @@ B
 
 [#explanation]
 --
-The development team has full control over the Sprint Backlog. Only the development team has the authority to add or remove Sprint Backlog items.
+The development team has full control over the Sprint Backlog. Only the development team has the authority to add or remove PBIs selected for the Sprint Backlog.
 
-Anyone can discuss the Sprint Backlog with the development team and relay any concerns to them, but it is the development team that has the final say.
+Anyone can discuss the Sprint Backlog with the development team and relay any concerns to them, but it is the development team that has the final say over what is added or removed.
+
+If anyone thinks the Sprint can be improved through the addition or deletion of the Sprint Backlog, they are welcome to discuss those thoughts with the developers. Whether they can convice the developers to act on those discussions is another story.
+
+Developers own the Sprint Backlog.
+
 --
 
 [#ka]
