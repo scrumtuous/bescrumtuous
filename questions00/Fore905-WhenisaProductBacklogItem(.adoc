@@ -21,7 +21,7 @@ When is a Product Backlog item (PBI) considered fully complete and ready for rel
 
 * [ ] A. A Product Backlog item is complete when a Quality Assurance team verifies that the work passes all acceptance criteria, making it ready for release
 * [ ] B. A Product Backlog item is complete when all work in the Sprint Backlog related to the item is finished, making it ready for release
-* [*] C. A Product Backlog item is complete when further Increments of Work on it are no longer possible, making it ready for release.
+* [*] C. A Product Backlog item is complete when it meets the Definition of Done and further Increments of work on it are no longer possible, making it ready for release.
 * [ ] D. Product Backlog items are never officially complete until the Product Goal is achieved.
 
 --
@@ -32,9 +32,11 @@ C
 
 [#explanation]
 --
-A Product Backlog item is complete when all of its features are completed and it is not possible to create any further increments of work on it.
+A Product Backlog item is complete when all of its features are completed, meet the Definition of Done, and it is not possible to create any further Increments out of it.
 
-A Product Backlog item is not necessarily associated with a single Increment of Work. A PBI may last for multiple Sprints, with each Sprint producing an Increment of work that meets a Definition of Done for a given facet of a Product Backlog Item. That's why PBIs are decomposed by the development team - to break them up into manageable pieces of work.
+A Product Backlog item is not necessarily associated with a single Increment of Work. A PBI may get decomposed into multiple, smaller pieces and work. Work on a decomposed PBI can last multiple Sprints, with each Sprint producing an Increment that meets a Definition of Done for a given facet of that Product Backlog item. 
+
+That's why PBIs are decomposed by the development team - to break them up into manageable pieces of work that can be spread out over time and be planned out more accurately.
 --
 
 [#ka]

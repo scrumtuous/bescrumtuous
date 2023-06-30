@@ -36,7 +36,7 @@ The Product Owner is allowed to delegate certain aspects of their job to others 
 
 "The Product Owner ... may delegate the responsibility to others. Regardless, the Product Owner remains accountable. For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review. The Product Owner is one person, not a committee."
 
-The organization must also fully trust the decisions of the Product Owner. They must be trusted to make quick decisions about the product so that developers can get fast responses and quickly resolve issues.
+The organization must also fully trust the decisions of the Product Owner. The PO must be trusted to make quick decisions about the product so that developers can get fast responses and quickly resolve issues.
 
 --
 

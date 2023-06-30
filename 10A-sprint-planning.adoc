@@ -130,7 +130,7 @@ Sprint Planning addresses the following topics:
 Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
 ____
 
-=== Time Boxing Sprint Planning to 8 Hours
+=== Timeboxing Sprint Planning to 8 Hours
 
 To pass the Scrum certification exam you have to know the timeboxes for Scrum events like you know the back of your hand. Memorize these:
 
@@ -149,7 +149,7 @@ Which of the following Scrum events can last the longest?
 * [ ] B) Sprint Review
 * [ ] C) Sprint Planning
 * [ ] D) Sprint Retrospective
-* [ ] E) The Review, Planning, and Retrospective are all time-boxed to 4 hours
+* [ ] E) The Review, Planning, and Retrospective are all timeboxed to 4 hours
 * [ ] F) There is no time limit for the Sprint Planning
 
 ****

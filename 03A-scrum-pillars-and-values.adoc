@@ -207,7 +207,7 @@ The ability for teams to quickly adjust and change their plan when things go sid
 
 ==== Always Adapt
 
-The Scrum Guide describes several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak, and adapt.
+The Scrum Guide describes several artifacts and timeboxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak, and adapt.
 
 If a problem comes up during the day, a Developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a Developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers. If a problem arises, teams are encouraged to inspect and adapt immediately.
 

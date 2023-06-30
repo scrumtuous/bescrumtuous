@@ -113,7 +113,7 @@ After 8 hours of Sprint Planning, the only thing the development team and the Pr
 --
 * [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
 * [ ] B. Trust the development team to choose which Product Backlog items to make part of the development Sprint.
-* [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
+* [ ] C. Extend the Sprint Planning meetings beyond its 8-hour timebox to allow the development team and the Product Owner to come to an agreement.
 * [ ] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
 * [ ] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
 
@@ -710,7 +710,7 @@ After 8 hours of Sprint Planning, the only thing the development team and the Pr
 --
 * [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
 * [*] B. Trust the development team to choose which Product Backlog items to make part of the development Sprint.
-* [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
+* [ ] C. Extend the Sprint Planning meetings beyond its 8-hour timebox to allow the development team and the Product Owner to come to an agreement.
 * [*] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
 * [*] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
 
@@ -1172,7 +1172,7 @@ The correct answer is C.
 
 The Sprint Review should only last for 4 hours.
 
-You must know the maximum allowed time-box for each event in Scrum:
+You must know the maximum allowed timebox for each event in Scrum:
 
 - 15 minutes for the Daily Scrum
 - 3 hours for the Sprint Retrospective

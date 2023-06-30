@@ -20,7 +20,7 @@ Who on the Scrum Team has the responsibility of ordering the Product Backlog?
 * [*] A. The Product Owner orders the Product Backlog, with the items that deliver the most value to the stakeholders at the top.
 * [ ] B. The Development Team orders the Product Backlog, with items listed chronologically according to what the development team should logically build first.
 * [ ] C. The Scrum Master orders the Product Backlog, with the items that the Product Owner says will deliver the most value to the stakeholders at the top.
-* [ ] D. The Product Owner orders the Product Backlog, with PBIs with the highest story-points assigned to them first.
+* [ ] D. The Product Owner prioritizes the Product Backlog, with PBIs with the highest story-points assigned to them first.
 
 --
 ****
@@ -32,7 +32,9 @@ A
 --
 In the Scrum framework, the Product Owner is responsible for creating and maintaining the Product Backlog, which is an ordered list of features, enhancements, and fixes that the Scrum Team will work on in order to deliver a product Increment. 
 
-The Product Owner prioritizes the items in the Product Backlog based on a variety of factors that relate to how the items bring value to the business. Generally speaking, items that are believed to provide the most value to the product's users and customers are placed at the top of the list, and those that are of lower priority are placed towards the bottom.
+The Product Owner orders the items in the Product Backlog based on a variety of factors that relate to how the items bring value to the business. Generally speaking, items that are believed to provide the most value to the product's users and customers are placed at the top of the list, and those that are of lower priority are placed towards the bottom.
+
+The Scrum Guide says the Product Backlog gets _ordered,_ not _prioritized._ Many seasoned Scrum Masters are surprised to learn that the 2020 Scrum Guide never once uses the word _prioritized._
 
 --
 

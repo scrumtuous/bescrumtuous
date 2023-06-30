@@ -17,11 +17,11 @@ Which of the following are key responsibilities of the Scrum Master on a Scrum T
 
 [#list]
 --
-* [*] A. The Scrum Master helps employees and stakeholders understand and enact an empirical approach for complex work.
+* [*] A. The Scrum Master helps employees and stakeholders understand and enact an empirical and lean approach to solving complex problems.
 * [ ] B. The Scrum Master assigns Product Backlog items to developers when they are idle.
 * [*] C. The Scrum Master helps those outside the Scrum team understand Scrum and how to interact with teams that employ the Scrum framework.
-* [*] D. The Scrum Master ensures that all Scrum events are kept within the timebox.
-* [ ] E. The Scrum Master shows stakeholders the features that have met the Definition of Done during the Sprint.
+* [*] D. The Scrum Master ensures that all Scrum events are kept within their timebox.
+* [ ] E. The Scrum Master demos to stakeholders the features that have met the Definition of Done during the Sprint Review.
 
 --
 ****
@@ -31,9 +31,18 @@ ACD
 
 [#explanation]
 --
-Key responsibilities of the Scrum Master include removing obstacles for the team of Scrum Developers, protecting the Scrum Team from external interruptions and helping the entire organization enact a lean, empirical approach to problem solving. 
+Key responsibilities of the Scrum Master include:
+
+- Causing the removing obstacles the team encounters
+- Protecting the Scrum Team from external interruptions
+- Helping the entire organization enact a lean and empirical approach to problem solving. 
 
 Additionally the Scrum Master ensures that the Scrum process is being followed and encourages self-organization and cross-functionality among the Scrum Team members.
+
+The Scrum Master should not be seen as a police officer or trailer-park supervisor enforcing rules and commanding others to act. They Scrum Master coaches, facilitates and acts as a leader who serves.
+
+However, there are rules in the Scrum Guide that do need to be respected, one of which is the time-box for Scrum events. There aren't a lot of rules in the Scrum Guide, but when the few rules that exist are violated, it's the job of the Scrum Master to coach the team on the importance on respecting the ethos of Scrum.
+
 --
 
 [#ka]

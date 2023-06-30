@@ -19,7 +19,7 @@ Which of the following is _not_ true of the Daily Scrum?
 --
 * [ ] A. The Daily Scrum is used to identify impediments.
 * [ ] B. The Daily Scrum eliminates the need for other meetings.
-* [*] C. The Daily Scrum is time boxed to 30 minutes.
+* [*] C. The Daily Scrum is timeboxed to 30 minutes.
 * [ ] D. The Daily Scrum encourages quick decision-making.
 
 --
@@ -30,7 +30,7 @@ C
 
 [#explanation]
 --
-The Daily Scrum is time boxed to 15 minutes, not 30 minutes.
+The Daily Scrum is timeboxed to 15 minutes, not 30 minutes.
 
 From the Scrum Guide: 
 

@@ -35,7 +35,7 @@ ACD
 --
 Status updates are antithetical to the Scrum Framework. Scrum provides other artifacts and mechanisms to allow for transparency and openness into the progress of the Scrum Team.
 
-Providing sufficient input and resources for the Scrum Team to improve, allowing the Scrum Team to manage their own work, and respecting the decisions of the Scrum Master are three concrete ways an organization can support teams that practice the Scrum Framework
+Providing sufficient input and resources for the Scrum Team to improve, allowing the Scrum Team to manage their own work, and respecting the decisions of the Product Owner are three concrete ways an organization can support teams that practice Scrum.
 --
 
 [#ka]

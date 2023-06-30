@@ -19,7 +19,7 @@ How would you proceed as a Scrum Master? (Choose 2)
 
 [#list]
 --
-* [ ] A. Extend the Sprint a week to allow QA team to complete their work.
+* [ ] A. Extend the Sprint a week to allow the QA team to complete their work.
 * [*] B. Investigate why the Scrum Team does not have all the cross-functional skills to achieve the Definition of Done without an external QA team
 * [ ] C. Remove QA work from the Definition of Done for this Sprint.
 * [*] D. Explain to the organization that Scrum is not designed to manage the work performed by people external to the Scrum Team.
@@ -39,7 +39,12 @@ Extending the Sprint is never an option. The Sprint length is fixed when the Spr
 
 The Definition of Done can always be discussed and updated. However, the Scrum Master does not have the right to unilaterally change the Definition of Done, and changes to the Definition of Done are best discussed in the Sprint Retrospective.
 
-Furthermore, the Definition of Done should not be changed midway through a Sprint to accommodate moving goalposts. Doing so would be antithetical to Scrum.
+Furthermore, the Definition of Done should not be changed midway through a Sprint to accommodate moving goalposts. Doing so would be antithetical to Scrum. 
+
+Of course, there is nothing in the Scrum Guide that explicitly forbids updating the Definition of Done mid-Sprint, but just keep in mind that all estimates and planning were made given the DoD that existed during Sprint Planning. A mid-Sprint change to the DoD has the potential to throw off all of those estimates and put the Sprint Goal at risk.
+
+Changes to the Definition of Done are best to take place during the Sprint Retrospective.
+
 --
 
 [#ka]

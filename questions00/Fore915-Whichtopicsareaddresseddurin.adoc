@@ -18,9 +18,9 @@ According to the Scrum Guide, which topics are to be addressed by the Scrum Team
 
 [#list]
 --
-* [*] A. Who on the team will be assigned various Product Backlog items?
-* [*] B. Why is the Sprint valuable?
-* [*] C. What can be done during the Sprint?
+* [*] A. How on Earth is the work chosen for the Sprint going to get done?
+* [*] B. Why is this a valuable Sprint?
+* [*] C. What do you think can get done before the end of this Sprint?
 * [ ] D. Why were certain Sprint Backlog items not completed in the prior Sprint?
 * [ ] E. When will infrastructure required for deployment will be ready?
 
@@ -38,7 +38,7 @@ According to the Scrum Guide, a Sprint Planning meeting addresses these three qu
 - What can be Done this Sprint?
 - How will the chosen work get done?
 
-Always remember that _why, what and how_ are the questions answered by the end of Sprint Planning.
+Always remember that _why, what and how_ are the questions to be answered before the end of the Sprint Planning event.
 
 --
 

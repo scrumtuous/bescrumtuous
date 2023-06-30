@@ -22,7 +22,7 @@ How can the Scrum Master help the Scrum Team resolve an internal disagreement ab
 * [ ] A. Have the developers consult an external, impartial expert on the topic and agree to go with the external expert's decision.
 * [ ] B. Have the development team argue both sides to the Scrum Master and have the Scrum Master come to a final, impartial decision.
 * [*] C. Use coaching techniques like reflective listening and visualization to help guide the entire development team towards building a consensus.
-* [*] D. Teach the development team about collaboriate techniques to build consensus, such as actively listening to others.
+* [*] D. Teach the development team about collaboriate techniques to build consensus, such as actively listening to others and paraphrasing contrary positions.
 
 --
 ****
@@ -32,7 +32,7 @@ CD
 
 [#explanation]
 --
-Coaching and teaching are important parts of the Scrum Master's role as a servant-leader.
+Coaching and teaching are important parts of the Scrum Master's role as a leader who serves.
 
 Active listening and open questioning are important skills in effective communication, particularly in Scrum where collaboration and continuous feedback are key. However, there are other techniques and approaches that can also be useful in communication, including:
 
@@ -48,7 +48,11 @@ Visualization: This involves using diagrams, sketches, or other visual aids to h
 
 Silence: Sometimes, allowing a pause in the conversation can give the speaker time to gather their thoughts and provide a more thoughtful response.
 
-While active listening and open questioning are valuable techniques in communication, incorporating these alternatives can help to build trust and improve collaboration in a Scrum team.
+A good Scrum Master will bring all of these coaching and facilitation techniques to their Scrum Teams and empower their teams to use them in order to effectively and independently solve problems and resolve conflicts.
+
+It's not the Scrum Master's job to resolve conflicts or make decisions for the team. Instead, the Scrum Master will coach, facilitate and provide conflict resolution tools to the team so that they can resolve issues internally and on their own.
+
+The Scrum Guide doesn't say the Scrum Master should remove obstacles for the team. Instead, it says the Scrum master should _cause_ the removal of impediments for the team. Coaching and facilitating the Scrum Team is one of the ways they do this.
 
 --
 

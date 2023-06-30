@@ -33,9 +33,9 @@ D
 
 [#explanation]
 --
-There are not subteams, titles or hierarchies on Scrum Teams.
+There are no subteams, titles or hierarchies on Scrum Teams.
 
-All that matters when a group of Scrum developers is assembled is whether they have, or do they have the ability to acquire, the cross-functional skills matrix needed to build the product under development and achieve the Product Goal.
+All that matters when a group of Scrum Developers is assembled is whether they have, or do they have the ability to acquire, the cross-functional skills matrix needed to build the product under development and achieve the Product Goal.
 
 From the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal. Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
 --

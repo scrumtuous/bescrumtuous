@@ -21,7 +21,7 @@ What are the two primary responsibilities of a new Product Owner when taking own
 * [ ] B. Describing and fully decomposing product features in Use Case and story form.
 * [ ] C. Providing detailed development specs and guidelines to the development team.
 * [*] D. Interacting with stakeholders to learn how to represent their needs in the Product Backlog.
-* [ ] E. Creating both functional and non-functional tests to validate the Increment meets the definition of Done.
+* [ ] E. Creating both functional and non-functional tests to validate the Increment meets the Definition of Done.
 
 --
 ****

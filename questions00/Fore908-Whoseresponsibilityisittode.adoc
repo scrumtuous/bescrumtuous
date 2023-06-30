@@ -14,16 +14,16 @@ id: 908-63effc019ebbe935e4c16acd.
 --
 The Product Owner often has no idea how complicated or complex a Product Backlog item will be to build.
 
-Whose responsibility is it to decompose long, epic, Product Backlog items into work easily digestible work items that should take a day or less to complete?
+Whose responsibility is it to decompose long, epic, Product Backlog items into easily digestible work items that should take no more than a day to complete?
 --
 
 [#list]
 --
-* [ ] A. The Business Analysts
-* [ ] B. The Product Owner
+* [ ] A. The Business Analysts.
+* [ ] B. The Product Owner.
 * [ ] C. The Scrum Master.
-* [ ] D. The Team Lead
-* [*] E. The Developers on the team
+* [ ] D. The Team Lead.
+* [*] E. The Developers on the team.
 
 --
 ****
@@ -33,13 +33,14 @@ E
 
 [#explanation]
 --
-Breaking Product Backlog Items into smaller work items is the job of the developers on the team.
+Breaking Product Backlog items into smaller work items is the job of the developers on the team.
 
 "For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. 
 
-This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. 
+This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Scrum Developers. 
 
 Noone else tells them how to turn Product Backlog items into Increments of value."
+
 --
 
 [#ka]

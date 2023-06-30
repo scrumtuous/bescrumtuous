@@ -18,10 +18,10 @@ The development team failed to complete all the items in the Sprint Backlog befo
 [#list]
 --
 * [ ] A. The Scrum Master extends future Sprints by the amount of time it would have required to complete all Sprint Backlog items.
-* [*] B. The length of the Sprint remains the same, Sprint Backlog items get returned to the Product Backlog, and the Scrum Team tries to learn and adapt from the experience.
+* [*] B. The length of the Sprint remains the same, selected Sprint Backlog items get returned to the Product Backlog, and the Scrum Team tries to learn and adapt from the experience.
 * [ ] C. The current Sprint is temporarily extended to allow all Sprint Backlog items to be completed. Insight is garnered at the Sprint Retrospective and the team adapts to avoid this situation in the future.
-* [ ] D. There should be one Product Backlog shared across all teams.
-* [ ] E. There should be five Product Owners, with each one 100% dedicated to their team.
+* [ ] D. The Sprint Review is postponed until all selected Sprint Backlog items are completed.
+
 
 --
 ****
@@ -31,11 +31,13 @@ B
 
 [#explanation]
 --
-There is no changing the Sprint length. 
+There is no changing the Sprint length during an active Sprint.
 
-It's not uncommon for some Sprint Backlog items to go uncompleted. They just go back into the Product Backlog.
+During the Sprint Retrospective, a Scrum Team can discuss the Sprint length and possibly adjust the length of future Sprints, but the length of an active Sprint is fixed and cannot be changed. Sprint Reviews and Sprint Restrospectives will occur at their scheduled time and place.
 
-The team should discuss why their estimates were off during the Sprint Retrospective. The Scrum Team should turn the situation into a learning experience and adapt accordingly.
+It's not uncommon for some Sprint Backlog items to go uncompleted during a Sprint. When that happens, they just go back into the Product Backlog.
+
+The team can always discuss why their estimates were off, or why they couldn't complete as many PBIs as they wanted to during the Sprint Retrospective. The Scrum Team should turn the situation into a learning experience and adapt accordingly. That's what Scrum is all about!
 
 --
 

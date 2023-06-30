@@ -20,7 +20,7 @@ Which of the following actions should the Scrum Master never do?
 * [*] A. Tell the Scrum Developers how to manage their workloads.
 * [*] B. Extend the length of the Sprint.
 * [*] C. End the Sprint early.
-* [ ] D. Coach the Development Team to ensure the Daily Scrum is time-boxed to 15 minutes.
+* [ ] D. Coach the Development Team to ensure the Daily Scrum is timeboxed to 15 minutes.
 * [*] E. Reprimand developers who underperform.
 --
 ****

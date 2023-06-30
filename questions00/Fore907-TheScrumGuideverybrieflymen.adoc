@@ -21,7 +21,7 @@ What does a trend line displayed on a burndown chart indicate about the team's p
 --
 * [ ] A. How quickly the team is 'burning through' money budgeted for the project.
 * [ ] B. How quickly other Scrum teams on the same project are 'burning through' Product Backlog items compared to your team.
-* [*] C. The amount of work remaining plotted against time, which shows shows when the project will finish if nothing changes with the Product Owner, Product Backlog items or the development team.
+* [*] C. The amount of work remaining plotted against time, which predicts when the project will finish if nothing changes with the Product Owner, Product Backlog items or the development team.
 * [ ] D. How quickly the project will be completed if Product Backlog items are slowly removed by the Product Owner.
 
 --
@@ -32,16 +32,15 @@ C
 
 [#explanation]
 --
-Don't worry too much about burn-down charts, as they are only briefly mentioned in the Scrum Guide. But they are used quite a bit by teams who use tools like JIRA for Scrum management.
+Don't worry too much about burn-down charts, as they are only briefly mentioned in the Scrum Guide.
 
 "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While
 proven useful, these do not replace the importance of empiricism." - The Scrum Guide.
 
-A trend line displayed on a release burndown chart indicates the progress of a project over time. The release burndown chart is a visual representation of the amount of work remaining to complete a project, plotted against time. The trend line is a line that is fitted to the actual data points on the chart, and it represents the expected progress of the project if it were to continue at the same rate as it has been progressing up to that point in time.
+A trend line displayed on a release burndown chart indicates the progress of a project over time. The release burndown chart is a visual representation of the amount of work remaining to complete a project, plotted against time. The generated trend line represents the expected progress of the project if it were to continue at the same rate as it has been progressing up to that point in time.
 
-If the trend line is sloping downwards, it indicates that the project is progressing at a rate that is consistent with the plan, and the work is being completed on schedule. If the trend line is sloping upwards, it indicates that the project is falling behind schedule, and the work is not being completed at the expected rate.
+It is important to note that the trend line is a projection based on past performance, and it may not accurately predict the future progress of the project. It is a predictor, but it is not an _empirical_ measure. Empirical measures are preferred in Scrum.
 
-It is important to note that the trend line is a projection based on past performance, and it may not accurately predict the future progress of the project. It is a predictor, but it is not an empirical measure. Therefore, it is important to regularly review and update the release burndown chart to ensure that the project is on track to meet its goals.
 --
 
 [#ka]

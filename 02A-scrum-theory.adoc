@@ -227,10 +227,10 @@ This statement is the source of the most commonly asked trick questions on the S
 
 - Which events happen after the Sprint finishes?
 - Which events happen before a Sprint begins?
-- When a Sprint ends, when does the next Sprint begin? (((sprint))) (((time-box)))
+- When a Sprint ends, when does the next Sprint begin? (((sprint))) (((timebox)))
 
 
-Scrum has four time-boxed events that happen within a fifth Scrum event known as a Sprint. Sprint Planning, the Daily Scrum, the Sprint Review, and the Sprint Retrospective all happen within the confines of a Sprint.
+Scrum has four timeboxed events that happen within a fifth Scrum event known as a Sprint. Sprint Planning, the Daily Scrum, the Sprint Review, and the Sprint Retrospective all happen within the confines of a Sprint.
 
 - None of the Scrum events happen after a Sprint
 - None of the Scrum events happen before a Sprint.

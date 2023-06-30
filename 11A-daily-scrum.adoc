@@ -37,7 +37,7 @@ If things are going sideways, the developers adapt. If things are going better t
 
 The goal of the Daily Scrum is for developers to talk, discuss progress, and quickly solve any problems that have arisen since they last spoke.
 
-The Daily Scrum is time-boxed to 15 minutes. 
+The Daily Scrum is timeboxed to 15 minutes. 
 
 
 .The Daily Scrum takes place on every workday during the Sprint.
@@ -267,7 +267,7 @@ If a team of construction workers was putting up a roof, and a wind gust blew al
 
 Developers can meet with each other any time they like. They can schedule additional meetings as a group. They can meet one-on-one at each other's desks. They can have dinner together after work.
 
-There's nothing in the Scrum Guide that restricts communication between developers, stakeholders, Product Owners, Scrum Masters, or anyone else. The only thing the Scrum Guide recommends is a few time-boxed events that guarantee opportunities for communication, transparency, and adaptation to take place.
+There's nothing in the Scrum Guide that restricts communication between developers, stakeholders, Product Owners, Scrum Masters, or anyone else. The only thing the Scrum Guide recommends is a few timeboxed events that guarantee opportunities for communication, transparency, and adaptation to take place.
 
 ==== Test Yourself
 

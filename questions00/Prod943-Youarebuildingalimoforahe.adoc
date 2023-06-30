@@ -37,7 +37,7 @@ We don't outsource work in Scrum, nor do we create sub-teams.
 
 From the Scrum Guide: "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
 
-In Scrum, we deal with non-functional requirements by either adding Product Backlog Items that address these concerns, or we add non-functional criteria to the Definition of Done.
+In Scrum, we deal with non-functional requirements by either adding Product Backlog items that address these concerns, or we add non-functional criteria to the Definition of Done.
 --
 
 [#ka]

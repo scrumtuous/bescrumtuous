@@ -40,6 +40,14 @@ What happens to definition of done over time?
 
 
 
+What happens before a Sprint?
+
+Planning no
+Scrum Master helps
+Definition of Done
+Product Goal
+Definition of Ready
+
 
 
 

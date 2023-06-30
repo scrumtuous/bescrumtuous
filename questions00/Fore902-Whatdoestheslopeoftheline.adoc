@@ -18,9 +18,9 @@ What does the slope of the line in a burndown chart demonstrate?
 [#list]
 --
 * [ ] A. The percentage of the budget consumed by the project over time.
-* [ ] B. The number of Story Ponts needed per Sprint needed to complete the project on time.
+* [ ] B. The number of Story Ponts needed per Sprint to complete the project on time.
 * [ ] C. Changes in the team's velocity.
-* [*] D. The amout of work has been completed compared to how much work needs to get done.
+* [*] D. The amout of work that has been completed compared to how much more work needs to get done.
 
 --
 ****
@@ -30,7 +30,11 @@ D
 
 [#explanation]
 --
-A trend line through a release burndown chart indicates how fast work is being completed relative to the original plan, and can help visualize progress toward completion of the component being graphed, be it a Sprint or a decomposed Product Backlog item.
+A trend line of a release burndown chart indicates how fast work is being completed relative to the original plan, and can help visualize progress toward completion of the component being graphed, be it a Sprint or a decomposed Product Backlog item.
+
+"A burn down chart enables the team to visualize the progress on a project. A burn down chart includes work remaining on the Y axis against a timeline of the project on the X axis. Depending on the project, these charts can measure work as user stories, tasks, backlogs or other metrics."
+
+- Project Management Tools, TechTarget, Jan 2020. M. Courtemanche.
 
 The Scrum Guide only makes a short reference to burndown charts, and even then, it says they are not a replacement for empiricism.
 

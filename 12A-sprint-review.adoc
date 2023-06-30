@@ -111,13 +111,13 @@ The Sprint Review helps create transparency, is an opportunity for inspection, a
 
 [quote, 2020 Scrum Guide page 9]
 ____
-The Sprint Review is the second to last event of the Sprint and is time-boxed to a maximum of four hours for a one-month Sprint. 
+The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. 
 
 For shorter Sprints, the event is usually shorter.
 ____
 
 
-You are guaranteed to get questions about the timebox length of every event on the Scrum Master certification exam. Remember that the Sprint Review is time-boxed to a maximum of 4 hours.
+You are guaranteed to get questions about the timebox length of every event on the Scrum Master certification exam. Remember that the Sprint Review is timeboxed to a maximum of 4 hours.
 
 <<<
 
@@ -125,7 +125,7 @@ You are guaranteed to get questions about the timebox length of every event on t
 ==== Test Yourself
 
 ****
-Which of the following Scrum events are time-boxed to 4 hours? (Choose 1)
+Which of the following Scrum events are timeboxed to 4 hours? (Choose 1)
 
 * [ ] A) The Sprint Review only
 * [ ] B) The Sprint Retrospective only
@@ -135,7 +135,7 @@ Which of the following Scrum events are time-boxed to 4 hours? (Choose 1)
 
 ****
 
-Option A is correct. Only the Sprint Review is time-boxed to 4 hours. 
+Option A is correct. Only the Sprint Review is timeboxed to 4 hours. 
 
 The Sprint Retrospective is 3 hours. The Sprint Planning event is capped at 8 hours, and the Daily Scrum is 15 minutes.
 

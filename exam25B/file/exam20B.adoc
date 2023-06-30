@@ -12,9 +12,9 @@ image::images/exam-sitting.jpg[""]
 ==== Question 1
 
 --
-The Sprint Planning meeting is one of Scrum's time-boxed events.
+The Sprint Planning meeting is one of Scrum's timeboxed events.
 
-What is the time-box for the Sprint Planning meeting?
+What is the timebox for the Sprint Planning meeting?
 (Choose 1)
 --
 
@@ -480,9 +480,9 @@ You have just acquired a new company, and two of their Scrum teams will be added
 
 [#query]
 --
-The Sprint Planning meeting is one of Scrum's time-boxed events.
+The Sprint Planning meeting is one of Scrum's timeboxed events.
 
-What is the time-box for the Sprint Planning meeting?
+What is the timebox for the Sprint Planning meeting?
 --
 
 [#list]
@@ -501,7 +501,7 @@ The correct answer is D.
 
 [#explanation]
 --
-According to the Scrum Guide, "Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+According to the Scrum Guide, "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 --
 
 

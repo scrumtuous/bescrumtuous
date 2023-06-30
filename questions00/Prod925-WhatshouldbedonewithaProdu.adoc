@@ -38,7 +38,7 @@ If a PBI is not completed, it definitely should not be added to the Increment. T
 
 The Product Backlog is the ordered list of features, requirements, and other work items that the development team plans to complete over the course of the project. During each Sprint, the team selects a subset of items from the Product Backlog to work on, creating a Sprint Backlog.
 
-One of the key principles of Scrum is that the team commits to completing the work it selects for the Sprint Backlog within the Sprint. However, if any Product Backlog items are not completed by the end of the Sprint, they are not automatically added to the next Sprint Backlog. Instead, they are returned to the Product Backlog for reprioritization and consideration for future Sprints.
+One of the key principles of Scrum is that the team commits to completing the work it selects for the Sprint Backlog within the Sprint. However, if any Product Backlog items are not completed by the end of the Sprint, they are not automatically added to the next Sprint Backlog. Instead, they are returned to the Product Backlog for reordering and consideration for future Sprints.
 
 --
 

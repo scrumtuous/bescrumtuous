@@ -12,7 +12,7 @@ id: 852-63effa599ebbe935e4c16a95.
 
 [#query]
 --
-Which of the following Scrum events are time-boxed to limit the amount of time spent on them?
+Which of the following Scrum events are timeboxed to limit the amount of time spent on them?
 --
 
 [#list]
@@ -33,11 +33,11 @@ CDG
 
 [#explanation]
 --
-The Sprint Retrospective is a time-boxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. The Sprint Retrospective is time-boxed to a maximum of 3 hours.
+The Sprint Retrospective is a timeboxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. The Sprint Retrospective is timeboxed to a maximum of 3 hours.
 
-Sprint Planning is also time-boxed and occurs at the beginning of each Sprint, allowing the team to plan and prioritize their work for the upcoming Sprint. Sprint Planning is time-boxed to a maximum of 8 hours.
+Sprint Planning is also timeboxed and occurs at the beginning of each Sprint, allowing the team to plan and prioritize their work for the upcoming Sprint. Sprint Planning is timeboxed to a maximum of 8 hours.
 
-The Daily Scrum is another time-boxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day. The Daily Scrum is time-boxed to a maximum of 15 minutes.
+The Daily Scrum is another timeboxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day. The Daily Scrum is timeboxed to a maximum of 15 minutes.
 
 The Sprint Review is also timeboxed to a maximum of 4 hours, although the Sprint Review was not mentioned in this question.
 

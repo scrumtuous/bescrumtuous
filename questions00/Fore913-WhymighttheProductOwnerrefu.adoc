@@ -19,7 +19,7 @@ Why might a Product Owner refuse to immediately release an Increment into produc
 [#list]
 --
 * [ ] A. Increments are automatically released into production so it is not possible to refuse a release.
-* [ ] B. The Product Owner needs confirmation from the Scrum Master in order to release an increment into production.
+* [ ] B. The Product Owner needs confirmation from the Scrum Master in order to release an Increment into production.
 * [*] C. The immediate timing of the release does not make sense for customers or stakeholders.
 * [ ] D. The Product Owner never refuses to release an Increment into production.
 

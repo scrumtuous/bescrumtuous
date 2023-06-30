@@ -31,7 +31,7 @@ ADE
 
 [#explanation]
 --
-An Increment must be both valuable, usable, additive and compatible with all past increments.
+An Increment must be valuable, usable, additive and compatible with all past increments.
 --
 
 [#ka]

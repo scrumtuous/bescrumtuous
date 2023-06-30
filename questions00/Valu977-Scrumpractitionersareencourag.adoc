@@ -37,7 +37,7 @@ This is also a recognition of the fact that things can change quickly, especiall
 
 By not looking beyond the current Sprint, the development team is able to maintain  focus and avoid getting distracted by future work that may not be relevant or may change over time. This helps the team to remain agile and respond quickly to changes in the market or in customer needs, since they are not locked into a fixed plan that may become obsolete.
 
-Moreover, the Scrum framework provides regular opportunities to inspect and adapt the work done in the current Sprint, and adjust the backlog accordingly. This allows the team to constantly improve the product and respond to feedback from stakeholders.
+Moreover, the Scrum framework provides regular opportunities to inspect and adapt the work done in the current Sprint and adjust the backlog accordingly. This allows the team to constantly improve the product and respond to feedback from stakeholders.
 
 --
 

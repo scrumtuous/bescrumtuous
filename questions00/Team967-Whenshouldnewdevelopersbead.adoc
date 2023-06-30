@@ -19,7 +19,7 @@ When should new developers be added to a Scrum team?
 --
 * [ ] A. During Sprint Zero the team size should be set for the duration of the project.
 * [ ] B. After the current Sprint ends but before the next Sprint begins.
-* [*] C. When hiring a new developer will help development continue at a sustainable pace.
+* [*] C. When adding a new developer will help development continue at a sustainable pace.
 * [ ] D. When the Project Manager provides enough budget money for a new developer.
 
 --
@@ -32,7 +32,7 @@ C
 --
 A new developer can be added to a project at any point in time. There is no rule barring a developer from joining a Scrum team during Sprint Planning, the Sprint Retrospective or even half-way through a Sprint.
 
-Sustainable development is an important Agile principle. Developers should always be challenged and motivated, but they should never be overworked. If a new developer needs to be added to the team to maintain sustainable developer, then add them. 
+Sustainable development is an important Agile principle. Developers should always be challenged and motivated, but they should never be overworked. If a new developer needs to be added to the team to maintain sustainable development, then add them. 
 
 Just keep in mind that onboarding will sometimes reduce the team's productivity in the short-term, as training and orientation for the new hire will likely occupy some of your developer's time.
 --

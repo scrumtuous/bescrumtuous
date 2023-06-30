@@ -13,13 +13,13 @@ id: 906-63effafb9ebbe935e4c16aa8.
 [#query]
 --
 
-What are the skills and capabilities the Developers on the Scrum Team should have in order to ensure effective performance throughout the Sprint?
+What are the skills and capabilities the developers on the Scrum Team should have in order to ensure effective performance throughout the Sprint?
 
 --
 
 [#list]
 --
-* [*] A. The ability to decompose Product Backlog items (PBIs) and progressively create Increments of Work until a functional release is possible.
+* [*] A. The ability to decompose Product Backlog items (PBIs) and progressively create Increments of work until a functional release is possible.
 * [ ] B. The ability to perform all of the core software development work, with the exception of any specialized testing that would require additional tools and staging environments.
 * [ ] C. The ability to complete a development project within budget and within the timeline agreed upon with the Product Owner.
 * [ ] D. The ability to take direction from the Scrum Master and complete Product Backlog items assigned to them by the Product Owner.
@@ -32,19 +32,19 @@ A
 
 [#explanation]
 --
-The Scrum Development team must be able to decompose a PBI and create as many Increments of Work that are necessary to complete the PBI and make the item ready for release.
+The Scrum Developers must be able to decompose a PBI and create as many Increments of work that are necessary to complete the PBI and make the item ready for potential release.
 
-A Product Backlog Item (PBI) is often very _high-level_ description of a feature or a function. The Product Owner will know what they want, but they won't always know how to 'get there.' 
+A Product Backlog item (PBI) is often a very _high-level_ description of a feature or a function. The Product Owner will know what they want, but they won't always know how to 'get there' or describe it in sufficient detail for the to fully understand what is needed. This requires the developers to work with the Product Owner to decompose the Product Backlog item into smaller, constituent parts that are easier to estimate, plan and build.
 
 For example, maybe a Product Owner wants to build a house. They are unlikely to have anything in the Product Backlog about pouring a foundation or connecting to the main sewage line. Those are details the Scrum Developers will have to flush out as they decompose the Product Backlog items.
 
-Decomposing a PBI means breaking it down into smaller, more manageable pieces of work that can be completed by the Scrum development team during a Sprint. The goal is to decompose Product Backlog items down into units of work that can be accomplished in a single day.
+Decomposing a PBI means breaking it down into smaller, more manageable pieces of work that can be completed by the Scrum Developers during a Sprint. The goal is to decompose Product Backlog items down into units of work that can be completed in a single day.
 
-The process of decomposing a PBI involves analyzing it in more detail, identifying the sub-tasks, dependencies, and other factors involved, and then creating smaller Product Baclkog items that can be individually prioritized, estimated, and worked on by the team. This allows the team to better understand the requirements of the PBI and the work involved, which in turn helps with planning and delivering the work effectively.
+The process of decomposing a PBI involves analyzing it in more detail, identifying sub-tasks, dependencies and other factors involved, and then creating smaller Product Baclkog items that can be individually prioritized, estimated, and worked on by the team. This allows the team to better understand the requirements of the PBI and the work involved, which in turn helps with planning and delivering the work effectively.
 
-Decomposition is an ongoing process throughout the Scrum framework. 
+Decomposition is an ongoing process that takes place throughout every Sprint. 
 
-As the team progresses through the Sprint, they may discover additional details or dependencies that require further decomposition of Product Baclkog items, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing Product Baclkog items, the team can ensure they have a clear understanding of the work involved and can prioritize, estimate, and deliver the product backlog items more effectively.
+As the team progresses through the Sprint, they may discover additional details or dependencies that require further decomposition of Product Baclkog items, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing Product Baclkog items, the team can ensure they have a clear understanding of the work involved, which helps the team prioritize, estimate, and deliver Product Backlog items more transparently.
 
 --
 
