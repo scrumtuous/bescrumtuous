@@ -12,9 +12,7 @@ I often hear people say they hate Scrum because it's too complicated, but I just
 
 That's it. That's the basics of Scrum right there.
 
-I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable, and pretty straightforward to me.
-
-And it all starts with Sprint Planning.
+I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable, and pretty straightforward to me, and it all starts with Sprint Planning.
 
 
 .Sprint Planning is the first of the four Scrum events that take place within a Sprint.
@@ -107,13 +105,6 @@ This is false. It's the _Product Owner_ who ensures attendees are prepared to di
 Don't over-assign responsibilities to the Scrum Master. The name 'Scrum Master' is deceptively authoritative. The reality is, the Scrum Master has very few powers on the Scrum Team outside of coaching people on how to implement Scrum effectively.
 
 The Product Owner owns the Product Backlog. Duties related to the Product Backlog typically fall in the Product Owner's lap.
-
-
-
-
-
-
- 
 
 === Answering Why, What, and How
 
@@ -360,9 +351,7 @@ Conversations between the Product Owner, the developers, the Scrum Master, and t
 
 [quote, 2020 Scrum Guide page 8]
 ____
-Selecting how much can be completed within a Sprint may be challenging. 
-
-However, the more the Developers know about:
+Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about:
 
 - their past performance, 
 - their upcoming capacity, and;
@@ -371,9 +360,7 @@ However, the more the Developers know about:
 the more confident they will be in their Sprint forecasts.
 ____
 
-According to the Scrum Guide, it's the Scrum Developers who are expected to estimate how much can be done in a Sprint.
-
-It is up to the Scrum Developers to know about their capacity, past performance, and ability to follow through on the Definition of Done to estimate how much work they can accomplish.
+According to the Scrum Guide, it's the Scrum Developers who are expected to estimate how much can be done in a Sprint. It's up to the Scrum Developers to know about their capacity, past performance, and ability to follow through on the Definition of Done to estimate how much work they can accomplish.
 
 This makes sense. After all, it is the developers who choose the PBIs they plan to implement in the Sprint. If they were unable to estimate their work capacity, they wouldn't know how many Product Backlog items to choose.
 
@@ -388,7 +375,6 @@ Who estimates how much work can be accomplished in a Sprint? (Choose 1)
 * [ ] B) The Product Owner
 * [ ] C) The Scrum Developers
 * [ ] D) The Scrum Team as a whole
-* [ ] E) The Scrum Team and stakeholders
 
 ****
 
@@ -409,8 +395,9 @@ For each selected Product Backlog item, the Developers plan the work necessary t
 
 This is often done by decomposing Product Backlog items into smaller work items of one day or less. 
 How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.
-
 ____
+
+=== Product Backlog Decomposition
 
 A Product Backlog item may take months to complete.
 
@@ -420,11 +407,11 @@ The goal of decomposition is to break each Product Backlog item down into a seri
 
 === No Points or User Stories in Scrum
 
-Note that the Scrum Guide never talks about _points_ or _user stories._
+Note that the Scrum Guide never talks about _points_ or _user stories._ It never uses the term _epic_ either, which is a term commonly thrown around by Agile teams to describe a really big Product Backlog item that might take multiple Sprints to complete.
 
 Quite often you will see a question on the Scrum Master certification exam where one of the answers talks about breaking user stories down into a certain number of points. Those answers are always wrong.
 
-That's not to say Scrum Teams can't use points or user stories if they find them helpful. It's just that they're not discussed in the Scrum Guide and are not a part of the Scrum Framework. 
+That's not to say Scrum Teams can't use points or user stories if they find them helpful. It's just that they're not discussed in the Scrum Guide and are not a part of the Scrum framework. 
 
 The Scrum Master certification exam is testing you on Scrum, not peripheral processes and methodologies people sometimes integrate into Scrum.
 
@@ -448,9 +435,7 @@ The term 'user story' is never mentioned once in the Scrum Guide. Neither is 'po
 
 Given an epic Product Backlog item, the Scrum Developers should try to decompose it into multiple, smaller work items that will take a day or less for a developer to complete.
 
-
-
-'''
+<<<
 
 === The Outcome of Sprint Planning
 
@@ -497,7 +482,7 @@ Option D is correct.
 
 The Sprint Goal helps to build transparency into the development process by allowing stakeholders to know what the team is trying to achieve during the current Sprint.
 
-'''
+<<<
 
 
 
