@@ -194,13 +194,13 @@ image::images/lightweightx-00bw.jpg["Credit MidJourneyAI"]
 
 === The Definition of Scrum 
 
-Whoever crafted that definition tried to make it as general and all-encompassing as possible, almost to the point where the definition doesn't provide much value. (((complex problems)))
+Whoever crafted that definition tried to make it as general and all-encompassing as possible, almost to the point where the definition doesn't provide much insight. (((complex problems)))
 
 - The term 'generate value' is very generic
 - The term 'complex problems' could apply to anything
 - The term 'adaptive solutions' sounds like marketing gibberish
 
-But this is the definition we have, and this is the definition you will be tested on.
+But this is the definition we have, and this is the definition you will be tested on, so commit to it.
 
 ==== The Words Not Spoken 
 
@@ -286,7 +286,7 @@ Scrum is a "lightweight framework that helps people, teams, and organizations ge
 
 image::images/scrum-incomplete.jpg["Scrum is an incomplete framework."]
 
-=== Why is a Scrum Master required? 
+=== Scrum and the Scrum Master
 
 Here's the Scrum Guide's high-level overview of how Scrum is supposed to work, along with a quick note about the role the Scrum Master plays in keeping Scrum working. (((iterative))) (((incremental)))
 
@@ -303,13 +303,13 @@ ____
 
 === Don't Overstate the Role of the Scrum Master
 
-The name 'Scrum Master' sounds intimidating.
+The name 'Scrum Master' sounds intimidating and authoritative.
 
 People think that since the term 'master' is in the name, the Scrum Master controls everything.
 
 They don't. The Scrum Master controls very little. In fact, the word 'control' is antithetical to what the Scrum Master is all about.
 
-The Scrum Master's only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where this iterative set of steps is performed.
+The Scrum Master's only real job is to coach people on how Scrum works, or as this paragraph states, 'foster an environment' where Scrum's iterative set of steps are performed.
 
 
 
